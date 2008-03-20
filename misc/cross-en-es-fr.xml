@@ -1,4 +1,4 @@
-<!--
+﻿<!--
 <!DOCTYPE cross-model SYSTEM "crossmodel.dtd">
 -->
 <cross-model>
@@ -13,8 +13,8 @@
             </e>
             <e>
                 <p>
-                    <l>$lemmaB<s n="np"/><t n="cola2"/></l>
-                    <r>$lemmaC<s n="np"/><t n="cola3"/></r>
+                    <l>$lemmaC<s n="np"/><t n="cola2"/></l>
+                    <r>$lemmaB<s n="np"/><t n="cola3"/></r>
                 </p>
             </e>
         </pattern>
@@ -41,8 +41,8 @@
             </e>
             <e>
                 <p>
-                    <l>$lemmaB<s n="adj"/><s n="*"/></l>
-                    <r>$lemmaC<s n="adj"/><t n="cola2"/></r>
+                    <l>$lemmaC<s n="adj"/><s n="*"/></l>
+                    <r>$lemmaB<s n="adj"/><t n="cola2"/></r>
                 </p>
             </e>
         </pattern>
@@ -70,8 +70,8 @@
             </e>
             <e>
                 <p>
-                    <l>$lemmaB<s n="adj"/><s n="mf"/><t n="cola2"/></l>
-                    <r>$lemmaC<s n="adj"/><t n="cola3"/></r>
+                    <l>$lemmaC<s n="adj"/><s n="mf"/><t n="cola2"/></l>
+                    <r>$lemmaB<s n="adj"/><t n="cola3"/></r>
                 </p>
             </e>
         </pattern>
@@ -98,8 +98,8 @@
             </e>
             <e>
                 <p>
-                    <l>$lemmaB<s n="n"/><s n="*"/></l>
-                    <r>$lemmaC<s n="n"/><t n="cola2"/></r>
+                    <l>$lemmaC<s n="n"/><s n="*"/></l>
+                    <r>$lemmaB<s n="n"/><t n="cola2"/></r>
                 </p>
             </e>
         </pattern>
@@ -134,8 +134,8 @@
             </e>
             <e>
                 <p>
-                    <l>$lemmaB<s n="n"/><s n="*"/></l>
-                    <r>$lemmaC<s n="n"/><t n="cola2"/></r>
+                    <l>$lemmaC<s n="n"/><s n="*"/></l>
+                    <r>$lemmaB<s n="n"/><t n="cola2"/></r>
                 </p>
             </e>
         </pattern>
@@ -162,8 +162,8 @@
             </e>
             <e>
                 <p>
-                    <l>$lemmaB<s n="n"/><s n="*"/></l>
-                    <r>$lemmaC<s n="n"/><t n="cola2"/></r>
+                    <l>$lemmaC<s n="n"/><s n="*"/></l>
+                    <r>$lemmaB<s n="n"/><t n="cola2"/></r>
                 </p>
             </e>
         </pattern>
@@ -190,8 +190,8 @@
             </e>
             <e>
                 <p>
-                    <l>$lemmaB<s n="n"/><s n="*"/></l>
-                    <r>$lemmaC<s n="n"/><t n="cola2"/></r>
+                    <l>$lemmaC<s n="n"/><s n="*"/></l>
+                    <r>$lemmaB<s n="n"/><t n="cola2"/></r>
                 </p>
             </e>
         </pattern>
@@ -218,8 +218,8 @@
             </e>
             <e>
                 <p>
-                    <l>$lemmaB<s n="n"/><s n="*"/></l>
-                    <r>$lemmaC<s n="n"/><t n="cola2"/></r>
+                    <l>$lemmaC<s n="n"/><s n="*"/></l>
+                    <r>$lemmaB<s n="n"/><t n="cola2"/></r>
                 </p>
             </e>
         </pattern>
@@ -247,8 +247,8 @@
             </e>
             <e>
                 <p>
-                    <l>$lemmaB<v n="cat"/><s n="*"/></l>
-                    <r>$lemmaC<v n="cat"/><t n="cola2"/></r>
+                    <l>$lemmaC<v n="cat"/><s n="*"/></l>
+                    <r>$lemmaB<v n="cat"/><t n="cola2"/></r>
                 </p>
             </e>
         </pattern>

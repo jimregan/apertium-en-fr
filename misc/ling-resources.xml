@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <!--
     Document   : ling-resources.xml
@@ -13,40 +13,28 @@
    <description>My linguistics resources: morphological and bilingual dictionaries, cross models, corpora, etc.</description>
    
    <resource-set>
-      <name>My linguistic resources to get English-Spanish language pair.</name>
-      <description>Linguistic resources that I use to cross Spanish-Catalan and English-Catalan language pairs in order to get English-Spanish</description>
-      <!-- cross model en-ca-es -->
+      <name>My linguistic resources to get English-French language pair.</name>
+      <description>Linguistic resources that I use to cross English-Spanish and French-Spanish language pairs in order to get English-French</description>
+      <!-- cross model en-es-fr -->
       <resource>
-         <property name="name" value="cross-model-en-ca-es"/>
+         <property name="name" value="cross-en-es-fr"/>
          <property name="type" value="cross-model"/>
          <property name="sl" value="en"/>
-         <property name="tl" value="es"/>      
+         <property name="tl" value="fr"/>
          <property name="for-crossing" value="yes"/>
          <property 
-            name="src" value="cross-model-es-ca-en.xml"/>
-         <property name="version" value="stable"/>
+            name="src" value="cross-en-es-fr.xml"/>
+         <property name="version" value="unstable"/>
       </resource>
-      
-      <!-- cross model es-ca-en -->
-      <resource>
-         <property name="name" value="cross-model-es-ca-en"/>
-         <property name="type" value="cross-model"/>
-         <property name="sl" value="es"/>
-         <property name="tl" value="en"/>      
-         <property name="for-crossing" value="yes"/>
-         <property 
-            name="src" value="cross-model-es-ca-en.xml"/>
-         <property name="version" value="stable"/>
-      </resource>
-      
+           
       <!-- 'es' morphological dictionary -->
       <resource>
-         <property name="name" value="apertium-es"/>
+         <property name="name" value="apertium-fr"/>
          <property name="type" value="mon"/>
          <property name="sl" value="es"/>
          <property name="for-crossing" value="yes"/>
          <property 
-            name="src" value="http://apertium.svn.sourceforge.net/viewvc/*checkout*/apertium/trunk/apertium-es-ca/apertium-es-ca.es.dix"/>
+            name="src" value="../apertium-en-fr.fr.metadix"/>
          <property name="version" value="stable"/>
       </resource>
       
@@ -57,19 +45,19 @@
          <property name="sl" value="en"/>
          <property name="for-crossing" value="yes"/>
          <property 
-            name="src" value="http://apertium.svn.sourceforge.net/viewvc/*checkout*/apertium/trunk/apertium-en-ca/apertium-en-ca.en.metadix"/>
+            name="src" value="../apertium-en-fr.en.metadix"/>
          <property name="version" value="stable"/>
       </resource>
       
       <!-- 'en-ca' bilingual dictionary -->   
       <resource>
-         <property name="name" value="apertium-en-ca"/>
+         <property name="name" value="apertium-en-es"/>
          <property name="type" value="bil"/>
          <property name="sl" value="en"/>
          <property name="tl" value="ca"/>
          <property name="for-crossing" value="yes"/>
          <property 
-            name="src" value="http://apertium.svn.sourceforge.net/viewvc/*checkout*/apertium/trunk/apertium-en-ca/apertium-en-ca.en-ca.dix"/>
+            name="src" value="../../apertium-en-es/en-es-dic/apertium-en-es.en-es.dix.xml"/>
          <property name="version" value="stable"/>
       </resource>
       
@@ -81,26 +69,10 @@
          <property name="tl" value="ca"/>
          <property name="for-crossing" value="yes"/>
          <property 
-            name="src" value="http://apertium.svn.sourceforge.net/viewvc/*checkout*/apertium/trunk/apertium-es-ca/apertium-es-ca.es-ca.dix"/>
+            name="src" value="../../apertium-fr-es/apertium-fr-es.fr-es.dix"/>
          <property name="version" value="stable"/>
       </resource>
    </resource-set>
-   
-   <!-- Single corpus file -->
-   <resource>
-      <property name="name" value="corpus-es"/>
-      <property name="type" value="corpus"/>
-      <property name="sl" value="es"/>
       
-      <property name="src" value="corpus-es.crp"/>        
-   </resource>
-   
-   <!-- Repository -->
-   <resource>
-      <property name="name" value=""/>
-      <property name="type" value="repository"/>
-      <property name="src" value="other-ling-resources.xml"/>        
-   </resource>
-   
 </ling-resources>
 
