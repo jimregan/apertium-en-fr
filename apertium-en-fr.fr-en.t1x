@@ -3590,21 +3590,13 @@
         <out>
           <chunk name="det" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="DET"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="nbr"/>
-              </tag>
-            </tags>
+              <tag><lit-tag v="DET"/></tag>
+              <tag><clip pos="1" side="sl" part="gen"/></tag>
+              <tag><clip pos="1" side="sl" part="nbr"/></tag>
+	          </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_det"/>
-              <clip pos="1" side="tl" part="gen_sense_mf" link-to="2"/>
-              <clip pos="1" side="tl" part="gen_mf"/>
               <clip pos="1" side="tl" part="nbr_sense_sp" link-to="3"/>
               <clip pos="1" side="tl" part="nbr_sp"/>
             </lu>
@@ -3634,24 +3626,12 @@
         <out>
           <chunk name="verb" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SV"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="a_verb"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="temps"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="pers"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="nbr"/>
-              </tag>
-              <tag>
-                <var n="tipusverb"/>
-              </tag>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusverb"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
