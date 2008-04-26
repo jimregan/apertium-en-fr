@@ -2296,7 +2296,7 @@
 	</action>
 </rule>
 
-<rule comment="REGLA: nun nom sur num">
+<rule comment="REGLA: num nom sur num: 3 maisons sur 5 - 3 of 5 houses">
 	<pattern>
 		<pattern-item n="num"/>
 		<pattern-item n="nom"/>
@@ -2316,7 +2316,7 @@
 			<with-param pos="2"/>
 		</call-macro>
 		<out>
-			<chunk name="num_de_cada_num_nom" case="caseFirstWord">
+			<chunk name="num_of_num_nom" case="caseFirstWord">
 				<tags>
 					<tag><lit-tag v="SN"/></tag>
 					<tag><var n="genero"/></tag>
@@ -2326,27 +2326,18 @@
 				<lu>
 					<clip pos="1" side="tl" part="lem"/> 
 					<clip pos="1" side="tl" part="a_num"/>
-					<clip pos="1" side="tl" part="gen_sense_mf" link-to="2"/>
-					<clip pos="1" side="tl" part="gen_mf"/>	 
 					<clip pos="1" side="tl" part="nbr_sense_sp" link-to="3"/>
 					<clip pos="1" side="tl" part="nbr_sp"/>	 
 				</lu>
 				<b pos="1"/>
 				<lu>
-					<lit v="de"/>
+					<lit v="of"/>
 					<lit-tag v="pr"/>
-				</lu>
-				<b/>
-				<lu>
-					<lit v="cada"/>
-					<lit-tag v="det.ind.mf.sg"/>
 				</lu>
 				<b pos="2"/>
 				<lu>
 					<clip pos="4" side="tl" part="lem"/> 
 					<clip pos="4" side="tl" part="a_num"/>
-					<clip pos="4" side="tl" part="gen_sense_mf" link-to="2"/>
-					<clip pos="4" side="tl" part="gen_mf"/>	 
 					<clip pos="4" side="tl" part="nbr_sense_sp" link-to="3"/>
 					<clip pos="4" side="tl" part="nbr_sp"/>	 
 				</lu>
@@ -2354,8 +2345,6 @@
 				<lu>
 					<clip pos="2" side="tl" part="lemh"/> 
 					<clip pos="2" side="tl" part="a_nom"/>
-					<clip pos="2" side="tl" part="gen_sense_mf" link-to="2"/>
-					<clip pos="2" side="tl" part="gen_mf"/>	 
 					<clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
 					<clip pos="2" side="tl" part="nbr_sp"/>	 
 					<clip pos="2" side="tl" part="lemq"/>
