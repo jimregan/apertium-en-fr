@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
-
+<!--
   <mode name="en-fr" install="yes">
     <pipeline>
       <program name="lt-proc">
@@ -40,7 +40,7 @@
       </program>
     </pipeline>
   </mode>
-
+-->
   <mode name="en-fr-tagger">
     <pipeline>
       <program name="lt-proc">
@@ -63,7 +63,7 @@
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
-
+<!--
   <mode name="en-fr-chunker">
     <pipeline>
       <program name="lt-proc">
@@ -154,7 +154,7 @@
       </program>
     </pipeline>
   </mode>
-
+-->
   
   <mode name="fr-en" install="yes">
     <pipeline>
