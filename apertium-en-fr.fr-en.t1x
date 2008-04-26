@@ -2227,8 +2227,8 @@
 					<chunk name="det_num_prep_nom" case="caseFirstWord">
 					<tags>
 						<tag><lit-tag v="SN"/></tag>
-						<tag><var n="genero"/></tag>
-						<tag><var n="numero"/></tag>
+            <tag><clip pos="2" side="sl" part="gen"/></tag>
+            <tag><clip pos="2" side="tl" part="nbr"/></tag>
 						<tag><var n="tipusnom"/></tag>
 					</tags>
 						<lu>
@@ -2240,7 +2240,7 @@
 							</lu>
 							<b pos="2"/>
 							<lu>
-								<lit v="de"/>
+								<lit v="of"/>
 								<lit-tag v="pr"/>
 							</lu>
 							<b/>
@@ -2261,15 +2261,12 @@
 						<chunk name="det_num_nom" case="caseFirstWord">
 						<tags>
 							<tag><lit-tag v="SN"/></tag>
-							<tag><var n="genero"/></tag>
-							<tag><var n="numero"/></tag>
-							<tag><var n="tipusnom"/></tag>
+              <tag><clip pos="2" side="sl" part="gen"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
 						</tags>
 						<lu>
 								<clip pos="1" side="tl" part="lem"/> 
 								<clip pos="1" side="tl" part="a_det"/>
-								<clip pos="1" side="tl" part="gen_sense_mf" link-to="2"/>
-								<clip pos="1" side="tl" part="gen_mf"/>	 
 								<clip pos="1" side="tl" part="nbr_sense_sp" link-to="3"/>
 								<clip pos="1" side="tl" part="nbr_sp"/>	 
 							</lu>
@@ -2277,8 +2274,6 @@
 							<lu>
 								<clip pos="2" side="tl" part="lem"/> 
 								<clip pos="2" side="tl" part="a_num"/>
-								<clip pos="2" side="tl" part="gen_sense_mf" link-to="2"/>
-								<clip pos="2" side="tl" part="gen_mf"/>	 
 								<clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
 								<clip pos="2" side="tl" part="nbr_sp"/>	 
 							</lu>
@@ -2286,8 +2281,6 @@
 							<lu>
 								<clip pos="3" side="tl" part="lemh"/> 
 								<clip pos="3" side="tl" part="a_nom"/>
-								<clip pos="3" side="tl" part="gen_sense_mf" link-to="2"/>
-								<clip pos="3" side="tl" part="gen_mf"/>	 
 								<clip pos="3" side="tl" part="nbr_sense_sp" link-to="3"/>
 								<clip pos="3" side="tl" part="nbr_sp"/>	 
 								<clip pos="3" side="tl" part="lemq"/>
