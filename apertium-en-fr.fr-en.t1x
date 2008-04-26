@@ -3711,7 +3711,7 @@
         </let>
       </action>
     </rule>
-    <rule comment="REGLA: ne VERB plus que (n'est plus que... -&gt; no es más que...)">
+    <rule comment="REGLA: ne VERB plus que (n'est plus que... -&gt; is not more than...)">
       <pattern>
         <pattern-item n="ne"/>
         <pattern-item n="verbpers"/>
@@ -3732,18 +3732,6 @@
           <with-param pos="4"/>
         </call-macro>
         <out>
-          <chunk name="ne" case="caseFirstWord">
-            <tags>
-              <tag>
-                <clip pos="1" side="tl" part="a_adv"/>
-              </tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_adv"/>
-            </lu>
-          </chunk>
-          <b pos="1"/>
           <chunk name="verb">
             <tags>
               <tag><lit-tag v="SV"/></tag>
@@ -3756,22 +3744,30 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_verb"/>
-              <clip pos="2" side="tl" part="temps"/>
-              <clip pos="2" side="tl" part="pers"/>
+              <clip pos="2" side="tl" part="temps" link-to="5"/>
+              <clip pos="2" side="tl" part="pers" link-to="5"/>
               <clip pos="2" side="tl" part="nbr" link-to="5"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
-          <b pos="2"/>
-          <chunk name="adv" case="caseFirstWord">
+          <b pos="1"/>
+          <chunk name="adv">
             <tags>
-              <tag>
-                <clip pos="3" side="tl" part="a_adv"/>
-              </tag>
+              <tag><clip pos="1" side="tl" part="a_adv"/></tag>
             </tags>
             <lu>
-              <clip pos="3" side="tl" part="lem"/>
-              <clip pos="3" side="tl" part="a_adv"/>
+              <lit v="not"/>
+              <lit-tag v="adv"/>
+            </lu>
+          </chunk>
+          <b pos="2"/>
+          <chunk name="adv">
+            <tags>
+              <tag><clip pos="1" side="tl" part="a_adv"/></tag>
+            </tags>
+            <lu>
+              <lit v="more"/>
+              <lit-tag v="adv"/>
             </lu>
           </chunk>
           <b pos="3"/>
@@ -3780,15 +3776,9 @@
               <tag>
                 <lit-tag v="SN"/>
               </tag>
-              <tag>
-                <clip pos="4" side="tl" part="tipus_prn"/>
-              </tag>
-              <tag>
-                <clip pos="4" side="tl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="4" side="tl" part="nbr"/>
-              </tag>
+              <tag><clip pos="4" side="tl" part="tipus_prn"/></tag>
+              <tag><clip pos="4" side="sl" part="gen"/></tag>
+              <tag><clip pos="4" side="sl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="4" side="tl" part="lem"/>
@@ -3819,18 +3809,10 @@
         <out>
           <chunk name="inf" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SV"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="a_verb"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="temps"/>
-              </tag>
-              <tag>
-                <var n="tipusverb"/>
-              </tag>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><var n="tipusverb"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
