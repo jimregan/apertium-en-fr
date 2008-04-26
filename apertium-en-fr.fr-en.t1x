@@ -1313,23 +1313,23 @@
   </def-macro>
 
     
- <def-macro n="f_bcond" npar="2"><!--Per mirar si el blanc cont?o no format. Cal posar aquesta funci?en les regles en qu?desaparegui alguna paraula, per tal de decidir si el blanc de la paraula eliminada s'ha d'eliminar o conservar. Si cont?format cal conservar-la, si no en cont?cal eliminar-la perqu?no apareguin dos espais seguits. -->
-      <choose>
-  <when>
-    <test>
-      <not>
-        <equal>
-    <b pos="1"/>
-    <lit v=" "/>
-        </equal>
-      </not>
-    </test>
-    <out>
-      <b pos="1"/>
-    </out>
-  </when>           
-      </choose>
-    </def-macro>
+  <def-macro n="f_bcond" npar="2"><!--Per mirar si el blanc cont?o no format. Cal posar aquesta funci?en les regles en qu?desaparegui alguna paraula, per tal de decidir si el blanc de la paraula eliminada s'ha d'eliminar o conservar. Si cont?format cal conservar-la, si no en cont?cal eliminar-la perqu?no apareguin dos espais seguits. -->
+    <choose>
+      <when>
+        <test>
+          <not>
+            <equal>
+              <b pos="1"/>
+              <lit v=" "/>
+            </equal>
+          </not>
+        </test>
+        <out>
+          <b pos="1"/>
+        </out>
+      </when>
+    </choose>
+  </def-macro>
 
 
      <def-macro n="f_concord1" npar="1">
