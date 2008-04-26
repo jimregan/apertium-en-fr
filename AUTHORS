@@ -1,2 +1,16 @@
+﻿Files which originated in the apertium-en-ca package:
+(en.tsx, en.metadix, post-en.dix, en-fr.prob)
 (c) 2005--2007, Universitat d'Alacant (Transducens group)
 (c) Universitat Pompeu Fabra
+
+Files which originated in the apertium-fr-es package:
+(fr-en.t1x, fr.metadix, fr.tsx, post-fr.dix, fr-en.prob)
+(c) 2007 Eleka Ingenieritza Linguistikoa S.L.
+    Prompsit Language Engineering S.L.
+    
+Some transfer rules based on the apertium-en-es package:
+(c) 2008, Universitat d'Alacant (Transducens group)
+(c) 2007, Generalitat de Catalunya (dades anglés)
+(c) 2007, Universitat Pompeu Fabra (IULA)
+(c) 2005, Universitat Politècnica de Catalunya
+
