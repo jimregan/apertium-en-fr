@@ -56,14 +56,14 @@
     <def-cat n="enprep">
       <cat-item lemma="en" tags="pr"/>
     </def-cat>
-<def-cat n="aprep">
+    <def-cat n="aprep">
       <cat-item lemma="à" tags="pr"/>
     </def-cat>
-<def-cat n="surprep">
+    <def-cat n="surprep">
       <cat-item lemma="sur" tags="pr"/>
     </def-cat>
 
-<def-cat n="rien">
+    <def-cat n="rien">
       <cat-item lemma="rien" tags="prn.*"/>
     </def-cat>
    
@@ -80,20 +80,20 @@
       <cat-item lemma="vous" tags="prn.*"/>
       <cat-item lemma="on" tags="prn.*"/>
     </def-cat>
-   <def-cat n="prnsubj"><!-- prn no personals que poden ser subjecte-->
+    <def-cat n="prnsubj"><!-- prn no personals que poden ser subjecte-->
       <cat-item lemma="quel" tags="prn.itg.*"/>
       <cat-item lemma="qui" tags="prn.itg.*"/>
       <cat-item lemma="lequel" tags="prn.itg.*"/><!--falta afegir als dicos-->
       <cat-item tags="prn.tn.*"/>
     </def-cat>
- <def-cat n="prnitg">
+    <def-cat n="prnitg">
       <cat-item tags="prn.itg.*"/>
     </def-cat>
-<def-cat n="rel">
+    <def-cat n="rel">
       <cat-item tags="prn.rel.*"/>
-       <cat-item tags="rel.*"/>
+      <cat-item tags="rel.*"/>
     </def-cat>
-     <def-cat n="dont">
+    <def-cat n="dont">
       <cat-item lemma="dont" tags="rel.*"/>
 <!-- això em sembla una errada...      <cat-item lemma="qui" tags="prn.itg.*"/>
       <cat-item lemma="lequel" tags="prn.itg.*"/>
@@ -106,13 +106,13 @@
     <def-cat n="prnpro">
       <cat-item tags="prn.pro.*"/>
     </def-cat>
-   <def-cat n="verb"><!--tots els verbs -->
+    <def-cat n="verb"><!--tots els verbs -->
       <cat-item tags="vblex.*"/>
       <cat-item tags="vbser.*"/>
       <cat-item tags="vbhaver.*"/>
       <cat-item tags="vbmod.*"/>
     </def-cat>
-     <def-cat n="aux"><!--verbs que fan d'aux seguits de pp-->
+    <def-cat n="aux"><!--verbs que fan d'aux seguits de pp-->
       <cat-item tags="vbhaver.*"/>
       <cat-item tags="vbser.*"/>
     </def-cat>
@@ -123,7 +123,7 @@
       <cat-item tags="vbhaver.imp.*"/>
       <cat-item tags="vbmod.imp.*"/>
     </def-cat>
-   <def-cat n="ger">
+    <def-cat n="ger">
       <cat-item tags="vblex.ger"/>
       <cat-item tags="vbser.ger"/>
       <cat-item tags="vbhaver.ger"/>
@@ -144,7 +144,7 @@
     <def-cat n="vbser">
       <cat-item tags="vbser.*"/>
     </def-cat>
-<def-cat n="train">
+    <def-cat n="train">
       <cat-item lemma="train" tags="n.*"/>
     </def-cat>
    
@@ -161,7 +161,7 @@
       <cat-item lemma="caldre" tags="vbmod.*"/>
     </def-cat>
 
-     <def-cat n="aller">
+    <def-cat n="aller">
       <cat-item lemma="aller" tags="vblex.*"/>
     </def-cat>
     <def-cat n="venir">
@@ -180,7 +180,7 @@
       <cat-item tags="vblex.pis.*"/>
       <cat-item tags="vblex.pri.*"/>
       <cat-item tags="vblex.prs.*"/>
-       <cat-item tags="vblex.ppres.*"/>
+      <cat-item tags="vblex.ppres.*"/>
       <cat-item tags="vbser.cni.*"/>
       <cat-item tags="vbser.fti.*"/>
       <cat-item tags="vbser.ifi.*"/>
@@ -210,7 +210,7 @@
       <cat-item tags="vbmod.ppres.*"/>
     </def-cat>
 
-   <def-cat n="auxpers">
+    <def-cat n="auxpers">
       <cat-item tags="vbser.cni.*"/>
       <cat-item tags="vbser.fti.*"/>
       <cat-item tags="vbser.ifi.*"/>
@@ -274,7 +274,7 @@
     <def-cat n="cnjsub">
       <cat-item tags="cnjsub"/>
     </def-cat>
-<def-cat n="cnjadv">
+    <def-cat n="cnjadv">
       <cat-item tags="cnjadv"/>
     </def-cat>
 
@@ -294,7 +294,7 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
-   <def-cat n="coma">
+    <def-cat n="coma">
       <cat-item tags="cm"/>
     </def-cat>
 
@@ -384,12 +384,12 @@
 
     <def-attr n="tipus_prn">
       <attr-item tags="subj"/>
-     <attr-item tags="pro.ref"/>
-     <attr-item tags="rel"/>
+      <attr-item tags="pro.ref"/>
+      <attr-item tags="rel"/>
       <attr-item tags="rel.nn"/>
       <attr-item tags="rel.aa"/>
       <attr-item tags="rel.adv"/>
-    <attr-item tags="rel.adv"/>
+      <attr-item tags="rel.adv"/>
       <attr-item tags="obj"/>
       <attr-item tags="tn"/>
       <attr-item tags="tn.ref"/>
@@ -441,7 +441,7 @@
       <attr-item tags="nt"/>
     </def-attr>
 
-<def-attr n="gen_mf">
+    <def-attr n="gen_mf">
       <attr-item tags="mf"/>
     </def-attr>
 
@@ -451,13 +451,13 @@
       <attr-item tags="sp"/>
       <attr-item tags="ND"/>
     </def-attr>
-  <def-attr n="nbr_sense_sp">
+    <def-attr n="nbr_sense_sp">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
       <attr-item tags="ND"/>
     </def-attr>
 
-   <def-attr n="nbr_sp">
+    <def-attr n="nbr_sp">
       <attr-item tags="sp"/>
     </def-attr>
 
@@ -521,7 +521,7 @@
       <list-item v="université"/>
       <list-item v="hôpital"/>
       <list-item v="hôtel"/>
-  </def-list>
+    </def-list>
 
     <def-list n="part_sing">
       <list-item v="eau"/>
@@ -545,13 +545,13 @@
       <list-item v="venir"/>
        <list-item v="passer"/>
       <list-item v="sortir"/>
-  </def-list>
+    </def-list>
 
     <def-list n="vbcop">
       <list-item v="sembler"/>
-   </def-list>
+    </def-list>
 
-<def-list n="v_amb_en">
+    <def-list n="v_amb_en">
       <list-item v="entrer"/>
       <list-item v="fêter"/>
       <list-item v="célébrer"/>
@@ -560,7 +560,7 @@
       <list-item v="mourir"/>
       <list-item v="naître"/>
       <list-item v="être"/>
-   </def-list>
+    </def-list>
 
     <def-list n="vbambser">
       <list-item v="aller"/>
@@ -593,7 +593,7 @@
       <list-item v="efforcer"/>
       <list-item v="composer"/>
       <list-item v="impliquer"/>
-   </def-list>
+    </def-list>
 
     <def-list n="mois">
       <list-item v="janvier"/>
@@ -614,116 +614,116 @@
 
 
   <section-def-macros>
-<def-macro n="f_lexicadj" npar="1">
-  <choose>
-    <when>
-      <test>
-        <and>
-          <equal caseless="yes">
-            <clip pos="1" side="sl" part="lem"/>
-            <lit v="bon"/>
-          </equal>
-          <equal>
-            <clip pos="1" side="tl" part="gen"/>
-            <lit-tag v="m"/>
-          </equal>
-          <equal>
-            <clip pos="1" side="tl" part="nbr"/>
-            <lit-tag v="sg"/>
-          </equal>
-        </and>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="lem"/>
-        <lit v="buen"/>
-      </let>
-    </when>
-  </choose>
-  <choose>
-    <when>
-      <test>
-        <and>
-          <equal caseless="yes">
-            <clip pos="1" side="sl" part="lem"/>
-            <lit v="grand"/>
-          </equal>
-          <equal>
-            <clip pos="1" side="tl" part="nbr"/>
-            <lit-tag v="sg"/>
-          </equal>
-        </and>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="lem"/>
-        <lit v="gran"/>
-      </let>
-    </when>
-  </choose>
-  <choose>
-    <when>
-      <test>
-        <and>
-          <equal caseless="yes">
-            <clip pos="1" side="sl" part="lem"/>
-            <lit v="premier"/>
-          </equal>
-          <equal>
-            <clip pos="1" side="tl" part="gen"/>
-            <lit-tag v="m"/>
-          </equal>
-          <equal>
-            <clip pos="1" side="tl" part="nbr"/>
-            <lit-tag v="sg"/>
-          </equal>
-        </and>
-      </test>
-      <let>  
-        <clip pos="1" side="tl" part="lem"/>
-        <lit v="primer"/>
-      </let>
-    </when>
-  </choose>
-  <choose>
-    <when>
-      <test>
-        <and>
-          <equal caseless="yes">
-            <clip pos="1" side="sl" part="lem"/>
-            <lit v="mauvais"/>
-          </equal>
-          <equal> 
-            <clip pos="1" side="tl" part="gen"/>
-            <lit-tag v="m"/>
-          </equal>
-        </and>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="lem"/>
-        <lit v="mal"/>
-      </let>
-    </when>
-  </choose>
-  <choose>
-    <when>
-      <test>
-        <and>
-          <equal caseless="yes">
-            <clip pos="1" side="sl" part="lem"/>
-            <lit v="troisième"/>
-          </equal>
-          <equal> 
-            <clip pos="1" side="tl" part="nbr"/>
-            <lit-tag v="sg"/>
-          </equal>
-        </and>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="lem"/>
-        <lit v="tercer"/>
-      </let>
-    </when>
-  </choose>
-</def-macro>
+    <def-macro n="f_lexicadj" npar="1">
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="bon"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="gen"/>
+                <lit-tag v="m"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="sg"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="lem"/>
+            <lit v="buen"/>
+          </let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="grand"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="sg"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="lem"/>
+            <lit v="gran"/>
+          </let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="premier"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="gen"/>
+                <lit-tag v="m"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="sg"/>
+              </equal>
+            </and>
+          </test>
+          <let>  
+            <clip pos="1" side="tl" part="lem"/>
+            <lit v="primer"/>
+          </let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="mauvais"/>
+              </equal>
+              <equal> 
+                <clip pos="1" side="tl" part="gen"/>
+                <lit-tag v="m"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="lem"/>
+            <lit v="mal"/>
+          </let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="troisième"/>
+              </equal>
+              <equal> 
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="sg"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="lem"/>
+            <lit v="tercer"/>
+          </let>
+        </when>
+      </choose>
+    </def-macro>
 
     <def-macro n="verb_ref" npar="2"><!-- aquesta macro canvia el significat de certs verbs reflexius-->
 
