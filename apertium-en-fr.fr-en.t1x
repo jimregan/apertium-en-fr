@@ -16292,24 +16292,15 @@
         <out>
           <chunk name="prnitg" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="tipus_prn"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="tipus_prn"/></tag>
+              <tag><clip pos="1" side="sl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="tipus_prn"/>
-              <clip pos="1" side="tl" part="gen"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
           </chunk>
@@ -16334,24 +16325,15 @@
         <out>
           <chunk name="rel" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="tipus_prn"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="tipus_prn"/></tag>
+              <tag><clip pos="1" side="sl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="tipus_prn"/>
-              <clip pos="1" side="tl" part="gen"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
           </chunk>
@@ -16382,48 +16364,29 @@
         <out>
           <chunk name="rel" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="tipus_prn"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="tipus_prn"/></tag>
+              <tag><clip pos="1" side="sl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="tipus_prn"/>
-              <clip pos="1" side="tl" part="gen"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
           </chunk>
           <b pos="1"/>
           <chunk name="nom">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <var n="genero"/>
-              </tag>
-              <tag>
-                <var n="numero"/>
-              </tag>
-              <tag>
-                <var n="tipusnom"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="genero"/></tag>
+              <tag><var n="numero"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_nom"/>
-              <clip pos="3" side="tl" part="gen_sense_mf" link-to="2"/>
-              <clip pos="3" side="tl" part="gen_mf"/>
               <clip pos="3" side="tl" part="nbr_sense_sp" link-to="3"/>
               <clip pos="3" side="tl" part="nbr_sp"/>
               <clip pos="3" side="tl" part="lemq"/>
@@ -16462,24 +16425,15 @@
         <out>
           <chunk name="rel" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="tipus_prn"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="tipus_prn"/></tag>
+              <tag><clip pos="1" side="sl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="tipus_prn"/>
-              <clip pos="1" side="tl" part="gen"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
           </chunk>
@@ -16548,7 +16502,6 @@
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="tipus_prn"/>
-              <clip pos="1" side="sl" part="gen"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
           </chunk>
@@ -16561,19 +16514,19 @@
               <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
-              <clip pos="4" side="tl" part="lemh"/>
-              <clip pos="4" side="tl" part="a_nom"/>
-              <clip pos="4" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="4" side="tl" part="nbr_sp"/>
-              <clip pos="4" side="tl" part="lemq"/>
-            </lu>
-            <b pos="2"/>
-            <lu>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_adj"/>
               <clip pos="3" side="tl" part="nbr_sense_sp" link-to="3"/>
               <clip pos="3" side="tl" part="nbr_sp"/>
               <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="4" side="tl" part="lemh"/>
+              <clip pos="4" side="tl" part="a_nom"/>
+              <clip pos="4" side="tl" part="nbr_sense_sp" link-to="3"/>
+              <clip pos="4" side="tl" part="nbr_sp"/>
+              <clip pos="4" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -16650,9 +16603,7 @@
         <out>
           <chunk name="cnjadv" case="caseFirstWord">
             <tags>
-              <tag>
-                <clip pos="1" side="tl" part="tags"/>
-              </tag>
+              <tag><clip pos="1" side="tl" part="tags"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -16679,12 +16630,8 @@
         <out>
           <chunk name="pr" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="PREP"/>
-              </tag>
-              <tag>
-                <var n="tipusprep"/>
-              </tag>
+              <tag><lit-tag v="PREP"/></tag>
+              <tag><var n="tipusprep"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -16711,12 +16658,8 @@
         <out>
           <chunk name="num" case="caseFirstWord">
             <tags>
-              <tag>
-                <clip pos="1" side="tl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="nbr"/>
-              </tag>
+              <tag><clip pos="1" side="sl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
