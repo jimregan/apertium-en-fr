@@ -2166,16 +2166,10 @@
             <out>
               <chunk name="det_num_prep_nom" case="caseFirstWord">
                 <tags>
-                  <tag>
-                    <lit-tag v="SN"/>
-                  </tag>
-                  <tag>
-                    <clip pos="2" side="sl" part="gen"/>
-                  </tag>
-                  <tag>
-                    <clip pos="2" side="tl" part="nbr"/>
-                  </tag>
-<!-- <tag><var n="tipusnom"/></tag> -->
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><clip pos="2" side="sl" part="gen"/></tag>
+                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                  <tag><var n="tipusnom"/></tag>
                 </tags>
                 <lu>
                   <clip pos="1" side="tl" part="whole"/>
@@ -2206,15 +2200,10 @@
             <out>
               <chunk name="det_num_nom" case="caseFirstWord">
                 <tags>
-                  <tag>
-                    <lit-tag v="SN"/>
-                  </tag>
-                  <tag>
-                    <clip pos="2" side="sl" part="gen"/>
-                  </tag>
-                  <tag>
-                    <clip pos="2" side="tl" part="nbr"/>
-                  </tag>
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><clip pos="2" side="sl" part="gen"/></tag>
+                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                  <tag><var n="tipusnom"/></tag>
                 </tags>
                 <lu>
                   <clip pos="1" side="tl" part="lem"/>
@@ -2269,15 +2258,10 @@
         <out>
           <chunk name="num_of_num_nom" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="2" side="sl" part="gen"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2330,18 +2314,13 @@
           <with-param pos="4"/>
         </call-macro>
         <out>
-<!-- hmm... I /think/ this is ok - we'll catch this in interchunk :)  -->
+          <!-- hmm... I /think/ this is ok - we'll catch this in interchunk :)  -->
           <chunk name="num_of_num_adj" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="4" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="4" side="sl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="4" side="sl" part="gen"/></tag>
+              <tag><clip pos="4" side="sl" part="nbr"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2401,15 +2380,10 @@
         <out>
           <chunk name="det_num_of_num_nom" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="3" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="3" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="3" side="sl" part="gen"/></tag>
+              <tag><clip pos="3" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2476,15 +2450,10 @@
         <out>
           <chunk name="det_num_of_num_adj" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="3" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="3" side="sl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="3" side="sl" part="gen"/></tag>
+              <tag><clip pos="3" side="sl" part="nbr"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2548,15 +2517,10 @@
         <out>
           <chunk name="adj_adj_nom" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="3" side="tl" part="lemh"/>
@@ -2601,24 +2565,19 @@
           <with-param pos="3"/>
           <with-param pos="1"/>
         </call-macro>
-<!--    <call-macro n="tipus_nom">
-      <with-param pos="2"/>
-    </call-macro> -->
+        <call-macro n="tipus_nom">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
         <out>
           <chunk name="det_adj_nom" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="3" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="3" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="3" side="sl" part="gen"/></tag>
+              <tag><clip pos="3" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2666,15 +2625,9 @@
         <out>
           <chunk name="det_adj" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="2" side="sl" part="gen"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2722,15 +2675,10 @@
         <out>
           <chunk name="det_adj_nom" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="3" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="3" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="3" side="sl" part="gen"/></tag>
+              <tag><clip pos="3" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2783,21 +2731,16 @@
           <with-param pos="4"/>
           <with-param pos="1"/>
         </call-macro>
-<!--    <call-macro n="tipus_nom">
-      <with-param pos="5"/>
-    </call-macro> -->
+        <call-macro n="tipus_nom">
+          <with-param pos="5"/>
+        </call-macro>
         <out>
           <chunk name="det_adj_cnjcoo_adj_nom" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="5" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="5" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="5" side="sl" part="gen"/></tag>
+              <tag><clip pos="5" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2860,22 +2803,16 @@
           <with-param pos="3"/>
           <with-param pos="1"/>
         </call-macro>
-<!--    <call-macro n="tipus_nom">
-      <with-param pos="4"/>
-    </call-macro> -->
+        <call-macro n="tipus_nom">
+          <with-param pos="4"/>
+        </call-macro>
         <out>
           <chunk name="num_adv_adj_nom" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SN"/>
-              </tag>
-              <tag>
-                <clip pos="4" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="4" side="tl" part="nbr"/>
-              </tag>
-<!--          <tag><var n="tipusnom"/></tag> -->
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="4" side="sl" part="gen"/></tag>
+              <tag><clip pos="4" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2929,24 +2866,18 @@
           <with-param pos="2"/>
           <with-param pos="1"/>
         </call-macro>
-<!--    <call-macro n="tipus_nom">
-      <with-param pos="3"/>
-    </call-macro> -->
+        <call-macro n="tipus_nom">
+           <with-param pos="3"/>
+        </call-macro>
         <out>
           <chunk name="num_adj_nom" case="caseFirstWord">
             <tags>
               <tag>
                 <lit-tag v="SN"/>
               </tag>
-              <tag>
-                <clip pos="3" side="sl" part="gen"/>
-              </tag>
-              <tag>
-                <clip pos="3" side="tl" part="nbr"/>
-              </tag>
-              <tag>
-                <var n="tipusnom"/>
-              </tag>
+              <tag><clip pos="3" side="sl" part="gen"/></tag>
+              <tag><clip pos="3" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
