@@ -3631,13 +3631,13 @@
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
-              <tag><var n="tipusverb"/></tag>
+              <!--<tag><var n="tipusverb"/></tag>-->
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
-              <clip pos="1" side="tl" part="temps"/>
-              <clip pos="1" side="tl" part="pers"/>
+              <clip pos="1" side="tl" part="temps" link-to="5"/>
+              <clip pos="1" side="tl" part="pers" link-to="5"/>
               <clip pos="1" side="tl" part="nbr" link-to="5"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
@@ -3649,7 +3649,7 @@
         </let>
       </action>
     </rule>
-    <rule comment="REGLA: ne VERB plus  (n'est plus... -&gt; ya ho es...)">
+    <rule comment="REGLA: ne VERB plus  (n'est plus... -&gt; is not any more...)">
       <pattern>
         <pattern-item n="ne"/>
         <pattern-item n="verbpers"/>
@@ -3666,53 +3666,42 @@
           <with-param pos="1"/>
         </call-macro>
         <out>
-          <chunk name="adv" case="caseFirstWord">
-            <tags>
-              <tag>
-                <clip pos="1" side="tl" part="a_adv"/>
-              </tag>
-            </tags>
-            <lu>
-              <get-case-from pos="1">
-                <lit v="ya"/>
-              </get-case-from>
-              <lit-tag v="adv"/>
-            </lu>
-            <b pos="2"/>
-            <lu>
-              <lit v="no"/>
-              <lit-tag v="adv"/>
-            </lu>
-          </chunk>
-          <b pos="2"/>
           <chunk name="verb">
             <tags>
-              <tag>
-                <lit-tag v="SV"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="a_verb"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="temps"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="pers"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="nbr"/>
-              </tag>
-              <tag>
-                <var n="tipusverb"/>
-              </tag>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="2" side="tl" part="temps"/></tag>
+              <tag><clip pos="2" side="tl" part="pers"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusverb"/></tag>
             </tags>
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_verb"/>
-              <clip pos="2" side="tl" part="temps"/>
-              <clip pos="2" side="tl" part="pers"/>
+              <clip pos="2" side="tl" part="temps" link-to="5"/>
+              <clip pos="2" side="tl" part="pers" link-to="5"/>
               <clip pos="2" side="tl" part="nbr" link-to="5"/>
               <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+          <b pos="1"/>
+          <chunk name="adv">
+            <tags>
+              <tag><clip pos="1" side="tl" part="a_adv"/></tag>
+            </tags>
+            <lu>
+              <lit v="not"/>
+              <lit-tag v="adv"/>
+            </lu>
+          </chunk>
+          <b pos="2"/>
+          <chunk name="adv">
+            <tags>
+              <tag><clip pos="1" side="tl" part="a_adv"/></tag>
+            </tags>
+            <lu>
+              <lit v="any more"/>
+              <lit-tag v="adv"/>
             </lu>
           </chunk>
         </out>
@@ -3757,24 +3746,12 @@
           <b pos="1"/>
           <chunk name="verb">
             <tags>
-              <tag>
-                <lit-tag v="SV"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="a_verb"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="temps"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="pers"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="nbr"/>
-              </tag>
-              <tag>
-                <var n="tipusverb"/>
-              </tag>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="2" side="tl" part="temps"/></tag>
+              <tag><clip pos="2" side="tl" part="pers"/></tag>
+              <tag><clip pos="2" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusverb"/></tag>
             </tags>
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
