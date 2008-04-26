@@ -2136,7 +2136,7 @@
 	</action>
 </rule>
 
-<rule comment="DET NUMERAL NOM NUM (le 23 mai 1797 -> el 23 demayo de 1979)">
+<rule comment="DET NUMERAL NOM NUM (le 23 mai 1797 -> the 23 may 1979 -- FIXME: check if this happens after prepositions, otherwise, remove the)">
 	<pattern>
 		<pattern-item n="det"/>
 		<pattern-item n="num"/>
@@ -2229,7 +2229,7 @@
 						<tag><lit-tag v="SN"/></tag>
             <tag><clip pos="2" side="sl" part="gen"/></tag>
             <tag><clip pos="2" side="tl" part="nbr"/></tag>
-						<tag><var n="tipusnom"/></tag>
+						<!-- <tag><var n="tipusnom"/></tag> -->
 					</tags>
 						<lu>
 							<clip pos="1" side="tl" part="whole"/>
