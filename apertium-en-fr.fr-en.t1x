@@ -2041,16 +2041,13 @@
 		<out>
 			<chunk name="adj_nom" case="caseFirstWord">
 				<tags>
-					<tag><lit-tag v="SN"/></tag>
-					<tag><var n="genero"/></tag>
-					<tag><var n="numero"/></tag>
-					<tag><var n="tipusnom"/></tag>
+  				<tag><lit-tag v="SN"/></tag>
+          <tag><clip pos="2" side="sl" part="gen"/></tag>
+          <tag><clip pos="2" side="tl" part="nbr"/></tag>
 				</tags>
 				<lu>
 					<clip pos="1" side="tl" part="lemh"/> 
 					<clip pos="1" side="tl" part="a_adj"/>
-					<clip pos="1" side="tl" part="gen_sense_mf" link-to="2"/>
-					<clip pos="1" side="tl" part="gen_mf"/>	 
 					<clip pos="1" side="tl" part="nbr_sense_sp" link-to="3"/>
 					<clip pos="1" side="tl" part="nbr_sp"/>	 
 					<clip pos="1" side="tl" part="lemq"/>
@@ -2059,8 +2056,6 @@
 				<lu>
 					<clip pos="2" side="tl" part="lemh"/>
 					<clip pos="2" side="tl" part="a_nom"/>
-					<clip pos="2" side="tl" part="gen_sense_mf" link-to="2"/>
-					<clip pos="2" side="tl" part="gen_mf"/>	 
 					<clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
 					<clip pos="2" side="tl" part="nbr_sp"/>	 
 					<clip pos="2" side="tl" part="lemq"/>
