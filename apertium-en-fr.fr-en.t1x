@@ -868,7 +868,7 @@
       </choose>
     </def-macro>
 
-<def-macro n="comprova_auxiliar_ref" npar="3"> <!--aquesta macro troba l'aux correcte en cast tenint en compte que si el verb és ref i porta l'aux "être" en cast ha de ser "haber". de passada, mira també si cal canviar el lema del verb (com la macro "verb_ref")-->
+    <def-macro n="comprova_auxiliar_ref" npar="3"> <!--aquesta macro troba l'aux correcte en cast tenint en compte que si el verb és ref i porta l'aux "être" en cast ha de ser "haber". de passada, mira també si cal canviar el lema del verb (com la macro "verb_ref")-->
       <choose>
         <when><!--en cas que l'auxiliar sigui "ser":-->
           <test>
@@ -1026,7 +1026,7 @@
       </choose>
     </def-macro>
 
-  <def-macro n="f_prep" npar="1">
+    <def-macro n="f_prep" npar="1">
       <choose>
         <when>
           <test>
@@ -1236,7 +1236,7 @@
       </choose>-->
     </def-macro>
 
-<def-macro n="tipus_nom" npar="1">
+    <def-macro n="tipus_nom" npar="1">
       <choose>
         <when>
           <test>
@@ -1273,44 +1273,44 @@
 
     <def-macro n="firstWord" npar="1">
       <choose>
-  <when>
-    <test>
-      <equal>
-        <clip pos="1" side="sl" part="a_np_acr"/>
-        <lit v=""/>
-      </equal>
-    </test>
-    <choose>
-      <when>
-        <test>
-    <equal> 
-      <var n="EOS"/>
-      <lit v="true"/>
-    </equal> 
-        </test>
-        <modify-case>
-    <clip pos="1" side="tl" part="lem"/>
-    <lit v="aa"/>
-        </modify-case>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="a_np_acr"/>
+              <lit v=""/>
+            </equal>
+          </test>
+          <choose>
+            <when>
+              <test>
+                <equal> 
+                  <var n="EOS"/>
+                  <lit v="true"/>
+                </equal> 
+              </test>
+              <modify-case>
+                <clip pos="1" side="tl" part="lem"/>
+                <lit v="aa"/>
+              </modify-case>
+              <let>
+                <var n="caseFirstWord"/>
+                <lit v="Aa"/>
+              </let>
+            </when>
+          </choose>
+        </when>
+      <otherwise>
         <let>
-    <var n="caseFirstWord"/>
-    <lit v="Aa"/>
+          <var n="caseFirstWord"/>
+          <lit v="aa"/>
         </let>
-      </when>
+      </otherwise>
     </choose>
-  </when>
-  <otherwise>
     <let>
-      <var n="caseFirstWord"/>
-      <lit v="aa"/>
+      <var n="EOS"/>
+      <lit v="false"/>
     </let>
-  </otherwise>
-      </choose>
-      <let>
-  <var n="EOS"/>
-  <lit v="false"/>
-      </let>
-    </def-macro>
+  </def-macro>
 
     
  <def-macro n="f_bcond" npar="2"><!--Per mirar si el blanc cont?o no format. Cal posar aquesta funci?en les regles en qu?desaparegui alguna paraula, per tal de decidir si el blanc de la paraula eliminada s'ha d'eliminar o conservar. Si cont?format cal conservar-la, si no en cont?cal eliminar-la perqu?no apareguin dos espais seguits. -->
