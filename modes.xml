@@ -1,826 +1,826 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
 
-  <mode name="en-ca" install="yes">
+  <mode name="en-fr" install="yes">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.en-ca.t3x"/>
-        <file name="en-ca.t3x.bin"/>
+        <file name="apertium-en-fr.en-fr.t3x"/>
+        <file name="en-fr.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="en-ca.autogen.bin"/>
+        <file name="en-fr.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="en-ca.autopgen.bin"/>
+        <file name="en-fr.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="en-ca-latin1">
+  <mode name="en-fr-latin1">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca-latin1.prob"/>
+        <file name="en-fr-latin1.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.en-ca.t3x"/>
-        <file name="en-ca.t3x.bin"/>
+        <file name="apertium-en-fr.en-fr.t3x"/>
+        <file name="en-fr.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="en-ca.autogen.bin"/>
+        <file name="en-fr.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="en-ca.autopgen.bin"/>
+        <file name="en-fr.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
 
-  <mode name="en-ca-anmor">
+  <mode name="en-fr-anmor">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="en-ca-tagger">
+  <mode name="en-fr-tagger">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="en-ca-pretransfer">
+  <mode name="en-fr-pretransfer">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
 
-  <mode name="en-ca-chunker">
+  <mode name="en-fr-chunker">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
   
-  <mode name="en-ca-interchunk">
+  <mode name="en-fr-interchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="en-ca-postchunk">
+  <mode name="en-fr-postchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.en-ca.t3x"/>
-        <file name="en-ca.t3x.bin"/>
+        <file name="apertium-en-fr.en-fr.t3x"/>
+        <file name="en-fr.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="en-ca-generador">
+  <mode name="en-fr-generador">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.en-ca.t3x"/>
-        <file name="en-ca.t3x.bin"/>
+        <file name="apertium-en-fr.en-fr.t3x"/>
+        <file name="en-fr.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="en-ca.autogen.bin"/>
+        <file name="en-fr.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
 
   
-  <mode name="ca-en" install="yes">
+  <mode name="fr-en" install="yes">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.ca-en.t3x"/>
-        <file name="ca-en.t3x.bin"/>
+        <file name="apertium-en-fr.fr-en.t3x"/>
+        <file name="fr-en.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="ca-en.autogen.bin"/>
+        <file name="fr-en.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="ca-en.autopgen.bin"/>
+        <file name="fr-en.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
   
 
   
-  <mode name="ca-en-latin1">
+  <mode name="fr-en-latin1">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en-latin1.prob"/>
+        <file name="fr-en-latin1.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.ca-en.t3x"/>
-        <file name="ca-en.t3x.bin"/>
+        <file name="apertium-en-fr.fr-en.t3x"/>
+        <file name="fr-en.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="ca-en.autogen.bin"/>
+        <file name="fr-en.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="ca-en.autopgen.bin"/>
+        <file name="fr-en.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ca-en-anmor">
+  <mode name="fr-en-anmor">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ca-en-tagger">
+  <mode name="fr-en-tagger">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ca-en-pretransfer">
+  <mode name="fr-en-pretransfer">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
 
-  <mode name="ca-en-chunker">
+  <mode name="fr-en-chunker">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
   
-  <mode name="ca-en-interchunk">
+  <mode name="fr-en-interchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ca-en-postchunk">
+  <mode name="fr-en-postchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.ca-en.t3x"/>
-        <file name="ca-en.t3x.bin"/>
+        <file name="apertium-en-fr.fr-en.t3x"/>
+        <file name="fr-en.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ca-en-generador">
+  <mode name="fr-en-generador">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.ca-en.t3x"/>
-        <file name="ca-en.t3x.bin"/>
+        <file name="apertium-en-fr.fr-en.t3x"/>
+        <file name="fr-en.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="ca-en.autogen.bin"/>
+        <file name="fr-en.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
   
-    <mode name="en-ca-lextor">
+    <mode name="en-fr-lextor">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-lextor -l">
-        <file name="en-ca.lextor"/>
-        <file name="en-ca.lextormono.bin 3 3"/> 
+        <file name="en-fr.lextor"/>
+        <file name="en-fr.lextormono.bin 3 3"/> 
       </program>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.lextorbil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.lextorbil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.en-ca.t3x"/>
-        <file name="en-ca.t3x.bin"/>
+        <file name="apertium-en-fr.en-fr.t3x"/>
+        <file name="en-fr.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="en-ca.autogen.bin"/>
+        <file name="en-fr.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="en-ca.autopgen.bin"/>
+        <file name="en-fr.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ca-en-lextor">
+  <mode name="fr-en-lextor">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-lextor -l">
-        <file name="ca-en.lextor"/>
-        <file name="ca-en.lextormono.bin 3 3"/> 
+        <file name="fr-en.lextor"/>
+        <file name="fr-en.lextormono.bin 3 3"/> 
       </program>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.lextorbil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.lextorbil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.ca-en.t3x"/>
-        <file name="ca-en.t3x.bin"/>
+        <file name="apertium-en-fr.fr-en.t3x"/>
+        <file name="fr-en.t3x.bin"/>
       </program>      
       <program name="lt-proc $1">
-        <file name="ca-en.autogen.bin"/>
+        <file name="fr-en.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="ca-en.autopgen.bin"/>
+        <file name="fr-en.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="test-en-ca">
+  <mode name="test-en-fr">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.en-ca.t3x"/>
-        <file name="en-ca.t3x.bin"/>
+        <file name="apertium-en-fr.en-fr.t3x"/>
+        <file name="en-fr.t3x.bin"/>
       </program>
       <program name="lt-proc -d">
-        <file name="en-ca.autogen.bin"/>
+        <file name="en-fr.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="en-ca.autopgen.bin"/>
+        <file name="en-fr.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-en-ca-anmor">
+  <mode name="test-en-fr-anmor">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-en-ca-tagger">
+  <mode name="test-en-fr-tagger">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-en-ca-pretransfer">
+  <mode name="test-en-fr-pretransfer">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
 
-  <mode name="test-en-ca-chunker">
+  <mode name="test-en-fr-chunker">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
   
-  <mode name="test-en-ca-interchunk">
+  <mode name="test-en-fr-interchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-en-ca-postchunk">
+  <mode name="test-en-fr-postchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.en-ca.t3x"/>
-        <file name="en-ca.t3x.bin"/>
+        <file name="apertium-en-fr.en-fr.t3x"/>
+        <file name="en-fr.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-en-ca-generador">
+  <mode name="test-en-fr-generador">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.autobil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.en-ca.t3x"/>
-        <file name="en-ca.t3x.bin"/>
+        <file name="apertium-en-fr.en-fr.t3x"/>
+        <file name="en-fr.t3x.bin"/>
       </program>
       <program name="lt-proc -d">
-        <file name="en-ca.autogen.bin"/>
+        <file name="en-fr.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
   
 
   
-  <mode name="test-ca-en">
+  <mode name="test-fr-en">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.ca-en.t3x"/>
-        <file name="ca-en.t3x.bin"/>
+        <file name="apertium-en-fr.fr-en.t3x"/>
+        <file name="fr-en.t3x.bin"/>
       </program>
       <program name="lt-proc -d">
-        <file name="ca-en.autogen.bin"/>
+        <file name="fr-en.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="ca-en.autopgen.bin"/>
+        <file name="fr-en.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-ca-en-anmor">
+  <mode name="test-fr-en-anmor">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-ca-en-tagger">
+  <mode name="test-fr-en-tagger">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-ca-en-pretransfer">
+  <mode name="test-fr-en-pretransfer">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
 
-  <mode name="test-ca-en-chunker">
+  <mode name="test-fr-en-chunker">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
   
-  <mode name="test-ca-en-interchunk">
+  <mode name="test-fr-en-interchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-ca-en-postchunk">
+  <mode name="test-fr-en-postchunk">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.ca-en.t3x"/>
-        <file name="ca-en.t3x.bin"/>
+        <file name="apertium-en-fr.fr-en.t3x"/>
+        <file name="fr-en.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-ca-en-generador">
+  <mode name="test-fr-en-generador">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.autobil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.ca-en.t3x"/>
-        <file name="ca-en.t3x.bin"/>
+        <file name="apertium-en-fr.fr-en.t3x"/>
+        <file name="fr-en.t3x.bin"/>
       </program>
       <program name="lt-proc -d">
-        <file name="ca-en.autogen.bin"/>
+        <file name="fr-en.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
 <!--
-    <mode name="test-en-ca-lextor">
+    <mode name="test-en-fr-lextor">
     <pipeline>
       <program name="lt-proc">
-        <file name="en-ca.automorf.bin"/>
+        <file name="en-fr.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="en-ca.prob"/>
+        <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-lextor -l">
-        <file name="en-ca.lextor"/>
-        <file name="en-ca.lextormono.bin 3 3"/> 
+        <file name="en-fr.lextor"/>
+        <file name="en-fr.lextormono.bin 3 3"/> 
       </program>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.en-ca.t1x"/>
-        <file name="en-ca.t1x.bin"/>
-        <file name="en-ca.lextorbil.bin"/>
+        <file name="apertium-en-fr.en-fr.t1x"/>
+        <file name="en-fr.t1x.bin"/>
+        <file name="en-fr.lextorbil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.en-ca.t2x"/>
-        <file name="en-ca.t2x.bin"/>
+        <file name="apertium-en-fr.en-fr.t2x"/>
+        <file name="en-fr.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.en-ca.t3x"/>
-        <file name="en-ca.t3x.bin"/>
+        <file name="apertium-en-fr.en-fr.t3x"/>
+        <file name="en-fr.t3x.bin"/>
       </program>
       <program name="lt-proc -d">
-        <file name="en-ca.autogen.bin"/>
+        <file name="en-fr.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="en-ca.autopgen.bin"/>
+        <file name="en-fr.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="test-ca-en-lextor">
+  <mode name="test-fr-en-lextor">
     <pipeline>
       <program name="lt-proc">
-        <file name="ca-en.automorf.bin"/>
+        <file name="fr-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -g">
-        <file name="ca-en.prob"/>
+        <file name="fr-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-lextor -l">
-        <file name="ca-en.lextor"/>
-        <file name="ca-en.lextormono.bin 3 3"/> 
+        <file name="fr-en.lextor"/>
+        <file name="fr-en.lextormono.bin 3 3"/> 
       </program>
       <program name="apertium-transfer">
-        <file name="apertium-en-ca.ca-en.t1x"/>
-        <file name="ca-en.t1x.bin"/>
-        <file name="ca-en.lextorbil.bin"/>
+        <file name="apertium-en-fr.fr-en.t1x"/>
+        <file name="fr-en.t1x.bin"/>
+        <file name="fr-en.lextorbil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-ca.ca-en.t2x"/>
-        <file name="ca-en.t2x.bin"/>
+        <file name="apertium-en-fr.fr-en.t2x"/>
+        <file name="fr-en.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-ca.ca-en.t3x"/>
-        <file name="ca-en.t3x.bin"/>
+        <file name="apertium-en-fr.fr-en.t3x"/>
+        <file name="fr-en.t3x.bin"/>
       </program>      
       <program name="lt-proc -d">
-        <file name="ca-en.autogen.bin"/>
+        <file name="fr-en.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="ca-en.autopgen.bin"/>
+        <file name="fr-en.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
