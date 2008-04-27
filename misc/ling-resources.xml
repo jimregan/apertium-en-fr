@@ -15,9 +15,9 @@
    <resource-set>
       <name>My linguistic resources to get English-French language pair.</name>
       <description>Linguistic resources that I use to cross English-Spanish and French-Spanish language pairs in order to get English-French</description>
-      <!-- cross model en-es-fr -->
+      <!-- cross model en-ca-fr -->
       <resource>
-         <property name="name" value="cross-en-es-fr"/>
+         <property name="name" value="cross-en-ca-fr"/>
          <property name="type" value="cross-model"/>
          <property name="sl" value="en"/>
          <property name="tl" value="fr"/>
@@ -27,11 +27,11 @@
          <property name="version" value="unstable"/>
       </resource>
            
-      <!-- 'es' morphological dictionary -->
+      <!-- 'fr' morphological dictionary -->
       <resource>
          <property name="name" value="apertium-fr"/>
          <property name="type" value="mon"/>
-         <property name="sl" value="es"/>
+         <property name="sl" value="fr"/>
          <property name="for-crossing" value="yes"/>
          <property 
             name="src" value="../apertium-en-fr.fr.metadix"/>
@@ -51,25 +51,25 @@
       
       <!-- 'en-ca' bilingual dictionary -->   
       <resource>
-         <property name="name" value="apertium-en-es"/>
+         <property name="name" value="apertium-en-ca"/>
          <property name="type" value="bil"/>
          <property name="sl" value="en"/>
          <property name="tl" value="ca"/>
          <property name="for-crossing" value="yes"/>
          <property 
-            name="src" value="../../apertium-en-es/en-es-dic/apertium-en-es.en-es.dix.xml"/>
+            name="src" value="../../apertium-en-ca/apertium-en-ca.en-ca.dix"/>
          <property name="version" value="stable"/>
       </resource>
       
       <!-- 'es-ca' bilingual dictionary -->
       <resource>
-         <property name="name" value="apertium-es-ca"/>
+         <property name="name" value="apertium-fr-ca"/>
          <property name="type" value="bil"/>
-         <property name="sl" value="es"/>
+         <property name="sl" value="fr"/>
          <property name="tl" value="ca"/>
          <property name="for-crossing" value="yes"/>
          <property 
-            name="src" value="../../apertium-fr-es/apertium-fr-es.fr-es.dix"/>
+            name="src" value="../../apertium-fr-ca/apertium-fr-ca.fr-ca.dix"/>
          <property name="version" value="stable"/>
       </resource>
    </resource-set>
