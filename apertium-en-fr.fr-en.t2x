@@ -81,50 +81,48 @@
     <def-cat n="cnjcoo"> <!-- BCN-->
       <cat-item tags="cnjcoo"/>
     </def-cat>
-
-
   </section-def-cats>
 
   <section-def-attrs>
 
 	<def-attr n="tverb">
-        <attr-item tags="vben"/>
-			  <attr-item tags="vba"/>
-			  <attr-item tags="nopart"/>
-	</def-attr>
+    <attr-item tags="vben"/>
+    <attr-item tags="vba"/>
+    <attr-item tags="nopart"/>
+  </def-attr>
 	<def-attr n="tnom">
-        <attr-item tags="loc"/>
-        <attr-item tags="part"/>
+    <attr-item tags="loc"/>
+    <attr-item tags="part"/>
 	</def-attr>
 	<def-attr n="tprep">
-        <attr-item tags="a"/>
-        <attr-item tags="de"/>
-        <attr-item tags="en"/>
-       <attr-item tags="para"/>
+    <attr-item tags="a"/>
+    <attr-item tags="de"/>
+    <attr-item tags="en"/>
+    <attr-item tags="para"/>
 	</def-attr>
-<def-attr n="pers">
-          <attr-item tags="p1"/>
+  <def-attr n="pers">
+    <attr-item tags="p1"/>
 	  <attr-item tags="p2"/>
 	  <attr-item tags="p3"/>
 	  <attr-item tags="PD"/>
     <attr-item tags="NP"/>
-</def-attr>
+  </def-attr>
 
-      <def-attr n="gen">
-          <attr-item tags="m"/>
-          <attr-item tags="f"/>
+  <def-attr n="gen">
+    <attr-item tags="m"/>
+    <attr-item tags="f"/>
 	  <attr-item tags="mf"/>
 	  <attr-item tags="GD"/>
 	  <attr-item tags="nt"/>
-      </def-attr>
+  </def-attr>
 
-   <def-attr n="nbr">
-          <attr-item tags="sg"/>
+  <def-attr n="nbr">
+    <attr-item tags="sg"/>
 	  <attr-item tags="pl"/>
 	  <attr-item tags="sp"/>
 	  <attr-item tags="ND"/>
     <attr-item tags="NN"/>
-      </def-attr>
+  </def-attr>
 
       <def-attr n="temps">
           <attr-item tags="inf"/>
