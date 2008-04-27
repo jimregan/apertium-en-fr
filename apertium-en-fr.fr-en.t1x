@@ -4030,26 +4030,14 @@
               </equal>
             </test>
             <out>
-              <chunk name="pro_ir_a_inf" case="caseFirstWord">
+              <chunk name="pro_go_to_inf" case="caseFirstWord">
                 <tags>
-                  <tag>
-                    <lit-tag v="SV"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="a_verb"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="temps"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="pers"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="nbr"/>
-                  </tag>
-                  <tag>
-                    <var n="tipusverb"/>
-                  </tag>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="1" side="tl" part="temps"/></tag>
+                  <tag><clip pos="1" side="tl" part="pers"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                  <tag><var n="tipusverb"/></tag>
                 </tags>
                 <lu>
                   <get-case-from pos="1">
@@ -4071,7 +4059,7 @@
                 </lu>
                 <b/>
                 <lu>
-                  <lit v="a"/>
+                  <lit v="to"/>
                   <lit-tag v="pr"/>
                 </lu>
                 <b pos="2"/>
@@ -4088,26 +4076,14 @@
           </when>
           <otherwise>
             <out>
-              <chunk name="ir_a_inf" case="caseFirstWord">
+              <chunk name="go_to_inf" case="caseFirstWord">
                 <tags>
-                  <tag>
-                    <lit-tag v="SV"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="a_verb"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="temps"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="pers"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="nbr"/>
-                  </tag>
-                  <tag>
-                    <var n="tipusverb"/>
-                  </tag>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="1" side="tl" part="temps"/></tag>
+                  <tag><clip pos="1" side="tl" part="pers"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                  <tag><var n="tipusverb"/></tag>
                 </tags>
                 <lu>
                   <clip pos="1" side="tl" part="lemh"/>
@@ -4119,7 +4095,7 @@
                 </lu>
                 <b/>
                 <lu>
-                  <lit v="a"/>
+                  <lit v="to"/>
                   <lit-tag v="pr"/>
                 </lu>
                 <b pos="2"/>
@@ -4141,7 +4117,7 @@
         </let>
       </action>
     </rule>
-    <rule comment="aller adv inf -&gt; adv ir a inf">
+    <rule comment="aller adv inf -&gt; adv go to inf">
       <pattern>
         <pattern-item n="aller"/>
         <pattern-item n="adv"/>
@@ -4166,26 +4142,14 @@
               </equal>
             </test>
             <out>
-              <chunk name="ir_a_inf" case="caseFirstWord">
+              <chunk name="go_to_inf" case="caseFirstWord">
                 <tags>
-                  <tag>
-                    <lit-tag v="SV"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="a_verb"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="temps"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="pers"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="nbr"/>
-                  </tag>
-                  <tag>
-                    <var n="tipusverb"/>
-                  </tag>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="1" side="tl" part="temps"/></tag>
+                  <tag><clip pos="1" side="tl" part="pers"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                  <tag><var n="tipusverb"/></tag>
                 </tags>
                 <lu>
                   <clip pos="1" side="tl" part="lem"/>
@@ -4197,7 +4161,7 @@
                 </lu>
                 <b pos="1"/>
                 <lu>
-                  <lit v="a"/>
+                  <lit v="to"/>
                   <lit-tag v="pr"/>
                 </lu>
                 <b pos="2"/>
@@ -4212,26 +4176,14 @@
           </when>
           <otherwise>
             <out>
-              <chunk name="ir_a_inf" case="caseFirstWord">
+              <chunk name="go_to_inf" case="caseFirstWord">
                 <tags>
-                  <tag>
-                    <lit-tag v="SV"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="a_verb"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="temps"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="pers"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="nbr"/>
-                  </tag>
-                  <tag>
-                    <var n="tipusverb"/>
-                  </tag>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="1" side="tl" part="temps"/></tag>
+                  <tag><clip pos="1" side="tl" part="pers"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                  <tag><var n="tipusverb"/></tag>
                 </tags>
                 <lu>
                   <clip pos="1" side="tl" part="lem"/>
@@ -4242,7 +4194,7 @@
                 </lu>
                 <b/>
                 <lu>
-                  <lit v="a"/>
+                  <lit v="to"/>
                   <lit-tag v="pr"/>
                 </lu>
                 <b pos="2"/>
@@ -4277,7 +4229,7 @@
         </let>
       </action>
     </rule>
-    <rule comment="aller-t-prnsubj adv inf -&gt; adv ir a inf">
+    <rule comment="aller-t-prnsubj adv inf -&gt; adv go to inf">
       <pattern>
         <pattern-item n="aller"/>
         <pattern-item n="prnperssubj"/>
@@ -4303,26 +4255,14 @@
               </equal>
             </test>
             <out>
-              <chunk name="ir_a_inf" case="caseFirstWord">
+              <chunk name="go_to_inf" case="caseFirstWord">
                 <tags>
-                  <tag>
-                    <lit-tag v="SV"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="a_verb"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="temps"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="pers"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="nbr"/>
-                  </tag>
-                  <tag>
-                    <var n="tipusverb"/>
-                  </tag>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="1" side="tl" part="temps"/></tag>
+                  <tag><clip pos="1" side="tl" part="pers"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                  <tag><var n="tipusverb"/></tag>
                 </tags>
                 <lu>
                   <clip pos="1" side="tl" part="lem"/>
@@ -4334,7 +4274,7 @@
                 </lu>
                 <b pos="3"/>
                 <lu>
-                  <lit v="a"/>
+                  <lit v="to"/>
                   <lit-tag v="pr"/>
                 </lu>
                 <b pos="3"/>
@@ -4349,26 +4289,14 @@
           </when>
           <otherwise>
             <out>
-              <chunk name="ir_a_inf" case="caseFirstWord">
+              <chunk name="go_to_inf" case="caseFirstWord">
                 <tags>
-                  <tag>
-                    <lit-tag v="SV"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="a_verb"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="temps"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="pers"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="nbr"/>
-                  </tag>
-                  <tag>
-                    <var n="tipusverb"/>
-                  </tag>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="1" side="tl" part="temps"/></tag>
+                  <tag><clip pos="1" side="tl" part="pers"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                  <tag><var n="tipusverb"/></tag>
                 </tags>
                 <lu>
                   <clip pos="1" side="tl" part="lem"/>
@@ -4379,7 +4307,7 @@
                 </lu>
                 <b/>
                 <lu>
-                  <lit v="a"/>
+                  <lit v="to"/>
                   <lit-tag v="pr"/>
                 </lu>
                 <b pos="3"/>
