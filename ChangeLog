@@ -1,0 +1,182 @@
+2008-04-27 08:18  jimregan
+
+	* TODO: a proper TODO for this package
+
+2008-04-27 08:16  jimregan
+
+	* apertium-en-fr.fr-en.t1x: more
+
+2008-04-27 08:07  jimregan
+
+	* apertium-en-fr.fr-en.t1x: add a fixme
+
+2008-04-27 08:01  jimregan
+
+	* apertium-en-fr.fr-en.t1x: more
+
+2008-04-27 07:44  jimregan
+
+	* apertium-en-fr.fr-en.t1x: more
+
+2008-04-27 07:34  jimregan
+
+	* apertium-en-fr.fr-en.t1x: more
+
+2008-04-27 07:28  jimregan
+
+	* apertium-en-fr.fr-en.t1x: a rule
+
+2008-04-26 22:33  jimregan
+
+	* apertium-en-fr.en-fr.dix: add crossed dictionary
+
+2008-04-26 22:31  jimregan
+
+	* apertium-en-fr.fr-en.t1x: cleanup a little
+
+2008-04-26 19:42  jimregan
+
+	* apertium-en-fr.fr-en.t1x: another rule
+
+2008-04-26 19:25  jimregan
+
+	* apertium-en-fr.fr-en.t1x: hmm... try a verb rule
+
+2008-04-26 18:22  jimregan
+
+	* autogen.sh: add autogen.sh
+
+2008-04-26 18:21  jimregan
+
+	* apertium-en-fr.fr-en.t1x: up to verbs...
+
+2008-04-26 18:16  jimregan
+
+	* apertium-en-fr.fr-en.t1x: more rules
+
+2008-04-26 17:54  jimregan
+
+	* apertium-en-fr.fr-en.t1x: more rules
+
+2008-04-26 17:44  jimregan
+
+	* apertium-en-fr.fr-en.t1x: more rules
+
+2008-04-26 17:31  jimregan
+
+	* apertium-en-fr.fr-en.t1x: add det_adv_adj macro from en-es
+
+2008-04-26 17:10  jimregan
+
+	* apertium-en-fr.fr-en.t1x: reinstate more
+
+2008-04-26 17:05  jimregan
+
+	* apertium-en-fr.fr-en.t1x: bah! xml copy editor has a "pretty
+	  print" mode: reinstate the tipus_nom macro (having read it...)
+
+2008-04-26 16:37  jimregan
+
+	* apertium-en-fr.fr-en.t1x: again with indentation - how do you
+	  people read this stuff??? :P
+
+2008-04-26 16:35  jimregan
+
+	* apertium-en-fr.fr-en.t1x: fix indentation some more
+
+2008-04-26 16:32  jimregan
+
+	* apertium-en-fr.fr-en.t1x: fix indentation
+
+2008-04-26 16:25  jimregan
+
+	* apertium-en-fr.fr-en.t1x: another rule
+
+2008-04-26 16:09  jimregan
+
+	* apertium-en-fr.fr-en.t1x: two more rules
+
+2008-04-26 16:04  jimregan
+
+	* apertium-en-fr.fr-en.t1x: change more rules - a few, breaking my
+	  preferred atomic commit style :(
+
+2008-04-26 16:01  jimregan
+
+	* apertium-en-fr.fr-en.t1x: convert tabs to two spaces so I can
+	  read the output of svn diff
+
+2008-04-26 15:46  jimregan
+
+	* apertium-en-fr.fr-en.t1x: another rule
+
+2008-04-26 14:20  jimregan
+
+	* apertium-en-fr.fr-en.t1x: add a FIXME
+
+2008-04-26 14:14  jimregan
+
+	* apertium-en-fr.fr-en.t1x: another rule
+
+2008-04-26 12:47  jimregan
+
+	* apertium-en-fr.fr-en.t1x: convert another rule
+
+2008-04-26 10:20  jimregan
+
+	* AUTHORS: try to be scrupulous about copyright: acknowledge
+	  sources of files
+
+2008-04-26 10:07  jimregan
+
+	* modes.xml: modes - comment out en-fr modes
+
+2008-04-26 10:05  jimregan
+
+	* modes.xml: modes - remove unsupported modes (latin1)
+
+2008-04-26 10:04  jimregan
+
+	* modes.xml: modes - change ca to fr
+
+2008-04-26 10:00  jimregan
+
+	* apertium-en-fr.fr-en.t1x: convert another rule - this one will
+	  probably need to be checked
+
+2008-04-26 09:30  jimregan
+
+	* apertium-en-fr.fr-en.t1x: some more stuff
+
+2008-04-26 09:10  jimregan
+
+	* apertium-en-fr.fr-en.t1x: some more stuff
+
+2008-04-26 08:19  jimregan
+
+	* apertium-en-fr.fr-en.t1x: fix some rules with pieces from en-es
+
+2008-04-26 08:09  jimregan
+
+	* apertium-en-fr.fr-en.t1x: replace concordance macros with those
+	  from en-es
+
+2008-04-26 08:07  jimregan
+
+	* apertium-en-fr.fr-en.t1x: add t1 rules from apertium-fr-es
+
+2008-03-20 21:53  jimregan
+
+	* Makefile.am, misc/cross-en-es-fr.xml, misc/ling-resources.xml:
+	  update some copied files
+
+2008-03-20 21:48  jimregan
+
+	* ., AUTHORS, COPYING, ChangeLog, Makefile.am, NEWS, README, TODO,
+	  apertium-en-fr.en.metadix, apertium-en-fr.en.tsx,
+	  apertium-en-fr.fr.metadix, apertium-en-fr.fr.post-fr.dix,
+	  apertium-en-fr.fr.tsx, apertium-en-fr.post-en.dix, buscaPar.xsl,
+	  en-fr.prob, fr-en.prob, misc, misc/cross-en-es-fr.xml,
+	  misc/ling-resources.xml, modes.xml, principal.xsl: add a start
+	  for en-fr, to experiment with
+
