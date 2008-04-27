@@ -19,11 +19,19 @@ TARGETS = $(TARGETS_COMMON) trules-$(PREFIX1).bin trules-$(PREFIX2).bin \
 	  $(BASENAME).$(PREFIX1)-lextor.dix $(BASENAME).$(PREFIX2)-lextor.dix 
 
 $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).metadix
-	@xsltproc buscaPar.xsl apertium-en-fr.en.metadix | uniq > tmp1gen.xsl 	 
-	@xsltproc tmp1gen.xsl apertium-en-fr.en.metadix >$(BASENAME).$(LANG1).dixtmp1 
+	@xsltproc buscaPar.xsl $(BASENAME).$(LANG1).metadix | uniq > tmp1gen.xsl	 
+	@xsltproc tmp1gen.xsl $(BASENAME).$(LANG1).metadix >$(BASENAME).$(LANG1).dixtmp1 
 	@rm tmp1gen.xsl
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dixtmp1
 	lt-comp lr $(BASENAME).$(LANG1).dixtmp1 $@
+#	@rm $(BASENAME).$(LANG1).dixtmp1
+
+$(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).metadix
+	@xsltproc buscaPar.xsl $(BASENAME).$(LANG2).metadix | uniq > tmp1gen.xsl	 
+	@xsltproc tmp1gen.xsl $(BASENAME).$(LANG2).metadix >$(BASENAME).$(LANG2).dixtmp1 
+	@rm tmp1gen.xsl
+	apertium-validate-dictionary $(BASENAME).$(LANG2).dixtmp1
+	lt-comp lr $(BASENAME).$(LANG2).dixtmp1 $@
 #	@rm $(BASENAME).$(LANG1).dixtmp1
 
 $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
@@ -40,10 +48,6 @@ $(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
 $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
 	lt-comp lr $(BASENAME).post-$(LANG2).dix $@
-
-$(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
-	lt-comp lr $(BASENAME).$(LANG2).dix $@
 
 $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
