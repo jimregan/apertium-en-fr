@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+﻿<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <interchunk>
   <section-def-cats>
 
@@ -847,58 +847,27 @@
 		<pattern-item n="SV"/>
 	</pattern>
 	<action>
-	<call-macro n="assigna_gen_nbr">
-		<with-param pos="1"/>
-	</call-macro>
-	<call-macro n="concord_sn">
-		<with-param pos="1"/>
-		<with-param pos="2"/>
-	</call-macro>
-	<choose>
-		<when>
-			<test>
-			<and>
-				<equal caseless="yes">
-					<clip pos="1" part="lem"/>
-					<lit v="prnperssubj"/>
-				</equal>
-				<equal>
-					<clip pos="2" part="pers"/>
-					<clip pos="1" part="pers"/>
-				</equal>
-				<equal>
-					<clip pos="2" part="nbr"/>
-					<clip pos="1" part="nbr"/>
-				</equal>
-			</and>
-			</test>
-			<out>
-				<chunk><!--el pronom no l'envio, nomï¿½ el 2n chunk -->
-					<get-case-from pos="1">
-						<clip pos="2" part="lem"/>
-					</get-case-from>
-					<clip pos="2" part="tags"/>
-					<clip pos="2" part="chcontent"/>
-				</chunk>
-			</out>
-		</when>
-		<otherwise><!--Quan SN no ï¿½ pronom subjecte, per tant, quan ï¿½ qualsevol altre SN -->
-			<out>
-				<chunk>
-					<clip pos="1" part="lem"/>
-					<clip pos="1" part="tags"/>
-					<clip pos="1" part="chcontent"/>
-				</chunk>
-				<b pos="1"/>
-				<chunk>
-					<clip pos="2" part="lem"/>
-					<clip pos="2" part="tags"/>
-					<clip pos="2" part="chcontent"/>
-				</chunk>
-			</out>
-		</otherwise>
-	</choose>	
-</action>
+	  <call-macro n="assigna_gen_nbr">
+		  <with-param pos="1"/>
+	  </call-macro>
+	  <call-macro n="concord_sn">
+		  <with-param pos="1"/>
+		  <with-param pos="2"/>
+	  </call-macro>
+		<out>
+			<chunk>
+				<clip pos="1" part="lem"/>
+				<clip pos="1" part="tags"/>
+				<clip pos="1" part="chcontent"/>
+			</chunk>
+			<b pos="1"/>
+			<chunk>
+				<clip pos="2" part="lem"/>
+				<clip pos="2" part="tags"/>
+				<clip pos="2" part="chcontent"/>
+			</chunk>
+	  </out>
+  </action>
 </rule>
 
 <rule comment="REGLA: SN SV sprep">
