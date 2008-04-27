@@ -1275,7 +1275,7 @@
     </def-macro>
     <def-macro n="f_concord1" npar="1">
       <choose>
-<!--To determine value of variables of gender and
+             <!--To determine value of variables of gender and
                  number and propagate to other rules.  Variables are
                  not used again in this rule -->
         <when>
@@ -3966,26 +3966,14 @@
           <with-param pos="1"/>
         </call-macro>
         <out>
-          <chunk name="ir_a_inf" case="caseFirstWord">
+          <chunk name="go_to_inf" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SV"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="a_verb"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="temps"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="pers"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="nbr"/>
-              </tag>
-              <tag>
-                <var n="tipusverb"/>
-              </tag>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+              <tag><var n="tipusverb"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
@@ -3997,7 +3985,7 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <lit v="a"/>
+              <lit v="to"/>
               <lit-tag v="pr"/>
             </lu>
             <b/>
@@ -6923,7 +6911,7 @@
                     </lu>
                     <b pos="1"/>
                     <lu>
-                      <lit v="a"/>
+                      <lit v="to"/>
                       <lit-tag v="pr"/>
                     </lu>
                     <b/>
@@ -6948,7 +6936,7 @@
               </when>
               <otherwise>
                 <out>
-                  <chunk name="ir_a_inf_enc" case="caseFirstWord">
+                  <chunk name="go_to_inf_enc" case="caseFirstWord">
                     <tags>
                       <tag><lit-tag v="SV"/></tag>
                       <tag><clip pos="1" side="tl" part="a_verb"/></tag>
