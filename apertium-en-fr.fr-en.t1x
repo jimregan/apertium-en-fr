@@ -577,7 +577,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/>
-            <lit v="buen"/>
+            <lit v="good"/>
           </let>
         </when>
       </choose>
@@ -597,7 +597,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/>
-            <lit v="gran"/>
+            <lit v="grand"/> <!-- FIXME: big? grand? -->
           </let>
         </when>
       </choose>
@@ -621,7 +621,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/>
-            <lit v="primer"/>
+            <lit v="first"/>
           </let>
         </when>
       </choose>
@@ -641,7 +641,7 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/>
-            <lit v="mal"/>
+            <lit v="bad"/>
           </let>
         </when>
       </choose>
@@ -661,11 +661,12 @@
           </test>
           <let>
             <clip pos="1" side="tl" part="lem"/>
-            <lit v="tercer"/>
+            <lit v="third"/>
           </let>
         </when>
       </choose>
     </def-macro>
+    <!-- FIXME: check when this is called -->
     <def-macro n="verb_ref" npar="2">
 <!-- aquesta macro canvia el significat de certs verbs reflexius-->
       <choose>
@@ -984,7 +985,7 @@
           </test>
           <let>
             <var n="tipusprep"/>
-            <lit-tag v="a"/>
+            <lit-tag v="at"/>
           </let>
         </when>
         <otherwise>
@@ -998,7 +999,7 @@
               </test>
               <let>
                 <var n="tipusprep"/>
-                <lit-tag v="en"/>
+                <lit-tag v="in"/>
               </let>
             </when>
             <otherwise>
@@ -1012,7 +1013,7 @@
                   </test>
                   <let>
                     <var n="tipusprep"/>
-                    <lit-tag v="de"/>
+                    <lit-tag v="of"/>
                   </let>
                 </when>
                 <otherwise>
@@ -3143,7 +3144,7 @@
           <with-param pos="1"/>
         </call-macro>
         <out>
-          <chunk name="num_nom_adj" case="caseFirstWord">
+          <chunk name="num_adj_nom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="1" side="sl" part="gen"/></tag>
@@ -3158,19 +3159,19 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="lemh"/>
-              <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="2" side="tl" part="nbr_sp"/>
-              <clip pos="2" side="tl" part="lemq"/>
-            </lu>
-            <b pos="2"/>
-            <lu>
               <clip pos="3" side="tl" part="lemh"/>
-              <clip pos="3" side="tl" part="a_adj"/>
+              <clip pos="3" side="tl" part="a_nom"/>
               <clip pos="3" side="tl" part="nbr_sense_sp" link-to="3"/>
               <clip pos="3" side="tl" part="nbr_sp"/>
               <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
+              <clip pos="2" side="tl" part="nbr_sp"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -3458,7 +3459,7 @@
           <with-param pos="1"/>
         </call-macro>
         <out>
-          <chunk name="det_nom_adj_cnjcoo_adj" case="caseFirstWord">
+          <chunk name="det_adj_cnjcoo_adj_nom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="genero"/></tag>
