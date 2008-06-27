@@ -25315,10 +25315,9 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+    yuck! 
     -->
-    <e>
+    <e i="yes">
       <p>
         <l>awfully<s n="adv"/></l> 
         <r>beaucoup<s n="adv"/></r> 
@@ -118869,25 +118868,16 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>yes<s n="adv"/></l> 
-        <r>si<s n="adv"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
     <e>
       <p>
         <l>yes<s n="adv"/></l> 
         <r>oui<s n="adv"/></r> 
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>yes<s n="adv"/></l> 
+        <r>si<s n="adv"/></r> 
       </p>
     </e>
 
