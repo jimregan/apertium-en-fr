@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--
 	Dictionary:
 	Bilingual dictionary: en-fr
@@ -10591,30 +10591,8 @@
     -->
     <e>
       <p>
-        <l>Lorena<s n="np"/><s n="ant"/></l> 
-        <r>Lorraine<s n="np"/><s n="loc"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
         <l>Lorenzo<s n="np"/><s n="ant"/></l> 
         <r>Lorenzo<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Lorraine<s n="np"/><s n="loc"/></l> 
-        <r>Lorena<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -10805,16 +10783,6 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Lérida<s n="np"/><s n="ant"/></l> 
-        <r>Lleida<s n="np"/></r> 
-      </p>
-    </e>
 
     <!-- 
 	forced 'null' restriction
@@ -11680,28 +11648,6 @@
     -->
     <e>
       <p>
-        <l>Mauricio<s n="np"/><s n="ant"/></l> 
-        <r>Maurice<s n="np"/><s n="loc"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Mauricio<s n="np"/><s n="ant"/></l> 
-        <r>Maurice<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
         <l>Mauritania<s n="np"/><s n="loc"/></l> 
         <r>Mauritanie<s n="np"/></r> 
       </p>
@@ -12367,33 +12313,21 @@
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="LR">
       <p>
         <l>Moroccan<s n="adj"/></l> 
         <r>marocain<s n="adj"/><s n="GD"/></r> 
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="RL">
       <p>
         <l>Moroccan<s n="adj"/></l> 
         <r>marocain<s n="adj"/><s n="m"/></r> 
       </p>
     </e>
 
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
+    <e r="RL">
       <p>
         <l>Moroccan<s n="adj"/></l> 
         <r>marocain<s n="adj"/><s n="f"/></r> 
