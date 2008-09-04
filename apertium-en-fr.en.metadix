@@ -9712,6 +9712,7 @@
 <e lm="morphosyntactic"><i>morphosyntactic</i><par n="expensive__adj"/></e>
 
 <e lm="fast"><i>fast</i><par n="long/__adj"/></e>
+<e lm="just"><i>just</i><par n="long/__adj"/></e>
 
 <e lm="dictatorial"><i>dictatorial</i><par n="expensive__adj"/></e>
 
@@ -16513,7 +16514,19 @@
 <e lm="at once"><i>at<b/>once</i><par n="maybe__adv"/></e>
 <e lm="if that's the case"><i>if<b/>that's<b/>the<b/>case</i><par n="maybe__adv"/></e>
 <e lm="if the worst comes to the worst"><i>if<b/>the<b/>worst<b/>comes<b/>to<b/>the<b/>worst</i><par n="maybe__adv"/></e>
-<e lm="by the skin of one teeth"><i>by<b/>the<b/>skin<b/>of<b/>one<b/>teeth</i><par n="maybe__adv"/></e>
+<e lm="by the skin of one's teeth"><i>by<b/>the<b/>skin<b/>of<b/>one's<b/>teeth</i><par n="maybe__adv"/></e>
+<e lm="by the skin of my teeth"><i>by<b/>the<b/>skin<b/>of<b/>my<b/>teeth</i><par n="maybe__adv"/></e>
+<e lm="by the skin of your teeth"><i>by<b/>the<b/>skin<b/>of<b/>your<b/>teeth</i><par n="maybe__adv"/></e>
+<e lm="by the skin of his teeth"><i>by<b/>the<b/>skin<b/>of<b/>his<b/>teeth</i><par n="maybe__adv"/></e>
+<e lm="by the skin of her teeth"><i>by<b/>the<b/>skin<b/>of<b/>her<b/>teeth</i><par n="maybe__adv"/></e>
+<e lm="by the skin of its teeth"><i>by<b/>the<b/>skin<b/>of<b/>its<b/>teeth</i><par n="maybe__adv"/></e>
+<e lm="by the skin of our teeth"><i>by<b/>the<b/>skin<b/>of<b/>our<b/>teeth</i><par n="maybe__adv"/></e>
+<e lm="by the skin of their teeth"><i>by<b/>the<b/>skin<b/>of<b/>their<b/>teeth</i><par n="maybe__adv"/></e>
+<e lm="by a hair's breadth"><i>by<b/>a<b/>hair's<b/>breadth</i><par n="maybe__adv"/></e>
+<!--
+<e lm="hanging by a thread"><i>hanging<b/>by<b/>a<b/>thread</i><par n="maybe__adv"/></e>
+<e lm="hanging on by a thread"><i>hanging<b/>on<b/>by<b/>a<b/>thread</i><par n="maybe__adv"/></e>
+-->
 <e lm="if worst comes to worst"><i>if<b/>worst<b/>comes<b/>to<b/>worst</i><par n="maybe__adv"/></e>
 <e lm="immediately"><i>immediately</i><par n="maybe__adv"/></e>
 <e lm="inasmuch as possible"><i>inasmuch<b/>as<b/>possible</i><par n="maybe__adv"/></e>
@@ -19684,6 +19697,12 @@
 <e lm="heat"><i>heat</i><par n="house__n"/></e>
 
 <e lm="search"><i>search</i><par n="access__n"/></e>
+
+<e lm="search engine"><i>search<b/>engine</i><par n="house__n"/></e>
+
+<e lm="machine translation"><i>machine<b/>translation</i><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
+<e lm="rule-based machine translation"><i>rule-based<b/>machine<b/>translation</i><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
+<e lm="corpus-based machine translation"><i>corpus-based<b/>machine<b/>translation</i><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
 
 <e lm="claim"><i>claim</i><par n="house__n"/></e>
 
@@ -37741,6 +37760,8 @@
 <e lm="Ukraine"><i>Ukraine</i><par n="Barcelona__np"/></e>
 <e lm="United Arab Emirates"><i>United<b/>Arab<b/>Emirates</i><par n="United_States__np"/></e>
 <e lm="United Kingdom"><i>United<b/>Kingdom</i><par n="Barcelona__np"/></e>
+<e lm="United Kingdom of Great Britain and Ireland"><i>United<b/>Kingdom<b/>of<b/>Great<b/>Britain<b/>and<b/>Ireland</i><par n="Barcelona__np"/></e>
+<e lm="United Kingdom of Great Britain and Northern Ireland"><i>United<b/>Kingdom<b/>of<b/>Great<b/>Britain<b/>and<b/>Northern<b/>Ireland</i><par n="Barcelona__np"/></e>
 <e lm="United States"><i>United<b/>States</i><par n="United_States__np"/></e>
 <e lm="United States of America"><i>United<b/>States<b/>of<b/>America</i><par n="United_States__np"/></e>
 <e lm="Uranus"><i>Uranus</i><par n="Barcelona__np"/></e>
@@ -38256,6 +38277,8 @@
 <e lm="Joe"><i>Joe</i><par n="Mark__np"/></e>
 <e lm="Joseph"><i>Joseph</i><par n="Mark__np"/></e>
 <e lm="Fidel Castro"><i>Fidel<b/>Castro</i><par n="Mark__np"/></e>
+<e lm="Stanislav Gross"><i>Stanislav<b/>Gross</i><par n="Mark__np"/></e>
+<e lm="Per Stig Møller"><i>Per<b/>Stig<b/>Møller</i><par n="Mark__np"/></e>
 
 <!-- cognoms -->
 
@@ -38298,6 +38321,8 @@
 <e lm="Repsol"><i>Repsol</i><par n="Linux__np"/></e>
 <e lm="Telefónica"><i>Telefónica</i><par n="Linux__np"/></e>
 <e lm="Sinn Féin"><i>Sinn<b/>Féin</i><par n="Linux__np"/></e>
+<e lm="Treaty establishing a Constitution for Europe"><i>Treaty<b/>establishing<b/>a<b/>Constitution<b/>for<b/>Europe</i><par n="Linux__np"/></e>
+<e lm="Apertium"><i>Apertium</i><par n="Linux__np"/></e>
 
 <!--més acrònims -->
 
