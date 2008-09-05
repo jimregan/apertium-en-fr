@@ -10548,15 +10548,15 @@
 <e><p><l>venture<s n="n"/></l><r>aventure<s n="n"/></r></p></e>
 <e><p><l>venue<s n="n"/></l><r>local<s n="n"/></r></p></e>
 <e><p><l>verb<s n="n"/></l><r>verbe<s n="n"/></r></p></e>
-<e><p><l>verbal<s n="adj"/></l><r>verbal<s n="adj"/><s n="f"/></r></p></e>
-<e><p><l>verbal<s n="adj"/></l><r>verbal<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>verbal<s n="adj"/></l><r>verbal<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>verbal<s n="adj"/></l><r>verbal<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>verbal<s n="adj"/></l><r>verbal<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>verbal<s n="adj"/></l><r>verbal<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>versatile<s n="adj"/></l><r>versatile<s n="adj"/></r></p></e>
 <e><p><l>verse<s n="n"/></l><r>vers<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>version<s n="n"/></l><r>version<s n="n"/></r></p></e>
-<e><p><l>vertical<s n="adj"/></l><r>vertical<s n="adj"/><s n="GD"/></r></p></e>
-<e><p><l>vertical<s n="adj"/></l><r>vertical<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>vertical<s n="adj"/></l><r>vertical<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>vertical<s n="adj"/></l><r>vertical<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>vertical<s n="adj"/></l><r>vertical<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>vertical<s n="adj"/></l><r>vertical<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>vertically<s n="adv"/></l><r>verticalement<s n="adv"/></r></p></e>
 <e><p><l>very<s n="preadv"/></l><r>très<s n="preadv"/></r></p></e>
 <e><p><l>very<s n="preadv"/></l><r>bien<s n="preadv"/></r></p></e>
@@ -10591,9 +10591,9 @@
 <e><p><l>violin<s n="n"/></l><r>violon<s n="n"/></r></p></e>
 <e c="new-category"><p><l>virgin<s n="n"/></l><r>vierge<s n="n"/></r></p></e>
 <e c="new-category"><p><l>virgin<s n="adj"/></l><r>vierge<s n="adj"/></r></p></e>
-<e><p><l>virtual<s n="adj"/></l><r>virtuel<s n="adj"/><s n="GD"/></r></p></e>
-<e><p><l>virtual<s n="adj"/></l><r>virtuel<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>virtual<s n="adj"/></l><r>virtuel<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>virtual<s n="adj"/></l><r>virtuel<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>virtual<s n="adj"/></l><r>virtuel<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>virtual<s n="adj"/></l><r>virtuel<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>virtually<s n="adv"/></l><r>virtuellement<s n="adv"/></r></p></e>
 <e><p><l>virtue<s n="n"/></l><r>vertu<s n="n"/></r></p></e>
 <e><p><l>virulence<s n="n"/></l><r>virulence<s n="n"/></r></p></e>
@@ -10607,22 +10607,22 @@
 <e><p><l>visit<s n="vblex"/></l><r>visiter<s n="vblex"/></r></p></e>
 <e><p><l>visit<s n="vblex"/></l><r>rendre<g><b/>visite</g><s n="vblex"/></r></p></e>
 <e><p><l>visit<s n="vblex"/></l><r>parcourir<s n="vblex"/></r></p></e>
-<e><p><l>visitor<s n="n"/></l><r>visiteur<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>visitor<s n="n"/></l><r>visiteur<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>visitor<s n="n"/></l><r>visiteur<s n="n"/><s n="GD"/></r></p></e>
-<e><p><l>visual<s n="adj"/></l><r>visuel<s n="adj"/><s n="GD"/></r></p></e>
-<e><p><l>visual<s n="adj"/></l><r>visuel<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>visual<s n="adj"/></l><r>visuel<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>visitor<s n="n"/></l><r>visiteur<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>visitor<s n="n"/></l><r>visiteur<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>visitor<s n="n"/></l><r>visiteur<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>visual<s n="adj"/></l><r>visuel<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>visual<s n="adj"/></l><r>visuel<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>visual<s n="adj"/></l><r>visuel<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>visualization<s n="n"/></l><r>visualisation<s n="n"/></r></p></e>
-<e><p><l>vital<s n="adj"/></l><r>vital<s n="adj"/><s n="GD"/></r></p></e>
-<e><p><l>vital<s n="adj"/></l><r>vital<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>vital<s n="adj"/></l><r>vital<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>vital<s n="adj"/></l><r>vital<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>vital<s n="adj"/></l><r>vital<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>vital<s n="adj"/></l><r>vital<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>vitality<s n="n"/></l><r>vitalité<s n="n"/></r></p></e>
 <e><p><l>vitamin<s n="n"/></l><r>vitamine<s n="n"/></r></p></e>
 <e><p><l>vivacity<s n="n"/></l><r>vivacité<s n="n"/></r></p></e>
-<e><p><l>vocal<s n="adj"/></l><r>vocal<s n="adj"/><s n="GD"/></r></p></e>
-<e><p><l>vocal<s n="adj"/></l><r>vocal<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>vocal<s n="adj"/></l><r>vocal<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>vocal<s n="adj"/></l><r>vocal<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>vocal<s n="adj"/></l><r>vocal<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>vocal<s n="adj"/></l><r>vocal<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>vocation<s n="n"/></l><r>vocation<s n="n"/></r></p></e>
 <e><p><l>vodka<s n="n"/></l><r>vodka<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>voice<s n="n"/></l><r>voix<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -10642,9 +10642,9 @@
 <e><p><l>vote<s n="n"/></l><r>vote<s n="n"/></r></p></e>
 <e><p><l>vote<s n="n"/></l><r>voeu<s n="n"/></r></p></e>
 <e><p><l>vote<s n="vblex"/></l><r>voter<s n="vblex"/></r></p></e>
-<e><p><l>voter<s n="n"/></l><r>votant<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>voter<s n="n"/></l><r>votant<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>voter<s n="n"/></l><r>votant<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>voter<s n="n"/></l><r>votant<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>voter<s n="n"/></l><r>votant<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>voter<s n="n"/></l><r>votant<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>vulgar<s n="adj"/></l><r>vulgaire<s n="adj"/></r></p></e>
 <e><p><l>vulnerable<s n="adj"/></l><r>vulnérable<s n="adj"/></r></p></e>
 <e><p><l>vulture<s n="n"/></l><r>vautour<s n="n"/></r></p></e>
@@ -10696,9 +10696,9 @@
 <e c="(television)"><p><l>watch<s n="vblex"/></l><r>mirer<s n="vblex"/></r></p></e>
 <e c="(television)"><p><l>watch<s n="vblex"/></l><r>regarder<s n="vblex"/></r></p></e>
 <e><p><l>watch<s n="vblex"/></l><r>surveiller<s n="vblex"/></r></p></e>
-<e><p><l>watchdog<s n="n"/></l><r>surveillant<s n="n"/><s n="GD"/></r></p></e>
-<e><p><l>watchdog<s n="n"/></l><r>surveillant<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>watchdog<s n="n"/></l><r>surveillant<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>watchdog<s n="n"/></l><r>surveillant<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>watchdog<s n="n"/></l><r>surveillant<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>watchdog<s n="n"/></l><r>surveillant<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>watchmaking<s n="n"/></l><r>horlogerie<s n="n"/></r></p></e>
 <e><p><l>watchtower<s n="n"/></l><r>guette<s n="n"/></r></p></e>
 <e><p><l>water<s n="n"/></l><r>eau<s n="n"/></r></p></e>
@@ -10746,15 +10746,15 @@
 <e><p><l>welfare<s n="n"/></l><r>bien-être<s n="n"/></r></p></e>
 <e><p><l>well<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
 <e><p><l>west<s n="n"/></l><r>ouest<s n="n"/></r></p></e>
-<e><p><l>western<s n="adj"/></l><r>occidental<s n="adj"/><s n="f"/></r></p></e>
-<e><p><l>western<s n="adj"/></l><r>occidental<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>western<s n="adj"/></l><r>occidental<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>western<s n="adj"/></l><r>occidental<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>western<s n="adj"/></l><r>occidental<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>western<s n="adj"/></l><r>occidental<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>wet<s n="adj"/></l><r>humide<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>whale<s n="n"/></l><r>baleine<s n="n"/></r></p></e>
-<e c="Per ara tot serà sg en català, però mirar després frases del tipus: 'what are your fauvorite dishes'-quins són... Però: 'What are fractals'- què son..."><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>qu'est-ce<b/>que<b/>c'est<b/>que<s n="prn"/></r></p></e>
-<e c="Per ara tot serà sg en català, però mirar després frases del tipus: 'what are your fauvorite dishes'-quins són... Però: 'What are fractals'- què son..."><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>que<s n="prn"/></r></p></e>
-<e c="Per ara tot serà sg en català, però mirar després frases del tipus: 'what are your fauvorite dishes'-quins són... Però: 'What are fractals'- què son..."><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>qu'est-ce<b/>que<s n="prn"/></r></p></e>
-<e c="Per ara tot serà sg en català, però mirar després frases del tipus: 'what are your fauvorite dishes'-quins són... Però: 'What are fractals'- què son..."><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>quoi<s n="prn"/></r></p></e>
+<e><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>qu'est-ce<b/>que<b/>c'est<b/>que<s n="prn"/></r></p></e>
+<e><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>que<s n="prn"/></r></p></e>
+<e><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>qu'est-ce<b/>que<s n="prn"/></r></p></e>
+<e><p><l>what<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></l><r>quoi<s n="prn"/></r></p></e>
 <e><p><l>whatever<s n="det"/><s n="ind"/></l><r>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
 <e><p><l>whatever<s n="prn"/><s n="tn"/><s n="m"/></l><r>n'importe<b/>quoi<s n="prn"/></r></p></e>
 <e c="check"><p><l>whatever<b/>happens<s n="adv"/></l><r>quoi<b/>qu'il<b/>arrive<s n="adv"/></r></p></e>
