@@ -41,9 +41,12 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	lt-comp lr tmp$(PREFIX1).autobil.dix $@
 	rm tmp$(PREFIX1).autobil.dix
 
-$(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
-	lt-comp rl $(BASENAME).$(LANG2).dix $@
+$(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).metadix
+	@xsltproc buscaPar.xsl $(BASENAME).$(LANG2).metadix | uniq > tmp1gen.xsl	 
+	@xsltproc tmp1gen.xsl $(BASENAME).$(LANG2).metadix >$(BASENAME).$(LANG2).dixtmp1 
+	@rm tmp1gen.xsl
+	apertium-validate-dictionary $(BASENAME).$(LANG2).dixtmp1
+	lt-comp rl $(BASENAME).$(LANG2).dixtmp1 $@
 
 $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
