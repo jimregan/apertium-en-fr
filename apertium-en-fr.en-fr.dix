@@ -7004,9 +7004,9 @@
 <e><p><l>multiply<s n="vblex"/></l><r>multiplier<s n="vblex"/></r></p></e>
 <e><p><l>mum<s n="n"/></l><r>mamelle<s n="n"/></r></p></e>
 <e><p><l>mummy<s n="n"/></l><r>momie<s n="n"/></r></p></e>
-<e><p><l>municipal<s n="adj"/></l><r>municipal<s n="adj"/><s n="f"/></r></p></e>
-<e><p><l>municipal<s n="adj"/></l><r>municipal<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>municipal<s n="adj"/></l><r>municipal<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>municipal<s n="adj"/></l><r>municipal<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>municipal<s n="adj"/></l><r>municipal<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>municipal<s n="adj"/></l><r>municipal<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>municipality<s n="n"/></l><r>commune<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>murder<s n="n"/></l><r>assassinat<s n="n"/></r></p></e>
 <e><p><l>murder<s n="vblex"/></l><r>assassiner<s n="vblex"/></r></p></e>
@@ -7026,18 +7026,18 @@
 <e><p><l>mutilation<s n="n"/></l><r>mutilation<s n="n"/></r></p></e>
 <e><p><l>mutter<s n="vblex"/></l><r>murmurer<s n="vblex"/></r></p></e>
 <e><p><l>mutual<s n="adj"/></l><r>mutuel<s n="adj"/></r></p></e>
-<e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
-<e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
-<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 <e><p><l>mysterious<s n="adj"/></l><r>mystérieux<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>mysterious<s n="adj"/></l><r>mystérieux<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>mystery<s n="n"/></l><r>mystère<s n="n"/></r></p></e>
 <e><p><l>myth<s n="n"/></l><r>mythe<s n="n"/></r></p></e>
 <e><p><l>mythical<s n="adj"/></l><r>mythique<s n="adj"/><s n="mf"/></r></p></e>
-<e c="new-category"><p><l>nail<s n="n"/></l><r>clou<s n="n"/></r></p></e>
+<e><p><l>nail<s n="n"/></l><r>clou<s n="n"/></r></p></e>
 <e><p><l>nail<s n="n"/></l><r>ongle<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>name<s n="n"/></l><r>prénom<s n="n"/></r></p></e>
+<e><p><l>first<b/>name<s n="n"/></l><r>prénom<s n="n"/></r></p></e>
 <e><p><l>name<s n="n"/></l><r>nom<s n="n"/></r></p></e>
 <e><p><l>name<s n="vblex"/></l><r>nommer<s n="vblex"/></r></p></e>
 <e><p><l>napkin<s n="n"/></l><r>serviette<s n="n"/><s n="f"/></r></p></e>
@@ -7047,9 +7047,9 @@
 <e><p><l>narrow<s n="adj"/><s n="sint"/></l><r>étroit<s n="adj"/></r></p></e>
 <e><p><l>nasty<s n="adj"/><s n="sint"/></l><r>mauvais<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>nasty<s n="adj"/><s n="sint"/></l><r>mauvais<s n="adj"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>natality<s n="n"/></l><r>natalité<s n="n"/></r></p></e>
 <e><p><l>nation<s n="n"/></l><r>nation<s n="n"/></r></p></e>
 <e><p><l>national<s n="adj"/></l><r>national<s n="adj"/><s n="f"/></r></p></e>
