@@ -7026,11 +7026,10 @@
 <e><p><l>mutilation<s n="n"/></l><r>mutilation<s n="n"/></r></p></e>
 <e><p><l>mutter<s n="vblex"/></l><r>murmurer<s n="vblex"/></r></p></e>
 <e><p><l>mutual<s n="adj"/></l><r>mutuel<s n="adj"/></r></p></e>
-<e><p><l>my<s n="det"/></l><r>mon<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>my<s n="det"/></l><r>mon<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>my<s n="det"/></l><r>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
-<e><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></r></p></e>
-<e><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 <e><p><l>mysterious<s n="adj"/></l><r>mystérieux<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>mysterious<s n="adj"/></l><r>mystérieux<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>mystery<s n="n"/></l><r>mystère<s n="n"/></r></p></e>
@@ -7048,9 +7047,9 @@
 <e><p><l>narrow<s n="adj"/><s n="sint"/></l><r>étroit<s n="adj"/></r></p></e>
 <e><p><l>nasty<s n="adj"/><s n="sint"/></l><r>mauvais<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>nasty<s n="adj"/><s n="sint"/></l><r>mauvais<s n="adj"/><s n="f"/></r></p></e>
-<e><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="f"/></r></p></e>
-<e><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>natal<s n="adj"/></l><r>natal<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>natality<s n="n"/></l><r>natalité<s n="n"/></r></p></e>
 <e><p><l>nation<s n="n"/></l><r>nation<s n="n"/></r></p></e>
 <e><p><l>national<s n="adj"/></l><r>national<s n="adj"/><s n="f"/></r></p></e>
