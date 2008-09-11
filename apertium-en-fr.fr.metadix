@@ -36576,8 +36576,16 @@
   <par n="BBC__n"/>
 </e>
 <e lm="contrôle technique automobile" a="eleka">
-  <i>contrôle<b/>technique<b/>automobile</i>
-  <par n="BBVA__n"/>
+  <p>
+    <l>contrôle<b/>technique<b/>automobile</l>
+    <r>contrôle<b/>technique<b/>automobile<s n="n"/><s n="m"/><s n="sg"/></r>
+  </p>
+</e>
+<e lm="contrôle technique automobile" a="eleka">
+  <p>
+    <l>contrôles<b/>techniques<b/>automobiles</l>
+    <r>contrôle<b/>technique<b/>automobile<s n="n"/><s n="m"/><s n="pl"/></r>
+  </p>
 </e>
 <e lm="Balza" a="eleka">
   <i>Balza</i>
