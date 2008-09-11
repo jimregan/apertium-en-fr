@@ -26,7 +26,7 @@ $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).metadix
 	@rm tmp1gen.xsl
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dixtmp1
 	lt-comp lr $(BASENAME).$(LANG1).dixtmp1 $@
-#	@rm $(BASENAME).$(LANG1).dixtmp1
+	@rm $(BASENAME).$(LANG1).dixtmp1
 
 $(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).metadix
 	@xsltproc buscaPar.xsl $(BASENAME).$(LANG2).metadix | uniq > tmp1gen.xsl	 
@@ -34,7 +34,7 @@ $(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).metadix
 	@rm tmp1gen.xsl
 	apertium-validate-dictionary $(BASENAME).$(LANG2).dixtmp1
 	lt-comp lr $(BASENAME).$(LANG2).dixtmp1 $@
-#	@rm $(BASENAME).$(LANG1).dixtmp1
+	@rm $(BASENAME).$(LANG1).dixtmp1
 
 $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
