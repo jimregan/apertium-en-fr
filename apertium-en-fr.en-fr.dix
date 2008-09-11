@@ -2399,7 +2399,7 @@
 <e><p><l>away<s n="adv"/></l><r>dehors<s n="adv"/></r></p></e>
 <e><p><l>awful<s n="adj"/></l><r>terrible<s n="adj"/></r></p></e>
 <e i="yes"><p><l>awfully<s n="adv"/></l><r>beaucoup<s n="adv"/></r></p></e>
-<e><p><l>awning<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>awning<s n="n"/></l><r>auvent<s n="n"/></r></p></e>
 <e><p><l>axe<s n="n"/></l><r>hache<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>axis<s n="n"/></l><r>essieu<s n="n"/></r></p></e>
 <e><p><l>axis<s n="n"/></l><r>axe<s n="n"/><s n="m"/></r></p></e>
@@ -2422,7 +2422,6 @@
 <e><p><l>baffle<s n="vblex"/></l><r>déconcerter<s n="vblex"/></r></p></e>
 <e><p><l>bag<s n="n"/></l><r>bourse<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bag<s n="n"/></l><r>sac<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>bag<s n="n"/></l><r><s n="</r></p></e>
 <e><p><l>baggage<s n="n"/></l><r>bagage<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bake<s n="vblex"/></l><r>cuire<s n="vblex"/></r></p></e>
 <e><p><l>baker<s n="n"/></l><r>boulanger<s n="n"/><s n="m"/></r></p></e>
@@ -2897,7 +2896,7 @@
 <e><p><l>catalanism<s n="n"/></l><r>catalanisme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>catalogue<s n="n"/></l><r>catalogue<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cataract<s n="n"/></l><r>chute<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>catarrh<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>catarrh<s n="n"/></l><r>rhume<s n="n"/></r></p></e>
 <e><p><l>catastrophe<s n="n"/></l><r>catastrophe<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>catch<s n="vblex"/></l><r>prendre<s n="vblex"/></r></p></e>
 <e><p><l>catchment<s n="n"/></l><r>captage<s n="n"/><s n="m"/></r></p></e>
@@ -2991,7 +2990,6 @@
 <e><p><l>chase<s n="vblex"/></l><r>pourchasser<s n="vblex"/></r></p></e>
 <e><p><l>chassis<s n="n"/></l><r>châssis<s n="n"/></r></p></e>
 <e><p><l>chat<s n="n"/></l><r>bavardage<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>chat<s n="n"/></l><r><s n="</r></p></e>
 <e><p><l>chauffeur<s n="n"/></l><r>chauffeur<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>chauffeur<s n="n"/></l><r>chauffeur<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>chauffeur<s n="n"/></l><r>chauffeur<s n="n"/><s n="GD"/></r></p></e>
@@ -3141,7 +3139,7 @@
 <e><p><l>club<s n="n"/></l><r>club<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>clue<s n="n"/></l><r>piste<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cluster<s n="n"/></l><r>groupe<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>coach<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>coach<s n="n"/></l><r>entraîneur<s n="n"/></r></p></e>
 <e><p><l>coal<s n="n"/></l><r>charbon<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>coalition<s n="n"/></l><r>coalition<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>coast<s n="n"/></l><r>côte<s n="n"/><s n="f"/></r></p></e>
@@ -3164,7 +3162,7 @@
 <e><p><l>coin<s n="vblex"/></l><r>frapper<s n="vblex"/></r></p></e>
 <e><p><l>coincide<s n="vblex"/></l><r>coïncider<s n="vblex"/></r></p></e>
 <e><p><l>cold<s n="n"/></l><r>froid<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>cold<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>cold<s n="n"/></l><r>rhume<s n="n"/></r></p></e>
 <e><p><l>cold<s n="adj"/><s n="sint"/></l><r>froid<s n="adj"/></r></p></e>
 <e><p><l>collaboration<s n="n"/></l><r>collaboration<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>collaborator<s n="n"/></l><r>collaborateur<s n="n"/><s n="m"/></r></p></e>
@@ -3245,7 +3243,7 @@
 <e><p><l>common<s n="adj"/></l><r>courant<s n="adj"/><s n="m"/></r></p></e>
 <e><p><l>commonly<s n="adv"/></l><r>généralement<s n="adv"/></r></p></e>
 <e><p><l>commonly<s n="adv"/></l><r>populairement<s n="adv"/></r></p></e>
-<e><p><l>commonplace<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>commonplace<s n="n"/></l><r>cliché<s n="n"/></r></p></e>
 <e><p><l>communicate<s n="vblex"/></l><r>communiquer<s n="vblex"/></r></p></e>
 <e><p><l>communication<s n="n"/></l><r>communication<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>communication<s n="n"/></l><r>comunication<s n="n"/></r></p></e>
@@ -3306,7 +3304,7 @@
 <e><p><l>comprehensive<s n="adj"/></l><r>compréhensible<s n="adj"/></r></p></e>
 <e><p><l>comprise<s n="vblex"/></l><r>comprendre<s n="vblex"/></r></p></e>
 <e><p><l>compulsory<s n="adj"/></l><r>obligatoire<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>computer<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>computer<s n="n"/></l><r>ordinateur<s n="n"/></r></p></e>
 <e><p><l>computerization<s n="n"/></l><r>informatisation<s n="n"/></r></p></e>
 <e><p><l>comrade<s n="n"/></l><r>camarade<s n="n"/></r></p></e>
 <e><p><l>conceal<s n="vblex"/></l><r>celer<s n="vblex"/></r></p></e>
@@ -3476,7 +3474,7 @@
 <e><p><l>contribution<s n="n"/></l><r>contribution<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>contrive<s n="vblex"/></l><r>idéer<s n="vblex"/></r></p></e>
 <e><p><l>control<s n="n"/></l><r>contrôle<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>control<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>control<s n="n"/></l><r>commandement<s n="n"/></r></p></e>
 <e><p><l>control<s n="vblex"/></l><r>contrôler<s n="vblex"/></r></p></e>
 <e><p><l>controversy<s n="n"/></l><r>controverse<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>controversy<s n="n"/></l><r>polémique<s n="n"/><s n="f"/></r></p></e>
@@ -3567,7 +3565,7 @@
 <e><p><l>course<s n="n"/></l><r>cours<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>court<s n="n"/></l><r>tribunal<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>court<s n="n"/></l><r>cour<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>courtship<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>courtship<s n="n"/></l><r>cortège<s n="n"/></r></p></e>
 <e><p><l>courtyard<s n="n"/></l><r>cour<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cousin<s n="n"/></l><r>cousin<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cover<s n="n"/></l><r>couverture<s n="n"/><s n="f"/></r></p></e>
@@ -3744,7 +3742,7 @@
 <e><p><l>decadence<s n="n"/></l><r>déclin<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>decapitation<s n="n"/></l><r>décapitation<s n="n"/></r></p></e>
 <e><p><l>decay<s n="n"/></l><r>déclin<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>deceit<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>deceit<s n="n"/></l><r>deuil<s n="n"/></r></p></e>
 <e><p><l>deceive<s n="vblex"/></l><r>duper<s n="vblex"/></r></p></e>
 <e><p><l>deceive<s n="vblex"/></l><r>tromper<s n="vblex"/></r></p></e>
 <e><p><l>decent<s n="adj"/></l><r>décent<s n="adj"/><s n="GD"/></r></p></e>
@@ -3826,7 +3824,7 @@
 <e><p><l>democratization<s n="n"/></l><r>démocratisation<s n="n"/></r></p></e>
 <e><p><l>demographical<s n="adj"/></l><r>démographique<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>demography<s n="n"/></l><r>démographie<s n="n"/></r></p></e>
-<e><p><l>demolition<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>demolition<s n="n"/></l><r>gravat<s n="n"/></r></p></e>
 <e><p><l>demolition<s n="n"/></l><r>gravats<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>demon<s n="n"/></l><r>démon<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>demonstrate<s n="vblex"/></l><r>démontrer<s n="vblex"/></r></p></e>
@@ -4198,7 +4196,7 @@
 <e><p><l>dub<s n="vblex"/></l><r>baptiser<s n="vblex"/></r></p></e>
 <e><p><l>due<b/>to<s n="pr"/></l><r>en<b/>raison<b/>de<s n="pr"/></r></p></e>
 <e><p><l>duel<s n="n"/></l><r>duel<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>duel<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>duel<s n="n"/></l><r>deuil<s n="n"/></r></p></e>
 <e><p><l>duke<s n="n"/></l><r>duc<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>dull<s n="vblex"/></l><r>atténuer<s n="vblex"/></r></p></e>
 <e><p><l>dumb<s n="adj"/><s n="sint"/></l><r>muet<s n="adj"/></r></p></e>
@@ -5280,7 +5278,7 @@
 <e><p><l>goodbye<s n="n"/></l><r>adieu<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>goodbye<s n="ij"/></l><r>au<b/>revoir<s n="ij"/></r></p></e>
 <e><p><l>gorilla<s n="n"/></l><r>gorille<s n="n"/></r></p></e>
-<e><p><l>gossip<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>gossip<s n="n"/></l><r>truc<s n="n"/></r></p></e>
 <e><p><l>govern<s n="vblex"/></l><r>gouverner<s n="vblex"/></r></p></e>
 <e><p><l>government<s n="n"/></l><r>gouvernement<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>governmental<s n="adj"/></l><r>gouvernemental<s n="adj"/><s n="f"/></r></p></e>
@@ -6018,7 +6016,7 @@
 <e><p><l>interactive<s n="adj"/></l><r>interactif<s n="adj"/></r></p></e>
 <e><p><l>interactiveness<s n="n"/></l><r>interactivité<s n="n"/></r></p></e>
 <e><p><l>interest<s n="n"/><s n="pl"/></l><r>inquiétude<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>interest<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>interest<s n="n"/></l><r>intérêt<s n="n"/></r></p></e>
 <e><p><l>interest<s n="vblex"/></l><r>intéresser<s n="vblex"/></r></p></e>
 <e><p><l>interesting<s n="adj"/></l><r>intéressant<s n="adj"/></r></p></e>
 <e><p><l>interestingly<s n="adv"/></l><r>curieusement<s n="adv"/></r></p></e>
@@ -6075,7 +6073,7 @@
 <e><p><l>inventive<s n="adj"/></l><r>ingénieux<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>inventive<s n="adj"/></l><r>ingénieux<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>inventor<s n="n"/></l><r>inventeur<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>inventory<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>inventory<s n="n"/></l><r>recensement<s n="n"/></r></p></e>
 <e><p><l>invest<s n="vblex"/></l><r>investir<s n="vblex"/></r></p></e>
 <e><p><l>invest<s n="vblex"/></l><r>inverser<s n="vblex"/></r></p></e>
 <e><p><l>investigate<s n="vblex"/></l><r>enquêter<s n="vblex"/></r></p></e>
@@ -6930,7 +6928,7 @@
 <e><p><l>much<b/>longer<s n="adv"/></l><r>beaucoup<b/>plus<s n="adv"/></r></p></e>
 <e><p><l>much<b/>more<s n="adv"/></l><r>beaucoup<b/>plus<s n="adv"/></r></p></e>
 <e><p><l>mud<s n="n"/></l><r>vase<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>mulch<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>mulch<s n="n"/></l><r>lit<s n="n"/></r></p></e>
 <e><p><l>multinational<s n="n"/></l><r>multinationale<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>multiple<s n="n"/></l><r>multiple<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>multiple<s n="adj"/></l><r>multiple<s n="adj"/></r></p></e>
@@ -7489,7 +7487,7 @@
 <e><p><l>parliament<s n="n"/></l><r>parlement<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>parliamentary<s n="adj"/></l><r>parlementaire<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>parquet<s n="n"/></l><r>parquet<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>parrot<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>parrot<s n="n"/></l><r>perroquet<s n="n"/></r></p></e>
 <e><p><l>part<s n="n"/></l><r>partie<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>part<s n="n"/></l><r>part<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>part<s n="vblex"/></l><r>séparer<s n="vblex"/></r></p></e>
@@ -8369,7 +8367,7 @@
 <e><p><l>reason<s n="vblex"/></l><r>raisonner<s n="vblex"/></r></p></e>
 <e><p><l>reasonable<s n="adj"/></l><r>raisonnable<s n="adj"/></r></p></e>
 <e><p><l>reasonably<s n="adv"/></l><r>raisonnablement<s n="adv"/></r></p></e>
-<e><p><l>reasoning<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>reasoning<s n="n"/></l><r>raisonnement<s n="n"/></r></p></e>
 <e><p><l>reassure<s n="vblex"/></l><r>accalmir<s n="vblex"/></r></p></e>
 <e><p><l>reassure<s n="vblex"/></l><r>rassurer<s n="vblex"/></r></p></e>
 <e><p><l>rebellion<s n="n"/></l><r>rébellion<s n="n"/><s n="f"/></r></p></e>
@@ -8438,7 +8436,7 @@
 <e><p><l>reference<s n="n"/></l><r>référence<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>referendum<s n="n"/></l><r>référendum<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>referent<s n="n"/></l><r>référent<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>refill<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>refill<s n="n"/></l><r>rechange<s n="n"/></r></p></e>
 <e><p><l>refinery<s n="n"/></l><r>raffinerie<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>reflation<s n="n"/></l><r>réactivation<s n="n"/></r></p></e>
 <e><p><l>reflect<s n="vblex"/></l><r>refléter<s n="vblex"/></r></p></e>
@@ -8830,7 +8828,7 @@
 <e><p><l>rush<s n="n"/></l><r>hâte<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ruthless<s n="adj"/></l><r>cruel<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>sabotage<s n="n"/></l><r>sabotage<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>sack<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>sack<s n="n"/></l><r>sac<s n="n"/></r></p></e>
 <e><p><l>sack<s n="vblex"/></l><r>licencier<s n="vblex"/></r></p></e>
 <e><p><l>sacrament<s n="n"/></l><r>sacrement<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sacred<s n="adj"/></l><r>sacré<s n="adj"/></r></p></e>
@@ -8930,7 +8928,7 @@
 <e><p><l>search<s n="vblex"/></l><r>chercher<s n="vblex"/></r></p></e>
 <e><p><l>search<g><b/>for</g><s n="vblex"/></l><r>chercher<s n="vblex"/></r></p></e>
 <e><p><l>search<b/>engine<s n="n"/></l><r>moteur<g><b/>de<b/>recherche</g><s n="n"/><s n="m"/></r></p></e>
-<e><p><l>seasickness<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>seasickness<s n="n"/></l><r>vertige<s n="n"/></r></p></e>
 <e><p><l>season<s n="n"/></l><r>saison<s n="n"/></r></p></e>
 <e><p><l>season<s n="n"/></l><r>gare<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>season<s n="n"/></l><r>station<s n="n"/></r></p></e>
@@ -9122,7 +9120,7 @@
 <e><p><l>short<s n="adj"/><s n="sint"/></l><r>court<s n="adj"/></r></p></e>
 <e><p><l>shorten<s n="vblex"/></l><r>raccourcir<s n="vblex"/></r></p></e>
 <e><p><l>shortly<s n="adv"/></l><r>dans<b/>peu<b/>de<b/>temps<s n="adv"/></r></p></e>
-<e><p><l>shot<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>shot<s n="n"/></l><r>trait<s n="n"/></r></p></e>
 <e><p><l>shot<s n="n"/></l><r>tir<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>shotgun<s n="n"/></l><r>fusil<g><b/>de<b/>chasse</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>shoulder<s n="n"/></l><r>épaule<s n="n"/><s n="f"/></r></p></e>
@@ -9179,7 +9177,7 @@
 <e><p><l>simply<s n="adv"/></l><r>simplement<s n="adv"/></r></p></e>
 <e><p><l>simply<s n="adv"/></l><r>bonnement<s n="adv"/></r></p></e>
 <e><p><l>simulation<s n="n"/></l><r>simulacre<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>simulator<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>simulator<s n="n"/></l><r>simulateur<s n="n"/></r></p></e>
 <e><p><l>simultaneously<s n="adv"/></l><r>parallèlement<s n="adv"/></r></p></e>
 <e><p><l>simultaneously<s n="adv"/></l><r>simultanément<s n="adv"/></r></p></e>
 <e><p><l>sin<s n="n"/></l><r>péché<s n="n"/><s n="m"/></r></p></e>
@@ -9377,7 +9375,7 @@
 <e><p><l>space<s n="vblex"/></l><r>espacer<s n="vblex"/></r></p></e>
 <e><p><l>spacecraft<s n="n"/></l><r>aéronef<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>spangle<s n="n"/></l><r>paillette<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>spare<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>spare<s n="n"/></l><r>rechange<s n="n"/></r></p></e>
 <e><p><l>spare<s n="vblex"/></l><r>épargner<s n="vblex"/></r></p></e>
 <e><p><l>spatial<s n="adj"/></l><r>spatial<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>spatial<s n="adj"/></l><r>spatial<s n="adj"/><s n="m"/></r></p></e>
@@ -9470,7 +9468,7 @@
 <e><p><l>stake<s n="n"/></l><r>participation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stall<s n="n"/></l><r>étable<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stamp<s n="n"/></l><r>sceau<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>stand<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>stand<s n="n"/></l><r>soutien<s n="n"/></r></p></e>
 <e><p><l>stand<s n="n"/></l><r>arrêt<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>stand<s n="n"/></l><r>position<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stand<s n="vblex"/></l><r>résister<s n="vblex"/></r></p></e>
@@ -9576,7 +9574,7 @@
 <e><p><l>stripe<s n="vblex"/></l><r>rayer<s n="vblex"/></r></p></e>
 <e><p><l>stroke<s n="n"/></l><r>attaque<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>stroke<s n="n"/></l><r>coup<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>stroke<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>stroke<s n="n"/></l><r>trait<s n="n"/></r></p></e>
 <e><p><l>stroke<s n="vblex"/></l><r>caresser<s n="vblex"/></r></p></e>
 <e><p><l>stroll<s n="vblex"/></l><r>promener<s n="vblex"/></r></p></e>
 <e><p><l>strong<s n="adj"/><s n="sint"/></l><r>fort<s n="adj"/><s n="f"/></r></p></e>
@@ -9678,7 +9676,7 @@
 <e><p><l>supplier<s n="n"/></l><r>fournisseur<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>supply<s n="n"/></l><r>fourniture<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>supply<s n="vblex"/></l><r>distribuer<s n="vblex"/></r></p></e>
-<e><p><l>support<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>support<s n="n"/></l><r>soutien<s n="n"/></r></p></e>
 <e><p><l>support<s n="n"/></l><r>support<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>support<s n="vblex"/></l><r>soutenir<s n="vblex"/></r></p></e>
 <e><p><l>support<s n="vblex"/></l><r>appuyer<s n="vblex"/></r></p></e>
@@ -9997,7 +9995,7 @@
 <e><p><l>thought<s n="n"/></l><r>pensée<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>thousand<s n="n"/></l><r>millier<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>thousand<s n="num"/></l><r>mil<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-<e><p><l>thread<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>thread<s n="n"/></l><r>fil<s n="n"/></r></p></e>
 <e><p><l>threat<s n="n"/></l><r>menace<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>threatening<s n="adj"/></l><r>menaçant<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>threatening<s n="adj"/></l><r>menaçant<s n="adj"/><s n="m"/></r></p></e>
@@ -10015,7 +10013,7 @@
 <e><p><l>throughout<s n="pr"/></l><r>pendant<s n="pr"/></r></p></e>
 <e><p><l>throw<s n="vblex"/></l><r>jeter<s n="vblex"/></r></p></e>
 <e><p><l>thrust<s n="vblex"/></l><r>pousser<s n="vblex"/></r></p></e>
-<e><p><l>thumb<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>thumb<s n="n"/></l><r>pouce<s n="n"/></r></p></e>
 <e><p><l>thus<s n="cnjadv"/></l><r>c'est<b/>pour<b/>cela<b/>que<s n="cnjadv"/></r></p></e>
 <e><p><l>thus<s n="cnjadv"/></l><r>du<b/>coup<s n="cnjadv"/></r></p></e>
 <e><p><l>thus<s n="adv"/></l><r>ainsi<s n="adv"/></r></p></e>
@@ -10145,7 +10143,7 @@
 <e><p><l>tragic<s n="adj"/></l><r>tragique<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>train<s n="n"/></l><r>train<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>train<s n="vblex"/></l><r>entraîner<s n="vblex"/></r></p></e>
-<e><p><l>trainer<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>trainer<s n="n"/></l><r>entraîneur<s n="n"/></r></p></e>
 <e><p><l>trainer<s n="n"/></l><r>coach<s n="n"/></r></p></e>
 <e><p><l>training<s n="n"/></l><r>entraînement<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>training<s n="n"/></l><r>formation<s n="n"/><s n="f"/></r></p></e>
@@ -10208,8 +10206,8 @@
 <e><p><l>triangle<s n="n"/></l><r>triangle<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tribe<s n="n"/></l><r>tribu<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tributary<s n="n"/></l><r>affluent<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>tribute<s n="n"/></l><r><s n="</r></p></e>
-<e><p><l>trick<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>tribute<s n="n"/></l><r>tribut<s n="n"/></r></p></e>
+<e><p><l>trick<s n="n"/></l><r>truc<s n="n"/></r></p></e>
 <e><p><l>tricky<s n="adj"/><s n="sint"/></l><r>délicat<s n="adj"/></r></p></e>
 <e><p><l>trigger<s n="vblex"/></l><r>provoquer<s n="vblex"/></r></p></e>
 <e><p><l>trilogy<s n="n"/></l><r>trilogie<s n="n"/><s n="f"/></r></p></e>
@@ -10621,7 +10619,7 @@
 <e><p><l>waste<s n="n"/><s n="sg"/></l><r>résidu<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>waste<s n="n"/><s n="sg"/></l><r>déchet<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>waste<s n="n"/></l><r>résidu<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>waste<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>waste<s n="n"/></l><r>gaspillage<s n="n"/></r></p></e>
 <e><p><l>watch<s n="n"/></l><r>horloge<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>watch<s n="n"/></l><r>montre<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>watch<s n="vblex"/></l><r>dévisager<s n="vblex"/></r></p></e>
@@ -10796,7 +10794,7 @@
 <e><p><l>worker<s n="n"/></l><r>ouvrier<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>working<s n="adj"/></l><r>ouvrier<s n="adj"/></r></p></e>
 <e><p><l>workshop<s n="n"/></l><r>atelier<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>world<s n="n"/></l><r><s n="</r></p></e>
+<e><p><l>world<s n="n"/></l><r>monde<s n="n"/></r></p></e>
 <e><p><l>world<s n="adj"/></l><r>mondial<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>world-wide<s n="adj"/></l><r>mondial<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>world-wide<s n="adj"/></l><r>mondial<s n="adj"/><s n="m"/></r></p></e>
