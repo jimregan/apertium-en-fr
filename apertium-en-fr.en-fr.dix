@@ -683,7 +683,6 @@
 <e><p><l>Finnish<s n="adj"/></l><r>finlandais<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>Finnish<s n="adj"/></l><r>finlandais<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>Flemish<s n="adj"/></l><r>flamand<s n="adj"/></r></p></e>
-<e><p><l>Florencia<s n="np"/><s n="ant"/></l><r>Florence<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Florencia<s n="np"/><s n="ant"/></l><r>Florence<s n="np"/></r></p></e>
 <e><p><l>Florentino<s n="np"/><s n="ant"/></l><r>Florentino<s n="np"/></r></p></e>
 <e><p><l>France<s n="np"/><s n="loc"/></l><r>France<s n="np"/></r></p></e>
@@ -773,9 +772,6 @@
 <e><p><l>Gregory<s n="np"/><s n="ant"/></l><r>Gregory<s n="np"/></r></p></e>
 <e><p><l>Grenada<s n="np"/><s n="loc"/></l><r>Grenade<s n="np"/></r></p></e>
 <e><p><l>Guadalupe<s n="np"/><s n="ant"/></l><r>Guadalupe<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Guadalupe<s n="np"/><s n="ant"/></l><r>Guadeloupe<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Guadalupe<s n="np"/><s n="ant"/></l><r>Guadalupe<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Guadeloupe<s n="np"/><s n="loc"/></l><r>Guadalupe<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Guadeloupe<s n="np"/><s n="loc"/></l><r>Guadeloupe<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Guadeloupe<s n="np"/><s n="loc"/></l><r>Guadalupe<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Guatemala<s n="np"/><s n="loc"/></l><r>Guatemala<s n="np"/></r></p></e>
@@ -1217,9 +1213,7 @@
 <e><p><l>Moscow<s n="np"/><s n="loc"/></l><r>Moscou<s n="np"/></r></p></e>
 <e><p><l>Moshe<s n="np"/><s n="ant"/></l><r>Moshe<s n="np"/></r></p></e>
 <e><p><l>Muhammad<s n="np"/><s n="ant"/></l><r>Muhammad<s n="np"/></r></p></e>
-<e><p><l>Murcia<s n="np"/><s n="loc"/></l><r>Murcia<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Murcia<s n="np"/><s n="loc"/></l><r>Murcie<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Murcia<s n="np"/><s n="loc"/></l><r>Murcie<s n="np"/></r></p></e>
 <e><p><l>Muslim<s n="n"/></l><r>musulman<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Muslim<s n="adj"/></l><r>musulman<s n="adj"/></r></p></e>
 <e><p><l>NED<s n="n"/><s n="acr"/><s n="sg"/></l><r>NED<s n="n"/><s n="acr"/><s n="m"/><s n="sp"/></r></p></e>
@@ -1503,7 +1497,6 @@
 <e><p><l>Sofia<s n="np"/><s n="ant"/></l><r>Sofia<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Sofia<s n="np"/><s n="loc"/></l><r>Sofia<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Sofia<s n="np"/><s n="loc"/></l><r>Sofía<s n="np"/></r></p></e>
-<e><p><l>Sofía<s n="np"/><s n="ant"/></l><r>Sofia<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Sofía<s n="np"/><s n="ant"/></l><r>Sofía<s n="np"/></r></p></e>
 <e><p><l>Solana<s n="np"/><s n="ant"/></l><r>Solana<s n="np"/></r></p></e>
 <e><p><l>Somali<s n="n"/></l><r>somalien<s n="n"/><s n="GD"/></r></p></e>
@@ -4216,8 +4209,7 @@
 <e><p><l>dutiful<s n="adj"/></l><r>obéissant<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>dutiful<s n="adj"/></l><r>obéissant<s n="adj"/><s n="m"/></r></p></e>
 <e><p><l>dutiful<s n="adj"/></l><r>obéissant<s n="adj"/><s n="GD"/></r></p></e>
-<e><p><l>duty<s n="n"/><s n="pl"/></l><r>devoir<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>duty<s n="n"/><s n="sg"/></l><r>devoir<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>duty<s n="n"/></l><r>devoir<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>duty<s n="n"/></l><r>devoir<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>dye<s n="n"/></l><r>teinture<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dye<s n="vblex"/></l><r>chiner<s n="vblex"/></r></p></e>
