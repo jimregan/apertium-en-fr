@@ -9912,9 +9912,9 @@
 <e><p><l>that<s n="rel"/></l><r>que<s n="rel"/></r></p></e>
 <e><p><l>thaw<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
-<e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
-<e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="pl"/></l><r>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sg"/></l><r>le<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sg"/></l><r>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>the<b/>one<b/>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>celui<b/>qui<s n="rel"/></r></p></e>
 <e><p><l>the<b/>one<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>celui<b/>qui<s n="rel"/></r></p></e>
 <e><p><l>the<b/>one<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>celui<b/>que<s n="rel"/></r></p></e>
