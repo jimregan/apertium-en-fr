@@ -5786,12 +5786,11 @@
 <e><p><l>in<b/>spite<b/>of<s n="pr"/></l><r>en<b/>dépit<b/>de<s n="pr"/></r></p></e>
 <e><p><l>in<b/>the<b/>afternoon<s n="adv"/></l><r>l'après-midi<s n="adv"/></r></p></e>
 <e><p><l>in<b/>the<b/>interim<s n="adv"/></l><r>en<b/>attendant<s n="adv"/></r></p></e>
-<e><p><l>in<b/>the<b/>meantime<s n="adv"/></l><r>en<b/>attendant<s n="adv"/></r></p></e>
 <e><p><l>in<b/>the<b/>meantime<s n="adv"/></l><r>entre-temps<s n="adv"/></r></p></e>
 <e><p><l>in<b/>the<b/>meanwhile<s n="adv"/></l><r>en<b/>attendant<s n="adv"/></r></p></e>
 <e><p><l>in<b/>the<b/>morning<s n="adv"/></l><r>le<b/>jour<s n="adv"/></r></p></e>
 <e><p><l>in<b/>the<b/>short<b/>term<s n="adv"/></l><r>à<b/>court<b/>terme<s n="adv"/></r></p></e>
-<e><p><l>in<b/>this<b/>fashion<s n="adv"/></l><r>de<b/>cette<b/>manière<s n="adv"/></r></p></e>
+<e r="LR"><p><l>in<b/>this<b/>fashion<s n="adv"/></l><r>de<b/>cette<b/>manière<s n="adv"/></r></p></e>
 <e><p><l>in<b/>this<b/>way<s n="adv"/></l><r>de<b/>cette<b/>manière<s n="adv"/></r></p></e>
 <e><p><l>in<b/>this<b/>way<s n="adv"/></l><r>par<b/>ainsi<s n="adv"/></r></p></e>
 <e><p><l>in<b/>view<b/>of<s n="pr"/></l><r>attendu<s n="pr"/></r></p></e>
@@ -9900,9 +9899,10 @@
 <e><p><l>textual<s n="adj"/></l><r>textuel<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>thankfully<s n="adv"/></l><r>heureusement<s n="adv"/></r></p></e>
 <e><p><l>thanks<b/>to<s n="pr"/></l><r>grâce<b/>à<s n="pr"/></r></p></e>
-<e><p><l>that<s n="det"/><s n="dem"/></l><r>ce<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>that<s n="det"/><s n="dem"/></l><r>ce<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>that<s n="det"/><s n="dem"/></l><r>ce<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>that<s n="det"/><s n="dem"/><s n="sg"/></l><r>ce<s n="det"/><s n="dem"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>that<s n="det"/><s n="dem"/><s n="sg"/></l><r>ce<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>that<s n="det"/><s n="dem"/><s n="sg"/></l><r>ce<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>that<s n="det"/><s n="dem"/><s n="pl"/></l><r>ce<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
 <e><p><l>that<s n="cnjsub"/></l><r>que<s n="cnjsub"/></r></p></e>
 <e><p><l>that<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>cela<s n="prn"/></r></p></e>
 <e><p><l>that<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></l><r>celui-là<s n="prn"/></r></p></e>
