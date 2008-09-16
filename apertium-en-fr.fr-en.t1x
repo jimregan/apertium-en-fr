@@ -5332,12 +5332,15 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="conj_verb1">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="be_ger" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="5" side="tl" part="a_verb"/></tag>
-              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+              <tag><var n="temps_chunk"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
               <tag><var n="tipusverb"/></tag>
@@ -5346,7 +5349,7 @@
               <get-case-from pos="1">
                 <lit v="be"/>
               </get-case-from>
-              <lit-tag v="vblex"/>
+              <lit-tag v="vbser"/>
               <clip pos="1" side="tl" part="temps"/>
               <clip pos="1" side="tl" part="pers"/>
               <clip pos="1" side="tl" part="nbr" link-to="5"/>
