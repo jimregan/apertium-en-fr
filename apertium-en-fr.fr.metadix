@@ -47140,25 +47140,25 @@
     <r>sol<b/>industriel<s n="n"/><s n="m"/><s n="pl"/></r>
   </p>
 </e>
-<e lm="jeune fille" a="eleka">
+<e lm="jeune fille" a="eleka" i="yes">
   <p>
     <l>jeune<b/>fille</l>
     <r>jeune<b/>fille<s n="n"/><s n="f"/><s n="sg"/></r>
   </p>
 </e>
-<e lm="jeune homme" a="eleka">
+<e lm="jeune homme" a="eleka" i="yes">
   <p>
     <l>jeunes<b/>filles</l>
     <r>jeune<b/>fille<s n="n"/><s n="f"/><s n="pl"/></r>
   </p>
 </e>
-<e lm="jeune homme" a="eleka">
+<e lm="jeune homme" a="eleka" i="yes">
   <p>
     <l>jeune<b/>homme</l>
     <r>jeune<b/>homme<s n="n"/><s n="m"/><s n="sg"/></r>
   </p>
 </e>
-<e lm="jeune homme" a="eleka">
+<e lm="jeune homme" a="eleka" i="yes">
   <p>
     <l>jeunes<b/>hommes</l>
     <r>jeune<b/>homme<s n="n"/><s n="m"/><s n="pl"/></r>
