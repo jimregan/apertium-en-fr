@@ -458,6 +458,7 @@
     <def-var n="adv_adjectiu"/>
     <def-var n="verbfinal"/>
     <def-var n="temps_chunk"/>
+    <def-var n="pers_chunk"/>
     <def-var n="nbr_chunk"/>
     <def-var n="lema_SV"/>
     <def-var n="haverhi_pp"/>
