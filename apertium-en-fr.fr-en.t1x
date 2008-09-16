@@ -456,6 +456,11 @@
     <def-var n="SVnegatiu"/>
     <def-var n="auxiliar"/>
     <def-var n="adv_adjectiu"/>
+    <def-var n="verbfinal"/>
+    <def-var n="temps_chunk"/>
+    <def-var n="nbr_chunk"/>
+    <def-var n="lema_SV"/>
+    <def-var n="haverhi_pp"/>
   </section-def-vars>
   <section-def-lists>
     <def-list n="nloc">
@@ -1649,145 +1654,1026 @@
         </when>
       </choose>
     </def-macro>
-    <def-macro n="det_adv_adj" npar="3">
-<!-- (per a fer el comparatiu i superlatiu si cal: 'més fosc' = 'darker'; 'el més fosc' = 'the darkest')" -->
-      <choose>
-        <when>
-          <test>
-            <and>
-              <equal caseless="yes">
-                <clip pos="2" side="sl" part="lem"/>
-                <lit v="plus"/>
-              </equal>
-              <equal>
-                <clip pos="3" side="tl" part="a_adj"/>
-                <lit-tag v="adj.sint"/>
-              </equal>
-            </and>
-          </test>
-          <choose>
-            <when>
-              <test>
-                <equal>
-                  <clip pos="1" side="sl" part="a_det"/>
-                  <lit-tag v="det.def"/>
+      <def-macro n="adv_adj" npar="2"><!-- (per a fer el comparatiu si cal: 'més fosc' = darker; i també per a canviar 'well' per 'very' davant adjectius )" -->
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="1" side="sl" part="lem"/>
+                  <lit v="plus"/>
                 </equal>
-              </test>
-              <let>
-                <var n="adv_adjectiu"/>
+                <equal>
+                  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="adj.sint"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <var n="adv_adjectiu"/>
                 <concat>
-                  <clip pos="3" side="tl" part="lem"/>
-                  <clip pos="3" side="tl" part="a_adj"/>
-                  <lit-tag v="sup"/>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="comp"/>
                 </concat>
-              </let>
-            </when>
-            <otherwise>
-              <let>
-                <var n="adv_adjectiu"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="1" side="sl" part="lem"/>
+                  <lit v="beaucoup plus"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="adj.sint"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit v="much"/>
+            </let>
+            <let>
+              <var n="adv_adjectiu"/>
                 <concat>
+                  <clip pos="1" side="tl" part="whole"/>
+                  <lit v="$ ^"/>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="a_adj"/>
+                  <lit-tag v="comp"/>
+                </concat>
+            </let>
+          </when>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="1" side="sl" part="lem"/>
+                  <lit v="bien"/>
+                </equal>
+                <not>
+                  <equal>
+                    <clip pos="2" side="sl" part="a_adj"/>
+                    <lit-tag v="vblex.pp"/>
+                  </equal>
+                </not>
+              </and>
+            </test>
+            <let>
+              <var n="adv_adjectiu"/>
+                <concat>
+                  <lit v="very"/>
+                  <lit-tag v="preadv"/>
+                  <lit v="$ ^"/>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="a_adj"/>
+                </concat>
+            </let>
+          </when>
+          <otherwise>
+            <let>
+              <var n="adv_adjectiu"/>
+                <concat>
+                  <clip pos="1" side="tl" part="whole"/>
+                  <lit v="$ ^"/>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="a_adj"/>
+                </concat>
+            </let>
+          </otherwise>
+        </choose>
+</def-macro>
+
+<def-macro n="det_adv_adj" npar="3"><!-- (per a fer el comparatiu i superlatiu si cal: 'més fosc' = 'darker'; 'el més fosc' = 'the darkest')" -->
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="2" side="sl" part="lem"/>
+                  <lit v="plus"/>
+                </equal>
+                <equal>
+                  <clip pos="3" side="tl" part="a_adj"/>
+                  <lit-tag v="adj.sint"/>
+                </equal>
+              </and>
+            </test>
+            <choose>
+              <when>
+                <test>
+                  <equal>
+                    <clip pos="1" side="sl" part="a_det"/>
+                    <lit-tag v="det.def"/>
+                  </equal>
+                </test>
+                <let>
+                  <var n="adv_adjectiu"/>
+                  <concat>
+                    <clip pos="3" side="tl" part="lem"/>
+                    <clip pos="3" side="tl" part="a_adj"/>
+                    <lit-tag v="sup"/>
+                  </concat>
+                </let>
+              </when>
+              <otherwise>
+                <let>
+                  <var n="adv_adjectiu"/>
+                  <concat>
+                    <clip pos="3" side="tl" part="lem"/>
+                    <clip pos="3" side="tl" part="a_adj"/>
+                    <lit-tag v="comp"/>
+                  </concat>
+                </let>
+              </otherwise>
+            </choose>
+          </when>
+
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="2" side="sl" part="lem"/>
+                  <lit v="beaucoup plus"/>
+                </equal>
+                <equal>
+                  <clip pos="3" side="tl" part="a_adj"/>
+                  <lit-tag v="adj.sint"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="2" side="tl" part="lem"/>
+              <lit v="much"/>
+            </let>
+            <let>
+              <var n="adv_adjectiu"/>
+                <concat>
+                  <clip pos="2" side="tl" part="whole"/>
+                  <lit v="$ ^"/>
                   <clip pos="3" side="tl" part="lem"/>
                   <clip pos="3" side="tl" part="a_adj"/>
                   <lit-tag v="comp"/>
                 </concat>
-              </let>
-            </otherwise>
-          </choose>
-        </when>
-    <!--    <when>
-          <test>
-            <and>
-              <equal caseless="yes">
-                <clip pos="2" side="sl" part="lem"/>
-                <lit v="mucho más"/>
-              </equal>
-              <equal>
-                <clip pos="3" side="tl" part="a_adj"/>
-                <lit-tag v="adj.sint"/>
-              </equal>
-            </and>
-          </test>
-          <let>
-            <clip pos="2" side="tl" part="lem"/>
-            <lit v="much"/>
-          </let>
-          <let>
-            <var n="adv_adjectiu"/>
-            <concat>
-              <clip pos="2" side="tl" part="whole"/>
-              <lit v="$ ^"/>
-              <clip pos="3" side="tl" part="lem"/>
-              <clip pos="3" side="tl" part="a_adj"/>
-              <lit-tag v="comp"/>
-            </concat>
-          </let>
-        </when>
-        <when>
-          <test>
-            <and>
-              <equal caseless="yes">
-                <clip pos="2" side="sl" part="lem"/>
-                <lit v="más"/>
-              </equal>
-              <equal>
-                <clip pos="1" side="sl" part="a_det"/>
-                <lit-tag v="det.def"/>
-              </equal>
-            </and>
-          </test>
-          <let>
-            <clip pos="2" side="tl" part="lem"/>
-            <lit v="most"/>
-          </let>
-          <let>
-            <var n="adv_adjectiu"/>
-            <concat>
-              <clip pos="2" side="tl" part="whole"/>
-              <lit v="$ ^"/>
-              <clip pos="3" side="tl" part="lem"/>
-              <clip pos="3" side="tl" part="a_adj"/>
-            </concat>
-          </let>
-        </when>
-        <when>
-          <test>
-            <and>
-              <equal caseless="yes">
-                <clip pos="2" side="sl" part="lem"/>
-                <lit v="bien"/>
-              </equal>
-              <not>
-                <equal>
-                  <clip pos="3" side="sl" part="a_adj"/>
-                  <lit-tag v="vblex.pp"/>
+            </let>
+          </when>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="2" side="sl" part="lem"/>
+                  <lit v="plus"/>
                 </equal>
-              </not>
-            </and>
-          </test>
-          <let>
-            <var n="adv_adjectiu"/>
-            <concat>
-              <lit v="very"/>
-              <lit-tag v="preadv"/>
-              <lit v="$ ^"/>
-              <clip pos="3" side="tl" part="lem"/>
-              <clip pos="3" side="tl" part="a_adj"/>
-            </concat>
-          </let>
-        </when>
-        <otherwise>
-          <let>
-            <var n="adv_adjectiu"/>
-            <concat>
-              <clip pos="2" side="tl" part="whole"/>
-              <lit v="$ ^"/>
-              <clip pos="3" side="tl" part="lem"/>
-              <clip pos="3" side="tl" part="a_adj"/>
-            </concat>
-          </let>
-        </otherwise> -->
-      </choose>
-    </def-macro>
+                <equal>
+                  <clip pos="1" side="sl" part="a_det"/>
+                  <lit-tag v="det.def"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="2" side="tl" part="lem"/>
+              <lit v="most"/>
+            </let>
+            <let>
+              <var n="adv_adjectiu"/>
+                <concat>
+                  <clip pos="2" side="tl" part="whole"/>
+                  <lit v="$ ^"/>
+                  <clip pos="3" side="tl" part="lem"/>
+                  <clip pos="3" side="tl" part="a_adj"/>
+                </concat>
+            </let>
+          </when>
+          <when>
+            <test>
+              <and>
+                <equal caseless="yes">
+                  <clip pos="2" side="sl" part="lem"/>
+                  <lit v="bien"/>
+                </equal>
+                <not>
+                  <equal>
+                    <clip pos="3" side="sl" part="a_adj"/>
+                    <lit-tag v="vblex.pp"/>
+                  </equal>
+                </not>
+              </and>
+            </test>
+            <let>
+              <var n="adv_adjectiu"/>
+                <concat>
+                  <lit v="very"/>
+                  <lit-tag v="preadv"/>
+                  <lit v="$ ^"/>
+                  <clip pos="3" side="tl" part="lem"/>
+                  <clip pos="3" side="tl" part="a_adj"/>
+                </concat>
+            </let>
+          </when>
+          <otherwise>
+            <let>
+              <var n="adv_adjectiu"/>
+                <concat>
+                  <clip pos="2" side="tl" part="whole"/>
+                  <lit v="$ ^"/>
+                  <clip pos="3" side="tl" part="lem"/>
+                  <clip pos="3" side="tl" part="a_adj"/>
+                </concat>
+            </let>
+          </otherwise>
+        </choose>
+</def-macro>
+
+
+<def-macro n="el_millor_pitjor" npar="2"><!-- per a crear forma superlativa quan lema és superlatiu i l'article és definit o poss -->
+       <choose>
+          <when>
+            <test>
+              <and>
+                <or>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_det"/>
+                    <lit-tag v="det.def"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="tl" part="a_det"/>
+                    <lit-tag v="det.pos"/>
+                  </equal>
+                </or>
+                <or>
+                  <equal>
+                    <clip pos="2" side="sl" part="lem"/>
+                    <lit v="meilleur"/>
+                  </equal>
+                  <equal>
+                    <clip pos="2" side="sl" part="lem"/>
+                    <lit v="pire"/>
+                  </equal>
+                </or>
+              </and>
+            </test>
+            <let>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <lit-tag v="adj.sint.sup"/>
+            </let>
+          </when>
+        </choose>
+</def-macro>
+
+ <def-macro n="conj_verb1" npar="1"><!--conjuga un verb -->
+
+        <choose>
+          <when>
+            <test><!--Si és verb 'ser' p1 o p3 en present o passat (o subjuntiu) té una conjugació pròpia en anglès. Inclou 'ser' i 'estar', tots dos són 'vbser' en anglès (to be) -->
+              <and>
+                <equal>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit-tag v="vbser"/>
+                </equal>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="ifi"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="pii"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="pis"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="fts"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="prs"/>
+                  </equal>
+                </or>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="pers"/>
+                    <lit-tag v="p1"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="pers"/>
+                    <lit-tag v="p3"/>
+                  </equal>
+                </or>
+                <equal>
+                  <clip pos="1" side="sl" part="nbr"/>
+                  <lit-tag v="sg"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="temps"/>
+              <lit-tag v="past"/>
+            </let>
+            <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="past"/>
+            </let>
+            <let>
+              <var n="lema_SV"/>
+              <lit v="verbcj"/>
+            </let>
+            <let>
+              <var n="verbfinal"/>
+              <concat>
+                <clip pos="1" side="tl" part="lemh"/>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <clip pos="1" side="tl" part="sep"/>
+                <clip pos="1" side="tl" part="temps"/>
+                <clip pos="1" side="tl" part="pers"/>
+                <clip pos="1" side="tl" part="nbr"/>
+              </concat>
+            </let>
+          </when>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit-tag v="vbser"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pri"/>
+                </equal>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="pers"/>
+                    <lit-tag v="p1"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="pers"/>
+                    <lit-tag v="p3"/>
+                  </equal>
+                </or>
+                <equal>
+                  <clip pos="1" side="sl" part="nbr"/>
+                  <lit-tag v="sg"/>
+                </equal>
+              </and>
+            </test>
+            <let>
+              <var n="temps_chunk"/>
+              <clip pos="1" side="tl" part="temps"/>
+            </let>
+            <let>
+              <var n="lema_SV"/>
+              <lit v="verbcj"/>
+            </let>
+            <let>
+              <var n="verbfinal"/>
+              <concat>
+                <clip pos="1" side="tl" part="lemh"/>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <clip pos="1" side="tl" part="sep"/>
+                <clip pos="1" side="tl" part="temps"/>
+                <clip pos="1" side="tl" part="pers"/>
+                <clip pos="1" side="tl" part="nbr"/>
+              </concat>
+            </let>
+          </when>
+
+          <when>
+            <test><!--La resta de verbs tenen també prs i nbr per a p3 sg, excepte auxiliars (can). -->
+              <and>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pri"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="pers"/>
+                  <lit-tag v="p3"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="nbr"/>
+                  <lit-tag v="sg"/>
+                </equal>
+                <not>
+                  <equal caseless="yes">
+                    <clip pos="1" side="sl" part="lem"/>
+                    <lit v="pouvoir"/>
+                  </equal>
+                </not>
+              </and>
+            </test>
+
+            <let>
+              <var n="lema_SV"/>
+              <lit v="verbcj"/>
+            </let>
+            <let>
+              <var n="temps_chunk"/>
+              <clip pos="1" side="tl" part="temps"/>
+            </let>
+            <let>
+              <var n="verbfinal"/>
+              <concat>
+                <clip pos="1" side="tl" part="lemh"/>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <clip pos="1" side="tl" part="sep"/>
+                <clip pos="1" side="tl" part="temps"/>
+                <clip pos="1" side="tl" part="pers"/>
+                <clip pos="1" side="tl" part="nbr"/>
+              </concat>
+            </let>
+
+          </when>
+          <otherwise><!--la resta de formes verbals no tenen pers i nbr en anglès -->
+            <choose>
+              <when>
+                <test>
+                  <and>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="cni"/>
+                    </equal>
+                    <not>
+                      <equal caseless="yes">
+                        <clip pos="1" side="sl" part="lem"/>
+                        <lit v="pouvoir"/>
+                      </equal>
+                    </not>
+                  </and>
+                </test>
+                <let>
+                  <var n="temps_chunk"/>
+                  <clip pos="1" side="sl" part="temps"/>
+                </let>
+                <let>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <lit-tag v="inf"/>
+                </let>
+                <let>
+                  <var n="lema_SV"/>
+                  <lit v="aux_verb"/>
+                </let>
+                <let>
+                  <var n="verbfinal"/>
+                  <concat>
+                      <lit v="would"/>
+                      <lit-tag v="vaux.inf"/>
+                      <lit v="$ ^"/>
+                      <clip pos="1" side="tl" part="lemh"/>
+                      <clip pos="1" side="tl" part="a_verb"/>
+                      <clip pos="1" side="tl" part="sep"/>
+                      <clip pos="1" side="tl" part="temps"/>
+                  </concat>
+                </let>
+
+
+              </when>
+              <when>
+                <test>
+                  <and>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="cni"/>
+                    </equal>
+                    <equal caseless="yes">
+                      <clip pos="1" side="sl" part="lem"/>
+                      <lit v="pouvoir"/>
+                    </equal>
+                  </and>
+                </test>
+                <let>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <lit-tag v="past"/>
+                </let>
+                <let>
+                  <var n="temps_chunk"/>
+                  <clip pos="1" side="sl" part="temps"/>
+                </let>
+                <let>
+                  <var n="lema_SV"/>
+                  <lit v="verbcj"/>
+                </let>
+                <let>
+                  <var n="verbfinal"/>
+                  <concat>
+                    <clip pos="1" side="tl" part="lemh"/>
+                    <clip pos="1" side="tl" part="a_verb"/>
+                    <clip pos="1" side="tl" part="sep"/>
+                    <clip pos="1" side="tl" part="temps"/>
+                  </concat>
+                </let>
+              </when>
+
+              <when>
+                <test>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="fti"/>
+                  </equal>
+                </test>
+                <let>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <lit-tag v="inf"/>
+                </let>
+                <let>
+                  <var n="temps_chunk"/>
+                  <clip pos="1" side="sl" part="temps"/>
+                </let>
+                <let>
+                  <var n="lema_SV"/>
+                  <lit v="aux_verb"/>
+                </let>
+                <choose>
+                  <when>
+                    <test>
+                      <equal caseless="yes">
+                        <clip pos="1" side="sl" part="lem"/>
+                        <lit v="pouvoir"/>
+                      </equal>
+                    </test>
+                    <let>
+                      <clip pos="1" side="tl" part="lem"/>
+                      <get-case-from pos="1">
+                        <lit v="be able to"/>
+                      </get-case-from>
+                    </let>
+                    <let>
+                      <clip pos="1" side="tl" part="a_verb"/>
+                      <lit-tag v="vbmod"/>
+                    </let>
+                  </when>
+                </choose>
+                <let>
+                  <var n="verbfinal"/>
+                  <concat>
+                      <lit v="will"/>
+                      <lit-tag v="vaux.inf"/>
+                      <lit v="$ ^"/>
+                      <clip pos="1" side="tl" part="lemh"/>
+                      <clip pos="1" side="tl" part="a_verb"/>
+                      <clip pos="1" side="tl" part="sep"/>
+                      <clip pos="1" side="tl" part="temps"/>
+                  </concat>
+                </let>
+
+              </when>
+
+              <when>
+                <test>
+                  <or>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="pri"/><!--dic -->
+                    </equal>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="prs"/><!--digui -->
+                    </equal>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="imp"/>
+                    </equal>
+                  </or>
+                </test>
+                <let>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <lit-tag v="pres"/>
+                </let>
+
+                <let>
+                  <var n="temps_chunk"/>
+                  <clip pos="1" side="sl" part="temps"/>
+                </let>
+                <let>
+                  <var n="lema_SV"/>
+                  <lit v="verbcj"/>
+                </let>
+
+                <let>
+                  <var n="verbfinal"/>
+                  <concat>
+                    <clip pos="1" side="tl" part="lemh"/>
+                    <clip pos="1" side="tl" part="a_verb"/>
+                    <clip pos="1" side="tl" part="sep"/>
+                    <clip pos="1" side="tl" part="temps"/>
+                  </concat>
+                </let>
+              </when>
+              <when>
+                <test>
+                  <or>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="ifi"/><!--digué -->
+                    </equal>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="pii"/><!--deia -->
+                    </equal>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="pis"/><!--digués -->
+                    </equal>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="fts"/><!--dijere -->
+                    </equal>
+                  </or>
+                </test>
+                <let>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <lit-tag v="past"/>
+                </let>
+                <let>
+                  <var n="temps_chunk"/>
+                  <clip pos="1" side="sl" part="temps"/>
+                </let>
+                <let>
+                  <var n="lema_SV"/>
+                  <lit v="verbcj"/>
+                </let>
+                <let>
+                  <var n="verbfinal"/>
+                  <concat>
+                    <clip pos="1" side="tl" part="lemh"/>
+                    <clip pos="1" side="tl" part="a_verb"/>
+                    <clip pos="1" side="tl" part="sep"/>
+                    <clip pos="1" side="tl" part="temps"/>
+                  </concat>
+                </let>
+              </when>
+               <otherwise><!--les formes no personals (inf i ger) -->
+
+                <let>
+                  <var n="temps_chunk"/>
+                  <clip pos="1" side="sl" part="temps"/>
+                </let>
+                <let>
+                  <var n="verbfinal"/>
+                  <concat>
+                    <clip pos="1" side="tl" part="lemh"/>
+                    <clip pos="1" side="tl" part="a_verb"/>
+                    <clip pos="1" side="tl" part="sep"/>
+                    <clip pos="1" side="tl" part="temps"/>
+                  </concat>
+                </let>
+              </otherwise>
+            </choose>
+          </otherwise>
+        </choose>
+</def-macro>
+
+
+ <def-macro n="conj_haverhi_pp" npar="1"><!--conjuga el verb haver-hi quan va seguit de pp -->
+    <let>
+      <var n="pers_chunk"/>
+      <clip pos="1" side="sl" part="pers"/>
+    </let>
+   <choose>
+     <when>
+       <test>
+         <or>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="pri"/>
+           </equal>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="prs"/>
+           </equal>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="imp"/>
+           </equal>
+         </or>
+       </test>
+       <let>
+         <clip pos="1" side="tl" part="temps"/>
+         <lit-tag v="pri"/>
+       </let>
+       <let>
+         <var n="temps_chunk"/>
+         <clip pos="1" side="tl" part="temps"/>
+       </let>
+       <let>
+         <var n="nbr_chunk"/>
+         <lit-tag v="ND"/>
+       </let>
+       <let>
+         <var n="lema_SV"/>
+         <lit v="haverhi_pp"/>
+       </let>
+       <let>
+         <var n="verbfinal"/>
+         <concat>
+           <clip pos="1" side="tl" part="lemh"/>
+           <clip pos="1" side="tl" part="a_verb"/>
+           <clip pos="1" side="tl" part="temps"/>
+           <clip pos="1" side="tl" part="pers"/>
+           <lit-tag v="5"/>
+         </concat>
+       </let>
+     </when>
+     <when>
+       <test>
+         <or>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="ifi"/>
+           </equal>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="pii"/>
+           </equal>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="pis"/>
+           </equal>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="fts"/>
+           </equal>
+         </or>
+       </test>
+       <let>
+         <clip pos="1" side="tl" part="temps"/>
+         <lit-tag v="past"/>
+       </let>
+
+       <let>
+         <var n="temps_chunk"/>
+         <clip pos="1" side="tl" part="temps"/>
+       </let>
+       <let>
+         <var n="nbr_chunk"/>
+         <clip pos="1" side="sl" part="nbr"/>
+       </let>
+       <let>
+         <var n="lema_SV"/>
+         <lit v="haverhi_pp"/>
+       </let>
+       <let>
+         <var n="verbfinal"/>
+         <concat>
+           <clip pos="1" side="tl" part="lemh"/>
+           <clip pos="1" side="tl" part="a_verb"/>
+           <clip pos="1" side="tl" part="temps"/>
+         </concat>
+       </let>
+     </when>
+     <when>
+       <test>
+         <equal>
+           <clip pos="1" side="sl" part="temps"/>
+           <lit-tag v="cni"/>
+         </equal>
+
+       </test>
+
+       <let>
+         <var n="temps_chunk"/>
+         <clip pos="1" side="sl" part="temps"/>
+       </let>
+       <let>
+         <clip pos="1" side="tl" part="temps"/>
+         <lit-tag v="inf"/>
+       </let>
+       <let>
+         <var n="nbr_chunk"/>
+         <clip pos="1" side="sl" part="nbr"/>
+       </let>
+       <let>
+         <var n="lema_SV"/>
+         <lit v="aux_haverhi_pp"/>
+       </let>
+       <let>
+         <var n="verbfinal"/>
+         <concat>
+           <lit v="would"/>
+           <lit-tag v="vaux.inf"/>
+           <lit v="$ ^"/>
+           <clip pos="1" side="tl" part="lemh"/>
+           <clip pos="1" side="tl" part="a_verb"/>
+           <clip pos="1" side="tl" part="temps"/>
+         </concat>
+       </let>
+     </when>
+     <when>
+       <test>
+         <equal>
+           <clip pos="1" side="sl" part="temps"/>
+           <lit-tag v="fti"/>
+         </equal>
+       </test>
+       <let>
+         <var n="temps_chunk"/>
+         <clip pos="1" side="sl" part="temps"/>
+       </let>
+       <let>
+         <var n="nbr_chunk"/>
+         <clip pos="1" side="sl" part="nbr"/>
+       </let>
+       <let>
+         <clip pos="1" side="tl" part="temps"/>
+         <lit-tag v="inf"/>
+       </let>
+       <let>
+         <var n="lema_SV"/>
+         <lit v="aux_haverhi_pp"/>
+       </let>
+       <let>
+         <var n="verbfinal"/>
+         <concat>
+           <lit v="will"/>
+           <lit-tag v="vaux.inf"/>
+           <lit v="$ ^"/>
+           <clip pos="1" side="tl" part="lemh"/>
+           <clip pos="1" side="tl" part="a_verb"/>
+           <clip pos="1" side="tl" part="temps"/>
+         </concat>
+       </let>
+     </when>
+   </choose>
+ </def-macro>
+
+
+ <def-macro n="conj_haverhi" npar="1"><!--conjuga el verb haver-hi -->
+    <let>
+      <var n="pers_chunk"/>
+      <clip pos="1" side="sl" part="pers"/>
+    </let>
+   <choose>
+     <when>
+       <test>
+         <or>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="pri"/>
+           </equal>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="prs"/>
+           </equal>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="imp"/>
+           </equal>
+         </or>
+       </test>
+       <let>
+         <clip pos="1" side="tl" part="temps"/>
+         <lit-tag v="pri"/>
+       </let>
+       <let>
+         <var n="temps_chunk"/>
+         <clip pos="1" side="tl" part="temps"/>
+       </let>
+       <let>
+         <var n="nbr_chunk"/>
+         <lit-tag v="ND"/>
+       </let>
+       <let>
+         <var n="lema_SV"/>
+         <lit v="haverhi"/>
+       </let>
+       <let>
+         <var n="verbfinal"/>
+         <concat>
+           <clip pos="1" side="tl" part="lemh"/>
+           <clip pos="1" side="tl" part="a_verb"/>
+           <clip pos="1" side="tl" part="temps"/>
+           <clip pos="1" side="tl" part="pers"/>
+           <lit-tag v="5"/>
+         </concat>
+       </let>
+     </when>
+     <when>
+       <test>
+         <or>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="ifi"/>
+           </equal>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="pii"/>
+           </equal>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="pis"/>
+           </equal>
+           <equal>
+             <clip pos="1" side="sl" part="temps"/>
+             <lit-tag v="fts"/>
+           </equal>
+         </or>
+       </test>
+       <let>
+         <clip pos="1" side="tl" part="temps"/>
+         <lit-tag v="past"/>
+       </let>
+
+       <let>
+         <var n="temps_chunk"/>
+         <clip pos="1" side="tl" part="temps"/>
+       </let>
+       <let>
+         <var n="nbr_chunk"/>
+         <lit-tag v="ND"/>
+       </let>
+       <let>
+         <var n="lema_SV"/>
+         <lit v="haverhi"/>
+       </let>
+       <let>
+         <var n="verbfinal"/>
+         <concat>
+           <clip pos="1" side="tl" part="lemh"/>
+           <clip pos="1" side="tl" part="a_verb"/>
+           <clip pos="1" side="tl" part="temps"/>
+           <clip pos="1" side="tl" part="pers"/>
+           <lit-tag v="5"/>
+         </concat>
+       </let>
+     </when>
+     <when>
+       <test>
+         <equal>
+           <clip pos="1" side="sl" part="temps"/>
+           <lit-tag v="cni"/>
+         </equal>
+
+
+       </test>
+
+       <let>
+         <var n="temps_chunk"/>
+         <clip pos="1" side="sl" part="temps"/>
+       </let>
+       <let>
+         <clip pos="1" side="tl" part="temps"/>
+         <lit-tag v="inf"/>
+       </let>
+       <let>
+         <var n="nbr_chunk"/>
+         <clip pos="1" side="sl" part="nbr"/>
+       </let>
+       <let>
+         <var n="lema_SV"/>
+         <lit v="aux_haverhi"/>
+       </let>
+       <let>
+         <var n="verbfinal"/>
+         <concat>
+           <lit v="would"/>
+           <lit-tag v="vaux.inf"/>
+           <lit v="$ ^"/>
+           <clip pos="1" side="tl" part="lemh"/>
+           <clip pos="1" side="tl" part="a_verb"/>
+           <clip pos="1" side="tl" part="temps"/>
+         </concat>
+       </let>
+     </when>
+     <when>
+       <test>
+         <equal>
+           <clip pos="1" side="sl" part="temps"/>
+           <lit-tag v="fti"/>
+         </equal>
+       </test>
+       <let>
+         <var n="temps_chunk"/>
+         <clip pos="1" side="sl" part="temps"/>
+       </let>
+       <let>
+         <var n="nbr_chunk"/>
+         <clip pos="1" side="sl" part="nbr"/>
+       </let>
+       <let>
+         <clip pos="1" side="tl" part="temps"/>
+         <lit-tag v="inf"/>
+       </let>
+       <let>
+         <var n="lema_SV"/>
+         <lit v="aux_haverhi"/>
+       </let>
+       <let>
+         <var n="verbfinal"/>
+         <concat>
+           <lit v="will"/>
+           <lit-tag v="vaux.inf"/>
+           <lit v="$ ^"/>
+           <clip pos="1" side="tl" part="lemh"/>
+           <clip pos="1" side="tl" part="a_verb"/>
+           <clip pos="1" side="tl" part="temps"/>
+         </concat>
+       </let>
+     </when>
+   </choose>
+ </def-macro>
 
   </section-def-macros>
   <section-rules>
