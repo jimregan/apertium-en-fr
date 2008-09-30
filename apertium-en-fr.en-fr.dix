@@ -10844,6 +10844,13 @@
 <e><p><l>zinc<s n="n"/></l><r>zinc<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>zone<s n="n"/></l><r>zone<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zone<s n="vblex"/></l><r>qualifier<s n="vblex"/></r></p></e>
+
+<e><p><l>Catholic<b/>liturgy<s n="n"/></l><r>liturgie<b/>catholique<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>vernaular<b/>language<s n="n"/></l><r>langue<b/>vernaculaire<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>rear<b/>water<b/>circuit<s n="n"/></l><r>circuit<g><b/>d'eau<b/>arrière</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>gearbox<b/>ECU<s n="n"/></l><r>calculateur<g><b/>de<b/>boîte<b/>de<b/>vitesses</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>gearbox<s n="n"/></l><r>boîte<g><b/>de<b/>vitesses</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>vernaular<s n="adj"/></l><r>vernaculaire<s n="adj"/></r></p></e>
   </section>
   <section id="regexen" type="standard">
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
