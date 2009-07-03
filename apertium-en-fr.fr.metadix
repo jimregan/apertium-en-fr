@@ -74,6 +74,7 @@
     <sdef n="vbmod"/>
     <sdef n="vbser"/>
     <sdef n="ND"/>
+    <sdef n="top"/>
   </sdefs>
   <pardefs>
     
@@ -390,6 +391,30 @@
     <pardef n="Andorre__np">
             
 <e><p><l></l><r><s n="np"/><s n="loc"/></r></p></e>
+    </pardef>
+    <pardef n="Bulgarie__np">
+            
+<e><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="Bahamas__np">
+            
+<e><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="Californie__np">
+            
+<e><p><l></l><r><s n="np"/><s n="top"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="Iran__np">
+            
+<e><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="États-Unis__np">
+            
+<e><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="Madagascar__np">																						__np">
+            
+<e><p><l></l><r><s n="np"/><s n="top"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="BBC__n">
             
