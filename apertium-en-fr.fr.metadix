@@ -65800,7 +65800,268 @@
 <e r="LR" lm="tant que"><p><l>tant<b/><a/>qu'</l><r>tant<b/>que</r></p><par n="afin_que__cnjadv"/></e>
 <e r="LR" lm="tel que"><p><l>tel<b/><a/>qu'</l><r>tel<b/>que</r></p><par n="afin_que__cnjadv"/></e> 
 
-	       
+<e lm="Barbade"><i>Barbade</i><par n="Bulgarie__np"/></e>
+<e lm="Biélorussie"><i>Biélorussie</i><par n="Bulgarie__np"/></e>
+<e lm="Belgique"><i>Belgique</i><par n="Bulgarie__np"/></e>
+<e lm="Bolivie"><i>Bolivie</i><par n="Bulgarie__np"/></e>
+<e lm="Bosnie-Herzégovine"><i>Bosnie-Herzégovine</i><par n="Bulgarie__np"/></e>
+<e lm="Bulgarie"><i>Bulgarie</i><par n="Bulgarie__np"/></e>
+<e lm="Birmanie"><i>Birmanie</i><par n="Bulgarie__np"/></e>
+<e lm="République centrafricaine"><i>République<b/>centrafricaine</i><par n="Bulgarie__np"/></e>
+<e lm="Chine"><i>Chine</i><par n="Bulgarie__np"/></e>
+<e lm="Colombie"><i>Colombie</i><par n="Bulgarie__np"/></e>
+<e lm="Côte d'Ivoire"><i>Côte<b/>d'Ivoire</i><par n="Bulgarie__np"/></e>
+<e lm="Croatie"><i>Croatie</i><par n="Bulgarie__np"/></e>
+<e lm="République tchèque"><i>République<b/>tchèque</i><par n="Bulgarie__np"/></e>
+<e lm="Dominique"><i>Dominique</i><par n="Bulgarie__np"/></e>
+<e lm="République dominicaine"><i>République<b/>dominicaine</i><par n="Bulgarie__np"/></e>
+<e lm="Guinée équatoriale"><i>Guinée<b/>équatoriale</i><par n="Bulgarie__np"/></e>
+<e lm="Finlande"><i>Finlande</i><par n="Bulgarie__np"/></e>
+<e lm="France"><i>France</i><par n="Bulgarie__np"/></e>
+<e lm="Polynésie française"><i>Polynésie<b/>française</i><par n="Bulgarie__np"/></e>
+<e lm="Gambie"><i>Gambie</i><par n="Bulgarie__np"/></e>
+<e lm="Géorgie"><i>Géorgie</i><par n="Bulgarie__np"/></e>
+<e lm="Grèce"><i>Grèce</i><par n="Bulgarie__np"/></e>
+<e lm="Grenade"><i>Grenade</i><par n="Bulgarie__np"/></e>
+<e lm="Guinée"><i>Guinée</i><par n="Bulgarie__np"/></e>
+<e lm="Guinée-Bissao"><i>Guinée-Bissao</i><par n="Bulgarie__np"/></e>
+<e lm="Guyana"><i>Guyana</i><par n="Bulgarie__np"/></e>
+<e lm="Hongrie"><i>Hongrie</i><par n="Bulgarie__np"/></e>
+<e lm="Jamaïque"><i>Jamaïque</i><par n="Bulgarie__np"/></e>
+<e lm="Jordanie"><i>Jordanie</i><par n="Bulgarie__np"/></e>
+<e lm="Lettonie"><i>Lettonie</i><par n="Bulgarie__np"/></e>
+<e lm="Libye"><i>Libye</i><par n="Bulgarie__np"/></e>
+<e lm="Lituanie"><i>Lituanie</i><par n="Bulgarie__np"/></e>
+<e lm="Macédoine"><i>Macédoine</i><par n="Bulgarie__np"/></e>
+<e lm="Malaisie"><i>Malaisie</i><par n="Bulgarie__np"/></e>
+<e lm="Mauritanie"><i>Mauritanie</i><par n="Bulgarie__np"/></e>
+<e lm="Micronésie"><i>Micronésie</i><par n="Bulgarie__np"/></e>
+<e lm="Moldavie"><i>Moldavie</i><par n="Bulgarie__np"/></e>
+<e lm="Mongolie"><i>Mongolie</i><par n="Bulgarie__np"/></e>
+<e lm="Namibie"><i>Namibie</i><par n="Bulgarie__np"/></e>
+<e lm="Nauru"><i>Nauru</i><par n="Bulgarie__np"/></e>
+<e lm="Nouvelle-Zélande"><i>Nouvelle-Zélande</i><par n="Bulgarie__np"/></e>
+<e lm="Corée du Nord"><i>Corée<b/>du<b/>Nord</i><par n="Bulgarie__np"/></e>
+<e lm="Norvège"><i>Norvège</i><par n="Bulgarie__np"/></e>
+<e lm="Papouasie-Nouvelle-Guinée"><i>Papouasie-Nouvelle-Guinée</i><par n="Bulgarie__np"/></e>
+<e lm="Pologne"><i>Pologne</i><par n="Bulgarie__np"/></e>
+<e lm="Roumanie"><i>Roumanie</i><par n="Bulgarie__np"/></e>
+<e lm="Russie"><i>Russie</i><par n="Bulgarie__np"/></e>
+<e lm="Serbie"><i>Serbie</i><par n="Bulgarie__np"/></e>
+<e lm="Sierra Leone"><i>Sierra<b/>Leone</i><par n="Bulgarie__np"/></e>
+<e lm="Slovaquie"><i>Slovaquie</i><par n="Bulgarie__np"/></e>
+<e lm="Slovénie"><i>Slovénie</i><par n="Bulgarie__np"/></e>
+<e lm="Somalie"><i>Somalie</i><par n="Bulgarie__np"/></e>
+<e lm="Corée du Sud"><i>Corée<b/>du<b/>Sud</i><par n="Bulgarie__np"/></e>
+<e lm="Suède"><i>Suède</i><par n="Bulgarie__np"/></e>
+<e lm="Suisse"><i>Suisse</i><par n="Bulgarie__np"/></e>
+<e lm="Syrie"><i>Syrie</i><par n="Bulgarie__np"/></e>
+<e lm="Tanzanie"><i>Tanzanie</i><par n="Bulgarie__np"/></e>
+<e lm="Thaïlande"><i>Thaïlande</i><par n="Bulgarie__np"/></e>
+<e lm="Trinité-et-Tobago"><i>Trinité-et-Tobago</i><par n="Bulgarie__np"/></e>
+<e lm="Tunisie"><i>Tunisie</i><par n="Bulgarie__np"/></e>
+<e lm="Turquie"><i>Turquie</i><par n="Bulgarie__np"/></e>
+<e lm="Yougoslavie"><i>Yougoslavie</i><par n="Bulgarie__np"/></e>
+<e lm="Zambie"><i>Zambie</i><par n="Bulgarie__np"/></e>
+<e lm="Albanie"><i>Albanie</i><par n="Bulgarie__np"/></e>
+<e lm="Algérie"><i>Algérie</i><par n="Bulgarie__np"/></e>
+<e lm="Andorre"><i>Andorre</i><par n="Bulgarie__np"/></e>
+<e lm="Antigua-et-Barbuda"><i>Antigua-et-Barbuda</i><par n="Bulgarie__np"/></e>
+<e lm="Argentine"><i>Argentine</i><par n="Bulgarie__np"/></e>
+<e lm="Arménie"><i>Arménie</i><par n="Bulgarie__np"/></e>
+<e lm="Australie"><i>Australie</i><par n="Bulgarie__np"/></e>
+<e lm="Autriche"><i>Autriche</i><par n="Bulgarie__np"/></e>
+<e lm="Égypte"><i>Égypte</i><par n="Bulgarie__np"/></e>
+<e lm="Érythrée"><i>Érythrée</i><par n="Bulgarie__np"/></e>
+<e lm="Estonie"><i>Estonie</i><par n="Bulgarie__np"/></e>
+<e lm="Éthiopie"><i>Éthiopie</i><par n="Bulgarie__np"/></e>
+<e lm="Allemagne"><i>Allemagne</i><par n="Bulgarie__np"/></e>
+<e lm="Islande"><i>Islande</i><par n="Bulgarie__np"/></e>
+<e lm="Inde"><i>Inde</i><par n="Bulgarie__np"/></e>
+<e lm="Indonésie"><i>Indonésie</i><par n="Bulgarie__np"/></e>
+<e lm="Irlande"><i>Irlande</i><par n="Bulgarie__np"/></e>
+<e lm="Italie"><i>Italie</i><par n="Bulgarie__np"/></e>
+<e lm=" Irelande du Nord"><i><b/>Irelande<b/>du<b/>Nord</i><par n="Bulgarie__np"/></e>
+<e lm="Arabie saoudite"><i>Arabie<b/>saoudite</i><par n="Bulgarie__np"/></e>
+<e lm=" Écosse"><i><b/>Écosse</i><par n="Bulgarie__np"/></e>
+<e lm="Afrique du Sud"><i>Afrique<b/>du<b/>Sud</i><par n="Bulgarie__np"/></e>
+<e lm="Espagne"><i>Espagne</i><par n="Bulgarie__np"/></e>
+<e lm="Ukraine"><i>Ukraine</i><par n="Bulgarie__np"/></e>
+<e lm="île du Prince-Édouard"><i>île<b/>du<b/>Prince-Édouard</i><par n="Bulgarie__np"/></e>
+<e lm="Chypre"><i>Chypre</i><par n="Californie__np"/></e>
+<e lm="Kiribati"><i>Kiribati</i><par n="Californie__np"/></e>
+<e lm="Île Maurice"><i>Île<b/>Maurice</i><par n="Californie__np"/></e>
+<e lm="Alberta"><i>Alberta</i><par n="Californie__np"/></e>
+<e lm="Colombie britannique"><i>Colombie<b/>britannique</i><par n="Californie__np"/></e>
+<e lm="Terre-Neuve et Labrador"><i>Terre-Neuve<b/>et<b/>Labrador</i><par n="Californie__np"/></e>
+<e lm="Nouvelle-Écosse"><i>Nouvelle-Écosse</i><par n="Californie__np"/></e>
+<e lm="Californie"><i>Californie</i><par n="Californie__np"/></e>
+<e lm="Caroline du Nord"><i>Caroline<b/>du<b/>Nord</i><par n="Californie__np"/></e>
+<e lm="Caroline du Sud"><i>Caroline<b/>du<b/>Sud</i><par n="Californie__np"/></e>
+<e lm="Floride"><i>Floride</i><par n="Californie__np"/></e>
+<e lm="Géorgie"><i>Géorgie</i><par n="Californie__np"/></e>
+<e lm="Louisiane"><i>Louisiane</i><par n="Californie__np"/></e>
+<e lm="Pennsylvanie"><i>Pennsylvanie</i><par n="Californie__np"/></e>
+<e lm="Virginie"><i>Virginie</i><par n="Californie__np"/></e>
+<e lm="Virginie-Occidentale"><i>Virginie-Occidentale</i><par n="Californie__np"/></e>
+<e lm="Malte"><i>Malte</i><par n="Californie__np"/></e>
+<e lm="Sainte-Lucie"><i>Sainte-Lucie</i><par n="Californie__np"/></e>
+<e lm="Bahamas"><i>Bahamas</i><par n="Bahamas__np"/></e>
+<e lm="Comores"><i>Comores</i><par n="Bahamas__np"/></e>
+<e lm="Îles Cook"><i>Îles<b/>Cook</i><par n="Bahamas__np"/></e>
+<e lm="Fidji"><i>Fidji</i><par n="Bahamas__np"/></e>
+<e lm="Maldives"><i>Maldives</i><par n="Bahamas__np"/></e>
+<e lm="Îles Marshall"><i>Îles<b/>Marshall</i><par n="Bahamas__np"/></e>
+<e lm="Pays-Bas"><i>Pays-Bas</i><par n="Bahamas__np"/></e>
+<e lm="Philippines"><i>Philippines</i><par n="Bahamas__np"/></e>
+<e lm="Seychelles"><i>Seychelles</i><par n="Bahamas__np"/></e>
+<e lm="Îles Salomon"><i>Îles<b/>Salomon</i><par n="Bahamas__np"/></e>
+<e lm="Tonga"><i>Tonga</i><par n="Bahamas__np"/></e>
+<e lm="Bahreïn"><i>Bahreïn</i><par n="Iran__np"/></e>
+<e lm="Bangladesh"><i>Bangladesh</i><par n="Iran__np"/></e>
+<e lm="Belize"><i>Belize</i><par n="Iran__np"/></e>
+<e lm="Bénin"><i>Bénin</i><par n="Iran__np"/></e>
+<e lm="Bhoutan"><i>Bhoutan</i><par n="Iran__np"/></e>
+<e lm="Botswana"><i>Botswana</i><par n="Iran__np"/></e>
+<e lm="Brésil"><i>Brésil</i><par n="Iran__np"/></e>
+<e lm="Brunéi"><i>Brunéi</i><par n="Iran__np"/></e>
+<e lm="Burkina"><i>Burkina</i><par n="Iran__np"/></e>
+<e lm="Burundi"><i>Burundi</i><par n="Iran__np"/></e>
+<e lm="Cambodge"><i>Cambodge</i><par n="Iran__np"/></e>
+<e lm="Cameroun"><i>Cameroun</i><par n="Iran__np"/></e>
+<e lm="Canada"><i>Canada</i><par n="Iran__np"/></e>
+<e lm="Cap-Vert"><i>Cap-Vert</i><par n="Iran__np"/></e>
+<e lm="Tchad"><i>Tchad</i><par n="Iran__np"/></e>
+<e lm="Chili"><i>Chili</i><par n="Iran__np"/></e>
+<e lm="Congo"><i>Congo</i><par n="Iran__np"/></e>
+<e lm="Costa Rica"><i>Costa<b/>Rica</i><par n="Iran__np"/></e>
+<e lm="Danemark"><i>Danemark</i><par n="Iran__np"/></e>
+<e lm="Djibouti"><i>Djibouti</i><par n="Iran__np"/></e>
+<e lm="Salvador"><i>Salvador</i><par n="Iran__np"/></e>
+<e lm="Gabon"><i>Gabon</i><par n="Iran__np"/></e>
+<e lm="Ghana"><i>Ghana</i><par n="Iran__np"/></e>
+<e lm="Guatemala"><i>Guatemala</i><par n="Iran__np"/></e>
+<e lm="Honduras"><i>Honduras</i><par n="Iran__np"/></e>
+<e lm="Japon"><i>Japon</i><par n="Iran__np"/></e>
+<e lm="Kazakhstan"><i>Kazakhstan</i><par n="Iran__np"/></e>
+<e lm="Kenya"><i>Kenya</i><par n="Iran__np"/></e>
+<e lm="Koweït"><i>Koweït</i><par n="Iran__np"/></e>
+<e lm="Kirghizstan"><i>Kirghizstan</i><par n="Iran__np"/></e>
+<e lm="Laos"><i>Laos</i><par n="Iran__np"/></e>
+<e lm="Liban"><i>Liban</i><par n="Iran__np"/></e>
+<e lm="Lesotho"><i>Lesotho</i><par n="Iran__np"/></e>
+<e lm="Libéria"><i>Libéria</i><par n="Iran__np"/></e>
+<e lm="Liechtenstein"><i>Liechtenstein</i><par n="Iran__np"/></e>
+<e lm="Luxembourg"><i>Luxembourg</i><par n="Iran__np"/></e>
+<e lm="Malawi"><i>Malawi</i><par n="Iran__np"/></e>
+<e lm="Mali"><i>Mali</i><par n="Iran__np"/></e>
+<e lm="Mexique"><i>Mexique</i><par n="Iran__np"/></e>
+<e lm="Monaco"><i>Monaco</i><par n="Iran__np"/></e>
+<e lm=" Monténégro"><i><b/>Monténégro</i><par n="Iran__np"/></e>
+<e lm="Maroc"><i>Maroc</i><par n="Iran__np"/></e>
+<e lm="Mozambique"><i>Mozambique</i><par n="Iran__np"/></e>
+<e lm="Népal"><i>Népal</i><par n="Iran__np"/></e>
+<e lm="Nicaragua"><i>Nicaragua</i><par n="Iran__np"/></e>
+<e lm="Niger"><i>Niger</i><par n="Iran__np"/></e>
+<e lm="Nigéria"><i>Nigéria</i><par n="Iran__np"/></e>
+<e lm="Pakistan"><i>Pakistan</i><par n="Iran__np"/></e>
+<e lm="Panama"><i>Panama</i><par n="Iran__np"/></e>
+<e lm="Paraguay"><i>Paraguay</i><par n="Iran__np"/></e>
+<e lm="Pérou"><i>Pérou</i><par n="Iran__np"/></e>
+<e lm="Portugal"><i>Portugal</i><par n="Iran__np"/></e>
+<e lm="Qatar"><i>Qatar</i><par n="Iran__np"/></e>
+<e lm="Rwanda"><i>Rwanda</i><par n="Iran__np"/></e>
+<e lm="Sénégal"><i>Sénégal</i><par n="Iran__np"/></e>
+<e lm="Sri Lanka"><i>Sri<b/>Lanka</i><par n="Iran__np"/></e>
+<e lm="Soudan"><i>Soudan</i><par n="Iran__np"/></e>
+<e lm="Surinam"><i>Surinam</i><par n="Iran__np"/></e>
+<e lm="Swaziland"><i>Swaziland</i><par n="Iran__np"/></e>
+<e lm="Tadjikistan"><i>Tadjikistan</i><par n="Iran__np"/></e>
+<e lm="Togo"><i>Togo</i><par n="Iran__np"/></e>
+<e lm="Turkménistan"><i>Turkménistan</i><par n="Iran__np"/></e>
+<e lm="Tuvalu"><i>Tuvalu</i><par n="Iran__np"/></e>
+<e lm="Royaume-Uni"><i>Royaume-Uni</i><par n="Iran__np"/></e>
+<e lm="Vanuatu"><i>Vanuatu</i><par n="Iran__np"/></e>
+<e lm="Vatican"><i>Vatican</i><par n="Iran__np"/></e>
+<e lm="Venezuela"><i>Venezuela</i><par n="Iran__np"/></e>
+<e lm="Viêt-Nam"><i>Viêt-Nam</i><par n="Iran__np"/></e>
+<e lm=" pays de Galles"><i><b/>pays<b/>de<b/>Galles</i><par n="Iran__np"/></e>
+<e lm="Yémen"><i>Yémen</i><par n="Iran__np"/></e>
+<e lm="Zaïre"><i>Zaïre</i><par n="Iran__np"/></e>
+<e lm="Zimbabwe"><i>Zimbabwe</i><par n="Iran__np"/></e>
+<e lm="Afghanistan"><i>Afghanistan</i><par n="Iran__np"/></e>
+<e lm="Angola"><i>Angola</i><par n="Iran__np"/></e>
+<e lm="Azerbaïdjan"><i>Azerbaïdjan</i><par n="Iran__np"/></e>
+<e lm="Équateur"><i>Équateur</i><par n="Iran__np"/></e>
+<e lm="Iran"><i>Iran</i><par n="Iran__np"/></e>
+<e lm="Irak"><i>Irak</i><par n="Iran__np"/></e>
+<e lm="Oman"><i>Oman</i><par n="Iran__np"/></e>
+<e lm="Ouganda"><i>Ouganda</i><par n="Iran__np"/></e>
+<e lm="Uruguay"><i>Uruguay</i><par n="Iran__np"/></e>
+<e lm="Ouzbékistan"><i>Ouzbékistan</i><par n="Iran__np"/></e>
+<e lm="Samoa"><i>Samoa</i><par n="Iran__np"/></e>
+<e lm="Madagascar"><i>Madagascar</i><par n="Madagascar__np"/></e>
+<e lm="Manitoba"><i>Manitoba</i><par n="Madagascar__np"/></e>
+<e lm="Nouveau-Brunswick"><i>Nouveau-Brunswick</i><par n="Madagascar__np"/></e>
+<e lm="territoires du Nord-Ouest"><i>territoires<b/>du<b/>Nord-Ouest</i><par n="Madagascar__np"/></e>
+<e lm="Nunavut"><i>Nunavut</i><par n="Madagascar__np"/></e>
+<e lm="Ontario"><i>Ontario</i><par n="Madagascar__np"/></e>
+<e lm="Québec"><i>Québec</i><par n="Madagascar__np"/></e>
+<e lm="Saskatchewan"><i>Saskatchewan</i><par n="Madagascar__np"/></e>
+<e lm="territoire du Yukon"><i>territoire<b/>du<b/>Yukon</i><par n="Madagascar__np"/></e>
+<e lm="Alabama"><i>Alabama</i><par n="Madagascar__np"/></e>
+<e lm="Alaska"><i>Alaska</i><par n="Madagascar__np"/></e>
+<e lm="Arizona"><i>Arizona</i><par n="Madagascar__np"/></e>
+<e lm="Arkansas"><i>Arkansas</i><par n="Madagascar__np"/></e>
+<e lm="Colorado"><i>Colorado</i><par n="Madagascar__np"/></e>
+<e lm="Connecticut"><i>Connecticut</i><par n="Madagascar__np"/></e>
+<e lm="Dakota du Nord"><i>Dakota<b/>du<b/>Nord</i><par n="Madagascar__np"/></e>
+<e lm="Dakota du Sud"><i>Dakota<b/>du<b/>Sud</i><par n="Madagascar__np"/></e>
+<e lm="Delaware"><i>Delaware</i><par n="Madagascar__np"/></e>
+<e lm="Hawaï"><i>Hawaï</i><par n="Madagascar__np"/></e>
+<e lm="Idaho"><i>Idaho</i><par n="Madagascar__np"/></e>
+<e lm="Illinois"><i>Illinois</i><par n="Madagascar__np"/></e>
+<e lm="Indiana"><i>Indiana</i><par n="Madagascar__np"/></e>
+<e lm="Iowa"><i>Iowa</i><par n="Madagascar__np"/></e>
+<e lm="Kansas"><i>Kansas</i><par n="Madagascar__np"/></e>
+<e lm="Kentucky"><i>Kentucky</i><par n="Madagascar__np"/></e>
+<e lm="Maine"><i>Maine</i><par n="Madagascar__np"/></e>
+<e lm="Maryland"><i>Maryland</i><par n="Madagascar__np"/></e>
+<e lm="Massachusetts"><i>Massachusetts</i><par n="Madagascar__np"/></e>
+<e lm="Michigan"><i>Michigan</i><par n="Madagascar__np"/></e>
+<e lm="Minnesota"><i>Minnesota</i><par n="Madagascar__np"/></e>
+<e lm="Mississippi"><i>Mississippi</i><par n="Madagascar__np"/></e>
+<e lm="Missouri"><i>Missouri</i><par n="Madagascar__np"/></e>
+<e lm="Montana"><i>Montana</i><par n="Madagascar__np"/></e>
+<e lm="Nebraska"><i>Nebraska</i><par n="Madagascar__np"/></e>
+<e lm="Nevada"><i>Nevada</i><par n="Madagascar__np"/></e>
+<e lm="New Hampshire"><i>New<b/>Hampshire</i><par n="Madagascar__np"/></e>
+<e lm="New Jersey"><i>New<b/>Jersey</i><par n="Madagascar__np"/></e>
+<e lm="New York"><i>New<b/>York</i><par n="Madagascar__np"/></e>
+<e lm="Nouveau-Mexique"><i>Nouveau-Mexique</i><par n="Madagascar__np"/></e>
+<e lm="Ohio"><i>Ohio</i><par n="Madagascar__np"/></e>
+<e lm="Oklahoma"><i>Oklahoma</i><par n="Madagascar__np"/></e>
+<e lm="Oregon"><i>Oregon</i><par n="Madagascar__np"/></e>
+<e lm="Rhode Island"><i>Rhode<b/>Island</i><par n="Madagascar__np"/></e>
+<e lm="Tennessee"><i>Tennessee</i><par n="Madagascar__np"/></e>
+<e lm="Texas"><i>Texas</i><par n="Madagascar__np"/></e>
+<e lm="Utah"><i>Utah</i><par n="Madagascar__np"/></e>
+<e lm="Vermont"><i>Vermont</i><par n="Madagascar__np"/></e>
+<e lm="Washington"><i>Washington</i><par n="Madagascar__np"/></e>
+<e lm="Wisconsin"><i>Wisconsin</i><par n="Madagascar__np"/></e>
+<e lm="Wyoming"><i>Wyoming</i><par n="Madagascar__np"/></e>
+<e lm="Israël"><i>Israël</i><par n="Madagascar__np"/></e>
+<e lm="Saint-Christophe-et-Niévès"><i>Saint-Christophe-et-Niévès</i><par n="Madagascar__np"/></e>
+<e lm="Saint-Vincent-et-les-Grenadines"><i>Saint-Vincent-et-les-Grenadines</i><par n="Madagascar__np"/></e>
+<e lm="Saint-Marin"><i>Saint-Marin</i><par n="Madagascar__np"/></e>
+<e lm="Sao Tomé et Principe"><i>Sao<b/>Tomé<b/>et<b/>Principe</i><par n="Madagascar__np"/></e>
+<e lm="Belau"><i>Belau</i><par n="Madagascar__np"/></e>
+<e lm="Cuba"><i>Cuba</i><par n="Madagascar__np"/></e>
+<e lm="Haïti"><i>Haïti</i><par n="Madagascar__np"/></e>
+<e lm="Nioué"><i>Nioué</i><par n="Madagascar__np"/></e>
+<e lm="Émirats arabes unis"><i>Émirats<b/>arabes<b/>unis</i><par n="États-Unis__np"/></e>
+<e lm="États-Unis"><i>États-Unis</i><par n="États-Unis__np"/></e>
+<e lm="Samoa occidentales"><i>Samoa<b/>occidentales</i><par n="États-Unis__np"/></e>
 </section>
 
 <section id="final" type="inconditional">
