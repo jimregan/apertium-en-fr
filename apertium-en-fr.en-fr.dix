@@ -5250,8 +5250,8 @@
 <e><p><l>deploy<s n="vblex"/></l><r>déployer<s n="vblex"/></r></p></e>
 <e><p><l>deployment<s n="n"/></l><r>déploiement<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>deportation<s n="n"/></l><r>déportation<s n="n"/><s n="f"/></r></p></e>
-<e alt="std"><p><l>deposit<s n="n"/></l><r>dépôt<s n="n"/><s n="m"/></r></p></e>
-<e alt="eco"><p><l>deposit<s n="n"/></l><r>avoir<s n="n"/><s n="m"/></r></p></e>
+<e c="alt-std"><p><l>deposit<s n="n"/></l><r>dépôt<s n="n"/><s n="m"/></r></p></e>
+<e c="alt-eco"><p><l>deposit<s n="n"/></l><r>avoir<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>deposit<s n="vblex"/></l><r>déposer<s n="vblex"/></r></p></e>
 <e><p><l>depreciation<s n="n"/></l><r>dépréciation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>depress<s n="vblex"/></l><r>déprimer<s n="vblex"/></r></p></e>
@@ -5887,8 +5887,8 @@
 <e><p><l>endorsement<s n="n"/></l><r>approbation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>endorser<s n="n"/></l><r>endosseur<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>endorser<s n="n"/></l><r>endosseur<s n="n"/><s n="f"/></r></p></e>
-<e alt="std"><p><l>endow<s n="vblex"/></l><r>douer<s n="vblex"/></r></p></e>
-<e alt="eco"><p><l>endow<s n="vblex"/></l><r>doter<s n="vblex"/></r></p></e>
+<e c="alt-std"><p><l>endow<s n="vblex"/></l><r>douer<s n="vblex"/></r></p></e>
+<e c="alt-eco"><p><l>endow<s n="vblex"/></l><r>doter<s n="vblex"/></r></p></e>
 <e r="LR"><p><l>enemy<s n="n"/></l><r>ennemi<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>enemy<s n="n"/></l><r>ennemi<s n="n"/></r></p></e>
 <e><p><l>energetic<s n="adj"/></l><r>énergétique<s n="adj"/><s n="mf"/></r></p></e>
@@ -6556,8 +6556,8 @@
 <e><p><l>forget<g><b/>about</g><s n="vblex"/></l><r>oublier<s n="vblex"/></r></p></e>
 <e><p><l>forgive<s n="vblex"/></l><r>pardonner<s n="vblex"/></r></p></e>
 <e><p><l>fork<s n="n"/></l><r>fourchette<s n="n"/><s n="f"/></r></p></e>
-<e alt="std"><p><l>fork<s n="n"/></l><r>détenteur<s n="n"/><s n="f"/></r></p></e>
-<e alt="eco"><p><l>fork<s n="n"/></l><r>détenteur<s n="n"/><s n="m"/></r></p></e>
+<e c="alt-std"><p><l>fork<s n="n"/></l><r>détenteur<s n="n"/><s n="f"/></r></p></e>
+<e c="alt-eco"><p><l>fork<s n="n"/></l><r>détenteur<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>form<s n="n"/></l><r>forme<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>form<s n="n"/></l><r>formulaire<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>form<s n="vblex"/></l><r>former<s n="vblex"/></r></p></e>
@@ -6905,7 +6905,7 @@
 <e><p><l>goodbye<s n="n"/></l><r>adieu<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>goodbye<s n="ij"/></l><r>au<b/>revoir<s n="ij"/></r></p></e>
 <e><p><l>goodness<s n="n"/></l><r>bonté<s n="n"/><s n="f"/></r></p></e>
-<e alt="eco"><p><l>goodness<s n="n"/></l><r>avantage<s n="n"/><s n="m"/></r></p></e>
+<e c="alt-eco"><p><l>goodness<s n="n"/></l><r>avantage<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>goose<s n="n"/></l><r>oie<s n="n"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>goose<s n="n"/><s n="ND"/></l><r>jars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>goose<s n="n"/><s n="sg"/></l><r>jars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -8046,8 +8046,8 @@
 <e><p><l>kind<s n="adj"/><s n="sint"/></l><r>gentil<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>kindergarten<s n="n"/></l><r>garderie<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>kindly<s n="adv"/></l><r>aimablement<s n="adv"/></r></p></e>
-<e alt="std"><p><l>kindness<s n="n"/></l><r>bonté<s n="n"/><s n="f"/></r></p></e>
-<e alt="eco"><p><l>kindness<s n="n"/></l><r>avantage<s n="n"/><s n="m"/></r></p></e>
+<e c="alt-std"><p><l>kindness<s n="n"/></l><r>bonté<s n="n"/><s n="f"/></r></p></e>
+<e c="alt-eco"><p><l>kindness<s n="n"/></l><r>avantage<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>king<s n="n"/></l><r>roi<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>king<s n="n"/></l><r>roi<s n="n"/></r></p></e>
 <e><p><l>kiosk<s n="n"/></l><r>kiosque<s n="n"/><s n="m"/></r></p></e>
@@ -12126,8 +12126,8 @@
 <e><p><l>talk<s n="vblex"/></l><r>parler<s n="vblex"/></r></p></e>
 <e><p><l>tall<s n="adj"/><s n="sint"/></l><r>grand<s n="adj"/></r></p></e>
 <e><p><l>tampon<s n="n"/></l><r>tampon<s n="n"/><s n="m"/></r></p></e>
-<e alt="std"><p><l>tank<s n="n"/></l><r>dépôt<s n="n"/><s n="m"/></r></p></e>
-<e alt="eco"><p><l>tank<s n="n"/></l><r>avoir<s n="n"/><s n="m"/></r></p></e>
+<e c="alt-std"><p><l>tank<s n="n"/></l><r>dépôt<s n="n"/><s n="m"/></r></p></e>
+<e c="alt-eco"><p><l>tank<s n="n"/></l><r>avoir<s n="n"/><s n="m"/></r></p></e>
 <e c="Mil."><p><l>tank<s n="n"/></l><r>tank<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tap<s n="n"/></l><r>robinet<s n="n"/><s n="m"/></r></p></e>
 <e c="no sé si és bona trad"><p><l>tap<s n="vblex"/></l><r>toucher<s n="vblex"/></r></p></e>
@@ -12824,9 +12824,9 @@
 <e><p><l>validation<s n="n"/></l><r>validation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>valley<s n="n"/></l><r>vallée<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>valorisation<s n="n"/></l><r>valorisation<s n="n"/><s n="f"/></r></p></e>
-<e alt="eco"><p><l>valuable<s n="adj"/></l><r>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
-<e alt="std"><p><l>valuable<s n="adj"/></l><r>précieux<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
-<e alt="std"><p><l>valuable<s n="adj"/></l><r>précieux<s n="adj"/><s n="f"/></r></p></e>
+<e c="alt-eco"><p><l>valuable<s n="adj"/></l><r>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+<e c="alt-std"><p><l>valuable<s n="adj"/></l><r>précieux<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
+<e c="alt-std"><p><l>valuable<s n="adj"/></l><r>précieux<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>valuation<s n="n"/></l><r>taxation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>value<s n="n"/></l><r>valeur<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>value<s n="vblex"/></l><r>supputer<s n="vblex"/></r></p></e>
