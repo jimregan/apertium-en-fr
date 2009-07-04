@@ -1658,7 +1658,6 @@
 <e><p><l>Mabel<s n="np"/><s n="ant"/></l><r>Mabel<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>MacGyver<s n="np"/><s n="cog"/><s n="sg"/></l><r>MacGyver<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>MacGyver<s n="np"/><s n="cog"/><s n="pl"/></l><r>MacGyver<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-<e><p><l>Macedonia<s n="np"/><s n="ant"/></l><r>Macédoine<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Mackenzie<s n="np"/><s n="ant"/></l><r>Mackenzie<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Madagascar<s n="np"/><s n="loc"/></l><r>Madagascar<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
 <e><p><l>Maddie<s n="np"/><s n="ant"/></l><r>Maddie<s n="np"/><s n="ant"/></r></p></e>
@@ -13316,7 +13315,8 @@
 <e><p><l>Belarus<s n="np"/><s n="top"/></l><r>Biélorussie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Belgium<s n="np"/><s n="top"/></l><r>Belgique<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Bolivia<s n="np"/><s n="top"/></l><r>Bolivie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Bosnia<s n="np"/><s n="top"/></l><r>Bosnie-Herzégovine<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Bosnia<s n="np"/><s n="top"/></l><r>Bosnie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Bosnia<b/>and<b/>Herzegovina<s n="np"/><s n="top"/></l><r>Bosnie-Herzégovine<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Bulgaria<s n="np"/><s n="top"/></l><r>Bulgarie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Burma<s n="np"/><s n="top"/></l><r>Birmanie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Central<b/>African<b/>Republic<s n="np"/><s n="top"/></l><r>République<b/>centrafricaine<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -13353,6 +13353,7 @@
 <e><p><l>Namibia<s n="np"/><s n="top"/></l><r>Namibie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Nauru<s n="np"/><s n="top"/></l><r>Nauru<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>New<b/>Zealand<s n="np"/><s n="top"/></l><r>Nouvelle-Zélande<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Korea<s n="np"/><s n="top"/></l><r>Corée<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>North<b/>Korea<s n="np"/><s n="top"/></l><r>Corée<b/>du<b/>Nord<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Norway<s n="np"/><s n="top"/></l><r>Norvège<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Papua<b/>New<b/>Guinea<s n="np"/><s n="top"/></l><r>Papouasie-Nouvelle-Guinée<s n="np"/><s n="top"/><s n="f"/></r></p></e>
