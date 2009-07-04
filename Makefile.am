@@ -1,8 +1,11 @@
 VERSION=0.0.1
 LANG1=en
+LANG1a=en_GB
+LANG1b=en_US
 LANG2=fr
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
+PREFIX2b=$(LANG2)-$(LANG1b)
 
 BASENAME=apertium-$(PREFIX1)
 
@@ -21,13 +24,26 @@ TARGETS = $(TARGETS_COMMON) \
 #trules-$(PREFIX1).bin trules-$(PREFIX2).bin 
 #	  trules-$(PREFIX1).xml trules-$(PREFIX2).xml 
 
-$(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).metadix
-	@xsltproc buscaPar.xsl $(BASENAME).$(LANG1).metadix | uniq > tmp1gen.xsl	 
-	@xsltproc tmp1gen.xsl $(BASENAME).$(LANG1).metadix >$(BASENAME).$(LANG1).dixtmp1 
-	@rm tmp1gen.xsl
-	apertium-validate-dictionary $(BASENAME).$(LANG1).dixtmp1
-	lt-comp lr $(BASENAME).$(LANG1).dixtmp1 $@
-	@rm $(BASENAME).$(LANG1).dixtmp1
+.deps/$(LANG1).metadix: $(BASENAME).$(LANG1).metadix
+	if [ ! -d .deps ]; then mkdir .deps; fi
+	xsltproc --stringparam alt $(LANG1a) alt.xsl $(BASENAME).$(LANG1).metadix >$@
+
+.deps/$(LANG1).dix: .deps/$(LANG1).metadix
+	xsltproc buscaPar.xsl .deps/$(LANG1).metadix | uniq >$$$$tmp1 && \
+	xsltproc $$$$tmp1 .deps/$(LANG1).metadix > $@ && rm $$$$tmp1
+
+.deps/$(LANG1b).metadix: $(BASENAME).$(LANG1).metadix
+	if [ ! -d .deps ]; then mkdir .deps; fi
+	xsltproc --stringparam alt $(LANG1b) alt.xsl $(BASENAME).$(LANG1).metadix >$@
+
+.deps/$(LANG1b).dix: .deps/$(LANG1b).metadix
+	xsltproc buscaPar.xsl .deps/$(LANG1b).metadix | uniq >$$$$tmp1 && \
+	xsltproc $$$$tmp1 .deps/$(LANG1b).metadix > $@ && rm $$$$tmp1
+
+$(PREFIX1).automorf.bin: .deps/$(LANG1).dix
+	apertium-validate-dictionary .deps/$(LANG1).dix
+	apertium-validate-acx $(BASENAME).$(LANG1).acx
+	lt-comp lr .deps/$(LANG1).dix $@ $(BASENAME).$(LANG1).acx
 
 $(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).metadix
 	@xsltproc buscaPar.xsl $(BASENAME).$(LANG2).metadix | uniq > tmp1gen.xsl	 
