@@ -68,11 +68,11 @@ Grecia<np><ant>:Grèce<np><ant>
 Helvecia<np><ant>:Helvétie<np><ant>
 Heracles<np><ant>:Héraclès<np><ant>
 Herodes<np><ant>:Hérode<np><ant>
-Heráclito<np><ant>:Héraclite<np><ant>
-Homero<np><ant>:Homère<np><ant>
-Horacio<np><ant>:Horace<np><ant>
-Héctor<np><ant>:Hèctor<np><ant>
-Hércules<np><ant>:Hercule<np><ant>
+Heraclitus<np><ant>:Héraclite<np><ant>
+Homer<np><ant>:Homère<np><ant>
+Horace<np><ant>:Horace<np><ant>
+Hector<np><ant>:Hèctor<np><ant>
+Hercules<np><ant>:Hercule<np><ant>
 Ifigenia<np><ant>:Iphigénie<np><ant>
 India<np><ant>:Inde<np><ant>
 Inocencio<np><ant>:Innocent<np><ant>
@@ -83,7 +83,7 @@ Italia<np><ant>:Italie<np><ant>
 Jano<np><ant>:Janus<np><ant>
 Jehovah<np><ant>:Jéhovah<np>
 Juan Caboto<np><ant>:Jean Cabot<np><ant>
-Juan Calvino<np><ant>:Jean Calvin<np><ant>
+John Calvin<np><ant>:Jean Calvin<np><ant>
 Juan Carlos I<np><ant>:Juan Carlos Ier<np><ant>
 Kenia<np><ant>:Kenya<np><ant>
 Lancelot<np><ant>:Lanzarote<np>
@@ -104,8 +104,6 @@ Moisés<np><ant>:Moïse<np><ant>
 Mustafa<np><ant>:Mustapha<np><ant>
 Nabucodonosor<np><ant>:Nabuchodonosor<np><ant>
 Napoleon<np><ant>:Napoléon<np><ant>
-Napoleon<np><ant>:Napoléon<np>
-Napoleón<np><ant>:Napoléon<np><ant>
 Nazaret<np><ant>:Nazareth<np><ant>
 Nilo<np><ant>:Nil<np><ant>
 Niza<np><ant>:Nice<np><ant>
