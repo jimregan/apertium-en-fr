@@ -560,6 +560,15 @@
       <list-item v="novembre"/>
       <list-item v="décembre"/>
     </def-list>
+    <def-list n="en_majuscules">
+      <list-item v="Monday"/>
+      <list-item v="Tuesday"/>
+      <list-item v="Wednesday"/>
+      <list-item v="Thursday"/>
+      <list-item v="Friday"/>
+      <list-item v="Saturday"/>
+      <list-item v="Sunday"/>
+    </def-list>
   </section-def-lists>
   <section-def-macros>
     <def-macro n="f_lexicadj" npar="1">
@@ -2763,20 +2772,18 @@
         <choose>
 <!-- la france->francia -->
           <when>
-            <or>
-              <test>
+            <test>
+              <or>
                 <equal>
                   <clip pos="2" side="tl" part="a_nom"/>
                   <lit-tag v="np.loc"/>
                 </equal>
-              </test>
-              <test>
                 <equal>
                   <clip pos="2" side="tl" part="a_nom"/>
                   <lit-tag v="np.top"/>
                 </equal>
-              </test>
-            </or>
+              </or>
+            </test>
             <call-macro n="f_concord1">
               <with-param pos="2"/>
             </call-macro>
