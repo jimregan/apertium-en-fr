@@ -2,8 +2,6 @@ Aarón<np><ant>:Aaron<np><ant>
 Abdul Hamid II<np><ant>:Abdülhamid II<np><ant>
 Absalón<np><ant>:Absalom<np><ant>
 Abu Dahdah<np><ant>:Abou Dahdah<np><ant>
-Acebes<np><cog><sg>:Acebes<np><ant>
-Acebes<np><cog><pl>:Acebes<np><ant>
 Adelardo<np><ant>:Adélard<np><ant>
 Afrodita<np><ant>:Aphrodite<np><ant>
 Aga Khan<np><ant>:Agha Khan<np><ant>
@@ -26,7 +24,6 @@ Aníbal<np><ant>:Hannibal<np><ant>
 Aquiles<np><ant>:Achille<np><ant>
 Aristóteles<np><ant>:Aristote<np><ant>
 Asia<np><ant>:Asie<np><ant>
-Belén<np><ant>:Bethléem<np><loc>
 Belén<np><ant>:Bethléem<np><ant>
 Benedict XVI<np><ant>:Benoît XVI<np>
 Bárbara<np><ant>:Barbara<np><ant>
@@ -40,7 +37,6 @@ Charlemagne<np><ant>:Carloman<np>
 Cibeles<np><ant>:Cybèle<np><ant>
 Cicero<np><ant>:Cicéron<np><ant>
 Ciro<np><ant>:Cyrus<np><ant>
-Constanza<np><ant>:Constance<np><loc>
 Koran<np><al>:Coran<np><al><m>
 Christ<np><ant>:Christ<np><ant>
 Dacia<np><ant>:Dacie<np><ant>
@@ -50,7 +46,6 @@ Damocles<np><ant>:Damoclès<np><ant>
 Democritus<np><ant>:Démocrite<np><ant>
 Demosthenes<np><ant>:Démosthène<np><ant>
 Dione<np><ant>:Dioné<np><ant>
-Dominica<np><ant>:Dominique<np><loc>
 Dracula<np><ant>:Dracula<np>
 Dulcinea<np><ant>:Dulcinée<np><ant>
 Electra<np><ant>:Électre<np><ant>
@@ -63,9 +58,6 @@ Scipion<np><ant>:Scipion<np><ant>
 Espartaco<np><ant>:Spartacus<np><ant>
 Euclid<np><ant>:Euclide<np><ant>
 Phaedra<np><ant>:Phèdre<np><ant>
-Ferrari<np><cog><sg>:Ferrari<np><ant>
-Ferrari<np><cog><pl>:Ferrari<np><ant>
-Florencia<np><ant>:Florence<np><loc>
 Florencia<np><ant>:Florence<np><ant>
 Félix<np><ant>:Felix<np><ant>
 Galatea<np><ant>:Galatée<np><ant>
@@ -73,9 +65,6 @@ Galia<np><ant>:Gaule<np><ant>
 Galileo<np><ant>:Galilée<np><ant>
 Georgia<np><ant>:Géorgie<np><ant>
 Grecia<np><ant>:Grèce<np><ant>
-Guadalupe<np><ant>:Guadeloupe<np><loc>
-Guadalupe<np><ant>:Guadalupe<np><loc>
-Guadeloupe<np><loc>:Guadalupe<np><ant>
 Helvecia<np><ant>:Helvétie<np><ant>
 Heracles<np><ant>:Héraclès<np><ant>
 Herodes<np><ant>:Hérode<np><ant>
@@ -96,32 +85,22 @@ Jehovah<np><ant>:Jéhovah<np>
 Juan Caboto<np><ant>:Jean Cabot<np><ant>
 Juan Calvino<np><ant>:Jean Calvin<np><ant>
 Juan Carlos I<np><ant>:Juan Carlos Ier<np><ant>
-Jupiter<np><ant>:Jupiter<np><loc>
-Jupiter<np><loc>:Jupiter<np><ant>
 Kenia<np><ant>:Kenya<np><ant>
-Kidman<np><cog><sg>:Kidman<np><ant>
-Kidman<np><cog><pl>:Kidman<np><ant>
 Lancelot<np><ant>:Lanzarote<np>
 Leo<np><ant>:Lion<np><ant>
 Liberia<np><ant>:Libéria<np><ant>
 Libia<np><ant>:Libye<np><ant>
 Lidia<np><ant>:Lydie<np><ant>
 Lisandro<np><ant>:Lysandre<np><ant>
-Lorena<np><ant>:Lorraine<np><loc>
-Lorraine<np><loc>:Lorena<np><ant>
 Lérida<np><ant>:Lleida<np><ant>
 Mahoma<np><ant>:Mahomet<np><ant>
 Manuel<np>:Manuel<np><ant>
-Marchena<np><cog><sg>:Marchena<np><ant>
-Marchena<np><cog><pl>:Marchena<np><ant>
-Mauricio<np><ant>:Maurice<np><loc>
 Mauricio<np><ant>:Maurice<np><ant>
 Medusa<np><ant>:Méduse<np><ant>
 Mercurio<np><ant>:Mercure<np><ant>
 Mikhail Gorbachev<np><ant>:Mikhaïl Gorbatchev<np>
 Minerva<np><ant>:Minerve<np><ant>
 Moisés<np><ant>:Moïse<np><ant>
-Murcia<np><loc>:Murcia<np><ant>
 Mustafa<np><ant>:Mustapha<np><ant>
 Nabucodonosor<np><ant>:Nabuchodonosor<np><ant>
 Napoleon<np><ant>:Napoléon<np><ant>
@@ -152,7 +131,6 @@ Rasputín<np><ant>:Raspoutine<np><ant>
 Richard<np>:Richard<np><ant>
 Siria<np><ant>:Syrie<np><ant>
 Socrates<np><ant>:Socrate<np>
-Sofía<np><ant>:Sofia<np><loc>
 Sophocles<np><ant>:Sophocle<np>
 Telémaco<np><ant>:Télémaque<np><ant>
 Tiziano<np><ant>:Titien<np><ant>
@@ -166,5 +144,3 @@ Virgilio<np><ant>:Virgile<np><ant>
 Xenocrates<np><ant>:Xénocrate<np>
 Xerxes<np><ant>:Xerxès<np>
 Zaire<np><ant>:Zaïre<np><ant>
-Zapatero<np><cog><sg>:Zapatero<np><ant>
-Zapatero<np><cog><pl>:Zapatero<np><ant>
