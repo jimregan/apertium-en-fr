@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	Dictionary:
-	Sections: 1
-	Entries: 13205
-	Sdefs: 95
-
--->
 <dictionary>
   <alphabet></alphabet>
   <sdefs>
@@ -106,7 +99,7 @@
     <sdef n="acr" /> 
     <sdef n="top" /> 
   </sdefs>
-  <section  id="main" type="standard">
+  <section id="regex" type="standard">
 <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 <e><re>[0-9]+([.,][0-9]+)?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/><s n="percent"/></r></p></e>
 <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
@@ -124,6 +117,10 @@
 <e><re>[A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/><s n="sp"/></r></p></e>
 <e><re>[A-Z][A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/><s n="sp"/></r></p></e>
 <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+<e><re>([0-9]*[02-9]2|2)</re><p><l>de<s n="num"/><s n="ord"/><s n="f"/></l><r>.ª<s n="num"/><s n="ord"/><s n="f"/></r></p></e>
+<e><re>(((www.)|(http://))[a-z0-9\-]+([.][a-z]+)+(/[a-z0-9_]+)*([.][a-z]+)*)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+  </section>
+  <section  id="main" type="standard">
 <e><p><l>Aarón<s n="np"/><s n="ant"/></l><r>Aaron<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Abascal<s n="np"/><s n="cog"/><s n="sg"/></l><r>Abascal<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Abascal<s n="np"/><s n="cog"/><s n="pl"/></l><r>Abascal<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -5069,7 +5066,7 @@
 <e><p><l>darken<s n="vblex"/></l><r>foncer<s n="vblex"/></r></p></e>
 <e><p><l>darken<s n="vblex"/></l><r>obscurcir<s n="vblex"/></r></p></e>
 <e><p><l>darkness<s n="n"/></l><r>obscurité<s n="n"/><s n="f"/></r></p></e>
-<e c="dada (cat) en plural (el tagger hauria d'escollar sg o pl en anglès). MG: Falta fer entrada específica ca-en per a 'dada' en singular, si cal (?)"><p><l>data<s n="n"/></l><r>donnée<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>data<s n="n"/></l><r>donnée<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>date<s n="n"/></l><r>date<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>date<s n="vblex"/></l><r>dater<s n="vblex"/></r></p></e>
 <e><p><l>dating<s n="n"/></l><r>datation<s n="n"/><s n="f"/></r></p></e>
@@ -5079,9 +5076,6 @@
 <e><p><l>day<s n="n"/></l><r>journée<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dazzle<s n="vblex"/></l><r>éblouir<s n="vblex"/></r></p></e>
 <e><p><l>dd/mm/yyyy<s n="n"/></l><r>jj/mm/aaaa<s n="n"/><s n="m"/></r></p></e>
-<e><re>([0-9]*[02-9]2|2)</re><p><l>de<s n="num"/><s n="ord"/><s n="f"/></l><r>.ª<s n="num"/><s n="ord"/><s n="f"/></r></p></e>
-<e><re>¿</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
-<e><re>(((www.)|(http://))[a-z0-9\-]+([.][a-z]+)+(/[a-z0-9_]+)*([.][a-z]+)*)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 <e><p><l>de-rating<s n="n"/></l><r>déclassification<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dead<s n="adj"/></l><r>mort<s n="adj"/></r></p></e>
 <e><p><l>dead<b/>person<s n="n"/></l><r>mort<s n="n"/><s n="m"/></r></p></e>
