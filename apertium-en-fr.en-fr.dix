@@ -2616,9 +2616,10 @@
 <e><p><l>Zeta<s n="np"/><s n="ant"/></l><r>Zeta<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Zheng<b/>Jie<s n="np"/><s n="ant"/></l><r>Zheng<b/>Jie<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Zinedine<s n="np"/><s n="ant"/></l><r>Zinedine<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
-<e><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
 <e><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
 <e><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
@@ -2638,8 +2639,7 @@
 <e><p><l>abide<s n="vblex"/></l><r>supporter<s n="vblex"/></r></p></e>
 <e><p><l>ability<s n="n"/></l><r>habilité<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ablation<s n="n"/></l><r>ablation<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>able<s n="adj"/><s n="sint"/></l><r>capable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-<e><p><l>able<s n="adj"/><s n="sint"/></l><r>capable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+<e><p><l>able<s n="adj"/><s n="sint"/></l><r>capable<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>abnegation<s n="n"/></l><r>abnégation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>abnormal<s n="adj"/></l><r>anormal<s n="adj"/></r></p></e>
 <e><p><l>abnormality<s n="n"/></l><r>anormalité<s n="n"/><s n="f"/></r></p></e>
@@ -2653,7 +2653,7 @@
 <e><p><l>abrogation<s n="n"/></l><r>abrogation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>absence<s n="n"/></l><r>absence<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>absent<s n="adj"/></l><r>absent<s n="adj"/></r></p></e>
-<e><p><l>absent<s n="adj"/></l><r>manquant<s n="adj"/></r></p></e>
+<e r="RL"><p><l>absent<s n="adj"/></l><r>manquant<s n="adj"/></r></p></e>
 <e><p><l>absenteeism<s n="n"/></l><r>absentéisme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>absolute<s n="adj"/></l><r>absolu<s n="adj"/></r></p></e>
 <e><p><l>absolutely<s n="adv"/></l><r>absolument<s n="adv"/></r></p></e>
@@ -2677,8 +2677,8 @@
 <e r="RL"><p><l>abuse<s n="n"/><s n="ND"/></l><r>abus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>abuse<s n="n"/><s n="pl"/></l><r>abus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>abuse<s n="n"/><s n="sg"/></l><r>abus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>abuse<s n="vblex"/></l><r>insulter<s n="vblex"/></r></p></e>
-<e><p><l>abuse<s n="vblex"/></l><r>maltraiter<s n="vblex"/></r></p></e>
+<e><p><l>insult<s n="vblex"/></l><r>insulter<s n="vblex"/></r></p></e>
+<e><p><l>mistreat<s n="vblex"/></l><r>maltraiter<s n="vblex"/></r></p></e>
 <e><p><l>abuse<s n="vblex"/></l><r>abuser<s n="vblex"/></r></p></e>
 <e><p><l>abyss<s n="n"/></l><r>abîme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>abyssal<s n="adj"/></l><r>abyssal<s n="adj"/></r></p></e>
@@ -2688,7 +2688,6 @@
 <e><p><l>acceleration<s n="n"/></l><r>accélération<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>accent<s n="n"/></l><r>accent<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>accentuation<s n="n"/></l><r>accentuation<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>accept<s n="vblex"/></l><r>agréer<s n="vblex"/></r></p></e>
 <e><p><l>accept<s n="vblex"/></l><r>accepter<s n="vblex"/></r></p></e>
 <e><p><l>acceptable<s n="adj"/></l><r>acceptable<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>acceptance<s n="n"/></l><r>acceptation<s n="n"/><s n="f"/></r></p></e>
@@ -2706,18 +2705,16 @@
 <e><p><l>acclimate<s n="vblex"/></l><r>acclimater<s n="vblex"/></r></p></e>
 <e><p><l>acclimatisation<s n="n"/></l><r>acclimatation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>accommodate<s n="vblex"/></l><r>accommoder<s n="vblex"/></r></p></e>
-<e><p><l>accommodation<s n="n"/></l><r>logement<s n="n"/><s n="m"/></r></p></e>
+<e r='RL'><p><l>accommodation<s n="n"/></l><r>logement<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>accommodation<s n="n"/></l><r>hébergement<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>accompaniment<s n="n"/></l><r>accompagnement<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>accompany<s n="vblex"/></l><r>accompagner<s n="vblex"/></r></p></e>
-<e><p><l>accompanying<s n="adj"/></l><r>accompagnateur<s n="adj"/><s n="GD"/></r></p></e>
-<e><p><l>accompanying<s n="adj"/></l><r>accompagnateur<s n="adj"/><s n="m"/></r></p></e>
-<e><p><l>accompanying<s n="adj"/></l><r>accompagnateur<s n="adj"/><s n="f"/></r></p></e>
+<e><p><l>accompanying<s n="adj"/></l><r>accompagnateur<s n="adj"/></r></p></e>
 <e><p><l>accomplish<s n="vblex"/></l><r>accomplir<s n="vblex"/></r></p></e>
 <e><p><l>accord<s n="n"/></l><r>accord<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>according<s n="pr"/></l><r>selon<s n="pr"/></r></p></e>
+<e r='LR'><p><l>according<s n="pr"/></l><r>selon<s n="pr"/></r></p></e>
 <e><p><l>according<b/>to<s n="pr"/></l><r>selon<s n="pr"/></r></p></e>
-<e><p><l>according<b/>to<s n="pr"/></l><r>au<b/>dire<b/>de<s n="pr"/></r></p></e>
+<e r='RL'><p><l>according<b/>to<s n="pr"/></l><r>au<b/>dire<b/>de<s n="pr"/></r></p></e>
 <e><p><l>account<s n="n"/></l><r>compte<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>account<s n="n"/></l><r>relation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>account<b/>number<s n="n"/></l><r>numéro<g><b/>de<b/>compte</g><s n="n"/><s n="m"/></r></p></e>
@@ -2725,24 +2722,23 @@
 <e><p><l>accountant<s n="n"/></l><r>comptable<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>accounting<s n="n"/></l><r>comptabilité<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>accredit<s n="vblex"/></l><r>accréditer<s n="vblex"/></r></p></e>
-<e><p><l>accumulate<s n="vblex"/></l><r>amasser<s n="vblex"/></r></p></e>
+<e><p><l>amass<s n="vblex"/></l><r>amasser<s n="vblex"/></r></p></e>
 <e><p><l>accumulate<s n="vblex"/></l><r>accumuler<s n="vblex"/></r></p></e>
 <e><p><l>accumulation<s n="n"/></l><r>accumulation<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>accuracy<s n="n"/></l><r>précision<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>precision<s n="n"/></l><r>précision<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>accuracy<s n="n"/></l><r>justesse<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>accuracy<s n="n"/></l><r>exactitude<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>exactitude<s n="n"/></l><r>exactitude<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>accuse<s n="vblex"/></l><r>accuser<s n="vblex"/></r></p></e>
 <e><p><l>accustom<s n="vblex"/></l><r>accoutumer<s n="vblex"/></r></p></e>
 <e r="RL"><p><l>ace<s n="n"/><s n="ND"/></l><r>as<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>ace<s n="n"/><s n="pl"/></l><r>as<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>ace<s n="n"/><s n="sg"/></l><r>as<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e><p><l>achieve<s n="vblex"/></l><r>atteindre<s n="vblex"/></r></p></e>
+<e><p><l>attain<s n="vblex"/></l><r>atteindre<s n="vblex"/></r></p></e>
 <e><p><l>achieve<s n="vblex"/></l><r>réussir<s n="vblex"/></r></p></e>
 <e><p><l>achievement<s n="n"/></l><r>réussite<s n="n"/><s n="f"/></r></p></e>
 <e c="new-category"><p><l>acid<s n="n"/></l><r>acide<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>acknowledge<s n="vblex"/></l><r>reconnaître<s n="vblex"/></r></p></e>
 <e><p><l>acoustic<s n="adj"/></l><r>acoustique<s n="adj"/><s n="mf"/></r></p></e>
-<e><p><l>acoustic<s n="adj"/></l><r>acoustique<s n="adj"/></r></p></e>
 <e><p><l>acoustics<s n="n"/></l><r>acoustique<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>acquire<s n="vblex"/></l><r>acquérir<s n="vblex"/></r></p></e>
 <e><p><l>acquisition<s n="n"/></l><r>acquisition<s n="n"/><s n="f"/></r></p></e>
@@ -2750,12 +2746,12 @@
 <e><p><l>acronym<s n="n"/></l><r>sigle<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>across<s n="pr"/></l><r>à<b/>travers<s n="pr"/></r></p></e>
 <e><p><l>act<s n="n"/></l><r>acte<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>act<s n="n"/></l><r>loi<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>act<s n="n"/></l><r>loi<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>act<s n="vblex"/></l><r>agir<s n="vblex"/></r></p></e>
-<e><p><l>act<s n="vblex"/></l><r>jouer<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>act<s n="vblex"/></l><r>jouer<s n="vblex"/></r></p></e>
 <e><p><l>acting<s n="adj"/></l><r>suppléant<s n="adj"/></r></p></e>
 <e><p><l>action<s n="n"/></l><r>action<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>active<s n="adj"/></l><r>allant<s n="adj"/></r></p></e>
+<e r="RL"><p><l>active<s n="adj"/></l><r>allant<s n="adj"/></r></p></e>
 <e><p><l>active<s n="adj"/></l><r>actif<s n="adj"/></r></p></e>
 <e><p><l>actively<s n="adv"/></l><r>activement<s n="adv"/></r></p></e>
 <e><p><l>activist<s n="n"/></l><r>activiste<s n="n"/><s n="mf"/></r></p></e>
