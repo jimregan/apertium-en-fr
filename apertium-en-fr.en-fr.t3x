@@ -2550,7 +2550,7 @@
 		<let>
 		  <clip pos="1" part="lem"/>
 		  <get-case-from pos="0">
-		    <lit v="hay"/>
+		    <lit v="y avoir"/>
 		  </get-case-from>
 		</let>
 		<let>
@@ -4149,7 +4149,7 @@
 	<let>
 	    <clip pos="1" part="lem"/>
 	    <get-case-from pos="0">
-	      <lit v="tener"/>
+	      <lit v="avoir"/>
 	    </get-case-from>
 	</let>
 	<let>
