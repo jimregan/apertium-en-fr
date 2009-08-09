@@ -955,6 +955,54 @@
 
  </def-list>
 
+    <def-list n="vbambser">
+      <list-item v="aller"/>
+      <list-item v="tomber# amoureux"/>
+      <list-item v="accourir"/>
+      <list-item v="advenir"/>
+      <list-item v="arriver"/>
+      <list-item v="décéder"/>
+      <list-item v="entrer"/>
+      <list-item v="rentrer"/>
+      <list-item v="mourir"/>
+      <list-item v="naître"/>
+      <list-item v="partir"/>
+      <list-item v="repartir"/>
+      <list-item v="rester"/>
+      <list-item v="tomber"/>
+      <list-item v="retomber"/>
+      <list-item v="venir"/>
+      <list-item v="parvenir"/>
+      <list-item v="intervenir"/>
+      <list-item v="revenir"/>
+      <list-item v="devenir"/>
+      <list-item v="abaisser"/>
+      <list-item v="baisser"/>
+      <list-item v="descendre"/>
+      <list-item v="redescendre"/>
+      <list-item v="monter"/>
+      <list-item v="remonter"/>
+      <list-item v="sortir"/>
+      <list-item v="ressortir"/>
+      <list-item v="passer"/>
+      <list-item v="apparaître"/>
+      <list-item v="imposer"/>
+    </def-list>
+    <def-list n="adv_neg">
+      <list-item v="jamais"/>
+    </def-list>
+    <def-list n="part_sing">
+      <list-item v="eau"/>
+      <list-item v="beurre"/>
+      <list-item v="limonade"/>
+      <list-item v="vin"/>
+      <list-item v="bière"/>
+      <list-item v="viande"/>
+      <list-item v="pain"/>
+      <list-item v="farine"/>
+      <list-item v="chance"/>
+    </def-list>
+
   </section-def-lists>
 
   <section-def-macros>
@@ -4891,7 +4939,42 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </let>
 	 </when>
   </choose>
+
 </def-macro>
+    <def-macro n="vauxiliar" npar="2">
+      <choose>
+        <when>
+          <test>
+            <in caseless="yes">
+              <clip pos="2" side="tl" part="lem"/>
+              <list n="vbambser"/>
+            </in>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="lem"/>
+            <lit v="être"/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <lit-tag v="vbser"/>
+          </let>
+          <let>
+            <clip pos="2" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="nbr"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <clip pos="1" side="tl" part="lem"/>
+            <lit v="avoir"/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <lit-tag v="vbhaver"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
 
 
 
