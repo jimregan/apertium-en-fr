@@ -556,6 +556,314 @@
     <e><p><l>chewing<b/>gum<s n="n"/></l><r>chewing-gum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>consultation<s n="n"/></l><r>consultation<s n="n"/><s n="f"/></r></p></e>
 
+    <e><p><l>owner<s n="n"/></l><r>propriétaire<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>puppet<s n="n"/></l><r>marionnette<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>prince<s n="n"/></l><r>prince<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>princess<s n="n"/></l><r>prince<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>principle<s n="n"/></l><r>principe<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>print<s n="n"/></l><r>impression<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>print<s n="n"/></l><r>empreinte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>printer<s n="n"/></l><r>imprimante<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>printing<s n="n"/></l><r>imprimerie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>printing<s n="n"/></l><r>impression<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>priority<s n="n"/></l><r>priorité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prism<s n="n"/></l><r>prisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prison<s n="n"/></l><r>prison<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>prisoner<s n="n"/></l><r>prisonnier<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>prisoner<s n="n"/></l><r>prisonnier<s n="n"/></r></p></e>
+    <e><p><l>profession<s n="n"/></l><r>profession<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>professional<s n="n"/></l><r>professionnel<s n="n"/></r></p></e>
+    <e r="LR"><p><l>professional<s n="n"/></l><r>professionnel<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>professor<s n="n"/></l><r>professeur<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>prophet<s n="n"/></l><r>prophète<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>prophet<s n="n"/></l><r>prophète<s n="n"/></r></p></e>
+    <e r="LR"><p><l>proprietor<s n="n"/></l><r>propriétaire<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>publishing<s n="n"/></l><r>éditorial<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>puddle<s n="n"/></l><r>flaque<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pull<s n="n"/></l><r>attraction<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>pulse<s n="n"/><s n="ND"/></l><r>pouls<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>pulse<s n="n"/><s n="sg"/></l><r>pouls<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>pulse<s n="n"/><s n="pl"/></l><r>pouls<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>proportion<s n="n"/></l><r>proportion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>proposal<s n="n"/></l><r>proposition<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prospect<s n="n"/></l><r>perspective<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prosperity<s n="n"/></l><r>prospérité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>province<s n="n"/></l><r>province<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>property<s n="n"/></l><r>propriété<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>propaganda<s n="n"/></l><r>propagande<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prosthesis<s n="n"/></l><r>prothèse<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>providence<s n="n"/></l><r>ordonnance<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>provider<s n="n"/></l><r>fournisseur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>provider<s n="n"/></l><r>fournisseur<s n="n"/></r></p></e>
+    <e><p><l>providence<s n="n"/></l><r>providence<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prostitute<s n="n"/></l><r>prostituée<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prostitution<s n="n"/></l><r>prostitution<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prostration<s n="n"/></l><r>prostration<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>protagonist<s n="n"/></l><r>protagoniste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>protection<s n="n"/></l><r>protection<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>protein<s n="n"/></l><r>protéine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>protest<s n="n"/></l><r>protestation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>protocol<s n="n"/></l><r>protocole<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prototype<s n="n"/></l><r>prototype<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>proverb<s n="n"/></l><r>proverbe<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>provocation<s n="n"/></l><r>provocation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prowess<s n="n"/></l><r>courage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prudence<s n="n"/></l><r>prudence<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>psychologist<s n="n"/></l><r>psychologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>psychology<s n="n"/></l><r>psychologie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pub<s n="n"/></l><r>pub<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>public<s n="n"/></l><r>public<s n="n"/><s n="m"/></r></p></e>
+    <e c="check/new-category"><p><l>public<b/>prosecutor<s n="n"/></l><r>procureur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>publication<s n="n"/></l><r>publication<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>publicity<s n="n"/></l><r>publicité<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>publisher<s n="n"/></l><r>éditeur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>publisher<s n="n"/></l><r>éditeur<s n="n"/></r></p></e>
+    <e r="RL"><p><l>purpose<s n="n"/><s n="ND"/></l><r>propos<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>purpose<s n="n"/><s n="pl"/></l><r>propos<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>purpose<s n="n"/><s n="sg"/></l><r>propos<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>questionnaire<s n="n"/></l><r>questionnaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>quilt<s n="n"/></l><r>édredon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>quintet<s n="n"/></l><r>quintette<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>quota<s n="n"/></l><r>quota<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>quotation<s n="n"/></l><r>mention<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>rabbit<s n="n"/></l><r>lapin<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>rabbit<s n="n"/></l><r>lapin<s n="n"/></r></p></e>
+    <e><p><l>pâté<s n="n"/></l><r>pâté<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>qualification<s n="n"/></l><r>qualification<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>quality<s n="n"/></l><r>qualité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>quantity<s n="n"/></l><r>quantité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>quarantine<s n="n"/></l><r>quarantaine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>quarry<s n="n"/></l><r>carrière<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>quarter<s n="n"/></l><r>quartier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>racism<s n="n"/></l><r>racisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>radar<s n="n"/></l><r>radar<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>radiation<s n="n"/></l><r>radiation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>radicalism<s n="n"/></l><r>radicalisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>radio<s n="n"/></l><r>radio<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>radium<s n="n"/></l><r>radio<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>rapist<s n="n"/></l><r>violateur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>rapist<s n="n"/></l><r>violateur<s n="n"/></r></p></e>
+    <e><p><l>rat<s n="n"/></l><r>rat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reconciliation<s n="n"/></l><r>réconciliation<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>reconciliation<s n="n"/></l><r>reconciliation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reconstruction<s n="n"/></l><r>reconstruction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reconversion<s n="n"/></l><r>reconversion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>redistribution<s n="n"/></l><r>redistribution<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reduction<s n="n"/></l><r>réduction<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>reduction<s n="n"/></l><r>reduction<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>reflection<s n="n"/></l><r>reflet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reflection<s n="n"/></l><r>réflexion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reform<s n="n"/></l><r>réforme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>refrigerator<s n="n"/></l><r>réfrigérateur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>refund<s n="n"/></l><r>remboursement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>refusal<s n="n"/></l><r>négative<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>regime<s n="n"/></l><r>régime<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>region<s n="n"/></l><r>région<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>regionalisation<s n="n"/></l><r>régionalisation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>register<s n="n"/></l><r>registre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>registration<s n="n"/></l><r>inscription<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>regression<s n="n"/></l><r>régression<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>regularisation<s n="n"/></l><r>régularisation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>requirement<s n="n"/></l><r>condition<b/>requise<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rescission<s n="n"/></l><r>résiliation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>report<s n="n"/></l><r>rapport<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>representativeness<s n="n"/></l><r>représentativité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>repression<s n="n"/></l><r>répression<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reprieve<s n="n"/></l><r>grâce<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reopening<s n="n"/></l><r>réouverture<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reorganisation<s n="n"/></l><r>reorganization<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>repair<s n="n"/></l><r>réparation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>repatriation<s n="n"/></l><r>rapatriement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>repayment<s n="n"/></l><r>remboursement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>repercussion<s n="n"/></l><r>répercussion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>repertoire<s n="n"/></l><r>répertoire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>repetition<s n="n"/></l><r>répétition<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>replacement<s n="n"/></l><r>remplacement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>religion<s n="n"/></l><r>religion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>religiousness<s n="n"/></l><r>religiosité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>remainder<s n="n"/></l><r>reste<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>remains<s n="n"/></l><r>reste<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>remark<s n="n"/></l><r>commentaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>remedy<s n="n"/></l><r>remède<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reminder<s n="n"/></l><r>souvenir<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reminiscence<s n="n"/></l><r>réminiscence<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>relativity<s n="n"/></l><r>relativité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>relaxation<s n="n"/></l><r>relaxation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reprisal<s n="n"/></l><r>représaille<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reproduction<s n="n"/></l><r>reproduction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reptile<s n="n"/></l><r>reptile<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>republic<s n="n"/></l><r>république<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>republising<s n="n"/></l><r>réédition<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reputation<s n="n"/></l><r>réputation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>result<s n="n"/></l><r>résultat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>score<s n="n"/></l><r>score<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>resumption<s n="n"/></l><r>reprise<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>resurrection<s n="n"/></l><r>résurrection<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>retailer<s n="n"/></l><r>détaillant<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reticulocyte<s n="n"/></l><r>réticulocyte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>retina<s n="n"/></l><r>rétine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>review<s n="n"/></l><r>revue<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>revision<s n="n"/></l><r>révision<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>revitalisation<s n="n"/></l><r>revitalisation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>revolution<s n="n"/></l><r>révolution<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>revolution<s n="n"/></l><r>revolution<s n="n"/><s n="f"/></r></p></e>
+    <e c="check"><p><l>revolutionary<s n="n"/></l><r>révolutionnaire<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>revolver<s n="n"/></l><r>revolver<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>reward<s n="n"/></l><r>rétribution<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rhetoric<s n="n"/></l><r>rhétorique<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rhinoplasty<s n="n"/></l><r>rhinoplastie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rhythm<s n="n"/></l><r>rythme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ride<s n="n"/></l><r>promenade<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>rice<s n="n"/><s n="ND"/></l><r>riz<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>rice<s n="n"/><s n="pl"/></l><r>riz<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>rice<s n="n"/><s n="sg"/></l><r>riz<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>rider<s n="n"/></l><r>écuyer<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>rider<s n="n"/></l><r>écuyer<s n="n"/></r></p></e>
+    <e><p><l>riding<s n="n"/></l><r>équitation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rifle<s n="n"/></l><r>fusil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>risk<s n="n"/></l><r>risque<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rite<s n="n"/></l><r>rite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ritual<s n="n"/></l><r>rituel<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>rival<s n="n"/></l><r>rival<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>rival<s n="n"/></l><r>rival<s n="n"/></r></p></e>
+    <e><p><l>rivalry<s n="n"/></l><r>rivalité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>river<s n="n"/></l><r>rivière<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>river<s n="n"/></l><r>fleuve<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rivet<s n="n"/></l><r>bordure<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>road<s n="n"/></l><r>route<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>road<s n="n"/></l><r>voie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>robot<s n="n"/></l><r>robot<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>robustness<s n="n"/></l><r>robustesse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>function<s n="n"/></l><r>fonction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>role<s n="n"/></l><r>rôle<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>roll<s n="n"/></l><r>cercle<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>romanticism<s n="n"/></l><r>romantisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>root<s n="n"/></l><r>racine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rope<s n="n"/></l><r>corde<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rosary<s n="n"/></l><r>rosaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rose<s n="n"/></l><r>rose<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rosebay<s n="n"/></l><r>laurier-rose<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>rotation<s n="n"/></l><r>roulement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rotation<s n="n"/></l><r>rotation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>roulette<s n="n"/></l><r>roulette<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rush<s n="n"/></l><r>hâte<s n="n"/><s n="f"/></r></p></e>
+    <e c="new-category"><p><l>russian<s n="n"/></l><r>russe<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>sabotage<s n="n"/></l><r>sabotage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sack<s n="n"/></l><r>sac<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sacrament<s n="n"/></l><r>sacrement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sacrifice<s n="n"/></l><r>sacrifice<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sadness<s n="n"/></l><r>tristesse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>safekeeping<s n="n"/></l><r>garde<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>safety<s n="n"/></l><r>sécurité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sailing<s n="n"/></l><r>navigation<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>sailor<s n="n"/></l><r>marin<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>sailor<s n="n"/></l><r>marin<s n="n"/></r></p></e>
+    <e r="LR"><p><l>saint<s n="n"/></l><r>saint<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>saint<s n="n"/></l><r>saint<s n="n"/></r></p></e>
+    <e><p><l>salad<s n="n"/></l><r>salade<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>salary<s n="n"/></l><r>salaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sale<s n="n"/></l><r>vente<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>salinity<s n="n"/></l><r>salinité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>saliva<s n="n"/></l><r>salive<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>salt<s n="n"/></l><r>sel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>saltworks<s n="n"/></l><r>mine<g><b/>de<b/>sel</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>salvation<s n="n"/></l><r>salut<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sample<s n="n"/></l><r>échantillon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sampling<s n="n"/></l><r>échantillonnage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sanction<s n="n"/></l><r>sanction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sanctuary<s n="n"/></l><r>sanctuaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sarcasm<s n="n"/></l><r>sarcasme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sardine<s n="n"/></l><r>sardine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>satellite<s n="n"/></l><r>satellite<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>satiety<s n="n"/></l><r>satiété<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>satire<s n="n"/></l><r>satire<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>contentment<s n="n"/></l><r>contentement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>satisfaction<s n="n"/></l><r>satisfaction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>search<s n="n"/></l><r>recherche<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>search<b/>engine<s n="n"/></l><r>moteur<g><b/>de<b/>recherche</g><s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>searcher<s n="n"/></l><r>moteur<g><b/>de<b/>recherche</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>seashell<s n="n"/></l><r>coquille<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seasickness<s n="n"/></l><r>vertige<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>school<s n="n"/></l><r>école<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>science<s n="n"/></l><r>science<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scientist<s n="n"/></l><r>scientifique<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>scoop<s n="n"/></l><r>exclusive<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scope<s n="n"/></l><r>portée<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>score<s n="n"/></l><r>ponctuation<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>scorer<s n="n"/></l><r>annotateur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>scorer<s n="n"/></l><r>annotateur<s n="n"/></r></p></e>
+    <e><p><l>scream<s n="n"/></l><r>cri<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>screen<s n="n"/></l><r>écran<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>screening<s n="n"/></l><r>exploration<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>script<s n="n"/></l><r>scénario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>scruple<s n="n"/></l><r>scrupule<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>sculptor<s n="n"/></l><r>sculpteur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>sculptor<s n="n"/></l><r>sculpteur<s n="n"/></r></p></e>
+    <e><p><l>sculpture<s n="n"/></l><r>sculpture<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scupper<s n="n"/></l><r>égout<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sea<s n="n"/></l><r>mer<s n="n"/><s n="f"/></r></p></e>
+    <e c="check"><p><l>seaboard<s n="n"/></l><r>littoral<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>seaweed<s n="n"/></l><r>algue<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seclusion<s n="n"/></l><r>réclusion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>second<s n="n"/></l><r>seconde<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>secrecy<s n="n"/></l><r>clandestinité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>secret<s n="n"/></l><r>secret<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>secretariat<s n="n"/></l><r>secrétariat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>secretary<s n="n"/></l><r>secrétaire<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>sect<s n="n"/></l><r>secte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>section<s n="n"/></l><r>section<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sector<s n="n"/></l><r>secteur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>secularisation<s n="n"/></l><r>sécularisation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seducer<s n="n"/></l><r>séducteur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>seduction<s n="n"/></l><r>séduction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seductress<s n="n"/></l><r>séducteur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sep.<s n="n"/></l><r>sep.<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sensitisation<s n="n"/></l><r>sensibilisation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sensitivity<s n="n"/></l><r>sensibilité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sensor<s n="n"/></l><r>capteur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sensuality<s n="n"/></l><r>sensualité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sepia<s n="n"/></l><r>sépia<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sequela<s n="n"/></l><r>séquelle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sequence<s n="n"/></l><r>séquence<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>serenity<s n="n"/></l><r>sérénité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sergeant<s n="n"/></l><r>sergent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>series<s n="n"/></l><r>série<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seriousness<s n="n"/></l><r>sérieux<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>server<s n="n"/></l><r>serviteur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>service<s n="n"/></l><r>service<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>servitude<s n="n"/></l><r>servitude<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sewing<s n="n"/></l><r>couture<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sex<s n="n"/></l><r>sexe<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sexuality<s n="n"/></l><r>sexualité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shade<s n="n"/></l><r>ombre<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shadow<s n="n"/></l><r>ombre<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shame<s n="n"/></l><r>honte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shape<s n="n"/></l><r>forme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>share<s n="n"/></l><r>participation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shareholder<s n="n"/></l><r>actionnaire<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>shark<s n="n"/></l><r>requin<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>shed<s n="n"/></l><r>case<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sheep<s n="n"/></l><r>mouton<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>shooting<s n="n"/></l><r>fusillade<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shower<s n="n"/></l><r>douche<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shrewdness<s n="n"/></l><r>sagacité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shrimp<s n="n"/></l><r>crevette<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>shrinking<s n="n"/></l><r>recul<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>site<s n="n"/></l><r>site<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>situation<s n="n"/></l><r>situation<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>skyscraper<s n="n"/><s n="ND"/></l><r>gratte-ciel<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>skyscraper<s n="n"/><s n="sg"/></l><r>gratte-ciel<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>skyscraper<s n="n"/><s n="pl"/></l><r>gratte-ciel<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>slang<s n="n"/></l><r>argot<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>slat<s n="n"/></l><r>latte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>slave<s n="n"/></l><r>esclave<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>sleet<s n="n"/></l><r>neige<b/>fondue<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sleeve<s n="n"/></l><r>manche<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>sleeplessness<s n="n"/></l><r>insomnie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>insomnia<s n="n"/></l><r>insomnie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>skirt<s n="n"/></l><r>jupe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sky<s n="n"/></l><r>ciel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>significance<s n="n"/></l><r>importance<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>signpost<s n="n"/></l><r>panneau<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>silence<s n="n"/></l><r>silence<s n="n"/><s n="m"/></r></p></e>
@@ -885,5 +1193,60 @@
     <e><p><l>zinc<s n="n"/></l><r>zinc<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>zone<s n="n"/></l><r>zone<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zoom<s n="n"/></l><r>zoom<s n="n"/><s n="m"/></r></p></e>
+
+    <!-- Verbs -->
+    <e r="RL"><p><l>abandon<s n="vblex"/></l><r>quitter<s n="vblex"/></r></p></e>
+    <e><p><l>abandon<s n="vblex"/></l><r>abandonner<s n="vblex"/></r></p></e>
+    <e><p><l>abbreviate<s n="vblex"/></l><r>abréger<s n="vblex"/></r></p></e>
+    <e><p><l>abdicate<s n="vblex"/></l><r>abdiquer<s n="vblex"/></r></p></e>
+    <e><p><l>abide<s n="vblex"/></l><r>supporter<s n="vblex"/></r></p></e>
+    <e><p><l>abort<s n="vblex"/></l><r>avorter<s n="vblex"/></r></p></e>
+    <e><p><l>absolve<s n="vblex"/></l><r>acquitter<s n="vblex"/></r></p></e>
+    <e><p><l>absorb<s n="vblex"/></l><r>absorber<s n="vblex"/></r></p></e>
+    <e><p><l>abstain<s n="vblex"/></l><r>abstenir<s n="vblex"/></r></p></e>
+    <e><p><l>insult<s n="vblex"/></l><r>insulter<s n="vblex"/></r></p></e>
+    <e><p><l>mistreat<s n="vblex"/></l><r>maltraiter<s n="vblex"/></r></p></e>
+    <e><p><l>abuse<s n="vblex"/></l><r>abuser<s n="vblex"/></r></p></e>
+    <e><p><l>accelerate<s n="vblex"/></l><r>accélérer<s n="vblex"/></r></p></e>
+    <e><p><l>accept<s n="vblex"/></l><r>accepter<s n="vblex"/></r></p></e>
+    <e><p><l>access<s n="vblex"/></l><r>accéder<s n="vblex"/></r></p></e>
+    <e><p><l>acclaim<s n="vblex"/></l><r>acclamer<s n="vblex"/></r></p></e>
+    <e><p><l>acclimate<s n="vblex"/></l><r>acclimater<s n="vblex"/></r></p></e>
+    <e><p><l>accommodate<s n="vblex"/></l><r>accommoder<s n="vblex"/></r></p></e>
+    <e><p><l>accompany<s n="vblex"/></l><r>accompagner<s n="vblex"/></r></p></e>
+    <e><p><l>accomplish<s n="vblex"/></l><r>accomplir<s n="vblex"/></r></p></e>
+    <e><p><l>accredit<s n="vblex"/></l><r>accréditer<s n="vblex"/></r></p></e>
+    <e><p><l>amass<s n="vblex"/></l><r>amasser<s n="vblex"/></r></p></e>
+    <e><p><l>accumulate<s n="vblex"/></l><r>accumuler<s n="vblex"/></r></p></e>
+    <e><p><l>accuse<s n="vblex"/></l><r>accuser<s n="vblex"/></r></p></e>
+    <e><p><l>accustom<s n="vblex"/></l><r>accoutumer<s n="vblex"/></r></p></e>
+    <e><p><l>attain<s n="vblex"/></l><r>atteindre<s n="vblex"/></r></p></e>
+    <e><p><l>achieve<s n="vblex"/></l><r>réussir<s n="vblex"/></r></p></e>
+    <e><p><l>acknowledge<s n="vblex"/></l><r>reconnaître<s n="vblex"/></r></p></e>
+    <e><p><l>acquire<s n="vblex"/></l><r>acquérir<s n="vblex"/></r></p></e>
+    <e><p><l>act<s n="vblex"/></l><r>agir<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>act<s n="vblex"/></l><r>jouer<s n="vblex"/></r></p></e>
+    <e><p><l>actuate<s n="vblex"/></l><r>déclencher<s n="vblex"/></r></p></e>
+    <e><p><l>adapt<s n="vblex"/></l><r>adapter<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>adapt<s n="vblex"/></l><r>remanier<s n="vblex"/></r></p></e>
+
+    <!-- Prepositions -->
+    <e r='LR'><p><l>according<s n="pr"/></l><r>selon<s n="pr"/></r></p></e>
+    <e><p><l>according<b/>to<s n="pr"/></l><r>selon<s n="pr"/></r></p></e>
+    <e r='RL'><p><l>according<b/>to<s n="pr"/></l><r>au<b/>dire<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>across<s n="pr"/></l><r>à<b/>travers<s n="pr"/></r></p></e>
+    <e><p><l>after<s n="pr"/></l><r>après<s n="pr"/></r></p></e>
+    <e><p><l>against<s n="pr"/></l><r>contre<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>against<s n="pr"/></l><r>contrairement<b/>à<s n="pr"/></r></p></e>
+    <e><p><l>towards<s n="pr"/></l><r>vers<s n="pr"/></r></p></e>
+    <e><p><l>under<s n="pr"/></l><r>sous<s n="pr"/></r></p></e>
+    <e><p><l>until<s n="pr"/></l><r>jusque<s n="pr"/></r></p></e>
+    <e><p><l>up<b/>to<s n="pr"/></l><r>jusqu'à<s n="pr"/></r></p></e>
+    <e><p><l>upon<s n="pr"/></l><r>à<s n="pr"/></r></p></e>
+    <e><p><l>via<s n="pr"/></l><r>via<s n="pr"/></r></p></e>
+    <e><p><l>with<s n="pr"/></l><r>avec<s n="pr"/></r></p></e>
+    <e><p><l>with<b/>no<s n="pr"/></l><r>sans<s n="pr"/></r></p></e>
+    <e><p><l>with<b/>regard<b/>to<s n="pr"/></l><r>à<b/>l'egard<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>without<s n="pr"/></l><r>sans<s n="pr"/></r></p></e>
   </section>
 </dictionary>
