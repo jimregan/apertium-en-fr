@@ -988,7 +988,7 @@
       <list-item v="apparaître"/>
       <list-item v="imposer"/>
     </def-list>
-    <def-list n="adv_neg">
+    <def-list n="adv_neg_fr">
       <list-item v="jamais"/>
     </def-list>
     <def-list n="part_sing">
