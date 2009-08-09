@@ -1274,6 +1274,17 @@
     <e><p><l>actuate<s n="vblex"/></l><r>déclencher<s n="vblex"/></r></p></e>
     <e><p><l>adapt<s n="vblex"/></l><r>adapter<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>adapt<s n="vblex"/></l><r>remanier<s n="vblex"/></r></p></e>
+    <e><p><l>advertise<s n="vblex"/></l><r>annoncer<s n="vblex"/></r></p></e>
+    <e><p><l>advise<s n="vblex"/></l><r>conseiller<s n="vblex"/></r></p></e>
+    <e><p><l>advocate<s n="vblex"/></l><r>défendre<s n="vblex"/></r></p></e>
+    <e><p><l>affect<s n="vblex"/></l><r>affecter<s n="vblex"/></r></p></e>
+    <e><p><l>affiliate<s n="vblex"/></l><r>affilier<s n="vblex"/></r></p></e>
+    <e><p><l>affirm<s n="vblex"/></l><r>affirmer<s n="vblex"/></r></p></e>
+    <e><p><l>afflict<s n="vblex"/></l><r>affliger<s n="vblex"/></r></p></e>
+    <e><p><l>afford<s n="vblex"/></l><r>fournir<s n="vblex"/></r></p></e>
+    <e><p><l>age<s n="vblex"/></l><r>vieillir<s n="vblex"/></r></p></e>
+    <e><p><l>agglutinate<s n="vblex"/></l><r>agglutiner<s n="vblex"/></r></p></e>
+    <e><p><l>aggravate<s n="vblex"/></l><r>aggraver<s n="vblex"/></r></p></e>
 
     <!-- Prepositions -->
     <e r='LR'><p><l>according<s n="pr"/></l><r>selon<s n="pr"/></r></p></e>
@@ -1296,6 +1307,19 @@
     <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>devant<s n="pr"/></r></p></e>
     <e><p><l>in<b/>order<b/>of<s n="pr"/></l><r>par<b/>ordre<b/>de<s n="pr"/></r></p></e>
     <e><p><l>in<b/>order<b/>to<s n="pr"/></l><r>pour<s n="pr"/></r></p></e>
+    <e><p><l>over<s n="pr"/></l><r>sur<s n="pr"/></r></p></e>
+    <e><p><l>owing<b/>to<s n="pr"/></l><r>à<b/>cause<b/>de<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>owing<b/>to<s n="pr"/></l><r>du<b/>fait<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>per<s n="pr"/></l><r>par<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>regarding<s n="pr"/></l><r>par<b/>rapport<b/>à<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>regarding<s n="pr"/></l><r>pour<b/>ce<b/>qui<b/>est<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>regarding<s n="pr"/></l><r>quant<b/>à<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>regarding<s n="pr"/></l><r>en<b/>ce<b/>qui<b/>concerne<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>on<b/>the<b/>topic<b/>of<s n="pr"/></l><r>au<b/>sujet<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>on<b/>the<b/>subject<b/>of<s n="pr"/></l><r>au<b/>sujet<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>since<s n="pr"/></l><r>depuis<s n="pr"/></r></p></e>
+    <e><p><l>such<b/>as<s n="pr"/></l><r>comme<s n="pr"/></r></p></e>
+    <e><p><l>thanks<b/>to<s n="pr"/></l><r>grâce<b/>à<s n="pr"/></r></p></e>
 
     <!-- Conjunctions -->
     <e><p><l>and<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
@@ -1360,6 +1384,128 @@
     <e r="RL"><p><l>yes<s n="adv"/></l><r>si<s n="adv"/></r></p></e>
     <e><p><l>yes<s n="adv"/></l><r>oui<s n="adv"/></r></p></e>
     <e><p><l>yesterday<s n="adv"/></l><r>hier<s n="adv"/></r></p></e>
+    <e><p><l>undoubtedly<s n="adv"/></l><r>indubitablement<s n="adv"/></r></p></e>
+    <e><p><l>unexpectedly<s n="adv"/></l><r>de<b/>façon<b/>inattendu<s n="adv"/></r></p></e>
+    <e><p><l>unfairly<s n="adv"/></l><r>injustement<s n="adv"/></r></p></e>
+    <e c="fuera de coloquial"><p><l>unfortunately<s n="adv"/></l><r>malencontreusement<s n="adv"/></r></p></e>
+    <e><p><l>unilaterally<s n="adv"/></l><r>unilatéralement<s n="adv"/></r></p></e>
+    <e><p><l>unintentionally<s n="adv"/></l><r>involontairement<s n="adv"/></r></p></e>
+    <e><p><l>universally<s n="adv"/></l><r>universellement<s n="adv"/></r></p></e>
+    <e><p><l>unquestionably<s n="adv"/></l><r>incontestablement<s n="adv"/></r></p></e>
+    <e><p><l>unquestionably<s n="adv"/></l><r>indubitablement<s n="adv"/></r></p></e>
+    <e><p><l>a<b/>lot<s n="adv"/></l><r>beaucoup<s n="adv"/></r></p></e>
+    <e><p><l>a<b/>priori<s n="adv"/></l><r>a<b/>priori<s n="adv"/></r></p></e>
+    <e><p><l>aboard<s n="adv"/></l><r>à<b/>bord<s n="adv"/></r></p></e>
+    <e><p><l>about<s n="adv"/></l><r>environ<s n="adv"/></r></p></e>
+    <e><p><l>above<s n="adv"/></l><r>dessus<s n="adv"/></r></p></e>
+    <e><p><l>above<b/>all<s n="adv"/></l><r>surtout<s n="adv"/></r></p></e>
+    <e><p><l>absolutely<s n="adv"/></l><r>absolument<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>absolutely<b/>not<s n="adv"/></l><r>point<b/>du<b/>tout<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>absolutely<b/>not<s n="adv"/></l><r>pas<b/>du<b/>tout<s n="adv"/></r></p></e>
+    <e c="check"><p><l>absolutely<b/>not<s n="adv"/></l><r>absolument<b/>pas<s n="adv"/></r></p></e>
+    <e><p><l>abundantly<s n="adv"/></l><r>abondamment<s n="adv"/></r></p></e>
+    <e><p><l>accidentally<s n="adv"/></l><r>accidentellement<s n="adv"/></r></p></e>
+    <e><p><l>actively<s n="adv"/></l><r>activement<s n="adv"/></r></p></e>
+    <e><p><l>actually<s n="adv"/></l><r>en<b/>fait<s n="adv"/></r></p></e>
+    <e><p><l>acutely<s n="adv"/></l><r>profondément<s n="adv"/></r></p></e>
+    <e><p><l>additionally<s n="adv"/></l><r>en<b/>plus<s n="adv"/></r></p></e>
+    <e><p><l>adequately<s n="adv"/></l><r>adéquatement<s n="adv"/></r></p></e>
+    <e><p><l>advisedly<s n="adv"/></l><r>délibérément<s n="adv"/></r></p></e>
+    <e><p><l>after<s n="adv"/></l><r>après<s n="adv"/></r></p></e>
+    <e><p><l>after<b/>all<s n="adv"/></l><r>après<b/>tout<s n="adv"/></r></p></e>
+    <e><p><l>after<b/>this<b/>manner<s n="adv"/></l><r>de<b/>cette<b/>manière<s n="adv"/></r></p></e>
+    <e><p><l>all<b/>around<s n="adv"/></l><r>partout<s n="adv"/></r></p></e>
+    <e><p><l>all<b/>right<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
+    <e><p><l>all<b/>the<b/>better<s n="adv"/></l><r>beaucoup<b/>mieux<s n="adv"/></r></p></e>
+    <e><p><l>all<b/>the<b/>less<s n="adv"/></l><r>beaucoup<b/>moins<s n="adv"/></r></p></e>
+    <e><p><l>all<b/>the<b/>more<s n="adv"/></l><r>beaucoup<b/>plus<s n="adv"/></r></p></e>
 
+    <!-- Fixup -->
+    <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e c="em, et, li, etc"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e>  <p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e>  <p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" c="he posat com a traducció per defecte de 'li' him, també pot ser 'her' o 'it'- revisar"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e>  <p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>ti<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e>  <p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="RL" c="això és el 'se' de 'se lo', és sp, per ara es tradueix com a him, també pot ser 'her', 'it' o 'them'"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>lo<s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>mí<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL" c="MG: traducció buida, per ara només!!"><p><l></l><r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL" c="dóna-li - give him (de moment sempre en masculí)"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL" c="això és el 'se' de 'dáselo', 3 pers però pot ser sg  o pl (dáselo a él, dáselo a ellos)"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="RL" c="donar-los)"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="RL" c="agafar-lo - take it(de moment en neutre)"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL" c="agafar-la - take it(de moment en neutre)"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL" c="agafar-los - take them"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL" c="agafar-les - take them"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>lo<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></r></p></e>
+    <e r="RL" c="MG: traducció buida, per ara només!!"><p><l></l><r>se<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>herself<s n="prn"/><s n="ref"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
+    <e r="LR"><p><l>himself<s n="prn"/><s n="ref"/><s n="p3"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
+    <e r="LR"><p><l>itself<s n="prn"/><s n="ref"/><s n="p3"/><s n="nt"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>myself<s n="prn"/><s n="ref"/><s n="p1"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/></r></p></e>
+    <e r="LR" a="doriua"><p><l>yourself<s n="prn"/><s n="ref"/><s n="p2"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/></r></p></e>
+    <e r="LR" a="doriua"><p><l>ourselves<s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR" a="doriua"><p><l>yourselves<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>sí<s n="prn"/><s n="tn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e>  <p><l>that<s n="rel"/></l><r>que<s n="rel"/></r></p></e>
+    <e r="LR"><p><l>the<b/>one<b/>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>celui<b/>qui<s n="rel"/><s n="nn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e>  <p><l>the<b/>one<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>celui<b/>qui<s n="rel"/><s n="nn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>the<b/>one<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>celui<b/>qui<s n="rel"/><s n="nn"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>the<b/>ones<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>celui<b/>qui<s n="rel"/><s n="nn"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>the<b/>ones<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>celui<b/>qui<s n="rel"/><s n="nn"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>the<b/>one<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>qui<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e>  <p><l>those<b/>who<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>qui<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e>  <p><l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>celui<b/>qui<s n="rel"/><s n="nn"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>celui<b/>qui<s n="rel"/><s n="nn"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>combien<s n="rel"/><s n="nn"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>combien<s n="rel"/><s n="nn"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>what<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>combien<s n="rel"/><s n="nn"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>what<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>combien<s n="rel"/><s n="nn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e>  <p><l>the<b/>one<s n="prn"/><s n="tn"/><s n="mf"/></l><r>el<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>the<b/>one<s n="prn"/><s n="tn"/><s n="mf"/></l><r>la<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
+    <e>  <p><l>where<s n="rel"/></l><r>où<s n="rel"/></r></p></e>
+    <e r="LR"><p><l>which<s n="rel"/><s n="an"/></l><r>que<s n="rel"/><s n="an"/></r></p></e>
+    <e r="LR"><p><l>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></l><r>lequel<s n="rel"/><s n="nn"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></l><r>lequel<s n="rel"/><s n="nn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></l><r>lequel<s n="rel"/><s n="nn"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></l><r>lequel<s n="rel"/><s n="nn"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></l><r>lequel<s n="rel"/><s n="nn"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>who<s n="rel"/></l><r>que<s n="rel"/></r></p></e>
+    <e r="LR" c="amb qui - with whom"><p><l>whom<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></l><r>qui<s n="rel"/><s n="nn"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e>  <p><l>what<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>ce<b/>que<s n="rel"/><s n="nn"/><s n="nt"/><s n="sg"/></r></p></e>
+
+
+    <!-- Punctuation -->
+    <e><i>.<s n="sent"/></i></e>
+    <e><i>,<s n="cm"/></i></e>
   </section>
 </dictionary>
