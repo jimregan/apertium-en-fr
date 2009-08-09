@@ -2788,7 +2788,7 @@
     <e><p><l>precisely<s n="adv"/></l><r>précisément<s n="adv"/></r></p></e>
     <e><p><l>predictably<s n="adv"/></l><r>de<b/>façon<b/>prévisible<s n="adv"/></r></p></e>
     <e><p><l>preferably<s n="adv"/></l><r>préférablement<s n="adv"/></r></p></e>
-    <e><p><l>preferably<s n="adv"/></l><r>de<b/>préférence<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>preferably<s n="adv"/></l><r>de<b/>préférence<s n="adv"/></r></p></e>
     <e><p><l>previously<s n="adv"/></l><r>antérieurement<s n="adv"/></r></p></e>
     <e><p><l>previously<s n="adv"/></l><r>préalablement<s n="adv"/></r></p></e>
     <e><p><l>primarily<s n="adv"/></l><r>principalement<s n="adv"/></r></p></e>
@@ -2797,20 +2797,21 @@
     <e><p><l>professionally<s n="adv"/></l><r>professionnellement<s n="adv"/></r></p></e>
     <e><p><l>profoundly<s n="adv"/></l><r>profondément<s n="adv"/></r></p></e>
     <e><p><l>progressively<s n="adv"/></l><r>progressivement<s n="adv"/></r></p></e>
-    <e><p><l>properly<s n="adv"/></l><r>adéquatement<s n="adv"/></r></p></e>
+    <e><p><l>adequately<s n="adv"/></l><r>adéquatement<s n="adv"/></r></p></e>
     <e><p><l>properly<s n="adv"/></l><r>correctement<s n="adv"/></r></p></e>
     <e><p><l>properly<s n="adv"/></l><r>dûment<s n="adv"/></r></p></e>
     <e><p><l>proportionally<s n="adv"/></l><r>proportionnellement<s n="adv"/></r></p></e>
-    <e><p><l>proportionately<s n="adv"/></l><r>proportionnellement<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>proportionately<s n="adv"/></l><r>proportionnellement<s n="adv"/></r></p></e>
     <e><p><l>provisionally<s n="adv"/></l><r>provisoirement<s n="adv"/></r></p></e>
     <e><p><l>psychologically<s n="adv"/></l><r>psychologiquement<s n="adv"/></r></p></e>
     <e><p><l>publicly<s n="adv"/></l><r>publiquement<s n="adv"/></r></p></e>
     <e><p><l>purely<s n="adv"/></l><r>purement<s n="adv"/></r></p></e>
     <e><p><l>purportedly<s n="adv"/></l><r>soi-disant<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>soi-disant<s n="adv"/></l><r>soi-disant<s n="adv"/></r></p></e>
     <e><p><l>purposely<s n="adv"/></l><r>expressément<s n="adv"/></r></p></e>
-    <e><p><l>quick<s n="adv"/></l><r>vite<s n="adv"/></r></p></e>
-    <e><p><l>quickly<s n="adv"/></l><r>rapidement<s n="adv"/></r></p></e>
-    <e><p><l>quickly<s n="adv"/></l><r>promptement<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>quick<s n="adv"/></l><r>vite<s n="adv"/></r></p></e>
+    <e><p><l>rapidly<s n="adv"/></l><r>rapidement<s n="adv"/></r></p></e>
+    <e><p><l>promptly<s n="adv"/></l><r>promptement<s n="adv"/></r></p></e>
     <e><p><l>quickly<s n="adv"/></l><r>vite<s n="adv"/></r></p></e>
     <e><p><l>quietly<s n="adv"/></l><r>en<b/>bas<s n="adv"/></r></p></e>
     <e c="no preadverbi"><p><l>quite<b/>a<b/>lot<s n="adv"/></l><r>assez<s n="adv"/></r></p></e>
