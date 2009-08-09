@@ -1378,7 +1378,7 @@
 		    <lit v=""/>
 		  </equal>
 	      </test>
-	      <let> <!-- el nombre del chunk serà sp, que no estarà enllaçat amb la posició 2 (pq no té valor per a l'atribut nbr"-->
+	      <let> <!-- el nombre del chunk serà sp, que no êtreà enllaçat amb la posició 2 (pq no té valor per a l'atribut nbr"-->
 		<var n="nbr_chunk"/>
 		<clip pos="1" side="tl" part="nbr"/>
 	      </let>
@@ -1828,7 +1828,7 @@
 		  </let>
 		</when>
 		<otherwise>
-		  <let> <!-- el nombre del chunk serà sp, que no estarà enllaçat amb la posició 2 (pq no té valor per a l'atribut nbr"-->
+		  <let> <!-- el nombre del chunk serà sp, que no êtreà enllaçat amb la posició 2 (pq no té valor per a l'atribut nbr"-->
 		    <var n="nbr_chunk"/>
 		    <clip pos="1" side="tl" part="nbr"/>
 		  </let>
@@ -2449,7 +2449,7 @@
 		  </let>
 		</when>
 		<otherwise>
-		  <let> <!-- el nombre del chunk serà sp, que no estarà enllaçat amb la posició 2 (pq no té valor per a l'atribut nbr"-->
+		  <let> <!-- el nombre del chunk serà sp, que no êtreà enllaçat amb la posició 2 (pq no té valor per a l'atribut nbr"-->
 		    <var n="nbr_chunk"/>
 		    <clip pos="1" side="tl" part="nbr"/>
 		  </let>
@@ -3250,7 +3250,7 @@
 		  </let>
 		</when>
 		<otherwise>
-		  <let> <!-- el nombre del chunk serà sp, que no estarà enllaçat amb la posició 2 (pq no té valor per a l'atribut nbr"-->
+		  <let> <!-- el nombre del chunk serà sp, que no êtreà enllaçat amb la posició 2 (pq no té valor per a l'atribut nbr"-->
 		    <var n="nbr_chunk"/>
 		    <clip pos="1" side="tl" part="nbr"/>
 		  </let>
@@ -3613,7 +3613,7 @@
 		</not>
 	      </test>
 	      <append n="adjectiu1">
-		<lit v="más"/>
+		<lit v="plus"/>
 		<lit-tag v="preadv"/>
 		<lit v="$ ^"/>
 	      </append>	  
@@ -3665,7 +3665,7 @@
 		</not>
 	      </test>
 	      <append n="adjectiu2">
-		<lit v="más"/>
+		<lit v="plus"/>
 		<lit-tag v="preadv"/>
 		<lit v="$ ^"/>
 	      </append>	  
@@ -4437,7 +4437,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 <def-macro n="conj_be_ger" npar="2">
  	
 	
-  <let><!--aquest valor ha d'estar en blanc al principi, perquè no s'envii res excepte si és pp -->
+  <let><!--aquest valor ha d'être en blanc al principi, perquè no s'envii res excepte si és pp -->
     <var n="gen_chunk"/>
     <lit v=""/>
   </let>
@@ -4582,7 +4582,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
       </let>
       <let>
 	<clip pos="1" side="tl" part="lemh"/>
-	<lit v="estar"/>
+	<lit v="être"/>
       </let>
       <let>
 	<clip pos="1" side="tl" part="a_verb"/>
@@ -4610,7 +4610,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 
       <let>
 	<clip pos="1" side="tl" part="lemh"/>
-	<lit v="estar"/>
+	<lit v="être"/>
       </let>
       <let>
 	<clip pos="1" side="tl" part="a_verb"/>
@@ -4667,7 +4667,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
       </let>
       <let>
 	<clip pos="1" side="tl" part="lemh"/>
-	<lit v="estar"/>
+	<lit v="être"/>
       </let>
       <let>
 	<clip pos="1" side="tl" part="a_verb"/>
@@ -4942,7 +4942,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu>
 		<b/>
 		<lu>
-		  <lit v="el"/>
+		  <lit v="le"/>
 		  <lit-tag v="det.def"/>
 		  <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 		  <lit-tag v="pl"/>
@@ -5008,7 +5008,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu>
 		<b/>
 		<lu>
-		  <lit v="el"/>
+		  <lit v="le"/>
 		  <lit-tag v="det.def"/>
 		  <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 		  <lit-tag v="pl"/>
@@ -5288,11 +5288,11 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		<or>
 		  <equal caseless="yes">
 		    <clip pos="2" side="tl" part="lem"/>
-		    <lit v="millón de"/>
+		    <lit v="million de"/>
 		  </equal>
 		  <equal caseless="yes">
 		    <clip pos="2" side="tl" part="lem"/>
-		    <lit v="un millón de"/>
+		    <lit v="un million de"/>
 		  </equal>
 		</or>
 		<equal>
@@ -5462,11 +5462,11 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		<or>
 		  <equal caseless="yes">
 		    <clip pos="3" side="tl" part="lem"/>
-		    <lit v="millón de"/>
+		    <lit v="million de"/>
 		  </equal>
 		  <equal caseless="yes">
 		    <clip pos="3" side="tl" part="lem"/>
-		    <lit v="un millón de"/>
+		    <lit v="un million de"/>
 		  </equal>
 		</or>
 		<equal>
@@ -11011,7 +11011,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="el"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
+	      <lit v="le"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
 	      <lit-tag v="det.def"/>
 	      <var n="genere"/>
 	      <var n="nombre"/>
@@ -11058,7 +11058,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="el"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
+	      <lit v="le"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
 	      <lit-tag v="det.def"/>
 	      <var n="genere"/>
 	      <var n="nombre"/>
@@ -11228,7 +11228,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="el"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
+	      <lit v="le"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
 	      <lit-tag v="det.def"/>
 	      <var n="genere"/>
 	      <var n="nombre"/>
@@ -11293,7 +11293,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="el"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
+	      <lit v="le"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
 	      <lit-tag v="det.def"/>
 	      <var n="genere"/>
 	      <var n="nombre"/>
@@ -12231,7 +12231,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="3" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="le"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="2"/>
@@ -12352,7 +12352,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="4" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="le"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -12442,7 +12442,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="le"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="2"/>
@@ -12577,7 +12577,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="le"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -12721,7 +12721,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="le"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -12870,7 +12870,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="le"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -13033,7 +13033,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="4" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="le"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -13053,7 +13053,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="el"/><!-s-Està bé posar l'article davant el primer nom? -s->
+	      <lit v="le"/><!-s-Està bé posar l'article davant el primer nom? -s->
 	      <lit-tag v="det.def"/>
 	      <var n="genere"/>
 	      <var n="nombre"/>
@@ -13128,7 +13128,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="4" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="le"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="2"/>
@@ -13226,7 +13226,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="5" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="le"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="2"/>
@@ -13467,7 +13467,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="5" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="le"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -17001,7 +17001,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	</append>
 	<!-- 
 	If we have "subject" + "to be" + "pp", to be should be translated as
-	"estar" instead of as "ser" most of the times as in:
+	"être" instead of as "ser" most of the times as in:
 	I am scared -> Estoy asustado
 
 	Previous commit: r4197
@@ -17016,7 +17016,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="lem"/>
-	      <lit v="estar"/>
+	      <lit v="être"/>
 	    </let>
 	    <let>
 	      <var n="tipus_verb"/>
@@ -17025,7 +17025,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
             <let>
 	      <var n="verbfinal"/>
 	      <concat>
-	        <lit v="estar"/>
+	        <lit v="être"/>
 	        <lit-tag v="vblex"/>
 	        <lit-tag v="3"/>
 	        <lit-tag v="4"/>
@@ -19463,7 +19463,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
       </action>
     </rule>
     
-    <rule comment="REGLA: VERB PART. Seran GD i ND excepte 'ser' i 'estar'. Caldria afegir el pp en les regles d'adjectiu?)">
+    <rule comment="REGLA: VERB PART. Seran GD i ND excepte 'ser' i 'être'. Caldria afegir el pp en les regles d'adjectiu?)">
       <pattern>
 	<pattern-item n="pp"/> 
       </pattern>
@@ -19472,7 +19472,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	  <with-param pos="1"/>
 	</call-macro>
 	<choose>
-	  <when><!--si és verb 'ser' o 'estar' només pot ser m sg -->
+	  <when><!--si és verb 'ser' o 'être' només pot ser m sg -->
 	    <test>
 	      <or>
 		<equal>
@@ -19481,7 +19481,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</equal>
 		<equal caseless="yes">
 		  <clip pos="1" side="tl" part="lemh"/>
-		  <lit v="estar"/><!--tb agafa multiparaules com 'estar d'acord' -->
+		  <lit v="être"/><!--tb agafa multiparaules com 'être d'acord' -->
 		</equal>
 	      </or>
 	    </test>
