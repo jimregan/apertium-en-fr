@@ -1511,6 +1511,62 @@
     <e r="LR"><p><l>take<g><b/>out</g><s n="vblex"/><s n="sep"/></l><r>enlever<s n="vblex"/></r></p></e>
     <e><p><l>take<g><b/>part</g><s n="vblex"/></l><r>participer<s n="vblex"/></r></p></e>
     <e><p><l>talk<s n="vblex"/></l><r>parler<s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>part</g><s n="vblex"/></l><r>intervenir<s n="vblex"/></r></p></e>
+    <e c="no sé si és bona trad"><p><l>tap<s n="vblex"/></l><r>toucher<s n="vblex"/></r></p></e>
+    <e><p><l>target<s n="vblex"/></l><r>viser<s n="vblex"/></r></p></e>
+    <e><p><l>taste<s n="vblex"/></l><r>essayer<s n="vblex"/></r></p></e>
+    <e><p><l>teach<s n="vblex"/></l><r>enseigner<s n="vblex"/></r></p></e>
+    <e><p><l>telephone<s n="vblex"/></l><r>téléphoner<s n="vblex"/></r></p></e>
+    <e><p><l>televise<s n="vblex"/></l><r>téléviser<s n="vblex"/></r></p></e>
+    <e><p><l>tell<s n="vblex"/></l><r>dire<s n="vblex"/></r></p></e>
+    <e><p><l>temper<s n="vblex"/></l><r>tempérer<s n="vblex"/></r></p></e>
+    <e><p><l>tempt<s n="vblex"/></l><r>tenter<s n="vblex"/></r></p></e>
+    <e><p><l>terminate<s n="vblex"/></l><r>résilier<s n="vblex"/></r></p></e>
+    <e><p><l>there<b/>is<s n="vblex"/></l><r>y<b/>avoir<s n="vblex"/></r></p></e>
+    <e><p><l>thin<s n="vblex"/></l><r>amaigrir<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>think<s n="vblex"/></l><r>opiner<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>opine<s n="vblex"/></l><r>opiner<s n="vblex"/></r></p></e>
+    <e><p><l>think<s n="vblex"/></l><r>penser<s n="vblex"/></r></p></e>
+    <e><p><l>threaten<s n="vblex"/></l><r>guetter<s n="vblex"/></r></p></e>
+    <e><p><l>thrill<s n="vblex"/></l><r>émouvoir<s n="vblex"/></r></p></e>
+    <e><p><l>tile<s n="vblex"/></l><r>daller<s n="vblex"/></r></p></e>
+    <e><p><l>tip<s n="vblex"/></l><r>verser<s n="vblex"/></r></p></e>
+    <e><p><l>title<s n="vblex"/></l><r>intituler<s n="vblex"/></r></p></e>
+    <e><p><l>tolerate<s n="vblex"/></l><r>tolérer<s n="vblex"/></r></p></e>
+    <e><p><l>torture<s n="vblex"/></l><r>torturer<s n="vblex"/></r></p></e>
+    <e><p><l>touch<s n="vblex"/></l><r>toucher<s n="vblex"/></r></p></e>
+    <e><p><l>toughen<s n="vblex"/></l><r>durcir<s n="vblex"/></r></p></e>
+    <e><p><l>tour<s n="vblex"/></l><r>visiter<s n="vblex"/></r></p></e>
+    <e><p><l>trace<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>remonter<s n="vblex"/></r></p></e>
+    <e><p><l>track<s n="vblex"/></l><r>suivre<s n="vblex"/></r></p></e>
+    <e><p><l>train<s n="vblex"/></l><r>entraîner<s n="vblex"/></r></p></e>
+    <e><p><l>transact<s n="vblex"/></l><r>étudier<s n="vblex"/></r></p></e>
+    <e><p><l>transfer<s n="vblex"/></l><r>transférer<s n="vblex"/></r></p></e>
+    <e><p><l>transform<s n="vblex"/></l><r>transformer<s n="vblex"/></r></p></e>
+    <e><p><l>translate<s n="vblex"/></l><r>traduire<s n="vblex"/></r></p></e>
+    <e><p><l>transmit<s n="vblex"/></l><r>transmettre<s n="vblex"/></r></p></e>
+    <e><p><l>tremble<s n="vblex"/></l><r>trembler<s n="vblex"/></r></p></e>
+    <e><p><l>trigger<s n="vblex"/></l><r>provoquer<s n="vblex"/></r></p></e>
+    <e><p><l>trip<s n="vblex"/></l><r>trébucher<s n="vblex"/></r></p></e>
+    <e><p><l>trust<s n="vblex"/></l><r>confier<s n="vblex"/></r></p></e>
+    <e><p><l>turn<s n="vblex"/></l><r>tourner<s n="vblex"/></r></p></e>
+    <e><p><l>turn<g><b/>off</g><s n="vblex"/><s n="sep"/></l><r>éteindre<s n="vblex"/></r></p></e>
+    <e><p><l>turn<g><b/>out</g><s n="vblex"/></l><r>résulter<s n="vblex"/></r></p></e>
+    <e><p><l>turn<g><b/>up</g><s n="vblex"/></l><r>apparaître<s n="vblex"/></r></p></e>
+    <e><p><l>undergo<s n="vblex"/></l><r>éprouver<s n="vblex"/></r></p></e>
+    <e><p><l>underline<s n="vblex"/></l><r>souligner<s n="vblex"/></r></p></e>
+    <e><p><l>undo<s n="vblex"/></l><r>défaire<s n="vblex"/></r></p></e>
+    <e><p><l>undress<s n="vblex"/></l><r>dépouiller<s n="vblex"/></r></p></e>
+    <e><p><l>unify<s n="vblex"/></l><r>unifier<s n="vblex"/></r></p></e>
+    <e><p><l>unite<s n="vblex"/></l><r>unir<s n="vblex"/></r></p></e>
+    <e><p><l>undertake<s n="vblex"/></l><r>entreprendre<s n="vblex"/></r></p></e>
+    <e><p><l>vary<s n="vblex"/></l><r>varier<s n="vblex"/></r></p></e>
+    <e><p><l>view<s n="vblex"/></l><r>voir<s n="vblex"/></r></p></e>
+    <e><p><l>visualise<s n="vblex"/></l><r>visualiser<s n="vblex"/></r></p></e>
+    <e><p><l>vote<s n="vblex"/></l><r>voter<s n="vblex"/></r></p></e>
+    <e><p><l>vow<s n="vblex"/></l><r>jurer<s n="vblex"/></r></p></e>
+    <e><p><l>warn<s n="vblex"/></l><r>avertir<s n="vblex"/></r></p></e>
+    <e><p><l>wash<s n="vblex"/></l><r>laver<s n="vblex"/></r></p></e>
 
     <!-- Prepositions -->
     <e r='LR'><p><l>according<s n="pr"/></l><r>selon<s n="pr"/></r></p></e>
