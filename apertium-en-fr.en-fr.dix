@@ -426,7 +426,7 @@
     <e><p><l>bit<s n="n"/></l><r>bit<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bite<s n="n"/></l><r>bouchée<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bitterness<s n="n"/></l><r>amertume<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>biólogo<s n="n"/></l><r>biologiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>biologist<s n="n"/></l><r>biologiste<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>blanket<s n="n"/></l><r>couverture<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>blast<s n="n"/></l><r>explosion<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bleeding<s n="n"/></l><r>hémorragie<s n="n"/><s n="f"/></r></p></e>
@@ -439,7 +439,7 @@
     <e r="RL"><p><l>body<s n="n"/><s n="ND"/></l><r>corps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>body<s n="n"/><s n="pl"/></l><r>corps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>body<s n="n"/><s n="sg"/></l><r>corps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>bodyguard<s n="n"/></l><r>garde<g><b/>du<b/>corps</g><s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>bodyguard<s n="n"/></l><r>garde<g><b/>du<b/>corps</g><s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>bomb<s n="n"/></l><r>bombe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>bomb<s n="n"/></l><r>pompe<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>bone<s n="n"/><s n="ND"/></l><r>os<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
