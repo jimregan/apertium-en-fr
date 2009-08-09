@@ -339,16 +339,16 @@
     </pardef>
 
     <pardef n="/il__prn">
-			<e><p><l>elle</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-			<e><p><l>elles</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-			<e><p><l>il</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-			<e><p><l>ils</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-                        <e r="LR"><p><l>lui</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-			<e r="LR"><p><l>t-elle</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-			<e r="LR"><p><l>t-elles</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-			<e r="LR"><p><l>t-il</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-			<e r="LR"><p><l>t-ils</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-			<e r="LR"><p><l>t-on</l><r>on<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e> 
+			<e><p><l>elle</l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+			<e><p><l>elles</l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+			<e><p><l>il</l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+			<e><p><l>ils</l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+                        <e r="LR"><p><l>lui</l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+			<e r="LR"><p><l>t-elle</l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+			<e r="LR"><p><l>t-elles</l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+			<e r="LR"><p><l>t-il</l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+			<e r="LR"><p><l>t-ils</l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+			<e r="LR"><p><l>t-on</l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e> 
 		</pardef>
     
 		<pardef n="/oeil__n">
@@ -15340,8 +15340,8 @@
           <e lm="jardin"><i>jardin</i><par n="livre__n"/></e>
           <e lm="jauger"><i>jaug</i><par n="allong/er__vblex"/></e>
           <e lm="jaune"><i>jaune</i><par n="académique__adj"/></e>
-          <e lm="je" r="LR"><i>je</i><par n="je__prn"/></e>
-          <e lm="je" r="RL"><p><l><a/>je</l><r>je</r></p><par n="je__prn"/></e>
+          <e lm="je" r="LR"><p><l>je</l><r>prpers</r></p><par n="je__prn"/></e>
+          <e lm="je" r="RL"><p><l><a/>je</l><r>prpers</r></p><par n="je__prn"/></e>
           <e lm="jersey"><i>jersey</i><par n="livre__n"/></e>
           <e lm="jeter"><i>jet</i><par n="cachet/er__vblex"/></e>
           <e lm="jeton"><i>jeton</i><par n="livre__n"/></e>
@@ -15887,7 +15887,7 @@
           <e lm="nougat"><i>nougat</i><par n="livre__n"/></e>
           <e lm="nourrir"><i>nourr</i><par n="about/[]ir__vblex" prm=""/></e>
           <e lm="nourriture"><i>nourriture</i><par n="abeille__n"/></e>
-          <e lm="nous"><i>nous</i><par n="nous__prn"/></e>
+          <e lm="nous"><p><l>nous</l><r>prpers</r></p><par n="nous__prn"/></e>
           <e lm="nouveau"><i>nouve</i><par n="nouve/au__adj"/></e>
           <e lm="nouveauté"><i>nouveauté</i><par n="abeille__n"/></e>
           <e lm="nouvelle"><i>nouvelle</i><par n="abeille__n"/></e>
@@ -17548,7 +17548,7 @@
           <e lm="trésor"><i>trésor</i><par n="livre__n"/></e>
           <e lm="trêve"><i>trêve</i><par n="abeille__n"/></e>
           <e lm="trône"><i>trône</i><par n="livre__n"/></e>
-          <e lm="tu"><i>tu</i><par n="toi__prn"/></e>
+          <e lm="tu"><p><l>tu</l><r>prpers</r></p><par n="toi__prn"/></e>
           <e lm="tuer"><i>tu</i><par n="abaiss/er__vblex"/></e>
           <e lm="tunique"><i>tunique</i><par n="abeille__n"/></e>
           <e lm="tunnel"><i>tunnel</i><par n="livre__n"/></e>
@@ -17723,7 +17723,7 @@
           <e lm="vouer"><i>vou</i><par n="abaiss/er__vblex"/></e>
           <e lm="vouloir"><i>v</i><par n="v/ouloir__vblex"/></e>
           <e lm="vouloir"><i>v</i><par n="v/ouloir__vbmod"/></e>
-          <e lm="vous"><i>vous</i><par n="vous__prn"/></e>
+          <e lm="vous"><p><l>vous</l><r>prpers</r></p><par n="vous__prn"/></e>
           <e lm="voyage"><i>voyage</i><par n="livre__n"/></e>
           <e lm="voyager"><i>voyag</i><par n="allong/er__vblex"/></e>
           <e lm="voyageur"><i>voyageu</i><par n="causeu/r__adj"/></e>
@@ -65668,7 +65668,7 @@
           <e lm="dans le cadre d'" r="LR"><p><l>dans<b/>le<b/>cadre<b/>d'</l><r>dans<b/>le<b/>cadre<b/>de<s n="pr"/></r></p></e>
           <e lm="de sorte qu'" r="LR"><p><l>de<b/>sorte<b/>qu'</l><r>de<b/>sorte<b/>que<s n="cnjadv"/></r></p></e>
           <e lm="depuis qu'" r="LR"><p><l>depuis<b/>qu'</l><r>depuis<b/>que<s n="cnjadv"/></r></p></e>
-          <e lm="j'" r="LR"><p><l>j'</l><r>je<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+          <e lm="j'" r="LR"><p><l>j'</l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
           <e lm="jusqu'" r="LR"><p><l>jusqu'</l><r>jusque<s n="pr"/></r></p></e>
           <e lm="l'" r="LR"><p><l>l'</l><r>le<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
 <!--           <e lm="l'" r="LR"><p><l>l'</l><r>le<s n="detnt"/></r></p></e> -->
@@ -65689,7 +65689,7 @@
           <e lm="s'" r="LR"><p><l>s'</l><r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
           <e lm="sauf qu'" r="LR"><p><l>sauf<b/>qu'</l><r>sauf<b/>que<s n="cnjadv"/></r></p></e>
           <e lm="tandis qu'" r="LR"><p><l>tandis<b/>qu'</l><r>tandis<b/>que<s n="cnjadv"/></r></p></e>
-          <e lm="t'" r="LR"><p><l>t'</l><r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+          <e lm="t'" r="LR"><p><l>t'</l><r>prpers<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
           <e lm="vu qu'" r="LR"><p><l>vu<b/>qu'</l><r>vu<b/>que<s n="cnjadv"/></r></p></e>
           <e lm="à l'égard d'" r="LR"><p><l>à<b/>l'egard<b/>d'</l><r>à<b/>l'egard<b/>de<s n="pr"/></r></p></e>
           <e r="LR"><p><l>c'</l><r>ce<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
