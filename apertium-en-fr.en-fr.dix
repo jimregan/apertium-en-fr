@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet></alphabet>
+  <sdefs>
+    <sdef n="tn" /> 
+    <sdef n="nt" /> 
+    <sdef n="percent" /> 
+    <sdef n="predet" /> 
+    <sdef n="p3" /> 
+    <sdef n="np" /> 
+    <sdef n="p2" /> 
+    <sdef n="p1" /> 
+    <sdef n="imp" /> 
+    <sdef n="nn" /> 
+    <sdef n="S1" /> 
+    <sdef n="fti" /> 
+    <sdef n="vbmod" /> 
+    <sdef n="pos" /> 
+    <sdef n="vblex" /> 
+    <sdef n="sent" /> 
+    <sdef n="apos" /> 
+    <sdef n="ind" /> 
+    <sdef n="preadv" /> 
+    <sdef n="vaux" /> 
+    <sdef n="ant" /> 
+    <sdef n="gen" /> 
+    <sdef n="sp" /> 
+    <sdef n="sint" /> 
+    <sdef n="ger" /> 
+    <sdef n="inf" /> 
+    <sdef n="mon" /> 
+    <sdef n="loc" /> 
+    <sdef n="pres" /> 
+    <sdef n="rpar" /> 
+    <sdef n="sg" /> 
+    <sdef n="url" /> 
+    <sdef n="cnjsub" /> 
+    <sdef n="vbser" /> 
+    <sdef n="fts" /> 
+    <sdef n="vbdo" /> 
+    <sdef n="lpar" /> 
+    <sdef n="cm" /> 
+    <sdef n="email" /> 
+    <sdef n="lquest" /> 
+    <sdef n="ifi" /> 
+    <sdef n="pl" /> 
+    <sdef n="itg" /> 
+    <sdef n="ND" /> 
+    <sdef n="GD" /> 
+    <sdef n="det" /> 
+    <sdef n="pprs" /> 
+    <sdef n="ppres" /> 
+    <sdef n="ord" /> 
+    <sdef n="adj" /> 
+    <sdef n="vbhaver" /> 
+    <sdef n="pmp" /> 
+    <sdef n="sym" /> 
+    <sdef n="sup" /> 
+    <sdef n="subj" /> 
+    <sdef n="cni" /> 
+    <sdef n="atn" /> 
+    <sdef n="def" /> 
+    <sdef n="subs" /> 
+    <sdef n="qnt" /> 
+    <sdef n="mf" /> 
+    <sdef n="dem" /> 
+    <sdef n="cnjcoo" /> 
+    <sdef n="adv" /> 
+    <sdef n="enc" /> 
+    <sdef n="f" /> 
+    <sdef n="comp" /> 
+    <sdef n="prs" /> 
+    <sdef n="n" /> 
+    <sdef n="ij" /> 
+    <sdef n="web" /> 
+    <sdef n="pron" /> 
+    <sdef n="m" /> 
+    <sdef n="past" /> 
+    <sdef n="guio" /> 
+    <sdef n="cnjadv" /> 
+    <sdef n="detnt" /> 
+    <sdef n="infps" /> 
+    <sdef n="pii" /> 
+    <sdef n="ref" /> 
+    <sdef n="al" /> 
+    <sdef n="num" /> 
+    <sdef n="pri" /> 
+    <sdef n="cog" /> 
+    <sdef n="an" /> 
+    <sdef n="pro" /> 
+    <sdef n="sep" /> 
+    <sdef n="prn" /> 
+    <sdef n="obj" /> 
+    <sdef n="pis" /> 
+    <sdef n="aa" /> 
+    <sdef n="rel" /> 
+    <sdef n="pp" /> 
+    <sdef n="pr" /> 
+    <sdef n="acr" /> 
+    <sdef n="top" /> 
+  </sdefs>
+  <section id="regex" type="standard">
+<e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+<e><re>[0-9]+([.,][0-9]+)?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/><s n="percent"/></r></p></e>
+<e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+<e><re>[¿¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
+<e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
+<e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
+<e><re>[a-z.]+@[a-z.]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+<e><re>(((www.)|(http://))[a-z\-]+([.][a-z]+)+)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+<e r="LR"><re>[0-9]+</re><p><l><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></l><r><s n="num"/><s n="ord"/></r></p></e>
+<e><p><l></l><r>£</r></p><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?</re><p><l>£<s n="num"/><s n="mon"/></l><r><s n="num"/><s n="mon"/></r></p></e>
+<e><p><l></l><r>£</r></p><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?m</re><p><l>£<s n="num"/><s n="mon"/></l><r><s n="num"/><s n="mon"/></r></p></e>
+<e><re>[0-9]+[.:][0-5][0-9](pm|PM|am|AM)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+<e><re>[A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/><s n="sp"/></r></p></e>
+<e><re>[A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/><s n="sp"/></r></p></e>
+<e><re>[A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/><s n="sp"/></r></p></e>
+<e><re>[A-Z][A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/><s n="sp"/></r></p></e>
+<e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+<e><re>([0-9]*[02-9]2|2)</re><p><l>de<s n="num"/><s n="ord"/><s n="f"/></l><r>.ª<s n="num"/><s n="ord"/><s n="f"/></r></p></e>
+<e><re>(((www.)|(http://))[a-z0-9\-]+([.][a-z]+)+(/[a-z0-9_]+)*([.][a-z]+)*)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+  </section>
+  <section  id="main" type="standard">
+  </section>
+</dictionary>
