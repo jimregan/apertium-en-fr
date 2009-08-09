@@ -40,6 +40,11 @@
     <def-cat n="detdef">
       <cat-item tags="det.def.*"/>
     </def-cat>
+    <def-cat n="majestad">
+      <cat-item lemma="sa majesté" tags="n.f.sg"/>
+      <cat-item lemma="son altesse" tags="n.f.sg"/>
+      <cat-item lemma="son altesse réelle" tags="n.f.sg"/>
+    </def-cat>
     <def-cat n="percent">
       <cat-item tags="num.percent"/>
     </def-cat>
@@ -740,7 +745,7 @@
               </test>
               <let>
                 <clip pos="2" side="tl" part="lem"/>
-                <lit v="negar"/>
+                <lit v="deny"/>
               </let>
             </when>
             <when>
@@ -752,7 +757,7 @@
               </test>
               <let>
                 <clip pos="2" side="tl" part="lem"/>
-                <lit v="preguntar"/>
+                <lit v="ask"/>
               </let>
             </when>
           </choose>
@@ -778,7 +783,7 @@
               </test>
               <let>
                 <clip pos="1" side="tl" part="lem"/>
-                <lit v="haber"/>
+                <lit v="have"/>
               </let>
               <let>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -796,7 +801,7 @@
             <otherwise>
               <let>
                 <clip pos="1" side="tl" part="lem"/>
-                <lit v="ser"/>
+                <lit v="be"/>
               </let>
               <let>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -808,7 +813,7 @@
         <otherwise>
           <let>
             <clip pos="1" side="tl" part="lem"/>
-            <lit v="haber"/>
+            <lit v="have"/>
           </let>
           <let>
             <clip pos="1" side="tl" part="a_verb"/>
@@ -847,7 +852,7 @@
               </test>
               <let>
                 <clip pos="1" side="tl" part="lem"/>
-                <lit v="haber"/>
+                <lit v="have"/>
               </let>
               <let>
                 <clip pos="1" side="tl" part="a_verb"/>
