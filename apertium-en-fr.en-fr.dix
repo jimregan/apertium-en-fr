@@ -554,7 +554,255 @@
     <e r="LR"><p><l>chemist<s n="n"/></l><r>pharmacien<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>chemist<s n="n"/></l><r>pharmacien<s n="n"/></r></p></e>
     <e><p><l>chewing<b/>gum<s n="n"/></l><r>chewing-gum<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>consultation<s n="n"/></l><r>consultation<s n="n"/><s n="f"/></r></p></e>
 
+    <e><p><l>significance<s n="n"/></l><r>importance<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>signpost<s n="n"/></l><r>panneau<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>silence<s n="n"/></l><r>silence<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>silhouette<s n="n"/></l><r>silhouette<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>silica<s n="n"/></l><r>silice<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>silicate<s n="n"/></l><r>silicate<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>silicon<s n="n"/></l><r>silicium<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>silk<s n="n"/></l><r>soie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>silver<s n="n"/></l><r>argent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>similarity<s n="n"/></l><r>ressemblance<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>simplification<s n="n"/></l><r>simplification<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>simulation<s n="n"/></l><r>simulacre<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>simulator<s n="n"/></l><r>simulateur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>simulator<s n="n"/></l><r>simulateur<s n="n"/></r></p></e>
+    <e><p><l>sin<s n="n"/></l><r>péché<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sincerity<s n="n"/></l><r>sincérité<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>singer<s n="n"/></l><r>chanteur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>singer<s n="n"/></l><r>chanteur<s n="n"/></r></p></e>
+    <e><p><l>brother<s n="n"/></l><r>frère<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>skating<s n="n"/></l><r>patinage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>skeleton<s n="n"/></l><r>squelette<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ski<s n="n"/></l><r>ski<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>skill<s n="n"/></l><r>habilité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>singing<s n="n"/></l><r>chant<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>singularity<s n="n"/></l><r>singularité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sinus<s n="n"/></l><r>sein<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>madam<s n="n"/></l><r>dame<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sir<s n="n"/></l><r>monsieur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sociologist<s n="n"/></l><r>sociologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>sock<s n="n"/></l><r>chaussette<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>soda<s n="n"/></l><r>rafraîchissement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sodium<s n="n"/></l><r>sodium<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sofa<s n="n"/></l><r>sofa<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>softness<s n="n"/></l><r>douceur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>software<s n="n"/></l><r>logiciel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>solidarity<s n="n"/></l><r>solidarité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>solitude<s n="n"/></l><r>solitude<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>soloist<s n="n"/></l><r>soliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>solution<s n="n"/></l><r>solution<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>song<s n="n"/></l><r>chanson<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sovereignty<s n="n"/></l><r>souveraineté<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sow<s n="n"/></l><r>cochon<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>soya<s n="n"/></l><r>soja<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>soybean<s n="n"/></l><r>soja<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>space<s n="n"/></l><r>espace<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spacecraft<s n="n"/></l><r>aéronef<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spangle<s n="n"/></l><r>paillette<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spare<s n="n"/></l><r>rechange<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>spark<s n="n"/></l><r>étincelle<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>son<s n="n"/><s n="pl"/></l><r>fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>son<s n="n"/><s n="sg"/></l><r>fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>son<s n="n"/><s n="ND"/></l><r>fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>daughter<s n="n"/></l><r>fils<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>songwriter<s n="n"/></l><r>compositeur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>songwriter<s n="n"/></l><r>compositeur<s n="n"/></r></p></e>
+    <e><p><l>sonometer<s n="n"/></l><r>sonomètre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sonority<s n="n"/></l><r>sonorité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sore<s n="n"/></l><r>plaie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sort<s n="n"/></l><r>classe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>soul<s n="n"/></l><r>âme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sound<s n="n"/></l><r>son<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>soundproofing<s n="n"/></l><r>insonorisation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>soup<s n="n"/></l><r>soupe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>source<s n="n"/></l><r>source<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>south<s n="n"/></l><r>sud<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>sovereign<s n="n"/></l><r>souverain<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>sovereign<s n="n"/></l><r>souverain<s n="n"/></r></p></e>
+    <e><p><l>specialist<s n="n"/></l><r>spécialiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>speciality<s n="n"/></l><r>spécialité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>species<s n="n"/></l><r>espèce<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>specification<s n="n"/></l><r>spécification<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>specificity<s n="n"/></l><r>spécificité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spectrum<s n="n"/></l><r>spectre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>study<s n="n"/></l><r>étude<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stuff<s n="n"/></l><r>matériel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>style<s n="n"/></l><r>style<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>subhead<s n="n"/></l><r>sous-titre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>subway<s n="n"/></l><r>métro<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>subscription<s n="n"/></l><r>abonnement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>subscription<s n="n"/></l><r>souscription<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>subsidiariness<s n="n"/></l><r>subsidiarité<s n="n"/><s n="f"/></r></p></e>
+    <e c="new-category"><p><l>subsidiary<s n="n"/></l><r>filiale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>subsidy<s n="n"/></l><r>subvention<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>subsoil<s n="n"/></l><r>sous-sol<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>substance<s n="n"/></l><r>substance<s n="n"/><s n="f"/></r></p></e>
+    <e c="new-category"><p><l>substantive<s n="n"/></l><r>substantif<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>substitute<s n="n"/></l><r>remplaçant<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>substitute<s n="n"/></l><r>remplaçant<s n="n"/></r></p></e>
+    <e><p><l>suffering<s n="n"/></l><r>souffrance<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>suffrage<s n="n"/></l><r>suffrage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sugar<s n="n"/></l><r>sucre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>suggestion<s n="n"/></l><r>suggestion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>suicide<s n="n"/></l><r>suicide<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>success<s n="n"/><s n="ND"/></l><r>succès<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>success<s n="n"/><s n="pl"/></l><r>succès<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>success<s n="n"/><s n="sg"/></l><r>succès<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>successor<s n="n"/></l><r>successeur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>successor<s n="n"/></l><r>successeur<s n="n"/></r></p></e>
+    <e><p><l>sum<s n="n"/></l><r>somme<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>summary<s n="n"/></l><r>compte<b/>rendu<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>summary<s n="n"/></l><r>sommaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>summer<s n="n"/></l><r>été<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sun<s n="n"/></l><r>soleil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>superiority<s n="n"/></l><r>supériorité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>supermarket<s n="n"/></l><r>supermarché<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>supervision<s n="n"/></l><r>supervision<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>supplement<s n="n"/></l><r>supplément<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>supplier<s n="n"/></l><r>fournisseur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>supplier<s n="n"/></l><r>fournisseur<s n="n"/></r></p></e>
+    <e><p><l>supply<s n="n"/></l><r>fourniture<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>surgery<s n="n"/></l><r>chirurgie<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>surgeon<s n="n"/></l><r>chirurgien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>surgeon<s n="n"/></l><r>chirurgien<s n="n"/></r></p></e>
+    <e r="LR"><p><l>surfer<s n="n"/></l><r>surfeur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>surfer<s n="n"/></l><r>surfeur<s n="n"/></r></p></e>
+    <e><p><l>sustainability<s n="n"/></l><r>durabilité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>suture<s n="n"/></l><r>suture<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>swallow<s n="n"/></l><r>gorgée<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>swearword<s n="n"/></l><r>taquet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sweat<s n="n"/></l><r>sueur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sweater<s n="n"/></l><r>sweater<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>swimming<s n="n"/></l><r>natation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>swimming<b/>pool<s n="n"/></l><r>piscine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sword<s n="n"/></l><r>épée<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>symbol<s n="n"/></l><r>symbole<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>symbolism<s n="n"/></l><r>symbolisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>symptom<s n="n"/></l><r>symptôme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>synchronism<s n="n"/></l><r>synchronisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>syndrome<s n="n"/></l><r>syndrome<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>syringe<s n="n"/></l><r>seringat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>system<s n="n"/></l><r>système<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>systematisation<s n="n"/></l><r>systématisation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>table<s n="n"/></l><r>table<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>synthesis<s n="n"/></l><r>synthèse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tariff<s n="n"/></l><r>tarif<b/>douanier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tarpaulin<s n="n"/></l><r>réussite<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>task<s n="n"/></l><r>tâche<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>taste<s n="n"/></l><r>goût<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tale<s n="n"/></l><r>conte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>talent<s n="n"/></l><r>talent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>talisman<s n="n"/></l><r>talisman<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>talk<s n="n"/></l><r>bavardage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tampon<s n="n"/></l><r>tampon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tear<s n="n"/></l><r>larme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>temperature<s n="n"/></l><r>température<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>template<s n="n"/></l><r>personnel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>temple<s n="n"/></l><r>temple<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>temptation<s n="n"/></l><r>tentation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ten<s n="n"/><s n="pl"/></l><r>dizaine<s n="n"/></r></p></e>
+    <e><p><l>tenant<s n="n"/></l><r>locataire<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>tendency<s n="n"/></l><r>tendance<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tender<s n="n"/></l><r>offre<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tenderness<s n="n"/></l><r>tendresse<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>technician<s n="n"/></l><r>technicien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>technician<s n="n"/></l><r>technicien<s n="n"/></r></p></e>
+    <e><p><l>technology<s n="n"/></l><r>technologie<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>teenager<s n="n"/></l><r>adolescent<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>teenager<s n="n"/></l><r>adolescent<s n="n"/></r></p></e>
+    <e><p><l>telecommunication<s n="n"/></l><r>télécommunication<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>telephone<s n="n"/></l><r>téléphone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>telephony<s n="n"/></l><r>téléphonie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>telescope<s n="n"/></l><r>télescope<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>teletext<s n="n"/></l><r>télétexte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>television<s n="n"/></l><r>télévision<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>telly<s n="n"/></l><r>télé<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>time<b/>limit<s n="n"/></l><r>délai<b/>maximal<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>timer<s n="n"/></l><r>minuterie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>term<s n="n"/></l><r>terme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>term<g><b/>of<b/>office</g><s n="n"/></l><r>législature<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>terminal<s n="n"/></l><r>terminal<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>terminology<s n="n"/></l><r>terminologie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>terrace<s n="n"/></l><r>terrasse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>terracing<s n="n"/></l><r>degré<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>terrain<s n="n"/></l><r>terrain<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>territory<s n="n"/></l><r>territoire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>terror<s n="n"/></l><r>terreur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>thickness<s n="n"/></l><r>épaisseur<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>tiger<s n="n"/></l><r>tigre<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>tiger<s n="n"/></l><r>tigre<s n="n"/></r></p></e>
+    <e><p><l>terrorism<s n="n"/></l><r>terrorisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>terrorist<s n="n"/></l><r>terroriste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>text<s n="n"/></l><r>texte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>texture<s n="n"/></l><r>texture<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>thaw<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>thing<s n="n"/></l><r>chose<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>thousand<s n="n"/></l><r>millier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>thread<s n="n"/></l><r>fil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>threat<s n="n"/></l><r>menace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>threshold<s n="n"/></l><r>seuil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>thrill<s n="n"/></l><r>émotion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>throat<s n="n"/></l><r>gorge<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>throne<s n="n"/></l><r>trône<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>thumb<s n="n"/></l><r>pouce<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>theatre<s n="n"/></l><r>théâtre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>theft<s n="n"/></l><r>vol<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>theme<s n="n"/></l><r>thème<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>theology<s n="n"/></l><r>théologie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>theory<s n="n"/></l><r>théorie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>therapy<s n="n"/></l><r>thérapie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>thermometer<s n="n"/></l><r>thermomètre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>thesis<s n="n"/></l><r>thèse<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>thief<s n="n"/></l><r>voleur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>thief<s n="n"/></l><r>voleur<s n="n"/></r></p></e>
+    <e r="LR"><p><l>thinking<s n="n"/></l><r>pensée<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>thought<s n="n"/></l><r>pensée<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>third<s n="n"/><s n="ND"/></l><r>tiers<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>third<s n="n"/><s n="pl"/></l><r>tiers<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>third<s n="n"/><s n="sg"/></l><r>tiers<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>town<b/>council<s n="n"/></l><r>mairie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>town<b/>hall<s n="n"/></l><r>mairie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>toy<s n="n"/></l><r>jouet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tournament<s n="n"/></l><r>tournoi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>towel<s n="n"/></l><r>essuie-mains<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>tower<s n="n"/></l><r>tour<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>town<s n="n"/></l><r>ville<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>traction<s n="n"/></l><r>traction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tractor<s n="n"/></l><r>tracteur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>trade<s n="n"/></l><r>commerce<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tram<s n="n"/></l><r>tramway<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>tramcar<s n="n"/></l><r>tramway<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>tramway<s n="n"/></l><r>tramway<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tragedy<s n="n"/></l><r>tragédie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>trail<s n="n"/></l><r>sillage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>train<s n="n"/></l><r>train<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>trainer<s n="n"/></l><r>entraîneur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>trainer<s n="n"/></l><r>coach<s n="n"/></r></p></e>
+    <e r="RL"><p><l>trainer<s n="n"/></l><r>entraîneur<s n="n"/></r></p></e>
+    <e><p><l>visualisation<s n="n"/></l><r>visualisation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vitality<s n="n"/></l><r>vitalité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vitamin<s n="n"/></l><r>vitamine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vivacity<s n="n"/></l><r>vivacité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vocabulary<s n="n"/></l><r>vocabulaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vocation<s n="n"/></l><r>vocation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vodka<s n="n"/></l><r>vodka<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>voice<s n="n"/><s n="ND"/></l><r>voix<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>voice<s n="n"/><s n="pl"/></l><r>voix<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>voice<s n="n"/><s n="sg"/></l><r>voix<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e><p><l>volatility<s n="n"/></l><r>volatilité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>volcano<s n="n"/></l><r>volcan<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>volleyball<s n="n"/></l><r>volley-ball<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>voltage<s n="n"/></l><r>voltage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>visa<s n="n"/></l><r>visa<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>visibility<s n="n"/></l><r>visibilité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vision<s n="n"/></l><r>vision<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>visit<s n="n"/></l><r>visite<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>visitor<s n="n"/></l><r>visiteur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>visitor<s n="n"/></l><r>visiteur<s n="n"/></r></p></e>
     <e><p><l>vinegar<s n="n"/></l><r>vinaigre<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vineyard<s n="n"/></l><r>vigne<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>violence<s n="n"/></l><r>violence<s n="n"/><s n="f"/></r></p></e>
