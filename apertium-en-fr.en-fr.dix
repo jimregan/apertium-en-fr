@@ -1463,6 +1463,49 @@
     <e><p><l>sensitise<s n="vblex"/></l><r>sensibiliser<s n="vblex"/></r></p></e>
     <e><p><l>sentence<s n="vblex"/></l><r>condamner<s n="vblex"/></r></p></e>
     <e><p><l>separate<s n="vblex"/></l><r>séparer<s n="vblex"/></r></p></e>
+    <e><p><l>store<s n="vblex"/></l><r>stocker<s n="vblex"/></r></p></e>
+    <e><p><l>strain<s n="vblex"/></l><r>raidir<s n="vblex"/></r></p></e>
+    <e><p><l>strengthen<s n="vblex"/></l><r>fortifier<s n="vblex"/></r></p></e>
+    <e><p><l>stress<s n="vblex"/></l><r>accentuer<s n="vblex"/></r></p></e>
+    <e><p><l>stretch<s n="vblex"/></l><r>étendre<s n="vblex"/></r></p></e>
+    <e><p><l>strike<s n="vblex"/></l><r>frapper<s n="vblex"/></r></p></e>
+    <e><p><l>stripe<s n="vblex"/></l><r>rayer<s n="vblex"/></r></p></e>
+    <e><p><l>stroke<s n="vblex"/></l><r>caresser<s n="vblex"/></r></p></e>
+    <e><p><l>stroll<s n="vblex"/></l><r>promener<s n="vblex"/></r></p></e>
+    <e><p><l>structure<s n="vblex"/></l><r>structurer<s n="vblex"/></r></p></e>
+    <e><p><l>stimulate<s n="vblex"/></l><r>stimuler<s n="vblex"/></r></p></e>
+    <e><p><l>stir<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>brasser<s n="vblex"/></r></p></e>
+    <e><p><l>stop<s n="vblex"/></l><r>détenir<s n="vblex"/></r></p></e>
+    <e><p><l>study<s n="vblex"/></l><r>étudier<s n="vblex"/></r></p></e>
+    <e><p><l>subcontract<s n="vblex"/></l><r>sous-traiter<s n="vblex"/></r></p></e>
+    <e><p><l>subject<s n="vblex"/></l><r>soumettre<s n="vblex"/></r></p></e>
+    <e><p><l>submerge<s n="vblex"/></l><r>plonger<s n="vblex"/></r></p></e>
+    <e><p><l>submit<s n="vblex"/></l><r>livrer<s n="vblex"/></r></p></e>
+    <e><p><l>subsidise<s n="vblex"/></l><r>subventionner<s n="vblex"/></r></p></e>
+    <e><p><l>substitute<s n="vblex"/></l><r>substituer<s n="vblex"/></r></p></e>
+    <e><p><l>subtract<s n="vblex"/></l><r>soustraire<s n="vblex"/></r></p></e>
+    <e><p><l>suckle<s n="vblex"/></l><r>allaiter<s n="vblex"/></r></p></e>
+    <e><p><l>sue<s n="vblex"/></l><r>poursuivre<s n="vblex"/></r></p></e>
+    <e><p><l>summon<s n="vblex"/></l><r>convoquer<s n="vblex"/></r></p></e>
+    <e><p><l>superimpose<s n="vblex"/></l><r>superposer<s n="vblex"/></r></p></e>
+    <e><p><l>supply<s n="vblex"/></l><r>distribuer<s n="vblex"/></r></p></e>
+    <e><p><l>suppose<s n="vblex"/></l><r>supposer<s n="vblex"/></r></p></e>
+    <e><p><l>suppress<s n="vblex"/></l><r>supprimer<s n="vblex"/></r></p></e>
+    <e><p><l>surface<s n="vblex"/></l><r>émerger<s n="vblex"/></r></p></e>
+    <e><p><l>sweat<s n="vblex"/></l><r>suer<s n="vblex"/></r></p></e>
+    <e><p><l>sweep<s n="vblex"/></l><r>balayer<s n="vblex"/></r></p></e>
+    <e><p><l>swim<s n="vblex"/></l><r>nager<s n="vblex"/></r></p></e>
+    <e><p><l>switch<s n="vblex"/></l><r>changer<s n="vblex"/></r></p></e>
+    <e><p><l>symbolise<s n="vblex"/></l><r>symboliser<s n="vblex"/></r></p></e>
+    <e><p><l>tackle<s n="vblex"/></l><r>entreprendre<s n="vblex"/></r></p></e>
+    <e><p><l>take<s n="vblex"/></l><r>tarder<s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>advantage<b/>of</g><s n="vblex"/></l><r>profiter<g><b/>de</g><s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>away</g><s n="vblex"/><s n="sep"/></l><r>enlever<s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>care</g><s n="vblex"/></l><r>soigner<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>take<g><b/>off</g><s n="vblex"/><s n="sep"/></l><r>enlever<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>take<g><b/>out</g><s n="vblex"/><s n="sep"/></l><r>enlever<s n="vblex"/></r></p></e>
+    <e><p><l>take<g><b/>part</g><s n="vblex"/></l><r>participer<s n="vblex"/></r></p></e>
+    <e><p><l>talk<s n="vblex"/></l><r>parler<s n="vblex"/></r></p></e>
 
     <!-- Prepositions -->
     <e r='LR'><p><l>according<s n="pr"/></l><r>selon<s n="pr"/></r></p></e>
