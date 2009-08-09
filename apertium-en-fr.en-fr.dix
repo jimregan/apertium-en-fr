@@ -1239,7 +1239,12 @@
     <e><p><l>zone<s n="n"/></l><r>zone<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zoom<s n="n"/></l><r>zoom<s n="n"/><s n="m"/></r></p></e>
 
+    <!-- Adjectives -->
+    <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>heureux<s n="adj"/></r></p></e>
+
     <!-- Verbs -->
+    <e><p><l>be<s n="vbser"/></l><r>être<s n="vblex"/></r></p></e>
+    <e><p><l>have<s n="vbhaver"/></l><r>avoir<s n="vbhaver"/></r></p></e>
     <e r="RL"><p><l>abandon<s n="vblex"/></l><r>quitter<s n="vblex"/></r></p></e>
     <e><p><l>abandon<s n="vblex"/></l><r>abandonner<s n="vblex"/></r></p></e>
     <e><p><l>abbreviate<s n="vblex"/></l><r>abréger<s n="vblex"/></r></p></e>
