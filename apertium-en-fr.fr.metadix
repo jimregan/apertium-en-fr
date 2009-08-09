@@ -438,29 +438,29 @@
     </pardef>
     <pardef n="S__enc1">
             
-<e><p><l>-en</l><r>en<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
+<e><p><l>-en</l><r>prpers<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
             
-<e><p><l>-la</l><r>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>-la</l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
             
-<e><p><l>-le</l><r>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>-le</l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
             
-<e><p><l>-le</l><r>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></r></p></e>
+<e><p><l>-le</l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></r></p></e>
             
-<e><p><l>-les</l><r>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+<e><p><l>-les</l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
             
-<e><p><l>-les</l><r>leur<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+<e><p><l>-les</l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
             
-<e><p><l>-les</l><r>lui<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+<e><p><l>-les</l><r>prpers<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
             
-<e><p><l>-moi</l><r>me<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+<e><p><l>-moi</l><r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
             
-<e><p><l>-nous</l><r>nous<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+<e><p><l>-nous</l><r>prpers<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
             
 <e><p><l>-soi</l><r>se<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
             
-<e><p><l>-toi</l><r>te<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+<e><p><l>-toi</l><r>prpers<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
             
-<e><p><l>-vous</l><r>vous<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+<e><p><l>-vous</l><r>prpers<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
             
 <e><p><l>-y</l><r>y<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
 <e><p><l>-on</l><r>on<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
