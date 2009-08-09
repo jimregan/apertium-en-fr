@@ -12,7 +12,6 @@
     <sdef n="p1" /> 
     <sdef n="imp" /> 
     <sdef n="nn" /> 
-    <sdef n="S1" /> 
     <sdef n="fti" /> 
     <sdef n="vbmod" /> 
     <sdef n="pos" /> 
@@ -93,33 +92,165 @@
     <sdef n="obj" /> 
     <sdef n="pis" /> 
     <sdef n="aa" /> 
-    <sdef n="rel" /> 
-    <sdef n="pp" /> 
-    <sdef n="pr" /> 
-    <sdef n="acr" /> 
-    <sdef n="top" /> 
+    <sdef n="rel"/> 
+    <sdef n="pp"/> 
+    <sdef n="pr"/> 
+    <sdef n="acr"/> 
+    <sdef n="top"/> 
   </sdefs>
-  <section id="regex" type="standard">
-<e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-<e><re>[0-9]+([.,][0-9]+)?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/><s n="percent"/></r></p></e>
-<e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-<e><re>[¿¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
-<e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
-<e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
-<e><re>[a-z.]+@[a-z.]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-<e><re>(((www.)|(http://))[a-z\-]+([.][a-z]+)+)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-<e r="LR"><re>[0-9]+</re><p><l><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></l><r><s n="num"/><s n="ord"/></r></p></e>
-<e><p><l></l><r>£</r></p><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?</re><p><l>£<s n="num"/><s n="mon"/></l><r><s n="num"/><s n="mon"/></r></p></e>
-<e><p><l></l><r>£</r></p><re>[0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?m</re><p><l>£<s n="num"/><s n="mon"/></l><r><s n="num"/><s n="mon"/></r></p></e>
-<e><re>[0-9]+[.:][0-5][0-9](pm|PM|am|AM)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-<e><re>[A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/><s n="sp"/></r></p></e>
-<e><re>[A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/><s n="sp"/></r></p></e>
-<e><re>[A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/><s n="sp"/></r></p></e>
-<e><re>[A-Z][A-Z][A-Z][A-Z][A-Z]</re><p><l><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></l><r><s n="n"/><s n="acr"/><s n="sp"/></r></p></e>
-<e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
-<e><re>([0-9]*[02-9]2|2)</re><p><l>de<s n="num"/><s n="ord"/><s n="f"/></l><r>.ª<s n="num"/><s n="ord"/><s n="f"/></r></p></e>
-<e><re>(((www.)|(http://))[a-z0-9\-]+([.][a-z]+)+(/[a-z0-9_]+)*([.][a-z]+)*)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-  </section>
-  <section  id="main" type="standard">
+  <section id="main" type="standard">
+    <!-- Nouns -->
+    <e><p><l>American<s n="n"/></l><r>américain<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>American<s n="n"/></l><r>américain<s n="n"/></r></p></e>
+    <e><p><l>April<s n="n"/></l><r>avril<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Arab<s n="n"/></l><r>arabe<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>Argentinian<s n="n"/></l><r>argentin<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Argentinian<s n="n"/></l><r>argentin<s n="n"/></r></p></e>
+    <e><p><l>August<s n="n"/></l><r>août<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>Basque<s n="n"/></l><r>basque<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Basque<s n="n"/></l><r>basque<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>Buddhism<s n="n"/></l><r>bouddhisme<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>Canarian<s n="n"/></l><r>canari<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Canarian<s n="n"/></l><r>canari<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Catalan<s n="n"/></l><r>catalan<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Catalan<s n="n"/></l><r>catalan<s n="n"/></r></p></e>
+    <e><p><l>Catholic<s n="n"/></l><r>catholique<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>Chilean<s n="n"/></l><r>chilien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Chilean<s n="n"/></l><r>chilien<s n="n"/></r></p></e>
+    <e><p><l>Chinese<s n="n"/></l><r>chinois<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>Chinese<s n="n"/></l><r>chinois<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>Christian<s n="n"/></l><r>chrétien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Christian<s n="n"/></l><r>chrétien<s n="n"/></r></p></e>
+    <e><p><l>Christianity<s n="n"/></l><r>christianisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>December<s n="n"/></l><r>décembre<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>European<s n="n"/></l><r>européen<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>European<s n="n"/></l><r>européen<s n="n"/></r></p></e>
+    <e><p><l>February<s n="n"/></l><r>février<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Franco's<b/>regime<s n="n"/></l><r>franquisme<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>Franco<b/>regime<s n="n"/></l><r>franquisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Friday<s n="n"/></l><r>vendredi<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" c="new-category"><p><l>Galician<s n="n"/></l><r>galicien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL" c="new-category"><p><l>Galician<s n="n"/></l><r>galicien<s n="n"/></r></p></e>
+    <e r="LR" c="new-category"><p><l>German<s n="n"/></l><r>allemand<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL" c="new-category"><p><l>German<s n="n"/></l><r>allemand<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Greek<s n="n"/></l><r>grec<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Greek<s n="n"/></l><r>grec<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Her<b/>Majesty<s n="n"/></l><r>Sa<b/>Majesté<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Her<b/>Majesty<b/>the<b/>Queen<s n="n"/></l><r>Sa<b/>Majesté<b/>la<b/>Reine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Majesty<s n="n"/></l><r>Sa<b/>Majesté<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>His<b/>Majesty<b/>the<b/>King<s n="n"/></l><r>Sa<b/>Majesté<b/>le<b/>Roi<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>Indian<s n="n"/></l><r>indien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Indian<s n="n"/></l><r>indien<s n="n"/></r></p></e>
+    <e><p><l>Marxism<s n="n"/></l><r>marxisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>May<s n="n"/></l><r>mai<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Molotov<b/>cocktail<s n="n"/></l><r>cocktail<g><b/>molotov</g><s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>Italian<s n="n"/></l><r>italien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Italian<s n="n"/></l><r>italien<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Jamaican<s n="n"/></l><r>Jamaïcain<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Jamaican<s n="n"/></l><r>Jamaïcain<s n="n"/></r></p></e>
+    <e c="new-category"><p><l>Latin<s n="n"/></l><r>latin<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>Lithuanian<s n="n"/></l><r>lituanien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Lithuanian<s n="n"/></l><r>lituanien<s n="n"/></r></p></e>
+    <e r="RL"><p><l>March<s n="n"/><s n="ND"/></l><r>mars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>March<s n="n"/><s n="pl"/></l><r>mars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>March<s n="n"/><s n="sg"/></l><r>mars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>Monday<s n="n"/></l><r>lundi<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" c="check"><p><l>Moroccan<s n="n"/></l><r>marocain<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL" c="check"><p><l>Moroccan<s n="n"/></l><r>marocain<s n="n"/></r></p></e>
+    <e r="LR" c="new-category"><p><l>Muslim<s n="n"/></l><r>musulman<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL" c="new-category"><p><l>Muslim<s n="n"/></l><r>musulman<s n="n"/></r></p></e>
+    <e><p><l>Nazism<s n="n"/></l><r>nazisme<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>Nigerian<s n="n"/></l><r>nigérien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Nigerian<s n="n"/></l><r>nigérien<s n="n"/></r></p></e>
+    <e><p><l>November<s n="n"/></l><r>novembre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>October<s n="n"/></l><r>octobre<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>Palestinian<s n="n"/></l><r>palestinien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Palestinian<s n="n"/></l><r>palestinien<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Paraguayan<s n="n"/></l><r>paraguayen<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Paraguayan<s n="n"/></l><r>paraguayen<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Spaniard<s n="n"/></l><r>espagnol<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Spaniard<s n="n"/></l><r>espagnol<s n="n"/></r></p></e>
+    <e><p><l>Sunday<s n="n"/></l><r>dimanche<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Swiss<s n="n"/></l><r>suisse<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>Syrian<s n="n"/></l><r>syrien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Syrian<s n="n"/></l><r>syrien<s n="n"/></r></p></e>
+    <e><p><l>Tuesday<s n="n"/></l><r>mardi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Thursday<s n="n"/></l><r>jeudi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Wednesday<s n="n"/></l><r>mercredi<s n="n"/><s n="m"/></r></p></e>
+    <e c="Ángel"><p><l>abdomen<s n="n"/></l><r>abdomen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aberration<s n="n"/></l><r>aberration<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ability<s n="n"/></l><r>habilité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ablation<s n="n"/></l><r>ablation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abnegation<s n="n"/></l><r>abnégation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abnormality<s n="n"/></l><r>anormalité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abortion<s n="n"/></l><r>avortement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>abrogation<s n="n"/></l><r>abrogation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>absence<s n="n"/></l><r>absence<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>absenteeism<s n="n"/></l><r>absentéisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>absolution<s n="n"/></l><r>absolution<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>absolutism<s n="n"/></l><r>absolutisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>abstention<s n="n"/></l><r>abstention<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abstinence<s n="n"/></l><r>abstinence<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abstraction<s n="n"/></l><r>abstraction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abundance<s n="n"/></l><r>abondance<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>access<s n="n"/><s n="ND"/></l><r>accès<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>access<s n="n"/><s n="pl"/></l><r>accès<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>access<s n="n"/><s n="sg"/></l><r>accès<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>accessibility<s n="n"/></l><r>accessibilité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>accident<s n="n"/></l><r>accident<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>acclamation<s n="n"/></l><r>acclamation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>acclimatisation<s n="n"/></l><r>acclimatation<s n="n"/><s n="f"/></r></p></e>
+    <e r='RL'><p><l>accommodation<s n="n"/></l><r>logement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>accommodation<s n="n"/></l><r>hébergement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>accompaniment<s n="n"/></l><r>accompagnement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>accord<s n="n"/></l><r>accord<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>Peruvian<s n="n"/></l><r>péruvien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Peruvian<s n="n"/></l><r>péruvien<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Turkish<s n="n"/></l><r>turc<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Turkish<s n="n"/></l><r>turc<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Valencian<s n="n"/></l><r>valencien<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Valencian<s n="n"/></l><r>valencien<s n="n"/></r></p></e>
+    <e><p><l>abandonment<s n="n"/></l><r>abandon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>abbey<s n="n"/></l><r>abbaye<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abbot<s n="n"/></l><r>abbé<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>abbess<s n="n"/></l><r>abbé<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>abuse<s n="n"/><s n="ND"/></l><r>abus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>abuse<s n="n"/><s n="pl"/></l><r>abus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>abuse<s n="n"/><s n="sg"/></l><r>abus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>abyss<s n="n"/></l><r>abîme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>academy<s n="n"/></l><r>académie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>acceleration<s n="n"/></l><r>accélération<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>accent<s n="n"/></l><r>accent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>accentuation<s n="n"/></l><r>accentuation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>acceptance<s n="n"/></l><r>acceptation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>precision<s n="n"/></l><r>précision<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>account<s n="n"/></l><r>compte<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>account<s n="n"/></l><r>relation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>account<b/>number<s n="n"/></l><r>numéro<g><b/>de<b/>compte</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>accountancy<s n="n"/></l><r>comptabilité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>accountant<s n="n"/></l><r>comptable<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>accounting<s n="n"/></l><r>comptabilité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>accumulation<s n="n"/></l><r>accumulation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>accuracy<s n="n"/></l><r>justesse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>exactitude<s n="n"/></l><r>exactitude<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>ace<s n="n"/><s n="ND"/></l><r>as<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ace<s n="n"/><s n="pl"/></l><r>as<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>ace<s n="n"/><s n="sg"/></l><r>as<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>achievement<s n="n"/></l><r>réussite<s n="n"/><s n="f"/></r></p></e>
+    <e c="new-category"><p><l>acid<s n="n"/></l><r>acide<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>acoustics<s n="n"/></l><r>acoustique<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>acquisition<s n="n"/></l><r>acquisition<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>acrobatics<s n="n"/></l><r>acrobatie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>acronym<s n="n"/></l><r>sigle<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>act<s n="n"/></l><r>acte<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>act<s n="n"/></l><r>loi<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>action<s n="n"/></l><r>action<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>activist<s n="n"/></l><r>activiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>activity<s n="n"/></l><r>activité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>actor<s n="n"/></l><r>acteur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>actress<s n="n"/></l><r>actrice<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>actuality<s n="n"/></l><r>actualité<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>actuality<s n="n"/></l><r>actu<s n="n"/><s n="f"/></r></p></e>
+
   </section>
 </dictionary>
