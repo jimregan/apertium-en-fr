@@ -2833,26 +2833,25 @@
     <e><p><l>right<b/>through<s n="adv"/></l><r>complètement<s n="adv"/></r></p></e>
     <e><p><l>rightly<s n="adv"/></l><r>correctement<s n="adv"/></r></p></e>
     <e><p><l>roughly<s n="adv"/></l><r>approchant<s n="adv"/></r></p></e>
-    <e><p><l>roughly<s n="adv"/></l><r>environ<s n="adv"/></r></p></e>
-    <e><p><l>roughly<s n="adv"/></l><r>quelque<s n="adv"/></r></p></e>
     <e><p><l>roundly<s n="adv"/></l><r>clairement<s n="adv"/></r></p></e>
     <e><p><l>satisfactorily<s n="adv"/></l><r>de<b/>manière<b/>satisfaisante<s n="adv"/></r></p></e>
     <e><p><l>scarcely<s n="adv"/></l><r>difficilement<s n="adv"/></r></p></e>
-    <e><p><l>second<s n="adv"/></l><r>deuxièmement<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>second<s n="adv"/></l><r>deuxièmement<s n="adv"/></r></p></e>
+    <e><p><l>secondly<s n="adv"/></l><r>deuxièmement<s n="adv"/></r></p></e>
     <e><p><l>secretly<s n="adv"/></l><r>en<b/>secret<s n="adv"/></r></p></e>
     <e><p><l>seemingly<s n="adv"/></l><r>apparemment<s n="adv"/></r></p></e>
-    <e><p><l>seldom<s n="adv"/></l><r>rarement<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>seldom<s n="adv"/></l><r>rarement<s n="adv"/></r></p></e>
     <e><p><l>seriously<s n="adv"/></l><r>sérieusement<s n="adv"/></r></p></e>
-    <e><p><l>seriously<b/>now<s n="adv"/></l><r>sérieusement<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>seriously<b/>now<s n="adv"/></l><r>sérieusement<s n="adv"/></r></p></e>
     <e><p><l>shortly<s n="adv"/></l><r>dans<b/>peu<b/>de<b/>temps<s n="adv"/></r></p></e>
-    <e c="we haven't spoke since/no nos hablamos desde entonces"><p><l>since<s n="adv"/></l><r>depuis<b/>lors<s n="adv"/></r></p></e>
-    <e c="we haven't spoke since/no nos hablamos desde entonces"><p><l>since<s n="adv"/></l><r>dès<b/>lors<s n="adv"/></r></p></e>
+    <e><p><l>since<s n="adv"/></l><r>depuis<b/>lors<s n="adv"/></r></p></e>
+    <e><p><l>since<s n="adv"/></l><r>dès<b/>lors<s n="adv"/></r></p></e>
     <e><p><l>sincerely<s n="adv"/></l><r>sincèrement<s n="adv"/></r></p></e>
     <e><p><l>single<b/>file<s n="adv"/></l><r>en<b/>file<b/>indienne<s n="adv"/></r></p></e>
     <e><p><l>slightly<s n="adv"/></l><r>légèrement<s n="adv"/></r></p></e>
-    <e><p><l>slow<s n="adv"/></l><r>doucement<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>slow<s n="adv"/></l><r>doucement<s n="adv"/></r></p></e>
     <e><p><l>slowly<s n="adv"/></l><r>doucement<s n="adv"/></r></p></e>
-    <e><p><l>slowly<s n="adv"/></l><r>lentement<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>slowly<s n="adv"/></l><r>lentement<s n="adv"/></r></p></e>
     <e c="sols singular"><p><l>so<b/>much<s n="adv"/></l><r>tant<s n="adv"/></r></p></e>
     <e c="sols singular"><p><l>so<b/>much<s n="adv"/></l><r>autant<s n="adv"/></r></p></e>
     <e><p><l>socially<s n="adv"/></l><r>socialement<s n="adv"/></r></p></e>
@@ -2860,21 +2859,21 @@
     <e><p><l>sometimes<s n="adv"/></l><r>parfois<s n="adv"/></r></p></e>
     <e><p><l>soon<s n="adv"/></l><r>bientôt<s n="adv"/></r></p></e>
     <e><p><l>specially<s n="adv"/></l><r>spécialement<s n="adv"/></r></p></e>
-    <e><p><l>specifically<s n="adv"/></l><r>concrètement<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>specifically<s n="adv"/></l><r>concrètement<s n="adv"/></r></p></e>
     <e><p><l>specifically<s n="adv"/></l><r>spécifiquement<s n="adv"/></r></p></e>
     <e><p><l>still<s n="adv"/></l><r>encore<s n="adv"/></r></p></e>
     <e><p><l>straight<s n="adv"/></l><r>directement<s n="adv"/></r></p></e>
     <e c="Faltaria potser un 'igual' adjectiu"><p><l>the<b/>same<s n="adv"/></l><r>pareil<s n="adv"/></r></p></e>
     <e><p><l>then<s n="adv"/></l><r>lors<s n="adv"/></r></p></e>
     <e><p><l>then<s n="adv"/></l><r>alors<s n="adv"/></r></p></e>
-    <e><p><l>then<b/>and<b/>there<s n="adv"/></l><r>aussitôt<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>then<b/>and<b/>there<s n="adv"/></l><r>aussitôt<s n="adv"/></r></p></e>
     <e><p><l>theoretically<s n="adv"/></l><r>théoriquement<s n="adv"/></r></p></e>
-    <e><p><l>there<s n="adv"/></l><r>là-bas<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>there<s n="adv"/></l><r>là-bas<s n="adv"/></r></p></e>
     <e><p><l>there<s n="adv"/></l><r>là<s n="adv"/></r></p></e>
     <e><p><l>there<b/>again<s n="adv"/></l><r>en<b/>plus<s n="adv"/></r></p></e>
     <e><p><l>there<b/>and<b/>then<s n="adv"/></l><r>aussitôt<s n="adv"/></r></p></e>
     <e r="LR"><p><l>thereafter<s n="adv"/></l><r>après<s n="adv"/></r></p></e>
-    <e><p><l>thereby<s n="adv"/></l><r>ainsi<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>thereby<s n="adv"/></l><r>ainsi<s n="adv"/></r></p></e>
     <e><p><l>this<b/>way<s n="adv"/></l><r>de<b/>cette<b/>manière<s n="adv"/></r></p></e>
     <e><p><l>those<b/>that<s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></l><r>combien<s n="rel"/><s n="adv"/></r></p></e>
     <e><p><l>though<s n="adv"/></l><r>quand<b/>même<s n="adv"/></r></p></e>
