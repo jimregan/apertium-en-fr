@@ -392,11 +392,11 @@
 <e><p><l>Antonio<s n="np"/><s n="ant"/></l><r>Antonio<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Antonio<s n="np"/></l><r>Antonio<s n="np"/></r></p></e>
 <e><p><l>Antón<s n="np"/><s n="ant"/></l><r>Antón<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Aníbal<s n="np"/><s n="ant"/></l><r>Hannibal<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Hannibal<s n="np"/><s n="ant"/></l><r>Hannibal<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Aparicio<s n="np"/><s n="ant"/></l><r>Aparicio<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Apertium<s n="np"/><s n="al"/></l><r>Apertium<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Apia<s n="np"/><s n="loc"/></l><r>Apia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
-<e><p><l>Apolo<s n="np"/><s n="ant"/></l><r>Apolo<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Apollo<s n="np"/><s n="ant"/></l><r>Apolo<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Apple<s n="np"/><s n="cog"/><s n="sg"/></l><r>Apple<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Apple<s n="np"/><s n="cog"/><s n="pl"/></l><r>Apple<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e><p><l>April<s n="n"/></l><r>avril<s n="n"/><s n="m"/></r></p></e>
@@ -416,7 +416,7 @@
 <e r="RL" c="new-category"><p><l>Argentinian<s n="n"/></l><r>argentin<s n="n"/></r></p></e>
 <e><p><l>Ariadna<s n="np"/></l><r>Ariadna<s n="np"/></r></p></e>
 <e><p><l>Ariel<s n="np"/><s n="ant"/></l><r>Ariel<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Aristóteles<s n="np"/><s n="ant"/></l><r>Aristote<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Aristotle<s n="np"/><s n="ant"/></l><r>Aristote<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Arizona<s n="np"/><s n="loc"/></l><r>Arizona<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Arkansas<s n="np"/><s n="loc"/></l><r>Arkansas<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Arlette<s n="np"/><s n="ant"/></l><r>Arlette<s n="np"/><s n="ant"/></r></p></e>
