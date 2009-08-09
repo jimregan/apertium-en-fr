@@ -2626,9 +2626,9 @@
     <e><p><l>instead<s n="adv"/></l><r>par<b/>contre<s n="adv"/></r></p></e>
     <e><p><l>insufficiently<s n="adv"/></l><r>insuffisamment<s n="adv"/></r></p></e>
     <e><p><l>interestingly<s n="adv"/></l><r>curieusement<s n="adv"/></r></p></e>
-    <e><p><l>interestingly<b/>enough<s n="adv"/></l><r>curieusement<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>interestingly<b/>enough<s n="adv"/></l><r>curieusement<s n="adv"/></r></p></e>
     <e><p><l>internationally<s n="adv"/></l><r>internationalement<s n="adv"/></r></p></e>
-    <e><p><l>into<b/>the<b/>bargain<s n="adv"/></l><r>en<b/>plus<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>into<b/>the<b/>bargain<s n="adv"/></l><r>en<b/>plus<s n="adv"/></r></p></e>
     <e><p><l>inwardly<s n="adv"/></l><r>intérieurement<s n="adv"/></r></p></e>
     <e><p><l>irresponsibly<s n="adv"/></l><r>irresponsablement<s n="adv"/></r></p></e>
     <e><p><l>jointly<s n="adv"/></l><r>conjointement<s n="adv"/></r></p></e>
@@ -2653,7 +2653,6 @@
     <e><p><l>like<b/>this<s n="adv"/></l><r>ainsi<s n="adv"/></r></p></e>
     <e><p><l>likely<s n="adv"/></l><r>probablement<s n="adv"/></r></p></e>
     <e><p><l>likewise<s n="adv"/></l><r>de<b/>même<s n="adv"/></r></p></e>
-    <e><p><l>likewise<s n="adv"/></l><r>ainsi<s n="adv"/></r></p></e>
     <e><p><l>linguistically<s n="adv"/></l><r>linguistiquement<s n="adv"/></r></p></e>
     <e><p><l>literally<s n="adv"/></l><r>littéralement<s n="adv"/></r></p></e>
     <e><p><l>little<s n="adv"/></l><r>peu<s n="adv"/></r></p></e>
@@ -2667,16 +2666,16 @@
     <e><p><l>manually<s n="adv"/></l><r>à<b/>la<b/>main<s n="adv"/></r></p></e>
     <e><p><l>massively<s n="adv"/></l><r>massivement<s n="adv"/></r></p></e>
     <e><p><l>maybe<s n="adv"/></l><r>peut-être<s n="adv"/></r></p></e>
-    <e><p><l>meantime<s n="adv"/></l><r>en<b/>attendant<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>meantime<s n="adv"/></l><r>en<b/>attendant<s n="adv"/></r></p></e>
     <e><p><l>mentally<s n="adv"/></l><r>mentalement<s n="adv"/></r></p></e>
     <e><p><l>merely<s n="adv"/></l><r>simplement<s n="adv"/></r></p></e>
-    <e><p><l>miles<b/>better<s n="adv"/></l><r>beaucoup<b/>mieux<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>miles<b/>better<s n="adv"/></l><r>beaucoup<b/>mieux<s n="adv"/></r></p></e>
     <e><p><l>monumentally<s n="adv"/></l><r>extrêmement<s n="adv"/></r></p></e>
     <e><p><l>morally<s n="adv"/></l><r>moralement<s n="adv"/></r></p></e>
     <e><p><l>more<s n="adv"/></l><r>davantage<s n="adv"/></r></p></e>
     <e><p><l>more<s n="adv"/></l><r>plus<s n="adv"/></r></p></e>
     <e><p><l>moreover<s n="adv"/></l><r>en<b/>plus<s n="adv"/></r></p></e>
-    <e c="per al superlatiu: the most interesting - el més interessant, i tb adv normal - what I like most"><p><l>most<s n="adv"/></l><r>plus<s n="adv"/></r></p></e>
+    <e><p><l>most<s n="adv"/></l><r>plus<s n="adv"/></r></p></e>
     <e><p><l>mostly<s n="adv"/></l><r>majoritairement<s n="adv"/></r></p></e>
     <e><p><l>much<s n="adv"/></l><r>beaucoup<s n="adv"/></r></p></e>
     <e><p><l>much<b/>better<s n="adv"/></l><r>beaucoup<b/>mieux<s n="adv"/></r></p></e>
@@ -2694,13 +2693,13 @@
     <e><p><l>never<s n="adv"/></l><r>jamais<s n="adv"/></r></p></e>
     <e><p><l>newly<s n="adv"/></l><r>à<b/>nouveau<s n="adv"/></r></p></e>
     <e><p><l>nicely<s n="adv"/></l><r>aimablement<s n="adv"/></r></p></e>
-    <e c="MG: crec que aquesta hauria de ser la traducció ca-en, i les altres dues opciones (non/not) s'haurien de generar al trànsfer segons si és abans d'un nom (non) o després abans d'un verb (not)"><p><l>no<s n="adv"/></l><r>non<s n="adv"/></r></p></e>
-    <e c="MG: crec que aquesta hauria de ser la traducció ca-en, i les altres dues opciones (non/not) s'haurien de generar al trànsfer segons si és abans d'un nom (non) o després abans d'un verb (not)"><p><l>no<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>no<s n="adv"/></l><r>non<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>no<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
     <e><p><l>no<b/>sooner<s n="adv"/></l><r>à<b/>peine<s n="adv"/></r></p></e>
-    <e c="MG: davant d'un nom (la no col·laboració : non-collaboration)"><p><l>non<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>non<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
     <e><p><l>normally<s n="adv"/></l><r>normalement<s n="adv"/></r></p></e>
-    <e c="MG: Després d'un verb (lèxic, modal, do, have)"><p><l>not<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
-    <e c="he can't even walk"><p><l>not<b/>even<s n="adv"/></l><r>même<b/>pas<s n="adv"/></r></p></e>
+    <e><p><l>not<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
+    <e><p><l>not<b/>even<s n="adv"/></l><r>même<b/>pas<s n="adv"/></r></p></e>
     <e><p><l>notably<s n="adv"/></l><r>notablement<s n="adv"/></r></p></e>
     <e><p><l>noticeably<s n="adv"/></l><r>sensiblement<s n="adv"/></r></p></e>
     <e><p><l>notoriously<s n="adv"/></l><r>notoirement<s n="adv"/></r></p></e>
@@ -2711,7 +2710,6 @@
     <e><p><l>objectively<s n="adv"/></l><r>objectivement<s n="adv"/></r></p></e>
     <e><p><l>obviously<s n="adv"/></l><r>évidemment<s n="adv"/></r></p></e>
     <e><p><l>occasionally<s n="adv"/></l><r>occasionnellement<s n="adv"/></r></p></e>
-    <e><p><l>of<b/>course<s n="adv"/></l><r>naturellement<s n="adv"/></r></p></e>
     <e><p><l>of<b/>course<s n="adv"/></l><r>bien<b/>sûr<s n="adv"/></r></p></e>
     <e><p><l>of<b/>like<b/>mind<s n="adv"/></l><r>d'accord<s n="adv"/></r></p></e>
     <e><p><l>off<s n="adv"/></l><r>dehors<s n="adv"/></r></p></e>
@@ -2722,23 +2720,23 @@
     <e><p><l>on<b/>a<b/>large-scale<s n="adv"/></l><r>à<b/>grande<b/>échelle<s n="adv"/></r></p></e>
     <e><p><l>on<b/>a<b/>large<b/>scale<s n="adv"/></l><r>à<b/>grande<b/>échelle<s n="adv"/></r></p></e>
     <e><p><l>on<b/>a<b/>long-term<b/>basis<s n="adv"/></l><r>à<b/>long<b/>terme<s n="adv"/></r></p></e>
-    <e><p><l>on<b/>a<b/>mass<b/>scale<s n="adv"/></l><r>à<b/>grande<b/>échelle<s n="adv"/></r></p></e>
-    <e><p><l>on<b/>a<b/>short-term<b/>basis<s n="adv"/></l><r>à<b/>court<b/>terme<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>on<b/>a<b/>mass<b/>scale<s n="adv"/></l><r>à<b/>grande<b/>échelle<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>on<b/>a<b/>short-term<b/>basis<s n="adv"/></l><r>à<b/>court<b/>terme<s n="adv"/></r></p></e>
     <e><p><l>on<b/>a<b/>small<b/>scale<s n="adv"/></l><r>à<b/>court<b/>terme<s n="adv"/></r></p></e>
-    <e><p><l>on<b/>ahead<s n="adv"/></l><r>en<b/>avance<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>on<b/>ahead<s n="adv"/></l><r>en<b/>avance<s n="adv"/></r></p></e>
     <e><p><l>on<b/>an<b/>individual<b/>basis<s n="adv"/></l><r>individuellement<s n="adv"/></r></p></e>
     <e><p><l>on<b/>board<s n="adv"/></l><r>à<b/>bord<s n="adv"/></r></p></e>
     <e><p><l>on<b/>hand<s n="adv"/></l><r>à<b/>la<b/>main<s n="adv"/></r></p></e>
-    <e><p><l>on<b/>occasion<s n="adv"/></l><r>de<b/>temps<b/>en<b/>temps<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>on<b/>occasion<s n="adv"/></l><r>de<b/>temps<b/>en<b/>temps<s n="adv"/></r></p></e>
     <e><p><l>on<b/>purpose<s n="adv"/></l><r>expressément<s n="adv"/></r></p></e>
     <e><p><l>on<b/>record<s n="adv"/></l><r>officiellement<s n="adv"/></r></p></e>
     <e><p><l>on<b/>the<b/>defensive<s n="adv"/></l><r>sur<b/>la<b/>défensive<s n="adv"/></r></p></e>
-    <e><p><l>on<b/>the<b/>doble<s n="adv"/></l><r>vite<s n="adv"/></r></p></e>
-    <e><p><l>on<b/>the<b/>double<s n="adv"/></l><r>vite<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>on<b/>the<b/>doble<s n="adv"/></l><r>vite<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>on<b/>the<b/>double<s n="adv"/></l><r>vite<s n="adv"/></r></p></e>
     <e><p><l>on<b/>the<b/>one<b/>hand<s n="adv"/></l><r>d'une<b/>part<s n="adv"/></r></p></e>
     <e><p><l>on<b/>the<b/>other<b/>hand<s n="adv"/></l><r>d'autre<b/>part<s n="adv"/></r></p></e>
-    <e><p><l>on<b/>the<b/>other<b/>hand<s n="adv"/></l><r>par<b/>ailleurs<s n="adv"/></r></p></e>
-    <e><p><l>on<b/>the<b/>other<b/>side<s n="adv"/></l><r>d'autre<b/>part<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>on<b/>the<b/>other<b/>hand<s n="adv"/></l><r>par<b/>ailleurs<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>on<b/>the<b/>other<b/>side<s n="adv"/></l><r>d'autre<b/>part<s n="adv"/></r></p></e>
     <e><p><l>on<b/>the<b/>quiet<s n="adv"/></l><r>à<b/>la<b/>silencieuse<s n="adv"/></r></p></e>
     <e><p><l>on<b/>time<s n="adv"/></l><r>à<b/>l'heure<s n="adv"/></r></p></e>
     <e><p><l>on<b/>time<s n="adv"/></l><r>ponctuellement<s n="adv"/></r></p></e>
@@ -2762,7 +2760,7 @@
     <e><p><l>outside<s n="adv"/></l><r>dehors<s n="adv"/></r></p></e>
     <e><p><l>over<s n="adv"/></l><r>dessus<s n="adv"/></r></p></e>
     <e><p><l>over<b/>here<s n="adv"/></l><r>ici<s n="adv"/></r></p></e>
-    <e><p><l>over<b/>there<s n="adv"/></l><r>là<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>over<b/>there<s n="adv"/></l><r>là<s n="adv"/></r></p></e>
     <e><p><l>overnight<s n="adv"/></l><r>la<b/>nuit<s n="adv"/></r></p></e>
     <e><p><l>paradoxically<s n="adv"/></l><r>paradoxalement<s n="adv"/></r></p></e>
     <e><p><l>partially<s n="adv"/></l><r>partiellement<s n="adv"/></r></p></e>
@@ -2865,7 +2863,7 @@
     <e><p><l>still<s n="adv"/></l><r>encore<s n="adv"/></r></p></e>
     <e><p><l>straight<s n="adv"/></l><r>directement<s n="adv"/></r></p></e>
     <e c="Faltaria potser un 'igual' adjectiu"><p><l>the<b/>same<s n="adv"/></l><r>pareil<s n="adv"/></r></p></e>
-    <e><p><l>then<s n="adv"/></l><r>lors<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>then<s n="adv"/></l><r>lors<s n="adv"/></r></p></e>
     <e><p><l>then<s n="adv"/></l><r>alors<s n="adv"/></r></p></e>
     <e r="LR"><p><l>then<b/>and<b/>there<s n="adv"/></l><r>aussitôt<s n="adv"/></r></p></e>
     <e><p><l>theoretically<s n="adv"/></l><r>théoriquement<s n="adv"/></r></p></e>
@@ -2921,6 +2919,9 @@
     <e><p><l>widely<s n="adv"/></l><r>largement<s n="adv"/></r></p></e>
     <e c="also: like it or not"><p><l>willingly<b/>or<b/>by<b/>force<s n="adv"/></l><r>de<b/>gré<b/>ou<b/>de<b/>force<s n="adv"/></r></p></e>
     <e><p><l>yet<s n="adv"/></l><r>encore<s n="adv"/></r></p></e>
+    <e><p><l>abroad<s n="adv"/></l><r>à<b/>l'étranger<s n="adv"/></r></p></e>
+    <e><p><l>from<b/>abroad<s n="adv"/></l><r>de<b/>l'étranger<s n="adv"/></r></p></e>
+    <e><p><l>affectionately<s n="adv"/></l><r>affectueusement<s n="adv"/></r></p></e>
 
     <!-- Fixup -->
     <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -3008,6 +3009,8 @@
 
     <!-- Punctuation -->
     <e><i>.<s n="sent"/></i></e>
+    <e><i>;<s n="sent"/></i></e>
+    <e><i>'<s n="apos"/></i></e>
     <e><i>,<s n="cm"/></i></e>
   </section>
 </dictionary>
