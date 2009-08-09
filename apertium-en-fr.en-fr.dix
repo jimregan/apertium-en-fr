@@ -251,6 +251,200 @@
     <e><p><l>actress<s n="n"/></l><r>actrice<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>actuality<s n="n"/></l><r>actualité<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>actuality<s n="n"/></l><r>actu<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>adherent<s n="n"/></l><r>partisan<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>adherent<s n="n"/></l><r>partisan<s n="n"/></r></p></e>
+    <e r="RL"><p><l>adhesion<s n="n"/></l><r>ralliement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adhesion<s n="n"/></l><r>adhésion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adjective<s n="n"/></l><r>adjectif<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>administrator<s n="n"/></l><r>administrateur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>administrator<s n="n"/></l><r>administrateur<s n="n"/></r></p></e>
+    <e><p><l>admiral<s n="n"/></l><r>amiral<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>admiration<s n="n"/></l><r>admiration<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adolescence<s n="n"/></l><r>adolescence<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adoption<s n="n"/></l><r>adoption<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adoration<s n="n"/></l><r>adoration<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adrenaline<s n="n"/></l><r>adrénaline<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adult<s n="n"/></l><r>adulte<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>adultery<s n="n"/></l><r>adultère<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adulto<s n="n"/></l><r>adulte<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>advance<s n="n"/></l><r>avance<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adjudicatario<s n="n"/></l><r>adjudicataire<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>adjudication<s n="n"/></l><r>adjudication<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adjudicator<s n="n"/></l><r>adjudicataire<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>adjustment<s n="n"/></l><r>graduation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>administration<s n="n"/></l><r>administration<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>progress<s n="n"/></l><r>progrès<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>progression<s n="n"/></l><r>progression<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>advantage<s n="n"/></l><r>avantage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adventure<s n="n"/></l><r>aventure<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adverb<s n="n"/></l><r>adverbe<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adversary<s n="n"/></l><r>adversaire<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>ad<s n="n"/></l><r>annonce<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adaptation<s n="n"/></l><r>adaptation<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>adaptation<s n="n"/></l><r>remaniement<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>addict<s n="n"/></l><r>intoxiqué<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>addict<s n="n"/></l><r>intoxiqué<s n="n"/></r></p></e>
+    <e><p><l>addition<s n="n"/></l><r>addition<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aerology<s n="n"/></l><r>aérologie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aerosol<s n="n"/></l><r>aérosol<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aesthetics<s n="n"/></l><r>esthétique<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>afternoon<s n="n"/></l><r>après-midi<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>afternoon<s n="n"/><s n="sg"/></l><r>après-midi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>afternoon<s n="n"/><s n="pl"/></l><r>après-midi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>age<s n="n"/></l><r>âge<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>agency<s n="n"/></l><r>agence<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agent<s n="n"/></l><r>agent<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>aggravation<s n="n"/></l><r>aggravation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aggregation<s n="n"/></l><r>agrégation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aggressiveness<s n="n"/></l><r>agressivité<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>aggressor<s n="n"/></l><r>agresseur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>aggressor<s n="n"/></l><r>agresseur<s n="n"/></r></p></e>
+    <e><p><l>aging<s n="n"/></l><r>vieillissement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>agitation<s n="n"/></l><r>agitation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agony<s n="n"/></l><r>agonie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>affection<s n="n"/></l><r>affection<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>affectivity<s n="n"/></l><r>affectivité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>affinity<s n="n"/></l><r>affinité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>affirmation<s n="n"/></l><r>affirmation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>affliction<s n="n"/></l><r>affliction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aficionado<s n="n"/></l><r>supporter<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>agreement<s n="n"/></l><r>accord<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>album<s n="n"/></l><r>album<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alchemist<s n="n"/></l><r>alchimiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>alchemy<s n="n"/></l><r>alchimie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alcohol<s n="n"/></l><r>alcool<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alcohol<b/>content<s n="n"/></l><r>graduation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alcoholism<s n="n"/></l><r>alcoolisme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alienation<s n="n"/></l><r>aliénation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>allegation<s n="n"/></l><r>allégation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>allegory<s n="n"/></l><r>allégorie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>allergy<s n="n"/></l><r>allergie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aircraft<s n="n"/></l><r>aéronef<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>airfield<s n="n"/></l><r>aérodrome<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>airline<s n="n"/></l><r>compagnie<b/>aérienne<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>airliner<s n="n"/></l><r>avion<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>airplane<s n="n"/></l><r>avion<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>airport<s n="n"/></l><r>aéroport<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alarm<s n="n"/></l><r>alarme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alliance<s n="n"/></l><r>alliance<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alliteration<s n="n"/></l><r>allitération<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>allocation<s n="n"/></l><r>attribution<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>allowance<s n="n"/></l><r>pension<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alloy<s n="n"/></l><r>alliage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>allusion<s n="n"/></l><r>allusion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alluvium<s n="n"/></l><r>alluvion<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>ally<s n="n"/></l><r>allié<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>ally<s n="n"/></l><r>allié<s n="n"/></r></p></e>
+    <e><p><l>almond<s n="n"/></l><r>amande<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alms<s n="n"/><s n="pl"/></l><r>aumône<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>alms<s n="n"/><s n="pl"/></l><r>aumône<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>alphabet<s n="n"/></l><r>alphabet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>altar<s n="n"/></l><r>autel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>altarpiece<s n="n"/></l><r>retable<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alteration<s n="n"/></l><r>altération<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>altercation<s n="n"/></l><r>altercation<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>alternation<s n="n"/></l><r>alternance<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alternative<s n="n"/></l><r>alternative<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>altitude<s n="n"/></l><r>altitude<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>altocumulus<s n="n"/><s n="ND"/></l><r>altocumulus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>altocumulus<s n="n"/><s n="sg"/></l><r>altocumulus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>altocumulus<s n="n"/><s n="pl"/></l><r>altocumulus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>aluminium<s n="n"/></l><r>aluminium<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>analyst<s n="n"/></l><r>analyste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>anarchism<s n="n"/></l><r>anarchisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>anarchy<s n="n"/></l><r>anarchie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ancestor<s n="n"/></l><r>ancêtre<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>anchor<s n="n"/></l><r>ancre<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anecdote<s n="n"/></l><r>anecdote<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anemometer<s n="n"/></l><r>anémomètre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>angel<s n="n"/></l><r>ange<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>anger<s n="n"/></l><r>colère<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>angina<s n="n"/></l><r>angine<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>angle<s n="n"/></l><r>angle<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>animal<s n="n"/></l><r>animal<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>animation<s n="n"/></l><r>animation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ankle<s n="n"/></l><r>cheville<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>annex<s n="n"/></l><r>annexe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anniversary<s n="n"/></l><r>anniversaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>announcement<s n="n"/></l><r>annonce<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>antiquity<s n="n"/></l><r>antiquité<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>antiquity<s n="n"/></l><r>ancienneté<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>antisemitism<s n="n"/></l><r>antisémitisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>antropólogo<s n="n"/></l><r>anthropologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>distress<s n="n"/></l><r>détresse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>appendix<s n="n"/></l><r>appendice<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>appetite<s n="n"/></l><r>appétit<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>applause<s n="n"/></l><r>applaudissement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>apple<s n="n"/></l><r>pomme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>baggage<s n="n"/></l><r>bagage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bailiff<s n="n"/></l><r>huissier<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>baker<s n="n"/></l><r>boulanger<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>baker<s n="n"/></l><r>boulanger<s n="n"/></r></p></e>
+    <e><p><l>bakery<s n="n"/></l><r>boulangerie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>banquet<s n="n"/></l><r>banquet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>baptism<s n="n"/></l><r>baptême<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>base<s n="n"/></l><r>base<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>baseball<s n="n"/></l><r>base-ball<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>basilica<s n="n"/></l><r>basilique<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>basis<s n="n"/></l><r>base<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>basket<s n="n"/></l><r>corbeille<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>basketball<s n="n"/></l><r>basket-ball<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>battery<s n="n"/></l><r>batterie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>battle<s n="n"/></l><r>bataille<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>beau<s n="n"/></l><r>prétendant<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>belle<s n="n"/></l><r>prétendant<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>beauty<s n="n"/></l><r>beauté<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bed<s n="n"/></l><r>lit<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bedroom<s n="n"/></l><r>chambre<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bee<s n="n"/></l><r>abeille<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>beef<s n="n"/></l><r>veau<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>beer<s n="n"/></l><r>bière<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>begging<s n="n"/></l><r>mendicité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>beginning<s n="n"/></l><r>début<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>behaviour<s n="n"/></l><r>comportement<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>conduct<s n="n"/></l><r>conduite<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>being<s n="n"/></l><r>être<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>belief<s n="n"/></l><r>croyance<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bestseller<s n="n"/></l><r>best-seller<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>bias<s n="n"/><s n="ND"/></l><r>biais<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bias<s n="n"/><s n="sg"/></l><r>biais<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bias<s n="n"/><s n="pl"/></l><r>biais<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>bifurcation<s n="n"/></l><r>bifurcation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bike<s n="n"/></l><r>vélo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>biological<b/>weapon<s n="n"/></l><r>arme<b/>biologique<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biologist<s n="n"/></l><r>biologiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>biology<s n="n"/></l><r>biologie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biomass<s n="n"/></l><r>biomasse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biosphere<s n="n"/></l><r>biosphère<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bird<s n="n"/></l><r>oiseau<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>birth<s n="n"/></l><r>naissance<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>birthday<s n="n"/></l><r>anniversaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>biography<s n="n"/></l><r>biographie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biscuit<s n="n"/></l><r>biscuit<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bisexuality<s n="n"/></l><r>bisexualité<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bishop<s n="n"/></l><r>évêque<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bit<s n="n"/></l><r>bit<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bite<s n="n"/></l><r>bouchée<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bitterness<s n="n"/></l><r>amertume<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biólogo<s n="n"/></l><r>biologiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>blanket<s n="n"/></l><r>couverture<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>blast<s n="n"/></l><r>explosion<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bleeding<s n="n"/></l><r>hémorragie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>blessing<s n="n"/></l><r>bénédiction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>blog<s n="n"/></l><r>blog<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>blood<s n="n"/></l><r>sang<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bloodletting<s n="n"/></l><r>sangria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>blow<s n="n"/></l><r>coup<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>blueprint<s n="n"/></l><r>projet<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>body<s n="n"/><s n="ND"/></l><r>corps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>body<s n="n"/><s n="pl"/></l><r>corps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>body<s n="n"/><s n="sg"/></l><r>corps<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>bodyguard<s n="n"/></l><r>garde<g><b/>du<b/>corps</g><s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>bomb<s n="n"/></l><r>bombe<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>bomb<s n="n"/></l><r>pompe<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>bone<s n="n"/><s n="ND"/></l><r>os<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bone<s n="n"/><s n="pl"/></l><r>os<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>bone<s n="n"/><s n="sg"/></l><r>os<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
   </section>
 </dictionary>
