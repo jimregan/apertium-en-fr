@@ -559,6 +559,51 @@
     <e><p><l>owner<s n="n"/></l><r>propriétaire<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>puppet<s n="n"/></l><r>marionnette<s n="n"/><s n="f"/></r></p></e>
 
+    <e><p><l>practice<s n="n"/></l><r>pratique<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>practitioner<s n="n"/></l><r>préparateur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>practitioner<s n="n"/></l><r>préparateur<s n="n"/></r></p></e>
+    <e><p><l>praise<s n="n"/></l><r>éloge<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prank<s n="n"/></l><r>plaisanterie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prayer<s n="n"/></l><r>oraison<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pre-ordering<s n="n"/></l><r>prevente<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>precedent<s n="n"/></l><r>précédent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>precipitation<s n="n"/></l><r>précipitation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>precocity<s n="n"/></l><r>précocité<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>predecessor<s n="n"/></l><r>prédécesseur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>predecessor<s n="n"/></l><r>prédécesseur<s n="n"/></r></p></e>
+    <e><p><l>predication<s n="n"/></l><r>prédication<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prediction<s n="n"/></l><r>prédiction<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>predilection<s n="n"/></l><r>prédilection<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>predisposition<s n="n"/></l><r>prédisposition<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>preference<s n="n"/></l><r>préférence<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prehistory<s n="n"/></l><r>préhistoire<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prejudice<s n="n"/></l><r>préjugé<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prelude<s n="n"/></l><r>prélude<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>premeditation<s n="n"/></l><r>préméditation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>premise<s n="n"/></l><r>prémisse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>premium<s n="n"/></l><r>prime<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>presidency<s n="n"/></l><r>présidence<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>president<s n="n"/></l><r>président<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>president<s n="n"/></l><r>président<s n="n"/></r></p></e>
+    <e><p><l>press<s n="n"/></l><r>presse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>press<b/>conference<s n="n"/></l><r>conférence<g><b/>de<b/>presse</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pressure<s n="n"/></l><r>pression<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prestige<s n="n"/></l><r>prestige<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>presumption<s n="n"/></l><r>présomption<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>presupposition<s n="n"/></l><r>budget<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pretence<s n="n"/></l><r>prétention<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pretext<s n="n"/></l><r>prétexte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prevarication<s n="n"/></l><r>prévarication<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prevention<s n="n"/></l><r>prévention<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>problem<s n="n"/></l><r>problème<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>procedure<s n="n"/></l><r>procédure<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>prevention<s n="n"/></l><r>prevention<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prey<s n="n"/></l><r>prise<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>prime<b/>minister<s n="n"/></l><r>premier<b/>ministre<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>prime<b/>minister<s n="n"/></l><r>premier<b/>ministre<s n="n"/></r></p></e>
+    <e><p><l>privatisation<s n="n"/></l><r>privatisation<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>privilege<s n="n"/></l><r>privilège<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>probability<s n="n"/></l><r>probabilité<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>prince<s n="n"/></l><r>prince<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>princess<s n="n"/></l><r>prince<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>principle<s n="n"/></l><r>principe<s n="n"/><s n="m"/></r></p></e>
@@ -1248,5 +1293,51 @@
     <e><p><l>with<b/>no<s n="pr"/></l><r>sans<s n="pr"/></r></p></e>
     <e><p><l>with<b/>regard<b/>to<s n="pr"/></l><r>à<b/>l'egard<b/>de<s n="pr"/></r></p></e>
     <e><p><l>without<s n="pr"/></l><r>sans<s n="pr"/></r></p></e>
+    <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>devant<s n="pr"/></r></p></e>
+    <e><p><l>in<b/>order<b/>of<s n="pr"/></l><r>par<b/>ordre<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>in<b/>order<b/>to<s n="pr"/></l><r>pour<s n="pr"/></r></p></e>
+
+    <!-- Conjunctions -->
+    <e><p><l>and<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
+    <e><p><l>but<s n="cnjcoo"/></l><r>mais<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>but<b/>rather<s n="cnjcoo"/></l><r>mais<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>either<s n="cnjcoo"/></l><r>ou<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>neither<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
+    <e><p><l>nor<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
+    <e><p><l>or<s n="cnjcoo"/></l><r>ou<s n="cnjcoo"/></r></p></e>
+    <e><p><l>that<s n="cnjsub"/></l><r>que<s n="cnjsub"/></r></p></e>
+
+    <!-- Adverbs -->
+    <e><p><l>surely<s n="adv"/></l><r>sûrement<s n="adv"/></r></p></e>
+    <e><p><l>surprisingly<s n="adv"/></l><r>surprenantement<s n="adv"/></r></p></e>
+    <e><p><l>swiftly<s n="adv"/></l><r>vite<s n="adv"/></r></p></e>
+    <e><p><l>symbolically<s n="adv"/></l><r>symboliquement<s n="adv"/></r></p></e>
+    <e><p><l>systematically<s n="adv"/></l><r>systématiquement<s n="adv"/></r></p></e>
+    <e><p><l>tactfully<s n="adv"/></l><r>discrètement<s n="adv"/></r></p></e>
+    <e><p><l>technically<s n="adv"/></l><r>techniquement<s n="adv"/></r></p></e>
+    <e><p><l>temporarily<s n="adv"/></l><r>temporellement<s n="adv"/></r></p></e>
+    <e><p><l>thankfully<s n="adv"/></l><r>heureusement<s n="adv"/></r></p></e>
+    <e><p><l>the<b/>day<b/>before<b/>yesterday<s n="adv"/></l><r>avant-hier<s n="adv"/></r></p></e>
+    <e><p><l>straight<b/>away<s n="adv"/></l><r>aussitôt<s n="adv"/></r></p></e>
+    <e><p><l>straight<b/>through<s n="adv"/></l><r>complètement<s n="adv"/></r></p></e>
+    <e><p><l>strictly<s n="adv"/></l><r>strictement<s n="adv"/></r></p></e>
+    <e><p><l>strongly<s n="adv"/></l><r>fortement<s n="adv"/></r></p></e>
+    <e><p><l>subsequently<s n="adv"/></l><r>postérieurement<s n="adv"/></r></p></e>
+    <e><p><l>successively<s n="adv"/></l><r>successivement<s n="adv"/></r></p></e>
+    <e><p><l>sufficiently<s n="adv"/></l><r>suffisamment<s n="adv"/></r></p></e>
+    <e><p><l>supposedly<s n="adv"/></l><r>par<b/>présomption<s n="adv"/></r></p></e>
+    <e><p><l>sure<s n="adv"/></l><r>sûr<s n="adv"/></r></p></e>
+    <e><p><l>sure<b/>enough<s n="adv"/></l><r>effectivement<s n="adv"/></r></p></e>
+    <e><p><l>severely<s n="adv"/></l><r>sévèrement<s n="adv"/></r></p></e>
+    <e><p><l>sexually<s n="adv"/></l><r>sexuellement<s n="adv"/></r></p></e>
+    <e><p><l>sharply<s n="adv"/></l><r>brusquement<s n="adv"/></r></p></e>
+    <e><p><l>shortly<b/>after<s n="adv"/></l><r>bientôt<b/>après<s n="adv"/></r></p></e>
+    <e><p><l>shyly<s n="adv"/></l><r>timidement<s n="adv"/></r></p></e>
+    <e><p><l>significantly<s n="adv"/></l><r>significativement<s n="adv"/></r></p></e>
+    <e><p><l>simply<s n="adv"/></l><r>simplement<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>simply<s n="adv"/></l><r>bonnement<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>simultaneously<s n="adv"/></l><r>parallèlement<s n="adv"/></r></p></e>
+    <e><p><l>simultaneously<s n="adv"/></l><r>simultanément<s n="adv"/></r></p></e>
+
   </section>
 </dictionary>
