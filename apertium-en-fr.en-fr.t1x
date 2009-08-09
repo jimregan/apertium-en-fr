@@ -4801,7 +4801,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	  <lit-tag v="5"/>
 	  <clip pos="2" side="tl" part="lemq"/>
 	  <lit v="$ ^"/>
-	  <lit v="a"/>
+	  <lit v="à"/>
 	  <lit-tag v="pr"/>
 	  <lit v="$ ^"/>
 	  <clip pos="3" side="tl" part="lemh"/> 
@@ -21734,7 +21734,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="a"/>
+	      <lit v="à"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="3"/>
@@ -21809,7 +21809,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="a"/>
+	      <lit v="à"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="3"/>
@@ -21906,7 +21906,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="a"/>
+	      <lit v="à"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="3"/>
@@ -22018,7 +22018,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b pos="3"/>
 	    <lu>
-	      <lit v="a"/>
+	      <lit v="à"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="4"/>
