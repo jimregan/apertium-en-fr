@@ -1032,17 +1032,6 @@ Your mother and you will come - La vostra mare i tu vindran
 	      </equal>
 	    </test>
 	    <out> 
-	      <chunk><!-- envio la preposició "a" -->
-		<lit v="pr"/>
-		<lit-tag v="PREP"/>
-		<lit v="{^"/>
-		<get-case-from pos="1">
-		  <lit v="a"/>
-		</get-case-from>
-		<lit-tag v="pr"/>
-		<lit v="$}"/>
-	      </chunk>
-	      <b/>
 	      <chunk><!--envio el chunk amb el SN-->		
 		<get-case-from pos="2">
 		  <clip pos="1" part="lem"/>
@@ -1139,17 +1128,6 @@ Your mother and you will come - La vostra mare i tu vindran
 	    </choose>
 	    
 	    <out> 
-	      <chunk><!-- envio la preposició "a" -->
-		<lit v="pr"/>
-		<lit-tag v="PREP"/>
-		<lit v="{^"/>
-		<get-case-from pos="1">
-		  <lit v="a"/>
-		</get-case-from>
-		<lit-tag v="pr"/>
-		<lit v="$}"/>
-	      </chunk>
-	      <b/>
 	      <chunk><!--envio el chunk amb el SN-->
 		<clip pos="1" part="whole"/>
 	      </chunk>
@@ -3622,40 +3600,16 @@ Your mother and you will come - La vostra mare i tu vindran
 	      <lit-tag v="pri"/>
 	    </let>
 	  </when>
-	</choose>
-	<choose>
-	  <when>
-	    <test>
-		<equal caseless="yes">
-		  <clip pos="1" part="lem"/>
-		  <lit v="prnsubj"/>
-		</equal>
-	    </test>
-	    <call-macro n="f_bcond">
-	      <with-param pos="1"/>
-	    </call-macro>
-	    <out>
-	      <chunk><!--el pronom no l'envio, només el 2n chunk -->
-		<get-case-from pos="1">
-		  <clip pos="2" part="lem"/>
-		</get-case-from>
-		<clip pos="2" part="tags"/>
-		<clip pos="2" part="chcontent"/>
-	      </chunk>
-	    </out>
-	  </when>
-	  <otherwise><!--Quan SN no és pronom subjecte, per tant, quan és qualsevol altre SN-->	    
-	    <out>
-	      <chunk>
-		<clip pos="1" part="whole"/>
-	      </chunk>
-	      <b pos="1"/>
-	      <chunk>
-		<clip pos="2" part="whole"/>
-	      </chunk>
-	    </out>
-	  </otherwise>
-	</choose>	
+        </choose>
+	<out>
+	  <chunk>
+            <clip pos="1" part="whole"/>
+	  </chunk>
+	  <b pos="1"/>
+	  <chunk>
+            <clip pos="2" part="whole"/>
+	  </chunk>
+	</out>
 	<call-macro n="determina_nbr_gen_SN">
 	  <with-param pos="1"/>
 	</call-macro>
