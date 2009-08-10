@@ -1608,7 +1608,7 @@
     <e><p><l>spy<s n="vblex"/></l><r>épier<s n="vblex"/></r></p></e>
     <e><p><l>spill<s n="vblex"/></l><r>renverser<s n="vblex"/></r></p></e>
     <e><p><l>spin<s n="vblex"/></l><r>tourner<s n="vblex"/></r></p></e>
-    <e><p><l>split<s n="vblex"/></l><r>partir<s n="vblex"/></r></p></e>
+    <e><p><l>leave<s n="vblex"/></l><r>partir<s n="vblex"/></r></p></e>
     <e><p><l>sponsor<s n="vblex"/></l><r>sponsoriser<s n="vblex"/></r></p></e>
     <e><p><l>smooth<s n="vblex"/></l><r>radoucir<s n="vblex"/></r></p></e>
     <e><p><l>soften<s n="vblex"/></l><r>radoucir<s n="vblex"/></r></p></e>
@@ -1811,7 +1811,7 @@
     <e><p><l>give<s n="vblex"/></l><r>donner<s n="vblex"/></r></p></e>
     <e><p><l>give<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>rendre<s n="vblex"/></r></p></e>
     <e><p><l>give<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>laisser<s n="vblex"/></r></p></e>
-    <e><p><l>get<g><b/>along</g><s n="vblex"/></l><r>partir<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>get<g><b/>along</g><s n="vblex"/></l><r>partir<s n="vblex"/></r></p></e>
     <e><p><l>get<g><b/>back</g><s n="vblex"/></l><r>revenir<s n="vblex"/></r></p></e>
     <e><p><l>get<g><b/>better</g><s n="vblex"/></l><r>améliorer<s n="vblex"/></r></p></e>
     <e><p><l>get<g><b/>bigger</g><s n="vblex"/></l><r>grandir<s n="vblex"/></r></p></e>
@@ -1819,7 +1819,7 @@
     <e><p><l>get<g><b/>down</g><s n="vblex"/></l><r>descendre<s n="vblex"/></r></p></e>
     <e><p><l>get<g><b/>hold<b/>of</g><s n="vblex"/></l><r>réussir<s n="vblex"/></r></p></e>
     <e><p><l>get<g><b/>in</g><s n="vblex"/></l><r>entrer<s n="vblex"/></r></p></e>
-    <e><p><l>get<g><b/>off</g><s n="vblex"/></l><r>partir<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>get<g><b/>off</g><s n="vblex"/></l><r>partir<s n="vblex"/></r></p></e>
     <e><p><l>get<g><b/>on</g><s n="vblex"/></l><r>monter<s n="vblex"/></r></p></e>
     <e><p><l>get<g><b/>out</g><s n="vblex"/></l><r>sortir<s n="vblex"/></r></p></e>
     <e><p><l>get<g><b/>started</g><s n="vblex"/></l><r>commencer<s n="vblex"/></r></p></e>
