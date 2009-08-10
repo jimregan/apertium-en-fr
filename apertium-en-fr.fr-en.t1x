@@ -3683,11 +3683,7 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="lemh"/>
-              <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="2" side="tl" part="nbr_sp"/>
-              <clip pos="2" side="tl" part="lemq"/>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
