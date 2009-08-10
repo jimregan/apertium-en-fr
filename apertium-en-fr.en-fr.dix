@@ -106,10 +106,6 @@
     <e><p><l>Arab<s n="n"/></l><r>arabe<s n="n"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>friend<s n="n"/></l><r>ami<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>friend<s n="n"/></l><r>ami<s n="n"/></r></p></e>
-    <e r="RL"><p><l>friend<s n="n"/><s n="sg"/></l><r>ami<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>friend<s n="n"/><s n="sg"/></l><r>ami<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>friend<s n="n"/><s n="pl"/></l><r>ami<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>friend<s n="n"/><s n="pl"/></l><r>ami<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>Argentinian<s n="n"/></l><r>argentin<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Argentinian<s n="n"/></l><r>argentin<s n="n"/></r></p></e>
     <e><p><l>August<s n="n"/></l><r>août<s n="n"/><s n="m"/></r></p></e>
