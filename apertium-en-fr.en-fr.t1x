@@ -4162,10 +4162,6 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 		<lit-tag v="ND"/>
 	      </let>
 	      <let>
-		<var n="gen_chunk"/>
-		<lit-tag v="GD"/>
-	      </let>
-	      <let>
 		<var n="verbfinal"/>
 		<concat>
                   <lit v="avoir"/>
@@ -4177,8 +4173,8 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 		  <clip pos="1" side="tl" part="lemh"/>
 		  <clip pos="1" side="tl" part="a_verb"/>
                   <lit-tag v="pp"/>
-		  <lit-tag v="6"/>
-		  <lit-tag v="5"/>
+		  <lit-tag v="m"/>
+		  <lit-tag v="sg"/>
 		  <clip pos="1" side="tl" part="lemq"/>
 		</concat>
 	      </let>
