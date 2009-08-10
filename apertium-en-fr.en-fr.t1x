@@ -18756,7 +18756,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="no"/>
+	      <lit v="non"/>
 	      <lit-tag v="adv"/>
 	    </lu>
 	    <b pos="3"/>
@@ -18811,7 +18811,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="no"/>
+	      <lit v="non"/>
 	      <lit-tag v="adv"/>
 	    </lu>
 	    <b pos="2"/>
@@ -18981,7 +18981,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="2" side="tl" part="temps"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="no"/>
+	      <lit v="non"/>
 	      <lit-tag v="adv"/>
 	    </lu>
 	    <b pos="1"/>
