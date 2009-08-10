@@ -62,6 +62,8 @@
       <cat-item lemma="auxmod_have_pp_inf" tags="SV.*"/>
       <cat-item lemma="be_ger" tags="SV.*"/>
       <cat-item lemma="be_ger_enc" tags="SV.*"/>
+      <cat-item lemma="etre_pp" tags="SV.*"/>
+      <cat-item lemma="avoir_pp" tags="SV.*"/>
       <cat-item tags="SV.vblex.inf.*"/>
       <cat-item tags="SV.pron.inf.*"/><!--afegit 16-01-2008 -->
       <cat-item tags="SV.vbmod.inf.*"/>

@@ -4078,15 +4078,19 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 		    <clip pos="1" side="sl" part="nbr"/>
 		    <lit v=""/>
 		  </equal>
+                  <in caseless="yes">
+                    <clip pos="1" side="tl" part="lem"/>
+                    <list n="vbambser"/>
+                  </in>
 		</and>
 	      </test>
 	      <let>
 		<var n="lema_SV"/>
-		<lit v="verbcj"/>
+		<lit v="etre_pp"/>
 	      </let>
 	      <let>
 		<var n="temps_chunk"/>
-		<lit-tag v="ifi"/>
+		<lit-tag v="pri"/>
 	      </let>
 	      <let>
 		<var n="pers_chunk"/>
@@ -4097,12 +4101,83 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 		<lit-tag v="ND"/>
 	      </let>
 	      <let>
+		<var n="gen_chunk"/>
+		<lit-tag v="GD"/>
+	      </let>
+	      <let>
 		<var n="verbfinal"/>
 		<concat>
-		  <clip pos="1" side="tl" part="lemh"/>
-		  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit v="être"/>
+                  <lit-tag v="vbser"/>
 		  <lit-tag v="3"/>
 		  <lit-tag v="4"/>
+		  <lit-tag v="5"/>
+                  <lit v="$ ^"/>
+		  <clip pos="1" side="tl" part="lemh"/>
+		  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit-tag v="pp"/>
+		  <lit-tag v="6"/>
+		  <lit-tag v="5"/>
+		  <clip pos="1" side="tl" part="lemq"/>
+		</concat>
+	      </let>
+	    </when>
+	    <when>
+	      <test>
+		<and>
+		  <equal>
+		    <clip pos="1" side="sl" part="temps"/>
+		    <lit-tag v="past"/>
+		  </equal>
+		  <equal>
+		    <clip pos="1" side="sl" part="pers"/>
+		    <lit v=""/>
+		  </equal>
+		  <equal>
+		    <clip pos="1" side="sl" part="nbr"/>
+		    <lit v=""/>
+		  </equal>
+                  <not>
+                    <in caseless="yes">
+                      <clip pos="1" side="tl" part="lem"/>
+                      <list n="vbambser"/>
+                    </in>
+                  </not>
+		</and>
+	      </test>
+	      <let>
+		<var n="lema_SV"/>
+		<lit v="avoir_pp"/>
+	      </let>
+	      <let>
+		<var n="temps_chunk"/>
+		<lit-tag v="pri"/>
+	      </let>
+	      <let>
+		<var n="pers_chunk"/>
+		<lit-tag v="PD"/>
+	      </let>
+	      <let>
+		<var n="nbr_chunk"/>
+		<lit-tag v="ND"/>
+	      </let>
+	      <let>
+		<var n="gen_chunk"/>
+		<lit-tag v="GD"/>
+	      </let>
+	      <let>
+		<var n="verbfinal"/>
+		<concat>
+                  <lit v="avoir"/>
+                  <lit-tag v="vbhaver"/>
+		  <lit-tag v="3"/>
+		  <lit-tag v="4"/>
+		  <lit-tag v="5"/>
+                  <lit v="$ ^"/>
+		  <clip pos="1" side="tl" part="lemh"/>
+		  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit-tag v="pp"/>
+		  <lit-tag v="6"/>
 		  <lit-tag v="5"/>
 		  <clip pos="1" side="tl" part="lemq"/>
 		</concat>
@@ -17470,6 +17545,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		  <tag><var n="temps_chunk"/></tag>
 		  <tag><var n="pers_chunk"/></tag>
 		  <tag><var n="nbr_chunk"/></tag>
+		  <tag><var n="gen_chunk"/></tag>
 		</tags> 		
 		<lu>
 		  <var n="pronom"/>

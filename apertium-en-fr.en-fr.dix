@@ -1246,6 +1246,7 @@
     <e><p><l>be<s n="vbser"/></l><r>être<s n="vblex"/></r></p></e>
     <e><p><l>have<s n="vbhaver"/></l><r>avoir<s n="vbhaver"/></r></p></e>
     <e><p><l>sleep<s n="vblex"/></l><r>dormir<s n="vblex"/></r></p></e>
+    <e><p><l>go<s n="vblex"/></l><r>aller<s n="vblex"/></r></p></e>
     <e><p><l>finish<s n="vblex"/></l><r>finir<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>abandon<s n="vblex"/></l><r>quitter<s n="vblex"/></r></p></e>
     <e><p><l>abandon<s n="vblex"/></l><r>abandonner<s n="vblex"/></r></p></e>
