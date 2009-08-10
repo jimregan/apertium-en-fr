@@ -2985,6 +2985,8 @@
     <e><p><l>almost<s n="adv"/></l><r>presque<s n="adv"/></r></p></e>
     <e><p><l>at<b/>an<b/>end<s n="adv"/></l><r>à<b/>la<b/>fin<s n="adv"/></r></p></e>
     <e><p><l>a<b/>bit<s n="adv"/></l><r>un<b/>peu<s n="adv"/></r></p></e><b/>
+    <e><p><l>at<b/>full<b/>speed<s n="adv"/></l><r>à<b/>toute<b/>vitesse<s n="adv"/></r></p></e><b/>
+
 
     <!-- Fixup -->
     <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -3073,6 +3075,7 @@
     <!-- Punctuation -->
     <e><i>.<s n="sent"/></i></e>
     <e><i>;<s n="sent"/></i></e>
+    <e><i>?<s n="sent"/></i></e>
     <e><i>'<s n="apos"/></i></e>
     <e><i>,<s n="cm"/></i></e>
   </section>
