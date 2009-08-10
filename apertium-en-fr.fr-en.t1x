@@ -72,11 +72,11 @@
       <cat-item lemma="tout" tags="prn"/>
     </def-cat>
     <def-cat n="prnperssubj">
-      <cat-item lemma="je" tags="prn.*"/>
-      <cat-item lemma="tu" tags="prn.*"/>
-      <cat-item lemma="il" tags="prn.*"/>
-      <cat-item lemma="nous" tags="prn.*"/>
-      <cat-item lemma="vous" tags="prn.*"/>
+      <cat-item lemma="prpers" tags="prn.*.p1.mf.sg"/>
+      <cat-item lemma="prpers" tags="prn.*.p2.mf.sg"/>
+      <cat-item lemma="prpers" tags="prn.*.p3.*.*"/>
+      <cat-item lemma="prpers" tags="prn.*.p1.mf.pl"/>
+      <cat-item lemma="prpser" tags="prn.*.p2.mf.pl"/>
       <cat-item lemma="on" tags="prn.*"/>
     </def-cat>
     <def-cat n="prnsubj">
@@ -354,6 +354,7 @@
     </def-attr>
     <def-attr n="tipus_prn">
       <attr-item tags="subj"/>
+      <attr-item tags="pro"/>
       <attr-item tags="pro.ref"/>
       <attr-item tags="rel"/>
       <attr-item tags="rel.nn"/>
@@ -372,6 +373,7 @@
       <attr-item tags="p1.mf.sg"/>
       <attr-item tags="p2.mf.pl"/>
       <attr-item tags="p2.mf.sg"/>
+      <attr-item tags="p2.mf.sp"/>
       <attr-item tags="p3.f.pl"/>
       <attr-item tags="p3.f.sg"/>
       <attr-item tags="p3.mf.pl"/>
@@ -5641,18 +5643,19 @@
                   <tag><var n="tipusverb"/></tag>
                 </tags>
                 <lu>
-                  <clip pos="1" side="tl" part="lem"/>
-                  <lit-tag v="prn.pro"/>
-                  <clip pos="1" side="tl" part="tipoenc_pro"/>
-                </lu>
-                <b pos="1"/>
-                <lu>
                   <clip pos="2" side="tl" part="lemh"/>
                   <clip pos="2" side="tl" part="a_verb"/>
                   <clip pos="2" side="tl" part="temps"/>
                   <clip pos="2" side="tl" part="pers"/>
                   <clip pos="2" side="tl" part="nbr" link-to="5"/>
                   <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <lit-tag v="prn"/>
+                  <clip pos="1" side="tl" part="tipus_prn"/>
+                  <clip pos="1" side="tl" part="tipoenc_pro"/>
                 </lu>
               </chunk>
             </out>
@@ -5840,18 +5843,18 @@
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
-                      <clip pos="1" side="tl" part="lem"/>
-                      <lit-tag v="prn.pro"/>
-                      <clip pos="1" side="tl" part="tipoenc_pro"/>
-                    </lu>
-                    <b pos="1"/>
-                    <lu>
                       <clip pos="2" side="tl" part="lemh"/>
                       <clip pos="2" side="tl" part="a_verb"/>
                       <clip pos="2" side="tl" part="temps"/>
                       <clip pos="2" side="tl" part="pers"/>
                       <clip pos="2" side="tl" part="nbr" link-to="5"/>
                       <clip pos="2" side="tl" part="lemq"/>
+                    </lu>
+                    <b pos="1"/>
+                    <lu>
+                      <clip pos="1" side="tl" part="lem"/>
+                      <lit-tag v="prn.pro"/>
+                      <clip pos="1" side="tl" part="tipoenc_pro"/>
                     </lu>
                   </chunk>
                 </out>
