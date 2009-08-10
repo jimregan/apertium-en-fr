@@ -4194,11 +4194,62 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 	      </test>
 	      <let>
 		<var n="lema_SV"/>
-		<lit v="verbcj"/>
+		<lit v="etre_pp"/>
 	      </let>
 	      <let>
 		<var n="temps_chunk"/>
 		<lit-tag v="ifi"/>
+	      </let>
+	      <let>
+		<var n="pers_chunk"/>
+		<lit-tag v="PD"/>
+	      </let>
+	      <let>
+		<var n="gen_chunk"/>
+		<lit-tag v="ND"/>
+	      </let>
+	      <let>
+		<var n="nbr_chunk"/>
+		<clip pos="1" side="tl" part="nbr"/>
+	      </let>
+	      <let>
+		<var n="verbfinal"/>
+		<concat>
+                  <lit v="être"/>
+                  <lit-tag v="vbser"/>
+		  <lit-tag v="3"/>
+		  <lit-tag v="4"/>
+		  <lit-tag v="5"/>
+                  <lit v="$ ^"/>
+		  <clip pos="1" side="tl" part="lemh"/>
+		  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit-tag v="pp"/>
+		  <lit-tag v="6"/>
+		  <lit-tag v="5"/>
+		  <clip pos="1" side="tl" part="lemq"/>
+		</concat>
+	      </let>
+	    </when>
+	    <when>
+	      <test>
+		<and>
+		  <equal><!--és el cas de 'was' i algun altre, que tenen pers i nbr -->
+		    <clip pos="1" side="sl" part="temps"/>
+		    <lit-tag v="past"/>
+		  </equal>
+		  <equal>
+		    <clip pos="1" side="sl" part="nbr"/>
+		    <lit-tag v="sg"/>
+		  </equal>
+		</and>
+	      </test>
+	      <let>
+		<var n="lema_SV"/>
+		<lit v="avoir_pp"/>
+	      </let>
+	      <let>
+		<var n="temps_chunk"/>
+		<lit-tag v="pri"/>
 	      </let>
 	      <let>
 		<var n="pers_chunk"/>
@@ -4211,10 +4262,16 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 	      <let>
 		<var n="verbfinal"/>
 		<concat>
-		  <clip pos="1" side="tl" part="lemh"/>
-		  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit v="avoir"/>
+                  <lit-tag v="vbhaver"/>
 		  <lit-tag v="3"/>
 		  <lit-tag v="4"/>
+		  <lit-tag v="5"/>
+                  <lit v="$ ^"/>
+		  <clip pos="1" side="tl" part="lemh"/>
+		  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit-tag v="pp"/>
+		  <lit-tag v="6"/>
 		  <lit-tag v="5"/>
 		  <clip pos="1" side="tl" part="lemq"/>
 		</concat>
