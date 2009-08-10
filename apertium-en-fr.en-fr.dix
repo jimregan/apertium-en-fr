@@ -104,6 +104,8 @@
     <e><p><l>American<s n="n"/></l><r>américain<s n="n"/></r></p></e>
     <e><p><l>April<s n="n"/></l><r>avril<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Arab<s n="n"/></l><r>arabe<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>friend<s n="n"/></l><r>ami<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>friend<s n="n"/></l><r>ami<s n="n"/></r></p></e>
     <e r="LR"><p><l>Argentinian<s n="n"/></l><r>argentin<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Argentinian<s n="n"/></l><r>argentin<s n="n"/></r></p></e>
     <e><p><l>August<s n="n"/></l><r>août<s n="n"/><s n="m"/></r></p></e>
@@ -3002,6 +3004,9 @@
 
     <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>the<s n="det"/></l><r>le<s n="det"/></r></p></e>
+    <e r="RL"><p><l>my<s n="det"/></l><r>mon<s n="det"/></r></p></e>
+    <e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="ND"/></r></p></e>
+
     <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
     <e>  <p><l>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
