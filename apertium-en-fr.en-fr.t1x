@@ -4190,6 +4190,10 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 		    <clip pos="1" side="sl" part="nbr"/>
 		    <lit-tag v="sg"/>
 		  </equal>
+                  <in caseless="yes">
+                    <clip pos="1" side="tl" part="lem"/>
+                    <list n="vbambser"/>
+                  </in>
 		</and>
 	      </test>
 	      <let>
@@ -4198,7 +4202,7 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 	      </let>
 	      <let>
 		<var n="temps_chunk"/>
-		<lit-tag v="ifi"/>
+		<lit-tag v="pri"/>
 	      </let>
 	      <let>
 		<var n="pers_chunk"/>
@@ -4206,7 +4210,7 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 	      </let>
 	      <let>
 		<var n="gen_chunk"/>
-		<lit-tag v="ND"/>
+		<lit-tag v="GD"/>
 	      </let>
 	      <let>
 		<var n="nbr_chunk"/>
@@ -4241,6 +4245,12 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 		    <clip pos="1" side="sl" part="nbr"/>
 		    <lit-tag v="sg"/>
 		  </equal>
+                  <not>
+                    <in caseless="yes">
+                      <clip pos="1" side="tl" part="lem"/>
+                      <list n="vbambser"/>
+                    </in>
+                  </not>
 		</and>
 	      </test>
 	      <let>
