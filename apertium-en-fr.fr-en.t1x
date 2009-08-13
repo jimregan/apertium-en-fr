@@ -3054,8 +3054,6 @@
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="1" side="tl" part="nbr_sp"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
             <b pos="1"/>
@@ -3532,8 +3530,6 @@
             <lu>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="3" side="tl" part="nbr_sp"/>
               <clip pos="3" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -3581,16 +3577,12 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="2" side="tl" part="nbr_sp"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="1" side="tl" part="nbr_sp"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -3637,8 +3629,6 @@
             <lu>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="3" side="tl" part="nbr_sp"/>
               <clip pos="3" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
@@ -3734,8 +3724,6 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="2" side="tl" part="nbr_sp"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
@@ -3796,8 +3784,6 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="2" side="tl" part="nbr_sp"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
@@ -3808,8 +3794,6 @@
             <lu>
               <clip pos="4" side="tl" part="lemh"/>
               <clip pos="4" side="tl" part="a_adj"/>
-              <clip pos="4" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="4" side="tl" part="nbr_sp"/>
               <clip pos="4" side="tl" part="lemq"/>
             </lu>
             <b pos="4"/>
@@ -3872,8 +3856,6 @@
             <lu>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="3" side="tl" part="nbr_sp"/>
               <clip pos="3" side="tl" part="lemq"/>
             </lu>
             <b pos="3"/>
@@ -3933,8 +3915,6 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="2" side="tl" part="nbr_sp"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
@@ -3995,8 +3975,6 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="2" side="tl" part="nbr_sp"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
@@ -4007,8 +3985,6 @@
             <lu>
               <clip pos="4" side="tl" part="lemh"/>
               <clip pos="4" side="tl" part="a_adj"/>
-              <clip pos="4" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="4" side="tl" part="nbr_sp"/>
               <clip pos="4" side="tl" part="lemq"/>
             </lu>
             <b pos="4"/>
@@ -4071,8 +4047,6 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="2" side="tl" part="nbr_sp"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -4124,8 +4098,6 @@
             <lu>
               <clip pos="4" side="tl" part="lemh"/>
               <clip pos="4" side="tl" part="a_adj"/>
-              <clip pos="4" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="4" side="tl" part="nbr_sp"/>
               <clip pos="4" side="tl" part="lemq"/>
             </lu>
             <b pos="3"/>
@@ -4200,8 +4172,6 @@
             <lu>
               <clip pos="5" side="tl" part="lemh"/>
               <clip pos="5" side="tl" part="a_adj"/>
-              <clip pos="5" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="5" side="tl" part="nbr_sp"/>
               <clip pos="5" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -4257,8 +4227,6 @@
             <lu>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="3" side="tl" part="nbr_sp"/>
               <clip pos="3" side="tl" part="lemq"/>
             </lu>
             <b pos="3"/>
@@ -4307,8 +4275,6 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_adj"/>
-              <clip pos="2" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="2" side="tl" part="nbr_sp"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
             <b pos="1"/>
@@ -4319,8 +4285,6 @@
             <lu>
               <clip pos="4" side="tl" part="lemh"/>
               <clip pos="4" side="tl" part="a_adj"/>
-              <clip pos="4" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="4" side="tl" part="nbr_sp"/>
               <clip pos="4" side="tl" part="lemq"/>
             </lu>
             <b pos="3"/>
@@ -4378,8 +4342,6 @@
             <lu>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="3" side="tl" part="nbr_sp"/>
               <clip pos="3" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
@@ -4390,8 +4352,6 @@
             <lu>
               <clip pos="5" side="tl" part="lemh"/>
               <clip pos="5" side="tl" part="a_adj"/>
-              <clip pos="5" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="5" side="tl" part="nbr_sp"/>
               <clip pos="5" side="tl" part="lemq"/>
             </lu>
             <b pos="4"/>
@@ -4428,8 +4388,6 @@
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_adj"/>
-              <clip pos="1" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="1" side="tl" part="nbr_sp"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -16413,8 +16371,7 @@
             <lu>
               <clip pos="4" side="tl" part="lemh"/>
               <clip pos="4" side="tl" part="a_adj"/>
-              <clip pos="4" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="4" side="tl" part="nbr_sp"/>
+              <clip pos="4" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
             <lu>
@@ -16481,8 +16438,6 @@
             <lu>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="nbr_sense_sp" link-to="3"/>
-              <clip pos="3" side="tl" part="nbr_sp"/>
               <clip pos="3" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
