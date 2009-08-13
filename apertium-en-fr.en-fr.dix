@@ -1250,6 +1250,7 @@
 
     <!-- Adjectives -->
     <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>heureux<s n="adj"/></r></p></e>
+    <e><p><l>young<s n="adj"/><s n="sint"/></l><r>jeune<s n="adj"/></r></p></e>
     <e><p><l>feminist<s n="adj"/></l><r>féministe<s n="adj"/></r></p></e>
     <e><p><l>french<s n="adj"/></l><r>français<s n="adj"/></r></p></e>
 
@@ -1311,6 +1312,7 @@
     <e><p><l>agglutinate<s n="vblex"/></l><r>agglutiner<s n="vblex"/></r></p></e>
     <e><p><l>aggravate<s n="vblex"/></l><r>aggraver<s n="vblex"/></r></p></e>
     <e><p><l>know<s n="vblex"/></l><r>savoir<s n="vblex"/></r></p></e>
+    <e r="RL" c="slr"><p><l>know<s n="vblex"/></l><r>connaître<s n="vblex"/></r></p></e>
     <e><p><l>lace<s n="vblex"/></l><r>boutonner<s n="vblex"/></r></p></e>
     <e><p><l>land<s n="vblex"/></l><r>atterrir<s n="vblex"/></r></p></e>
     <e><p><l>last<s n="vblex"/></l><r>durer<s n="vblex"/></r></p></e>

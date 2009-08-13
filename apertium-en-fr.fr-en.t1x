@@ -3823,6 +3823,10 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="adv_adj">
+          <with-param pos="2"/>
+          <with-param pos="3"/>
+        </call-macro>
 <!--    <call-macro n="f_lexicadj">
       <with-param pos="3"/>
     </call-macro>   -->
@@ -3850,15 +3854,9 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>
+              <var n="adv_adjectiu"/>
             </lu>
             <b pos="2"/>
-            <lu>
-              <clip pos="3" side="tl" part="lemh"/>
-              <clip pos="3" side="tl" part="a_adj"/>
-              <clip pos="3" side="tl" part="lemq"/>
-            </lu>
-            <b pos="3"/>
             <lu>
               <clip pos="4" side="tl" part="lemh"/>
               <clip pos="4" side="tl" part="a_nom"/>
