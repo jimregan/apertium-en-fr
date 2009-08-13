@@ -559,8 +559,8 @@
     <e><p><l>consultation<s n="n"/></l><r>consultation<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>dog<s n="n"/></l><r>chien<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>dog<s n="n"/></l><r>chien<s n="n"/></r></p></e>
-    <e r="LR"><p><l>guard<b/>dog<s n="n"/></l><r>chien<g><b/>de<b/>guard</g><s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>guard<b/>dog<s n="n"/></l><r>chien<g><b/>de<b/>guard</g><s n="n"/></r></p></e>
+    <e r="LR"><p><l>guard<b/>dog<s n="n"/></l><r>chien<g><b/>de<b/>garde</g><s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>guard<b/>dog<s n="n"/></l><r>chien<g><b/>de<b/>garde</g><s n="n"/></r></p></e>
     <e r="LR"><p><l>guide<b/>dog<s n="n"/></l><r>chien<b/>guide<b/>d'aveugle<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>guide<b/>dog<s n="n"/></l><r>chien<b/>guide<b/>d'aveugle<s n="n"/></r></p></e>
     <e r="RL"><p><l>guide<b/>dog<s n="n"/></l><r>chien<b/>guide<s n="n"/></r></p></e>
