@@ -1250,9 +1250,11 @@
 
     <!-- Adjectives -->
     <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>heureux<s n="adj"/></r></p></e>
+    <e><p><l>feminist<s n="adj"/></l><r>féministe<s n="adj"/></r></p></e>
+    <e><p><l>french<s n="adj"/></l><r>français<s n="adj"/></r></p></e>
 
     <!-- Verbs -->
-    <e><p><l>be<s n="vbser"/></l><r>être<s n="vblex"/></r></p></e>
+    <e><p><l>be<s n="vbser"/></l><r>être<s n="vbser"/></r></p></e>
     <e><p><l>have<s n="vbhaver"/></l><r>avoir<s n="vbhaver"/></r></p></e>
     <e><p><l>can<s n="vaux"/></l><r>pouvoir<s n="vbmod"/></r></p></e>
     <e><p><l>have<g><b/>to</g><s n="vbmod"/></l><r>devoir<s n="vbmod"/></r></p></e>
