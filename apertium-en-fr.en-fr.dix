@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 2
-	Entries: 13463
+	Entries: 13449
 	Sdefs: 96
-	Last processed by: apertium-dixtools sort -standard apertium-en-fr.en-fr.dix sorted
+	Last processed by: apertium-dixtools fix -standard apertium-en-fr.en-fr.dix fixed
 
 -->
 <dictionary>
@@ -4179,11 +4179,8 @@
     <e><p><l>cost<s n="n"/></l><r>coût<s n="n"/><s n="m"/></r></p></e>
     <e c="US/disfraces"><p><l>costume<s n="n"/></l><r>déguisement<s n="n"/><s n="m"/></r></p></e>
     <e c="EU"><p><l>costume<s n="n"/></l><r>robe<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>cough<s n="n"/><s n="ND"/></l><r>toux<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>cough<s n="n"/><s n="sg"/></l><r>toux<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>cough<s n="n"/><s n="pl"/></l><r>toux<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-    <e><p><l>cough<s n="n"/><s n="sg"/></l><r>toux<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>cough<s n="n"/><s n="ND"/></l><r>toux<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+    <e><p><l>cough<s n="n"/><s n="sg"/></l><r>toux<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e><p><l>cough<s n="n"/><s n="pl"/></l><r>toux<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>coughing<s n="n"/><s n="sg"/></l><r>toux<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>coughing<s n="n"/><s n="pl"/></l><r>toux<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -4896,7 +4893,6 @@
     <e><p><l>execution<s n="n"/></l><r>exécution<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>execution<s n="n"/></l><r>execution<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>executive<s n="n"/></l><r>exécutif<s n="n"/></r></p></e>
-    <e r="RL"><p><l>executive<s n="n"/></l><r>exécutif<s n="n"/></r></p></e>
     <e><p><l>exemption<s n="n"/></l><r>exemption<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>exercise<s n="n"/></l><r>exercice<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>exhibit<s n="n"/></l><r>exposé<s n="n"/><s n="m"/></r></p></e>
@@ -5338,7 +5334,6 @@
     <e><p><l>grammar<s n="n"/></l><r>grammaire<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gramme<s n="n"/></l><r>gramme<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>grandchild<s n="n"/><s n="sg"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>grandchild<s n="n"/><s n="pl"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>grandchild<s n="n"/><s n="pl"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>granddaughter<s n="n"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>grandfather<s n="n"/></l><r>grand-père<s n="n"/><s n="m"/></r></p></e>
@@ -5354,9 +5349,8 @@
     <e><p><l>grandparent<s n="n"/><s n="pl"/></l><r>grand-père<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>grandparent<s n="n"/><s n="pl"/></l><r>grand-mère<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>grandparent<s n="n"/><s n="pl"/></l><r>grand-père<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-    <e r="LR"><p><l>grandson<s n="n"/><s n="sg"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>grandson<s n="n"/><s n="pl"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>grandson<s n="n"/><s n="sg"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>grandson<s n="n"/><s n="pl"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>grandstand<s n="n"/></l><r>tribune<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>granite<s n="n"/></l><r>granite<s n="n"/><s n="m"/></r></p></e>
     <e c="Educ."><p><l>grant<s n="n"/></l><r>bourse<s n="n"/><s n="f"/></r></p></e>
@@ -6963,8 +6957,6 @@
     <e><p><l>player<s n="n"/></l><r>interprète<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>player<s n="n"/></l><r>joueur<s n="n"/></r></p></e>
     <e><p><l>player<s n="n"/></l><r>équipier<s n="n"/></r></p></e>
-    <e r="RL"><p><l>player<s n="n"/></l><r>joueur<s n="n"/></r></p></e>
-    <e r="RL"><p><l>player<s n="n"/></l><r>équipier<s n="n"/></r></p></e>
     <e><p><l>playground<s n="n"/></l><r>cour<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pleasure<s n="n"/></l><r>plaisir<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>plebeian<s n="n"/></l><r>plébéien<s n="n"/><s n="GD"/></r></p></e>
@@ -8024,9 +8016,8 @@
     <e><p><l>soloist<s n="n"/></l><r>soliste<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>solution<s n="n"/></l><r>solution<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>son<s n="n"/><s n="pl"/></l><r>fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>son<s n="n"/><s n="sg"/></l><r>fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>son<s n="n"/></l><r>fils<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>son<s n="n"/><s n="sg"/></l><r>fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>son<s n="n"/></l><r>fils<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>son<s n="n"/><s n="sg"/></l><r>fils<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>song<s n="n"/></l><r>chanson<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>songwriter<s n="n"/></l><r>compositeur<s n="n"/><s n="GD"/></r></p></e>
@@ -13351,7 +13342,6 @@
     <e r="RL"><p><l>in<b/>accordance<b/>with<s n="pr"/></l><r>en<b/>accord<b/>avec<s n="pr"/></r></p></e>
     <e><p><l>in<b/>addition<b/>to<s n="pr"/></l><r>outre<s n="pr"/></r></p></e>
     <e><p><l>in<b/>compliance<b/>with<s n="pr"/></l><r>conformément<b/>à<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>in<b/>front<b/>of<s n="pr"/></l><r>devant<s n="pr"/></r></p></e>
     <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>devant<s n="pr"/></r></p></e>
     <e><p><l>in<b/>order<b/>of<s n="pr"/></l><r>par<b/>ordre<b/>de<s n="pr"/></r></p></e>
     <e><p><l>in<b/>order<b/>to<s n="pr"/></l><r>pour<s n="pr"/></r></p></e>
@@ -13383,7 +13373,6 @@
     <e><p><l>regarding<s n="pr"/></l><r>quant<b/>à<s n="pr"/></r></p></e>
     <e r="RL"><p><l>regarding<s n="pr"/></l><r>en<b/>ce<b/>qui<b/>concerne<s n="pr"/></r></p></e>
     <e r="RL"><p><l>regarding<s n="pr"/></l><r>au<b/>sujet<b/>de<s n="pr"/></r></p></e>
-    <e r="RL"><p><l>regarding<s n="pr"/></l><r>par<b/>rapport<b/>à<s n="pr"/></r></p></e>
     <e><p><l>since<s n="pr"/></l><r>depuis<s n="pr"/></r></p></e>
     <e><p><l>such<b/>as<s n="pr"/></l><r>comme<s n="pr"/></r></p></e>
     <e><p><l>thanks<b/>to<s n="pr"/></l><r>grâce<b/>à<s n="pr"/></r></p></e>
@@ -13408,9 +13397,8 @@
           group cnjadv_symbol
       ****************************** -->
     <e><p><l>after<s n="cnjadv"/></l><r>après<b/>que<s n="cnjadv"/></r></p></e>
-    <e r="LR"><p><l>although<s n="cnjadv"/></l><r>malgré<b/>le<b/>fait<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>although<s n="cnjadv"/></l><r>malgré<b/>le<b/>fait<b/>que<s n="cnjadv"/></r></p></e>
     <e c="tant això com allò"><p><l>although<s n="cnjadv"/></l><r>lors<b/>même<b/>que<s n="cnjadv"/></r></p></e>
-    <e c="tant això com allò"><p><l>although<s n="cnjadv"/></l><r>malgré<b/>le<b/>fait<b/>que<s n="cnjadv"/></r></p></e>
     <e><p><l>although<s n="cnjadv"/></l><r>quoique<s n="cnjadv"/></r></p></e>
     <e><p><l>although<s n="cnjadv"/></l><r>bien<b/>que<s n="cnjadv"/></r></p></e>
     <e><p><l>although<s n="cnjadv"/></l><r>même<b/>si<s n="cnjadv"/></r></p></e>
@@ -13428,7 +13416,6 @@
     <e><p><l>because<s n="cnjadv"/></l><r>parce<b/>que<s n="cnjadv"/></r></p></e>
     <e><p><l>because<s n="cnjadv"/></l><r>à<b/>cause<b/>que<s n="cnjadv"/></r></p></e>
     <e><p><l>before<s n="cnjadv"/></l><r>avant<b/>que<s n="cnjadv"/></r></p></e>
-    <e r="LR" c="both David and his wife - tant David com la seva dona"><p><l>before<s n="cnjadv"/></l><r>avant<b/>que<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>for<s n="cnjadv"/></l><r>puisque<s n="cnjadv"/></r></p></e>
     <e><p><l>if<s n="cnjadv"/></l><r>si<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>in<b/>order<b/>that<s n="cnjadv"/></l><r>pour<b/>que<s n="cnjadv"/></r></p></e>
@@ -13490,7 +13477,6 @@
     <e><p><l>anything<s n="prn"/><s n="tn"/><s n="m"/></l><r>n'importe<b/>quoi<s n="prn"/></r></p></e>
     <e><p><l>both<s n="prn"/><s n="tn"/><s n="mf"/></l><r>tous<b/>les<b/>deux<s n="prn"/></r></p></e>
     <e><p><l>each<s n="prn"/></l><r>chacun<s n="prn"/></r></p></e>
-    <e r="LR" c="frases negatives"><p><l>each<s n="prn"/></l><r>chacun<s n="prn"/></r></p></e>
     <e><p><l>either<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>n'importe<b/>qui<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>either<s n="prn"/></l><r>aucun<s n="prn"/><s n="tn"/></r></p></e>
     <e><p><l>everyone<s n="prn"/></l><r>tout<b/>le<b/>monde<s n="prn"/></r></p></e>
