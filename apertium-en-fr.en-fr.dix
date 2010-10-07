@@ -5298,13 +5298,11 @@
     <e><p><l>goal<s n="n"/></l><r>but<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>goal<s n="n"/></l><r>loge<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>goat<s n="n"/></l><r>chèvre<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>goblin<s n="n"/></l><r>lutin<s n="n"/><s n="GD"/></r></p></e>
-    <e><p><l>goblin<s n="n"/></l><r>lutin<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>goblin<s n="n"/></l><r>lutin<s n="n"/><s n="f"/></r></p></e>
-    <e r="LR"><p><l>god<s n="n"/></l><r>dieu<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>god<s n="n"/></l><r>dieu<s n="n"/></r></p></e>
-    <e r="LR"><p><l>goddess<s n="n"/></l><r>dieu<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>goddess<s n="n"/></l><r>dieu<s n="n"/></r></p></e>
+    <e r="LR"><p><l>goblin<s n="n"/></l><r>lutin<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>goblin<s n="n"/></l><r>lutin<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>goblin<s n="n"/></l><r>lutin<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>god<s n="n"/></l><r>dieu<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>goddess<s n="n"/></l><r>dieu<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>godfather<s n="n"/></l><r>parrain<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>godmother<s n="n"/></l><r>marraine<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gold<s n="n"/></l><r>or<s n="n"/><s n="m"/></r></p></e>
@@ -5313,9 +5311,9 @@
     <e><p><l>goodness<s n="n"/></l><r>bonté<s n="n"/><s n="f"/></r></p></e>
     <e c="alt-eco"><p><l>goodness<s n="n"/></l><r>avantage<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>goose<s n="n"/></l><r>oie<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>goose<s n="n"/><s n="ND"/></l><r>jars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>goose<s n="n"/><s n="sg"/></l><r>jars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>goose<s n="n"/><s n="pl"/></l><r>jars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>gander<s n="n"/><s n="ND"/></l><r>jars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>gander<s n="n"/><s n="sg"/></l><r>jars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>gander<s n="n"/><s n="pl"/></l><r>jars<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>gorilla<s n="n"/></l><r>gorille<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>gossip<s n="n"/></l><r>truc<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>government<s n="n"/></l><r>gouvernement<s n="n"/><s n="m"/></r></p></e>
@@ -5326,6 +5324,7 @@
     <e><p><l>grade<s n="n"/></l><r>degré<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>grade<s n="n"/></l><r>note<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>graduate<s n="n"/></l><r>diplômé<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>graduate<s n="n"/></l><r>diplômé<s n="n"/></r></p></e>
     <e><p><l>graduation<s n="n"/></l><r>graduation<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grain<s n="n"/></l><r>grain<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gram<s n="n"/></l><r>gramme<s n="n"/><s n="m"/></r></p></e>
