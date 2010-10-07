@@ -3811,8 +3811,8 @@
     <e><p><l>chewing<b/>gum<s n="n"/></l><r>chewing-gum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chicken<s n="n"/></l><r>poulet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chief<s n="n"/></l><r>chef<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>child<s n="n"/><s n="pl"/></l><r>fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>child<s n="n"/><s n="pl"/></l><r>fils<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>child<s n="n"/><s n="pl"/></l><r>fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>child<s n="n"/><s n="sg"/></l><r>fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>child<s n="n"/></l><r>infant<s n="n"/></r></p></e>
     <e><p><l>child<s n="n"/></l><r>enfant<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>childbirth<s n="n"/></l><r>partie<s n="n"/><s n="m"/></r></p></e>
@@ -3838,7 +3838,6 @@
     <e><p><l>chronology<s n="n"/></l><r>chronologie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chronometer<s n="n"/></l><r>chronomètre<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>church<s n="n"/></l><r>église<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>científico<s n="n"/></l><r>scientifique<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>cigar<s n="n"/></l><r>cigare<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cigarette<s n="n"/></l><r>cigarette<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>cinema<s n="n"/></l><r>cinéma<s n="n"/><s n="m"/></r></p></e>
@@ -4322,7 +4321,6 @@
     <e><p><l>data<s n="n"/></l><r>donnée<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>date<s n="n"/></l><r>date<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dating<s n="n"/></l><r>datation<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>daughter<s n="n"/></l><r>fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>daughter<s n="n"/></l><r>fils<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>day<s n="n"/></l><r>jour<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>day<s n="n"/></l><r>journée<s n="n"/><s n="f"/></r></p></e>
@@ -5334,22 +5332,13 @@
     <e><p><l>grammar<s n="n"/></l><r>grammaire<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gramme<s n="n"/></l><r>gramme<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>grandchild<s n="n"/><s n="sg"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>grandchild<s n="n"/><s n="pl"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>granddaughter<s n="n"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>grandchild<s n="n"/><s n="pl"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>granddaughter<s n="n"/></l><r>petit-fils<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grandfather<s n="n"/></l><r>grand-père<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>grandfather<s n="n"/></l><r>grand-mère<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>grandfather<s n="n"/><s n="sg"/></l><r>grand-père<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>grandfather<s n="n"/><s n="sg"/></l><r>grand-mère<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>grandfather<s n="n"/><s n="sg"/></l><r>grand-père<s n="n"/></r></p></e>
-    <e><p><l>grandmother<s n="n"/></l><r>grand-père<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>grandmother<s n="n"/></l><r>grand-mère<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>grandmother<s n="n"/></l><r>grand-père<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>grandparent<s n="n"/></l><r>grand-père<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>grandparent<s n="n"/></l><r>grand-mère<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>grandparent<s n="n"/><s n="pl"/></l><r>grand-père<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>grandparent<s n="n"/><s n="pl"/></l><r>grand-mère<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>grandparent<s n="n"/><s n="pl"/></l><r>grand-père<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-    <e><p><l>grandson<s n="n"/><s n="sg"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e><p><l>grandparent<s n="n"/></l><r>grand-parent<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>grandson<s n="n"/><s n="ND"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>grandson<s n="n"/><s n="sg"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>grandson<s n="n"/><s n="pl"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>grandstand<s n="n"/></l><r>tribune<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>granite<s n="n"/></l><r>granite<s n="n"/><s n="m"/></r></p></e>
