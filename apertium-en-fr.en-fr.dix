@@ -5337,6 +5337,7 @@
     <e><p><l>grandfather<s n="n"/></l><r>grand-père<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>grandmother<s n="n"/></l><r>grand-mère<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grandparent<s n="n"/></l><r>grand-parent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>great-grandparent<s n="n"/></l><r>arrière-grand-parent<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>grandson<s n="n"/><s n="ND"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>grandson<s n="n"/><s n="sg"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>grandson<s n="n"/><s n="pl"/></l><r>petit-fils<s n="n"/><s n="m"/><s n="sp"/></r></p></e>

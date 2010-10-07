@@ -16181,7 +16181,11 @@
           <e lm="peser"><i>p</i><par n="ach/e[T]er__vblex" prm="s"/></e>
           <e lm="petit"><i>petit</i><par n="abaissant__adj"/></e>
           <e lm="petit-déjeuner"><p><l>petit-déjeuner</l><r>petit-déjeuner<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-					<e lm="petits-déjeuners"><p><l>petits-déjeuners</l><r>petit-déjeuner<s n="n"/><s n="m"/><s n="pl"/></r></p></e>  
+          <e lm="petits-déjeuners"><p><l>petits-déjeuners</l><r>petit-déjeuner<s n="n"/><s n="m"/><s n="pl"/></r></p></e>  
+          <e lm="grand-parent"><p><l>grand-parent</l><r>grand-parent<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+          <e lm="grand-parent"><p><l>grands-parents</l><r>grand-parent<s n="n"/><s n="m"/><s n="pl"/></r></p></e>  
+          <e lm="arrière-grand-parent"><p><l>arrière-grand-parent</l><r>arrière-grand-parent<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+          <e lm="arrière-grand-parent"><p><l>arrière-grands-parents</l><r>arrière-grand-parent<s n="n"/><s n="m"/><s n="pl"/></r></p></e>  
           <e lm="peu"><i>peu</i><par n="hier__adv"/></e>
           <e lm="peu de"><i>peu<b/>de</i><par n="arrière__adj"/></e>
           <e lm="peuple"><i>peuple</i><par n="livre__n"/></e>
