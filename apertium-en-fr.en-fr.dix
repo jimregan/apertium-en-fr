@@ -5461,15 +5461,12 @@
     <e><p><l>hemisphere<s n="n"/></l><r>hémisphère<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hemoglobin<s n="n"/></l><r>hémoglobine<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hen<s n="n"/></l><r>poule<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>hepatitis<s n="n"/></l><r>hépatite<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-    <e><p><l>hepatitis<s n="n"/><s n="ND"/></l><r>hépatite<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>hepatitis<s n="n"/><s n="ND"/></l><r>hépatite<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>hepatitis<s n="n"/></l><r>hépatite<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>herbivore<s n="n"/></l><r>herbivore<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>herd<s n="n"/></l><r>troupeau<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>heritage<s n="n"/></l><r>patrimoine<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>hero<s n="n"/></l><r>héros<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-    <e><p><l>hero<s n="n"/></l><r>héros<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>heroine<s n="n"/></l><r>héros<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>hero<s n="n"/></l><r>héros<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>hero<s n="n"/><s n="ND"/></l><r>héros<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>heroine<s n="n"/></l><r>héros<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>heterogeneity<s n="n"/></l><r>hétérogénéité<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hexagon<s n="n"/></l><r>hexagone<s n="n"/><s n="m"/></r></p></e>
