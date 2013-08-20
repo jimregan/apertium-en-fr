@@ -12979,7 +12979,7 @@
           <e lm="agir"><i>ag</i><par n="about/[]ir__vblex" prm=""/></e>
           <e lm="agitation"><i>agitation</i><par n="abeille__n"/></e>
           <e lm="agiter"><i>agit</i><par n="abaiss/er__vblex"/></e>
-          <e lm="agneau"><i>agneau</i><par n="livre__n"/></e>
+          <e lm="agneau"><i>agneau</i><par n="lieu__n"/></e>
           <e lm="agrandissement"><i>agrandissement</i><par n="livre__n"/></e>
           <e lm="agresseur"><i>agresseu</i><par n="causeu/r__n"/></e>
           <e lm="agricole"><i>agricole</i><par n="académique__adj"/></e>
@@ -13477,7 +13477,7 @@
           <e lm="budget"><i>budget</i><par n="livre__n"/></e>
           <e lm="budgétaire"><i>budgétaire</i><par n="académique__adj"/></e>
           <e lm="bureau"><i>bureau</i><par n="lieu__n"/></e>
-          <e lm="bureau de tabac"><i>bureau</i><par n="livre__n"/><p><l><b/>de<b/>tabac</l><r><g><b/>de<b/>tabac</g></r></p></e>
+          <e lm="bureau de tabac"><i>bureau</i><par n="lieu__n"/><p><l><b/>de<b/>tabac</l><r><g><b/>de<b/>tabac</g></r></p></e>
           <e lm="bureaucratie"><i>bureaucratie</i><par n="abeille__n"/></e>
           <e lm="bureaucratique"><i>bureaucratique</i><par n="académique__adj"/></e>
           <e lm="but"><i>but</i><par n="livre__n"/></e>
@@ -13548,7 +13548,7 @@
           <e lm="carnet"><i>carnet</i><par n="livre__n"/></e>
           <e lm="carotte"><i>carotte</i><par n="abeille__n"/></e>
           <e lm="carpe"><i>carpe</i><par n="abeille__n"/></e>
-          <e lm="carreau"><i>carreau</i><par n="livre__n"/></e>
+          <e lm="carreau"><i>carreau</i><par n="lieu__n"/></e>
           <e lm="carrefour" r="LR"><i>carrefour</i><par n="livre__n"/></e>
           <e lm="carrer" r="LR"><i>carr</i><par n="abaiss/er__vblex"/></e>
           <e lm="carrière" r="LR"><i>carrière</i><par n="abeille__n"/></e>
@@ -15585,7 +15585,7 @@
           <e lm="mannequin"><i>mannequin</i><par n="livre__n"/></e>
           <e lm="manoeuvre"><i>manoeuvre</i><par n="abeille__n"/></e>
           <e lm="manquer"><i>manqu</i><par n="abaiss/er__vblex"/></e>
-          <e lm="manteau" r="LR"><i>manteau</i><par n="livre__n"/></e>
+          <e lm="manteau" r="LR"><i>manteau</i><par n="lieu__n"/></e>
           <e lm="maquillage"><i>maquillage</i><par n="livre__n"/></e>
           <e lm="marbre"><i>marbre</i><par n="livre__n"/></e>
           <e lm="marchand"><i>marchand</i><par n="affecté__n"/></e>
@@ -16248,7 +16248,7 @@
           <e lm="platane" r="LR"><i>platane</i><par n="livre__n"/></e>
           <e lm="plate"><i>plate</i><par n="abeille__n"/></e>
           <e lm="plate-forme"><i>plate-forme</i><par n="abeille__n"/></e>
-          <e lm="plateau"><i>plateau</i><par n="livre__n"/></e>
+          <e lm="plateau"><i>plateau</i><par n="lieu__n"/></e>
           <e lm="plein"><i>plein</i><par n="abaissant__adj"/></e>
           <e lm="pleur"><i>pleur</i><par n="livre__n"/></e>
           <e lm="pleurer"><i>pleur</i><par n="abaiss/er__vblex"/></e>
@@ -17369,7 +17369,7 @@
           <e lm="t"><i>t</i><par n="mois__n"/></e>
           <e lm="tabac"><i>tabac</i><par n="livre__n"/></e>
           <e lm="table"><i>table</i><par n="abeille__n"/></e>
-          <e lm="tableau"><i>tableau</i><par n="livre__n"/></e>
+          <e lm="tableau"><i>tableau</i><par n="lieu__n"/></e>
           <e lm="tacher"><i>tach</i><par n="abaiss/er__vblex"/></e>
           <e lm="tactique"><i>tactique</i><par n="abeille__n"/></e>
           <e lm="taille"><i>taille</i><par n="abeille__n"/></e>
