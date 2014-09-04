@@ -1,3 +1,7 @@
+###############################################################################
+## Makefile for English--French
+###############################################################################
+
 VERSION=0.0.1
 LANG1=en
 LANG1a=en_GB
@@ -9,16 +13,20 @@ PREFIX2b=$(LANG2)-$(LANG1b)
 
 BASENAME=apertium-$(PREFIX1)
 
-TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
-                 $(PREFIX1).autopgen.bin $(PREFIX2).automorf.bin $(PREFIX2).autobil.bin \
-                 $(PREFIX2).autogen.bin $(PREFIX2).autopgen.bin \
+TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
+		 $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
+		 $(PREFIX1).autogen.bin $(PREFIX2).autogen.bin \
+		 $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
                  $(PREFIX2b).autogen.bin \
                  $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-                 $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin modes 
+                 $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin
 
+# This include defines goals for install-modes, .deps/.d and .mode files:
+@ap_include@
 
-TARGETS = $(TARGETS_COMMON) 
-
+###############################################################################
+## Transducers, disambiguation rules, transfer
+###############################################################################
 
 #$(BASENAME).$(LANG1)-lextor.dix: $(BASENAME).$(PREFIX1).dix
 #	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
@@ -37,21 +45,22 @@ TARGETS = $(TARGETS_COMMON)
 #	apertium-gen-lextorbil lr $(BASENAME).$(PREFIX1).dix $@
 #
 
-.deps/$(LANG1).metadix: $(BASENAME).$(LANG1).metadix
-	if [ ! -d .deps ]; then mkdir .deps; fi
+.deps/principal.xsl: principal.xsl .deps/.d
+	cp $< $@
+
+.deps/$(LANG1).metadix: $(BASENAME).$(LANG1).metadix .deps/.d
 	xsltproc --stringparam alt $(LANG1a) alt.xsl $(BASENAME).$(LANG1).metadix >$@
 
-.deps/$(LANG1).dix: .deps/$(LANG1).metadix
-	xsltproc buscaPar.xsl .deps/$(LANG1).metadix | uniq >$$$$tmp1 && \
-	xsltproc $$$$tmp1 .deps/$(LANG1).metadix > $@ && rm $$$$tmp1
+.deps/$(LANG1).dix: .deps/$(LANG1).metadix .deps/principal.xsl
+	xsltproc buscaPar.xsl .deps/$(LANG1).metadix | uniq > $<.tmp && \
+	xsltproc $<.tmp .deps/$(LANG1).metadix > $@ && rm $<.tmp
 
-.deps/$(LANG1b).metadix: $(BASENAME).$(LANG1).metadix
-	if [ ! -d .deps ]; then mkdir .deps; fi
+.deps/$(LANG1b).metadix: $(BASENAME).$(LANG1).metadix .deps/.d
 	xsltproc --stringparam alt $(LANG1b) alt.xsl $(BASENAME).$(LANG1).metadix >$@
 
-.deps/$(LANG1b).dix: .deps/$(LANG1b).metadix
-	xsltproc buscaPar.xsl .deps/$(LANG1b).metadix | uniq >$$$$tmp1 && \
-	xsltproc $$$$tmp1 .deps/$(LANG1b).metadix > $@ && rm $$$$tmp1
+.deps/$(LANG1b).dix: .deps/$(LANG1b).metadix .deps/principal.xsl
+	xsltproc buscaPar.xsl .deps/$(LANG1b).metadix | uniq > $<.tmp && \
+	xsltproc $<.tmp .deps/$(LANG1b).metadix > $@ && rm $<.tmp
 
 $(PREFIX1).automorf.bin: .deps/$(LANG1).dix
 	apertium-validate-dictionary .deps/$(LANG1).dix
@@ -74,11 +83,11 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 #	rm tmp$(PREFIX1).autobil.dix
 
 $(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).metadix
-	@xsltproc buscaPar.xsl $(BASENAME).$(LANG2).metadix | uniq > tmp1gen.xsl 	 
-	@xsltproc tmp1gen.xsl $(BASENAME).$(LANG2).metadix >$(BASENAME).$(LANG2).dixtmp1 
-	@rm tmp1gen.xsl
-	apertium-validate-dictionary $(BASENAME).$(LANG2).dixtmp1
-	lt-comp rl $(BASENAME).$(LANG2).dixtmp1 $@
+	@xsltproc buscaPar.xsl $(BASENAME).$(LANG2).metadix | uniq > $@.xsl
+	@xsltproc $@.xsl $(BASENAME).$(LANG2).metadix > $<.tmp 
+	@rm $@.xsl
+	apertium-validate-dictionary $<.tmp
+	lt-comp rl $<.tmp $@
 
 $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
@@ -86,11 +95,11 @@ $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 
 $(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).metadix $(BASENAME).$(LANG2).acx
 	apertium-validate-acx $(BASENAME).$(LANG2).acx
-	@xsltproc buscaPar.xsl $(BASENAME).$(LANG2).metadix | uniq > tmp1gen.xsl 	 
-	@xsltproc tmp1gen.xsl $(BASENAME).$(LANG2).metadix >$(BASENAME).$(LANG2).dixtmp1 
-	@rm tmp1gen.xsl
-	apertium-validate-dictionary $(BASENAME).$(LANG2).dixtmp1
-	lt-comp lr $(BASENAME).$(LANG2).dixtmp1 $@ $(BASENAME).$(LANG2).acx
+	@xsltproc buscaPar.xsl $(BASENAME).$(LANG2).metadix | uniq > $@.xsl 	 
+	@xsltproc $@.xsl $(BASENAME).$(LANG2).metadix > $<.tmp 
+	@rm $@.xsl
+	apertium-validate-dictionary $<.tmp
+	lt-comp lr $<.tmp $@ $(BASENAME).$(LANG2).acx
 
 $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
@@ -148,6 +157,10 @@ $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t3x $@
 
 
+###############################################################################
+## Distribution
+###############################################################################
+
 EXTRA_DIST=$(BASENAME).post-$(LANG1).dix $(BASENAME).post-$(LANG2).dix \
 	   $(BASENAME).$(LANG1).tsx \
 	   $(BASENAME).$(LANG2).tsx \
@@ -160,6 +173,32 @@ EXTRA_DIST=$(BASENAME).post-$(LANG1).dix $(BASENAME).post-$(LANG2).dix \
            $(BASENAME).$(LANG1).acx $(BASENAME).$(LANG2).acx \
 	   modes.xml
 
+###############################################################################
+## Installation
+###############################################################################
+
+apertium_en_frdir=$(prefix)/share/apertium/$(BASENAME)/
+
+# Files which should be installed to $(prefix)/share/apertium/$(BASENAME)/:
+apertium_en_fr_DATA=$(TARGETS_COMMON) \
+	$(PREFIX1).prob $(PREFIX2).prob \
+	$(BASENAME).$(PREFIX1).t1x \
+	$(BASENAME).$(PREFIX1).t2x \
+	$(BASENAME).$(PREFIX1).t3x \
+	$(BASENAME).$(PREFIX2).t1x \
+	$(BASENAME).$(PREFIX2).t2x \
+	$(BASENAME).$(PREFIX2).t3x
+
+# All modes are created by the same goal, listing several will just give problems with make -j2
+noinst_DATA=modes/$(PREFIX1).mode
+
+install-data-local: install-modes
+
+
+###############################################################################
+## Cleanup
+###############################################################################
+
 clean-dicts:
 	touch $(BASENAME).$(LANG1).dixtmp1 $(BASENAME).$(LANG1).metadix  $(BASENAME).$(LANG2).dix $(BASENAME).$(PREFIX1).dix $(BASENAME).$(PREFIX1).dix
 	rm $(BASENAME).$(LANG1).dixtmp1
@@ -167,40 +206,18 @@ clean-dicts:
 	rm $(BASENAME).$(LANG2).dix
 	rm $(BASENAME).$(PREFIX1).dix
 
-apertium_en_fr_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
-		    $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
-		    $(PREFIX1).autogen.bin $(PREFIX2).autogen.bin \
-		    $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
-                    $(PREFIX2b).autogen.bin \
-		    $(PREFIX1).prob $(PREFIX2).prob \
-		    $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-		    $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
-		    $(PREFIX1).mode $(PREFIX2).mode 
+CLEANFILES = $(TARGETS_COMMON) apertium-en-fr.fr.dixtmp1
+clean-local: 
+	-rm -rf .deps modes
 
-apertium_en_frdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_en_modesdir=$(prefix)/share/apertium/modes/
+###############################################################################
+## Test
+###############################################################################
 
-$(PREFIX1).mode: modes.xml
-	apertium-gen-modes modes.xml
-
-$(PREFIX2).mode: modes.xml
-	apertium-gen-modes modes.xml
-
-$(PREFIX2b).mode: modes.xml
-	apertium-gen-modes modes.xml
-
-modes: modes.xml
-	apertium-gen-modes modes.xml
-
-install-data-local:
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	test -d $(DESTDIR)$(apertium_en_modesdir) || mkdir $(DESTDIR)$(apertium_en_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_en_modesdir)
-	$(INSTALL_DATA) $(PREFIX2).mode $(DESTDIR)$(apertium_en_modesdir)
-	$(INSTALL_DATA) $(PREFIX2b).mode $(DESTDIR)$(apertium_en_modesdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_en_frdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_en_frdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX2).t3x $(DESTDIR)$(apertium_en_frdir)
-
-CLEANFILES = -rf $(TARGETS) modes
-
+test: all
+	echo "" | apertium -d . en-fr | tee .test-mt
+	@echo "Så hun ikke ordene?" > .test-ref
+	@diff .test-ref .test-mt
+	echo "Jeg har åler i min luftputebåt" | apertium -d . nob-nno | tee .test-mt
+	@echo "Eg har ålar i luftputebåten min" > .test-ref
+	@diff .test-ref .test-mt
