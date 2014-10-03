@@ -50149,6 +50149,22 @@
     <r>arme<b/>chimique<s n="n"/><s n="f"/><s n="pl"/></r>
   </p>
 </e>
+<e lm="lecteur de code-barres"><i>lecteur<b/>de<b/>code-barres</i><par n="argent__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteur<b/>de<b/>codes-barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=argent__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteur<b/>code-barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=argent__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteur<b/>codes-barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=argent__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteur<b/>de<b/>code<b/>barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=argent__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteur<b/>de<b/>codes<b/>barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=argent__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteur<b/>code<b/>barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=argent__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteur<b/>codes<b/>barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=argent__n"/></e>
+<e lm="lecteur de code-barres"><p><l>lecteurs<b/>de<b/>codes-barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=abords__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteurs<b/>de<b/>code-barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=abords__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteurs<b/>de<b/>code<b/>barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=abords__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteurs<b/>de<b/>codes<b/>barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=abords__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteurs<b/>code<b/>barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=abords__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteurs<b/>codes<b/>barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=abords__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteurs<b/>code-barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=abords__n"/></e>
+<e lm="lecteur de code-barres" r="LR"><p><l>lecteurs<b/>codes-barres</l><r>lecteur<b/>de<b/>code-barres</r><par n=abords__n"/></e>
 <e lm="Nouveau-Brunswick" a="jimregan">
   <i>Nouveau-Brunswick</i>
   <par n="Andorre__np"/>
@@ -59441,9 +59457,17 @@
     <r><g><b/>de<b/>réduction</g></r>
   </p>
 </e>
-<e lm="code-barres" a="eleka">
-  <i>code-barres</i>
-  <par n="mois__n"/>
+<e lm="code-barres">
+  <p>
+    <l>code-barres</l>
+    <r>code-barres<s n="n"/><s n="m"/><s n="sg"/></r>
+  </p>
+</e>
+<e lm="code-barres">
+  <p>
+    <l>codes-barres</l>
+    <r>code-barres<s n="n"/><s n="m"/><s n="pl"/></r>
+  </p>
 </e>
 <e lm="chèque barré" a="eleka">
   <p>

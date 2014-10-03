@@ -17351,7 +17351,7 @@
     <e lm="advertisement"><i>advertisement</i><par n="house__n"/>    </e>
     <e lm="advertising"><i>advertising</i><par n="house__n"/>    </e>
     <e lm="advice"><i>advice</i><par n="house__n"/>    </e>
-    <e lm="adviser"><i>adviser</i><par n="house__n"/>    </e>
+    <e lm="adviser"><i>advi</i><par n="analy/ser__n"/>    </e>
     <e lm="aerosol"><i>aerosol</i><par n="house__n"/>    </e>
     <e lm="aesthetics"><i>aesthetics</i><par n="politics__n"/>    </e>
     <e lm="affair"><i>affair</i><par n="house__n"/>    </e>
@@ -20552,7 +20552,6 @@
     <e lm="organism" a="carmentano"><i>organism</i><par n="house__n"/>    </e>
     <e lm="organist"><i>organist</i><par n="house__n"/>    </e>
     <e lm="organisation"><i>organi</i><par n="z_s"/><i>ation</i><par n="house__n"/>    </e>
-    <e lm="organiser"><i>organi</i><par n="z_s"/><i>er</i><par n="house__n"/>    </e>
     <e lm="orgasm"><i>orgasm</i><par n="house__n"/>    </e>
     <e lm="oriel"><i>oriel</i><par n="house__n"/>    </e>
     <e lm="orientation"><i>orientation</i><par n="house__n"/>    </e>
