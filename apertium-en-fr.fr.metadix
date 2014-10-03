@@ -6755,6 +6755,8 @@
 <e><p><l>les</l><r>s<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
             
 <e><p><l>s</l><r>s<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>s</l><r>s<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>s</l><r>s<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="fo/u__adj">
             
@@ -6781,6 +6783,8 @@
     <pardef n="fra/is__n">
             
 <e><p><l>is</l><r>is<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>is</l><r>is<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>is</l><r>is<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
             
 <e><p><l>îche</l><r>is<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
             
@@ -10469,6 +10473,8 @@
 <e><p><l>illes</l><r>ux<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
             
 <e><p><l>ux</l><r>ux<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>ux</l><r>ux<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>ux</l><r>ux<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="vitra/il__n">
             
@@ -10633,6 +10639,8 @@
 <e><p><l>ses</l><r>x<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
             
 <e><p><l>x</l><r>x<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>x</l><r>x<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>x</l><r>x<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="/aller__vblex">
             
