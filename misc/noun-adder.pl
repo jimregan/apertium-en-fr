@@ -75,10 +75,19 @@ my %gender = (
 	"épou/x__n" => "GD"
 );
 
+my $last = '';
+
 while (<>) {
 	chomp;
 	my @entry = split/\t/;
 	my $en = trim($entry[0]);
+	my $r = '';
+	if ($last eq $en) {
+		$r = ' r="RL"';
+	} else {
+		$r = '';
+	}
+	$last = $en;
 	my $fr = trim($entry[1]);
 	my $paradigm = '';
 	if($#entry > 1) {
@@ -86,7 +95,8 @@ while (<>) {
 	} else {
 		if ($en =~ /ism$/ && $fr =~ /sme$/) {
 			$paradigm = 'livre__n';
-		} elsif ($en =~ /ist$/ && $fr =~ /iste$/) {
+		} elsif (($en =~ /ist$/ && $fr =~ /iste$/) || ($en =~ /ogist$/ && $fr =~ /ogue$/) || ($en =~ /amist$/ && $fr =~ /ame$/) || ($en =~ /odist$/ && $fr =~ /ode$/)
+                        || ($en =~ /matist$/ && $fr =~ /mate$/)) {
 			$paradigm = 'artiste__n';
 		} else {
 			print STDERR "Missing paradigm: ($en, $fr)\n";
@@ -95,7 +105,7 @@ while (<>) {
 	}
 	my $gen = $gender{$paradigm};
 	if ($gen ne 'GD') {
-		print ENFR "    <e><p><l>$en<s n=\"n\"/></l><r>$fr<s n=\"n\"/><s n=\"$gen\"/></r></p></e>\n";
+		print ENFR "    <e$r><p><l>$en<s n=\"n\"/></l><r>$fr<s n=\"n\"/><s n=\"$gen\"/></r></p></e>\n";
 	} else {
 		print ENFR "    <e r=\"LR\"><p><l>$en<s n=\"n\"/></l><r>$fr<s n=\"n\"/><s n=\"$gen\"/></r></p></e>\n";
 		print ENFR "    <e r=\"RL\"><p><l>$en<s n=\"n\"/></l><r>$fr<s n=\"n\"/></r></p></e>\n";

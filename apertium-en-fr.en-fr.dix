@@ -13850,5 +13850,73 @@
     <e><p><l>plagiarism<s n="n"/></l><r>plagiat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>transvestism<s n="n"/></l><r>travestissement<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>self-criticism<s n="n"/></l><r>autocritique<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>altruist<s n="n"/></l><r>altruiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>anaesthetist<s n="n"/></l><r>anesthésiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>anarchist<s n="n"/></l><r>anarchiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>annexationist<s n="n"/></l><r>annexionniste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>botanist<s n="n"/></l><r>botaniste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>canoeist<s n="n"/></l><r>canoéiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>capitalist<s n="n"/></l><r>capitaliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>cardiologist<s n="n"/></l><r>cardiologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>caricaturist<s n="n"/></l><r>caricaturiste<s n="n"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>cartoonist<s n="n"/></l><r>dessinateur<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>cartoonist<s n="n"/></l><r>dessinateur<s n="n"/></r></p></e>
+    <e><p><l>colonialist<s n="n"/></l><r>colonialiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>colonist<s n="n"/></l><r>colon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>columnist<s n="n"/></l><r>journaliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>contortionist<s n="n"/></l><r>contorsionniste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>defeatist<s n="n"/></l><r>défaitiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>documentalist<s n="n"/></l><r>documentaliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>dramatist<s n="n"/></l><r>dramaturge<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>editorialist<s n="n"/></l><r>éditorialiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>environmentalist<s n="n"/></l><r>environnementaliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>equilibrist<s n="n"/></l><r>équilibriste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>essayist<s n="n"/></l><r>essayiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>evangelist<s n="n"/></l><r>évangéliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>feminist<s n="n"/></l><r>féministe<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>finalist<s n="n"/></l><r>finaliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>flautist<s n="n"/></l><r>flûtiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>florist<s n="n"/></l><r>fleuriste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>humanist<s n="n"/></l><r>humaniste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>idealist<s n="n"/></l><r>idéaliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>ideologist<s n="n"/></l><r>idéologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>jurist<s n="n"/></l><r>juriste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>maximalist<s n="n"/></l><r>maximaliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>meteorologist<s n="n"/></l><r>météorologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>numismatist<s n="n"/></l><r>numismate<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>organist<s n="n"/></l><r>organiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>orthopedist<s n="n"/></l><r>orthopédiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>palaentologist<s n="n"/></l><r>paléontologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>parachutist<s n="n"/></l><r>parachutiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>perfectionist<s n="n"/></l><r>perfectionniste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>philologist<s n="n"/></l><r>philologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>pluralist<s n="n"/></l><r>pluraliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>propagandist<s n="n"/></l><r>propagandiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>purist<s n="n"/></l><r>puriste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>saxophonist<s n="n"/></l><r>saxophoniste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>semifinalist<s n="n"/></l><r>demi-finaliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>seminarist<s n="n"/></l><r>séminariste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>semiologist<s n="n"/></l><r>sémiologue<s n="n"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>semiologist<s n="n"/></l><r>sémiologiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>stylist<s n="n"/></l><r>styliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>syndicalist<s n="n"/></l><r>syndicaliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>traumatologist<s n="n"/></l><r>traumatologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>typist<s n="n"/></l><r>dactylo<s n="n"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>typist<s n="n"/></l><r>dactylographe<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>violinist<s n="n"/></l><r>violoniste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>vocalist<s n="n"/></l><r>vocaliste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>waist<s n="n"/></l><r>taille<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Falangist<s n="n"/></l><r>falangiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>fascist<s n="n"/></l><r>fasciste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>impressionist<s n="n"/></l><r>impressionniste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>optimist<s n="n"/></l><r>optimiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>Egyptologist<s n="n"/></l><r>égyptologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>atheist<s n="n"/></l><r>athée<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>criminologist<s n="n"/></l><r>criminologiste<s n="n"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>criminologist<s n="n"/></l><r>criminologue<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>mist<s n="n"/></l><r>brouillard<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>polygamist<s n="n"/></l><r>polygame<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>rhapsodist<s n="n"/></l><r>rhapsode<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>linguist<s n="n"/></l><r>linguiste<s n="n"/><s n="mf"/></r></p></e>
   </section>
 </dictionary>
