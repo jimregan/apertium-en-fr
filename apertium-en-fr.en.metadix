@@ -20563,7 +20563,7 @@
     <e lm="orphan"><i>orphan</i><par n="house__n"/>    </e>
     <e lm="orphanage"><i>orphanage</i><par n="house__n"/>    </e>
     <e lm="orthodontics"><i>orthodontics</i><par n="politics__n"/>    </e>
-    <e lm="orthopedist"><i>orthopedist</i><par n="house__n"/>    </e>
+    <e lm="orthopedist"><i>orthop<par n="e_ae"/>dist</i><par n="house__n"/>    </e>
     <e lm="osier"><i>osier</i><par n="house__n"/>    </e>
     <e lm="ostentation"><i>ostentation</i><par n="house__n"/>    </e>
     <e lm="ostracism"><i>ostracism</i><par n="house__n"/>    </e>

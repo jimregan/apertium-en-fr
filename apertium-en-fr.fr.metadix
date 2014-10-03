@@ -13002,6 +13002,7 @@
           <e lm="agneau"><i>agneau</i><par n="lieu__n"/></e>
           <e lm="agrandissement"><i>agrandissement</i><par n="livre__n"/></e>
           <e lm="agresseur"><i>agresseu</i><par n="causeu/r__n"/></e>
+          <e lm="chroniqueur"><i>chroniqueu</i><par n="causeu/r__n"/></e>
           <e lm="agricole"><i>agricole</i><par n="académique__adj"/></e>
           <e lm="agriculteur"><i>agricult</i><par n="administrat/eur__n"/></e>
           <e lm="agriculture"><i>agriculture</i><par n="abeille__n"/></e>
@@ -66468,7 +66469,7 @@
     <e lm="violoniste"><i>violoniste</i><par n="artiste__n"/></e>
     <e lm="vocaliste"><i>vocaliste</i><par n="artiste__n"/></e>
     <e lm="taille"><i>taille</i><par n="abeille__n"/></e>
-    <e lm="falangiste"><i>falangiste</i><par n="artiste__n"/></e>
+    <e lm="phalangiste"><i>phalangiste</i><par n="libre__n"/></e>
     <e lm="fasciste"><i>fasciste</i><par n="artiste__n"/></e>
     <e lm="impressionniste"><i>impressionniste</i><par n="artiste__n"/></e>
     <e lm="optimiste"><i>optimiste</i><par n="artiste__n"/></e>
