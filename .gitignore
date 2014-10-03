@@ -3,3 +3,6 @@ Makefile
 Makefile.in
 .*.swp
 .deps
+*.bin
+*~
+config.log
