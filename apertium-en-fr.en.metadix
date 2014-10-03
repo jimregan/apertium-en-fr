@@ -20613,7 +20613,9 @@
     <e lm="pyjamas" r="RL" alt="en_GB"><i>pyjamas</i><par n="politics__n"/>    </e>
     <e lm="pyjamas" r="RL" alt="en_US"><p><l>pajamas</l><r>pyjamas</r></p><par n="politics__n"/>    </e>
     <e lm="palace"><i>palace</i><par n="house__n"/>    </e>
-    <e lm="palaentologist"><i>palaentologist</i><par n="house__n"/>    </e>
+    <e lm="paleontologist"><i>paleontologist</i><par n="house__n"/>    </e>
+    <e lm="palaeontologist" r="LR"><p><l>palaeontologist</l><r>paleontologist</r></p><par n="house__n"/>    </e>
+    <e lm="palæontologist" r="LR"><p><l>palæontologist</l><r>paleontologist</r></p><par n="house__n"/>    </e>
     <e lm="palate"><i>palate</i><par n="house__n"/>    </e>
     <e lm="paleolithic"><i>paleolithic</i><par n="house__n"/>    </e>
     <e lm="pallium"><i>pallium</i><par n="house__n"/>    </e>
