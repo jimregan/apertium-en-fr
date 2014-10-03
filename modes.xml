@@ -129,7 +129,7 @@
       <program name="lt-proc -b">
         <file name="fr-en.autobil.bin"/>
       </program>
-      <program name="lrx-proc -m">
+      <program name="lrx-proc -t -m">
         <file name="fr-en.autolex.bin"/>
       </program>
     </pipeline>
@@ -251,10 +251,15 @@
         <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="en-fr.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="en-fr.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-en-fr.en-fr.t1x"/>
         <file name="en-fr.t1x.bin"/>
-        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-en-fr.en-fr.t2x"/>
@@ -320,7 +325,24 @@
     </pipeline>
   </mode>
   
-
+  <mode name="en-fr-lextor">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="en-fr.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="en-fr.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="en-fr.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t -m">
+        <file name="en-fr.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  
   <mode name="en-fr-chunker">
     <pipeline>
       <program name="lt-proc">
@@ -330,10 +352,15 @@
         <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="en-fr.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="en-fr.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-en-fr.en-fr.t1x"/>
         <file name="en-fr.t1x.bin"/>
-        <file name="en-fr.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -347,10 +374,15 @@
         <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="en-fr.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="en-fr.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-en-fr.en-fr.t1x"/>
         <file name="en-fr.t1x.bin"/>
-        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-en-fr.en-fr.t2x"/>
@@ -368,10 +400,15 @@
         <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="en-fr.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="en-fr.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-en-fr.en-fr.t1x"/>
         <file name="en-fr.t1x.bin"/>
-        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-en-fr.en-fr.t2x"/>
@@ -393,10 +430,15 @@
         <file name="en-fr.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
-      <program name="apertium-transfer">
+      <program name="lt-proc -b">
+        <file name="en-fr.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="en-fr.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
         <file name="apertium-en-fr.en-fr.t1x"/>
         <file name="en-fr.t1x.bin"/>
-        <file name="en-fr.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
         <file name="apertium-en-fr.en-fr.t2x"/>
