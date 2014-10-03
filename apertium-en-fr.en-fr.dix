@@ -9283,8 +9283,8 @@
 <e r="LR"><p><l>organiser<s n="n"/></l><r>organisateur<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>organiser<s n="n"/></l><r>organisateur<s n="n"/></r></p></e>
 <e><p><l>organism<s n="n"/></l><r>organisme<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>organizer<s n="n"/></l><r>organisateur<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>organizer<s n="n"/></l><r>organisateur<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>organiser<s n="n"/></l><r>organisateur<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>organiser<s n="n"/></l><r>organisateur<s n="n"/></r></p></e>
 <e><p><l>orgasm<s n="n"/></l><r>orgasme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>orgy<s n="n"/></l><r>orgie<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>oriel<s n="n"/></l><r>mirador<s n="n"/><s n="m"/></r></p></e>
@@ -13568,6 +13568,7 @@
 <e r="RL"><p><l>guide<b/>dog<s n="n"/></l><r>chien<b/>guide<s n="n"/></r></p></e>
 <e r="RL"><p><l>guide<b/>dog<s n="n"/></l><r>chien<b/>guide<b/>d'aveugle<s n="n"/></r></p></e>
 <e r="LR"><p><l>guide<b/>dog<s n="n"/></l><r>chien<b/>guide<b/>d'aveugle<s n="n"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>seeing<b/>eye<b/>dog<s n="n"/></l><r>chien<b/>guide<b/>d'aveugle<s n="n"/><s n="GD"/></r></p></e>
 <e><p><l>postal<b/>address<s n="n"/></l><r>adresse<b/>postale<s n="n"/><s n="f"/></r></p></e>
     <e r="LR"><p><l>Aragonese<s n="n"/></l><r>Aragonais<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Aragonese<s n="n"/></l><r>Aragonais<s n="n"/></r></p></e>
