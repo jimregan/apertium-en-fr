@@ -5280,7 +5280,6 @@
 <e><p><l>despise<s n="vblex"/></l><r>mépriser<s n="vblex"/></r></p></e>
 <e><p><l>despite<s n="pr"/></l><r>malgré<s n="pr"/></r></p></e>
 <e><p><l>dessert<s n="n"/></l><r>dessert<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>destination<s n="n"/></l><r>destin<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>destination<s n="n"/></l><r>destination<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>destitute<s n="n"/></l><r>indigent<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>destitute<s n="n"/></l><r>indigent<s n="n"/><s n="f"/></r></p></e>
@@ -6284,10 +6283,9 @@
 <e c="check"><p><l>fat<s n="adj"/><s n="sint"/></l><r>gros<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
 <e c="check"><p><l>fat<s n="adj"/><s n="sint"/></l><r>gros<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>fatal<s n="adj"/></l><r>fatal<s n="adj"/></r></p></e>
-<e><p><l>fate<s n="n"/></l><r>destin<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>fate<s n="n"/></l><r>destination<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>fate<s n="n"/></l><r>destin<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>destiny<s n="n"/></l><r>destin<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>father<s n="n"/></l><r>père<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>father<s n="n"/><s n="sg"/></l><r>père<s n="n"/></r></p></e>
 <e><p><l>fault<s n="n"/></l><r>tort<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fault<s n="n"/></l><r>faute<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fauna<s n="n"/></l><r>faune<s n="n"/><s n="f"/></r></p></e>
