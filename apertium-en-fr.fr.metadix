@@ -49963,6 +49963,18 @@
     <r>ligne<b/>droite<s n="n"/><s n="f"/><s n="pl"/></r>
   </p>
 </e>
+<e lm="guerre punique" a="jimregan">
+  <p>
+    <l>guerre<b/>punique</l>
+    <r>guerre<b/>punique<s n="n"/><s n="f"/><s n="sg"/></r>
+  </p>
+</e>
+<e lm="guerre punique" a="jimregan">
+  <p>
+    <l>guerres<b/>puniques</l>
+    <r>guerre<b/>punique<s n="n"/><s n="f"/><s n="pl"/></r>
+  </p>
+</e>
 <e lm="responsabilité partagée" a="jimregan">
   <p>
     <l>responsabilité<b/>partagée</l>

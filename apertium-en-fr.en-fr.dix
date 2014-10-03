@@ -13564,5 +13564,9 @@
 <e><p><l>United<b/>States<s n="np"/><s n="loc"/><s n="pl"/></l><r>États-Unis<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>Western<b/>Samoa<s n="np"/><s n="loc"/><s n="sg"/></l><r>Samoa<b/>occidentales<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+<e><p><l>Punic<b/>War<s n="n"/></l><r>guerre<b/>punique<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>guide<b/>dog<s n="n"/></l><r>chien<b/>guide<s n="n"/></r></p></e>
+<e r="RL"><p><l>guide<b/>dog<s n="n"/></l><r>chien<b/>guide<b/>d'aveugle<s n="n"/></r></p></e>
+<e r="LR"><p><l>guide<b/>dog<s n="n"/></l><r>chien<b/>guide<b/>d'aveugle<s n="n"/><s n="GD"/></r></p></e>
   </section>
 </dictionary>
