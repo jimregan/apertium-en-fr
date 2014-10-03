@@ -1798,6 +1798,15 @@
             
 <e><p><l>rices</l><r>eur<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="addend/um__n">
+            
+<e><p><l>um</l><r>um<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+            
+<e><p><l>a</l><r>um<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>a</l><r>um<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>as</l><r>um<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+            
+    </pardef>
 		<pardef n="doct/eur__n">
             
 <e><p><l>eur</l><r>eur<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -12928,6 +12937,7 @@
           <e lm="actualité"><i>actualité</i><par n="abeille__n"/></e>
           <e lm="actuel"><i>actuel</i><par n="annuel__adj"/></e>
           <e lm="actuellement"><i>actuellement</i><par n="hier__adv"/></e>
+          <e lm="addendum"><i>addendum</i><par n="addend/um__n"/></e>
           <e lm="adhésif"><i>adhési</i><par n="affirmati/f__adj"/></e>
           <e lm="adhésion"><i>adhésion</i><par n="abeille__n"/></e>
           <e lm="adjectif"><i>adjectif</i><par n="livre__n"/></e>
@@ -49961,6 +49971,18 @@
   <p>
     <l>lignes<b/>droites</l>
     <r>ligne<b/>droite<s n="n"/><s n="f"/><s n="pl"/></r>
+  </p>
+</e>
+<e lm="adresse postale" a="jimregan">
+  <p>
+    <l>adresse<b/>postale</l>
+    <r>adresse<b/>postale<s n="n"/><s n="f"/><s n="sg"/></r>
+  </p>
+</e>
+<e lm="adresse postale" a="jimregan">
+  <p>
+    <l>adresses<b/>postales</l>
+    <r>adresse<b/>postale<s n="n"/><s n="f"/><s n="pl"/></r>
   </p>
 </e>
 <e lm="guerre punique" a="jimregan">
