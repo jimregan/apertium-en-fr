@@ -97,7 +97,6 @@
     <sdef n="pp" /> 
     <sdef n="pr" /> 
     <sdef n="acr" /> 
-    <sdef n="top" /> 
   </sdefs>
   <section id="regex" type="standard">
 <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
@@ -1034,7 +1033,6 @@
 <e><p><l>Florencia<s n="np"/><s n="ant"/></l><r>Florence<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Florencia<s n="np"/><s n="ant"/></l><r>Florence<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Florentino<s n="np"/><s n="ant"/></l><r>Florentino<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Florida<s n="np"/><s n="loc"/></l><r>Floride<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Florida<s n="np"/><s n="loc"/></l><r>Floride<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
 <e><p><l>Forcada<s n="np"/><s n="cog"/><s n="sg"/></l><r>Forcada<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>Forcada<s n="np"/><s n="cog"/><s n="pl"/></l><r>Forcada<s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -13301,270 +13299,270 @@
 <e><p><l>Éric<s n="np"/><s n="ant"/></l><r>Éric<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Étienne<s n="np"/><s n="ant"/></l><r>Étienne<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Óscar<s n="np"/><s n="ant"/></l><r>Óscar<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Barbados<s n="np"/><s n="top"/></l><r>Barbade<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Belarus<s n="np"/><s n="top"/></l><r>Biélorussie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Belgium<s n="np"/><s n="top"/></l><r>Belgique<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Bolivia<s n="np"/><s n="top"/></l><r>Bolivie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Bosnia<s n="np"/><s n="top"/></l><r>Bosnie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Bosnia<b/>and<b/>Herzegovina<s n="np"/><s n="top"/></l><r>Bosnie-Herzégovine<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Bulgaria<s n="np"/><s n="top"/></l><r>Bulgarie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Burma<s n="np"/><s n="top"/></l><r>Birmanie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Central<b/>African<b/>Republic<s n="np"/><s n="top"/></l><r>République<b/>centrafricaine<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>China<s n="np"/><s n="top"/></l><r>Chine<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Colombia<s n="np"/><s n="top"/></l><r>Colombie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Côte<b/>d'Ivoire<s n="np"/><s n="top"/></l><r>Côte<b/>d'Ivoire<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Croatia<s n="np"/><s n="top"/></l><r>Croatie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Czech<b/>Republic<s n="np"/><s n="top"/></l><r>République<b/>tchèque<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Dominica<s n="np"/><s n="top"/></l><r>Dominique<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Dominican<b/>Republic<s n="np"/><s n="top"/></l><r>République<b/>dominicaine<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Equatorial<b/>Guinea<s n="np"/><s n="top"/></l><r>Guinée<b/>équatoriale<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Finland<s n="np"/><s n="top"/></l><r>Finlande<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>France<s n="np"/><s n="top"/></l><r>France<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>French<b/>Polynesia<s n="np"/><s n="top"/></l><r>Polynésie<b/>française<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Gambia<s n="np"/><s n="top"/></l><r>Gambie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Georgia<s n="np"/><s n="top"/></l><r>Géorgie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Greece<s n="np"/><s n="top"/></l><r>Grèce<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Grenada<s n="np"/><s n="top"/></l><r>Grenade<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Guinea<s n="np"/><s n="top"/></l><r>Guinée<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Guinea<b/>Bissau<s n="np"/><s n="top"/></l><r>Guinée-Bissao<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Guyana<s n="np"/><s n="top"/></l><r>Guyana<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Hungary<s n="np"/><s n="top"/></l><r>Hongrie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Jamaica<s n="np"/><s n="top"/></l><r>Jamaïque<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Jordan<s n="np"/><s n="top"/></l><r>Jordanie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Latvia<s n="np"/><s n="top"/></l><r>Lettonie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Libya<s n="np"/><s n="top"/></l><r>Libye<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Lithuania<s n="np"/><s n="top"/></l><r>Lituanie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Macedonia<s n="np"/><s n="top"/></l><r>Macédoine<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Malaysia<s n="np"/><s n="top"/></l><r>Malaisie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Mauritania<s n="np"/><s n="top"/></l><r>Mauritanie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Micronesia<s n="np"/><s n="top"/></l><r>Micronésie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Moldavia<s n="np"/><s n="top"/></l><r>Moldavie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Mongolia<s n="np"/><s n="top"/></l><r>Mongolie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Namibia<s n="np"/><s n="top"/></l><r>Namibie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Nauru<s n="np"/><s n="top"/></l><r>Nauru<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>New<b/>Zealand<s n="np"/><s n="top"/></l><r>Nouvelle-Zélande<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Korea<s n="np"/><s n="top"/></l><r>Corée<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>North<b/>Korea<s n="np"/><s n="top"/></l><r>Corée<b/>du<b/>Nord<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Norway<s n="np"/><s n="top"/></l><r>Norvège<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Papua<b/>New<b/>Guinea<s n="np"/><s n="top"/></l><r>Papouasie-Nouvelle-Guinée<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Poland<s n="np"/><s n="top"/></l><r>Pologne<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Romania<s n="np"/><s n="top"/></l><r>Roumanie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Russia<s n="np"/><s n="top"/></l><r>Russie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Serbia<s n="np"/><s n="top"/></l><r>Serbie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Sierra<b/>Leone<s n="np"/><s n="top"/></l><r>Sierra<b/>Leone<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Slovakia<s n="np"/><s n="top"/></l><r>Slovaquie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Slovenia<s n="np"/><s n="top"/></l><r>Slovénie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Somalia<s n="np"/><s n="top"/></l><r>Somalie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>South<b/>Korea<s n="np"/><s n="top"/></l><r>Corée<b/>du<b/>Sud<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Sweden<s n="np"/><s n="top"/></l><r>Suède<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Switzerland<s n="np"/><s n="top"/></l><r>Suisse<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Syria<s n="np"/><s n="top"/></l><r>Syrie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Tanzania<s n="np"/><s n="top"/></l><r>Tanzanie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Thailand<s n="np"/><s n="top"/></l><r>Thaïlande<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Trinidad<b/>and<b/>Tobago<s n="np"/><s n="top"/></l><r>Trinité-et-Tobago<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Tunisia<s n="np"/><s n="top"/></l><r>Tunisie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Turkey<s n="np"/><s n="top"/></l><r>Turquie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Yugoslavia<s n="np"/><s n="top"/></l><r>Yougoslavie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Zambia<s n="np"/><s n="top"/></l><r>Zambie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Albania<s n="np"/><s n="top"/></l><r>Albanie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Algeria<s n="np"/><s n="top"/></l><r>Algérie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Andorra<s n="np"/><s n="top"/></l><r>Andorre<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Antigua<b/>and<b/>Barbuda<s n="np"/><s n="top"/></l><r>Antigua-et-Barbuda<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Argentina<s n="np"/><s n="top"/></l><r>Argentine<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Armenia<s n="np"/><s n="top"/></l><r>Arménie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Australia<s n="np"/><s n="top"/></l><r>Australie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Austria<s n="np"/><s n="top"/></l><r>Autriche<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Egypt<s n="np"/><s n="top"/></l><r>Égypte<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Eritrea<s n="np"/><s n="top"/></l><r>Érythrée<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Estonia<s n="np"/><s n="top"/></l><r>Estonie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Ethiopia<s n="np"/><s n="top"/></l><r>Éthiopie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Germany<s n="np"/><s n="top"/></l><r>Allemagne<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Iceland<s n="np"/><s n="top"/></l><r>Islande<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>India<s n="np"/><s n="top"/></l><r>Inde<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Indonesia<s n="np"/><s n="top"/></l><r>Indonésie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Ireland<s n="np"/><s n="top"/></l><r>Irlande<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Italy<s n="np"/><s n="top"/></l><r>Italie<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Northern<b/>Ireland<s n="np"/><s n="top"/></l><r>Irelande<b/>du<b/>Nord<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Saudi<b/>Arabia<s n="np"/><s n="top"/></l><r>Arabie<b/>saoudite<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Scotland<s n="np"/><s n="top"/></l><r>Écosse<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>South<b/>Africa<s n="np"/><s n="top"/></l><r>Afrique<b/>du<b/>Sud<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Spain<s n="np"/><s n="top"/></l><r>Espagne<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Ukraine<s n="np"/><s n="top"/></l><r>Ukraine<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Prince<b/>Edward<b/>Island<s n="np"/><s n="top"/></l><r>île<b/>du<b/>Prince-Édouard<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Cyprus<s n="np"/><s n="top"/></l><r>Chypre<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Kiribati<s n="np"/><s n="top"/></l><r>Kiribati<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Mauritius<s n="np"/><s n="top"/></l><r>Île<b/>Maurice<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Alberta<s n="np"/><s n="top"/></l><r>Alberta<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>British<b/>Columbia<s n="np"/><s n="top"/></l><r>Colombie<b/>britannique<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Newfoundland<b/>and<b/>Labrador<s n="np"/><s n="top"/></l><r>Terre-Neuve<b/>et<b/>Labrador<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Nova<b/>Scotia<s n="np"/><s n="top"/></l><r>Nouvelle-Écosse<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>California<s n="np"/><s n="top"/></l><r>Californie<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>North<b/>Carolina<s n="np"/><s n="top"/></l><r>Caroline<b/>du<b/>Nord<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>South<b/>Carolina<s n="np"/><s n="top"/></l><r>Caroline<b/>du<b/>Sud<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Florida<s n="np"/><s n="top"/></l><r>Floride<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Georgia<s n="np"/><s n="top"/></l><r>Géorgie<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Louisiana<s n="np"/><s n="top"/></l><r>Louisiane<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Pennsylvania<s n="np"/><s n="top"/></l><r>Pennsylvanie<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Virginia<s n="np"/><s n="top"/></l><r>Virginie<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>West<b/>Virginia<s n="np"/><s n="top"/></l><r>Virginie-Occidentale<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Malta<s n="np"/><s n="top"/></l><r>Malte<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Saint<b/>Lucia<s n="np"/><s n="top"/></l><r>Sainte-Lucie<s n="np"/><s n="top"/><s n="ind"/><s n="f"/></r></p></e>
-<e><p><l>Bahamas<s n="np"/><s n="top"/><s n="pl"/></l><r>Bahamas<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Comoro<b/>Islands<s n="np"/><s n="top"/><s n="pl"/></l><r>Comores<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Cook<b/>Islands<s n="np"/><s n="top"/><s n="pl"/></l><r>Îles<b/>Cook<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Fiji<s n="np"/><s n="top"/><s n="sg"/></l><r>Fidji<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Maldives<s n="np"/><s n="top"/><s n="pl"/></l><r>Maldives<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Marshall<b/>Islands<s n="np"/><s n="top"/><s n="pl"/></l><r>Îles<b/>Marshall<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Netherlands<s n="np"/><s n="top"/><s n="pl"/></l><r>Pays-Bas<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Philippines<s n="np"/><s n="top"/><s n="pl"/></l><r>Philippines<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Seychelles<s n="np"/><s n="top"/><s n="pl"/></l><r>Seychelles<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Soloman<b/>Islands<s n="np"/><s n="top"/><s n="pl"/></l><r>Îles<b/>Salomon<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Tonga<s n="np"/><s n="top"/><s n="sg"/></l><r>Tonga<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Bahrain<s n="np"/><s n="top"/></l><r>Bahreïn<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Bangladesh<s n="np"/><s n="top"/></l><r>Bangladesh<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Belize<s n="np"/><s n="top"/></l><r>Belize<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Benin<s n="np"/><s n="top"/></l><r>Bénin<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Bhutan<s n="np"/><s n="top"/></l><r>Bhoutan<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Botswana<s n="np"/><s n="top"/></l><r>Botswana<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Brazil<s n="np"/><s n="top"/></l><r>Brésil<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Brunei<s n="np"/><s n="top"/></l><r>Brunéi<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Burkina-Faso<s n="np"/><s n="top"/></l><r>Burkina<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Burundi<s n="np"/><s n="top"/></l><r>Burundi<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Cambodia<s n="np"/><s n="top"/></l><r>Cambodge<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Cameroon<s n="np"/><s n="top"/></l><r>Cameroun<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Canada<s n="np"/><s n="top"/></l><r>Canada<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Cape<b/>Verde<b/>Island<s n="np"/><s n="top"/></l><r>Cap-Vert<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Chad<s n="np"/><s n="top"/></l><r>Tchad<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Chile<s n="np"/><s n="top"/></l><r>Chili<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Congo<s n="np"/><s n="top"/></l><r>Congo<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Costa<b/>Rica<s n="np"/><s n="top"/></l><r>Costa<b/>Rica<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Denmark<s n="np"/><s n="top"/></l><r>Danemark<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Djibouti<s n="np"/><s n="top"/></l><r>Djibouti<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>El<b/>Salvador<s n="np"/><s n="top"/></l><r>Salvador<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Gabon<s n="np"/><s n="top"/></l><r>Gabon<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Ghana<s n="np"/><s n="top"/></l><r>Ghana<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Guatemala<s n="np"/><s n="top"/></l><r>Guatemala<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Honduras<s n="np"/><s n="top"/></l><r>Honduras<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Japan<s n="np"/><s n="top"/></l><r>Japon<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Kazakhstan<s n="np"/><s n="top"/></l><r>Kazakhstan<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Kenya<s n="np"/><s n="top"/></l><r>Kenya<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Kuwait<s n="np"/><s n="top"/></l><r>Koweït<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Kyrgyzstan<s n="np"/><s n="top"/></l><r>Kirghizstan<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Laos<s n="np"/><s n="top"/></l><r>Laos<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Lebanon<s n="np"/><s n="top"/></l><r>Liban<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Lesotho<s n="np"/><s n="top"/></l><r>Lesotho<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Liberia<s n="np"/><s n="top"/></l><r>Libéria<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Liechtenstein<s n="np"/><s n="top"/></l><r>Liechtenstein<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Luxembourg<s n="np"/><s n="top"/></l><r>Luxembourg<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Malawi<s n="np"/><s n="top"/></l><r>Malawi<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Mali<s n="np"/><s n="top"/></l><r>Mali<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Mexico<s n="np"/><s n="top"/></l><r>Mexique<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Monaco<s n="np"/><s n="top"/></l><r>Monaco<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Montenegro<s n="np"/><s n="top"/></l><r>Monténégro<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Morocco<s n="np"/><s n="top"/></l><r>Maroc<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Mozambique<s n="np"/><s n="top"/></l><r>Mozambique<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Nepal<s n="np"/><s n="top"/></l><r>Népal<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Nicaragua<s n="np"/><s n="top"/></l><r>Nicaragua<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Niger<s n="np"/><s n="top"/></l><r>Niger<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Nigeria<s n="np"/><s n="top"/></l><r>Nigéria<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Pakistan<s n="np"/><s n="top"/></l><r>Pakistan<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Panama<s n="np"/><s n="top"/></l><r>Panama<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Paraguay<s n="np"/><s n="top"/></l><r>Paraguay<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Peru<s n="np"/><s n="top"/></l><r>Pérou<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Portugal<s n="np"/><s n="top"/></l><r>Portugal<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Qatar<s n="np"/><s n="top"/></l><r>Qatar<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Rwanda<s n="np"/><s n="top"/></l><r>Rwanda<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Senegal<s n="np"/><s n="top"/></l><r>Sénégal<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Sri<b/>Lanka<s n="np"/><s n="top"/></l><r>Sri<b/>Lanka<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Sudan<s n="np"/><s n="top"/></l><r>Soudan<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Surinam<s n="np"/><s n="top"/></l><r>Surinam<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Swaziland<s n="np"/><s n="top"/></l><r>Swaziland<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Tajikistan<s n="np"/><s n="top"/></l><r>Tadjikistan<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Togo<s n="np"/><s n="top"/></l><r>Togo<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Turkmenistan<s n="np"/><s n="top"/></l><r>Turkménistan<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Tuvalu<s n="np"/><s n="top"/></l><r>Tuvalu<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>United<b/>Kingdom<s n="np"/><s n="top"/></l><r>Royaume-Uni<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Vanuatu<s n="np"/><s n="top"/></l><r>Vanuatu<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Vatican<s n="np"/><s n="top"/></l><r>Vatican<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Venezuela<s n="np"/><s n="top"/></l><r>Venezuela<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Vietnam<s n="np"/><s n="top"/></l><r>Viêt-Nam<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Wales<s n="np"/><s n="top"/></l><r>pays<b/>de<b/>Galles<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Yemen<s n="np"/><s n="top"/></l><r>Yémen<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Zaire<s n="np"/><s n="top"/></l><r>Zaïre<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Zimbabwe<s n="np"/><s n="top"/></l><r>Zimbabwe<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Afghanistan<s n="np"/><s n="top"/></l><r>Afghanistan<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Angola<s n="np"/><s n="top"/></l><r>Angola<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Azerbaijan<s n="np"/><s n="top"/></l><r>Azerbaïdjan<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Ecuador<s n="np"/><s n="top"/></l><r>Équateur<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Iran<s n="np"/><s n="top"/></l><r>Iran<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Iraq<s n="np"/><s n="top"/></l><r>Irak<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Oman<s n="np"/><s n="top"/></l><r>Oman<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Uganda<s n="np"/><s n="top"/></l><r>Ouganda<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Uruguay<s n="np"/><s n="top"/></l><r>Uruguay<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Uzbekistan<s n="np"/><s n="top"/></l><r>Ouzbékistan<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Samoa<s n="np"/><s n="top"/></l><r>Samoa<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Madagascar<s n="np"/><s n="top"/></l><r>Madagascar<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Manitoba<s n="np"/><s n="top"/></l><r>Manitoba<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>New<b/>Brunswick<s n="np"/><s n="top"/></l><r>Nouveau-Brunswick<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Northwest<b/>Territories<s n="np"/><s n="top"/></l><r>territoires<b/>du<b/>Nord-Ouest<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Nunavut<s n="np"/><s n="top"/></l><r>Nunavut<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Ontario<s n="np"/><s n="top"/></l><r>Ontario<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Quebec<s n="np"/><s n="top"/></l><r>Québec<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Saskatchewan<s n="np"/><s n="top"/></l><r>Saskatchewan<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Yukon<b/>Territory<s n="np"/><s n="top"/></l><r>territoire<b/>du<b/>Yukon<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Alabama<s n="np"/><s n="top"/></l><r>Alabama<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Alaska<s n="np"/><s n="top"/></l><r>Alaska<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Arizona<s n="np"/><s n="top"/></l><r>Arizona<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Arkansas<s n="np"/><s n="top"/></l><r>Arkansas<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Colorado<s n="np"/><s n="top"/></l><r>Colorado<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Connecticut<s n="np"/><s n="top"/></l><r>Connecticut<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>North<b/>Dakota<s n="np"/><s n="top"/></l><r>Dakota<b/>du<b/>Nord<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>South<b/>Dakota<s n="np"/><s n="top"/></l><r>Dakota<b/>du<b/>Sud<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Delaware<s n="np"/><s n="top"/></l><r>Delaware<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Hawaii<s n="np"/><s n="top"/></l><r>Hawaï<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Idaho<s n="np"/><s n="top"/></l><r>Idaho<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Illinois<s n="np"/><s n="top"/></l><r>Illinois<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Indiana<s n="np"/><s n="top"/></l><r>Indiana<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Iowa<s n="np"/><s n="top"/></l><r>Iowa<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Kansas<s n="np"/><s n="top"/></l><r>Kansas<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Kentucky<s n="np"/><s n="top"/></l><r>Kentucky<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Maine<s n="np"/><s n="top"/></l><r>Maine<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Maryland<s n="np"/><s n="top"/></l><r>Maryland<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Massachusetts<s n="np"/><s n="top"/></l><r>Massachusetts<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Michigan<s n="np"/><s n="top"/></l><r>Michigan<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Minnesota<s n="np"/><s n="top"/></l><r>Minnesota<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Mississippi<s n="np"/><s n="top"/></l><r>Mississippi<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Missouri<s n="np"/><s n="top"/></l><r>Missouri<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Montana<s n="np"/><s n="top"/></l><r>Montana<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Nebraska<s n="np"/><s n="top"/></l><r>Nebraska<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Nevada<s n="np"/><s n="top"/></l><r>Nevada<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>New<b/>Hampshire<s n="np"/><s n="top"/></l><r>New<b/>Hampshire<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>New<b/>Jersey<s n="np"/><s n="top"/></l><r>New<b/>Jersey<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>New<b/>York<s n="np"/><s n="top"/></l><r>New<b/>York<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>New<b/>Mexico<s n="np"/><s n="top"/></l><r>Nouveau-Mexique<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Ohio<s n="np"/><s n="top"/></l><r>Ohio<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Oklahoma<s n="np"/><s n="top"/></l><r>Oklahoma<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Oregon<s n="np"/><s n="top"/></l><r>Oregon<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Rhode<b/>Island<s n="np"/><s n="top"/></l><r>Rhode<b/>Island<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Tennessee<s n="np"/><s n="top"/></l><r>Tennessee<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Texas<s n="np"/><s n="top"/></l><r>Texas<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Utah<s n="np"/><s n="top"/></l><r>Utah<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Vermont<s n="np"/><s n="top"/></l><r>Vermont<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Washington<s n="np"/><s n="top"/></l><r>Washington<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Wisconsin<s n="np"/><s n="top"/></l><r>Wisconsin<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Wyoming<s n="np"/><s n="top"/></l><r>Wyoming<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Israel<s n="np"/><s n="top"/></l><r>Israël<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Saint<b/>Kitts-Nevis<s n="np"/><s n="top"/></l><r>Saint-Christophe-et-Niévès<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Saint<b/>Vincent<b/>and<b/>the<b/>Grenadines<s n="np"/><s n="top"/></l><r>Saint-Vincent-et-les-Grenadines<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>San<b/>Marino<s n="np"/><s n="top"/></l><r>Saint-Marin<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Sao<b/>Tomé<b/>and<b/>Principe<s n="np"/><s n="top"/></l><r>Sao<b/>Tomé<b/>et<b/>Principe<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Belau<s n="np"/><s n="top"/></l><r>Belau<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Cuba<s n="np"/><s n="top"/></l><r>Cuba<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Haiti<s n="np"/><s n="top"/></l><r>Haïti<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>Nieu<s n="np"/><s n="top"/></l><r>Nioué<s n="np"/><s n="top"/><s n="ind"/><s n="m"/></r></p></e>
-<e><p><l>United<b/>Arab<b/>Emirates<s n="np"/><s n="top"/><s n="pl"/></l><r>Émirats<b/>arabes<b/>unis<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
-<e><p><l>United<b/>States<s n="np"/><s n="top"/><s n="pl"/></l><r>États-Unis<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
-<e><p><l>Western<b/>Samoa<s n="np"/><s n="top"/><s n="sg"/></l><r>Samoa<b/>occidentales<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
+<e><p><l>Barbados<s n="np"/><s n="loc"/></l><r>Barbade<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Belarus<s n="np"/><s n="loc"/></l><r>Biélorussie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Belgium<s n="np"/><s n="loc"/></l><r>Belgique<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Bolivia<s n="np"/><s n="loc"/></l><r>Bolivie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Bosnia<s n="np"/><s n="loc"/></l><r>Bosnie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Bosnia<b/>and<b/>Herzegovina<s n="np"/><s n="loc"/></l><r>Bosnie-Herzégovine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Bulgaria<s n="np"/><s n="loc"/></l><r>Bulgarie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Burma<s n="np"/><s n="loc"/></l><r>Birmanie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Central<b/>African<b/>Republic<s n="np"/><s n="loc"/></l><r>République<b/>centrafricaine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>China<s n="np"/><s n="loc"/></l><r>Chine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Colombia<s n="np"/><s n="loc"/></l><r>Colombie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Côte<b/>d'Ivoire<s n="np"/><s n="loc"/></l><r>Côte<b/>d'Ivoire<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Croatia<s n="np"/><s n="loc"/></l><r>Croatie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Czech<b/>Republic<s n="np"/><s n="loc"/></l><r>République<b/>tchèque<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Dominica<s n="np"/><s n="loc"/></l><r>Dominique<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Dominican<b/>Republic<s n="np"/><s n="loc"/></l><r>République<b/>dominicaine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Equatorial<b/>Guinea<s n="np"/><s n="loc"/></l><r>Guinée<b/>équatoriale<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Finland<s n="np"/><s n="loc"/></l><r>Finlande<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>France<s n="np"/><s n="loc"/></l><r>France<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>French<b/>Polynesia<s n="np"/><s n="loc"/></l><r>Polynésie<b/>française<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Gambia<s n="np"/><s n="loc"/></l><r>Gambie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Georgia<s n="np"/><s n="loc"/></l><r>Géorgie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Greece<s n="np"/><s n="loc"/></l><r>Grèce<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Grenada<s n="np"/><s n="loc"/></l><r>Grenade<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Guinea<s n="np"/><s n="loc"/></l><r>Guinée<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Guinea<b/>Bissau<s n="np"/><s n="loc"/></l><r>Guinée-Bissao<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Guyana<s n="np"/><s n="loc"/></l><r>Guyana<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Hungary<s n="np"/><s n="loc"/></l><r>Hongrie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Jamaica<s n="np"/><s n="loc"/></l><r>Jamaïque<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Jordan<s n="np"/><s n="loc"/></l><r>Jordanie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Latvia<s n="np"/><s n="loc"/></l><r>Lettonie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Libya<s n="np"/><s n="loc"/></l><r>Libye<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Lithuania<s n="np"/><s n="loc"/></l><r>Lituanie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Macedonia<s n="np"/><s n="loc"/></l><r>Macédoine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Malaysia<s n="np"/><s n="loc"/></l><r>Malaisie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Mauritania<s n="np"/><s n="loc"/></l><r>Mauritanie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Micronesia<s n="np"/><s n="loc"/></l><r>Micronésie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Moldavia<s n="np"/><s n="loc"/></l><r>Moldavie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Mongolia<s n="np"/><s n="loc"/></l><r>Mongolie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Namibia<s n="np"/><s n="loc"/></l><r>Namibie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Nauru<s n="np"/><s n="loc"/></l><r>Nauru<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>New<b/>Zealand<s n="np"/><s n="loc"/></l><r>Nouvelle-Zélande<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Korea<s n="np"/><s n="loc"/></l><r>Corée<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>North<b/>Korea<s n="np"/><s n="loc"/></l><r>Corée<b/>du<b/>Nord<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Norway<s n="np"/><s n="loc"/></l><r>Norvège<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Papua<b/>New<b/>Guinea<s n="np"/><s n="loc"/></l><r>Papouasie-Nouvelle-Guinée<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Poland<s n="np"/><s n="loc"/></l><r>Pologne<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Romania<s n="np"/><s n="loc"/></l><r>Roumanie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Russia<s n="np"/><s n="loc"/></l><r>Russie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Serbia<s n="np"/><s n="loc"/></l><r>Serbie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Sierra<b/>Leone<s n="np"/><s n="loc"/></l><r>Sierra<b/>Leone<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Slovakia<s n="np"/><s n="loc"/></l><r>Slovaquie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Slovenia<s n="np"/><s n="loc"/></l><r>Slovénie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Somalia<s n="np"/><s n="loc"/></l><r>Somalie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>South<b/>Korea<s n="np"/><s n="loc"/></l><r>Corée<b/>du<b/>Sud<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Sweden<s n="np"/><s n="loc"/></l><r>Suède<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Switzerland<s n="np"/><s n="loc"/></l><r>Suisse<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Syria<s n="np"/><s n="loc"/></l><r>Syrie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Tanzania<s n="np"/><s n="loc"/></l><r>Tanzanie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Thailand<s n="np"/><s n="loc"/></l><r>Thaïlande<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Trinidad<b/>and<b/>Tobago<s n="np"/><s n="loc"/></l><r>Trinité-et-Tobago<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Tunisia<s n="np"/><s n="loc"/></l><r>Tunisie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Turkey<s n="np"/><s n="loc"/></l><r>Turquie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Yugoslavia<s n="np"/><s n="loc"/></l><r>Yougoslavie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Zambia<s n="np"/><s n="loc"/></l><r>Zambie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Albania<s n="np"/><s n="loc"/></l><r>Albanie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Algeria<s n="np"/><s n="loc"/></l><r>Algérie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Andorra<s n="np"/><s n="loc"/></l><r>Andorre<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Antigua<b/>and<b/>Barbuda<s n="np"/><s n="loc"/></l><r>Antigua-et-Barbuda<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Argentina<s n="np"/><s n="loc"/></l><r>Argentine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Armenia<s n="np"/><s n="loc"/></l><r>Arménie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Australia<s n="np"/><s n="loc"/></l><r>Australie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Austria<s n="np"/><s n="loc"/></l><r>Autriche<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Egypt<s n="np"/><s n="loc"/></l><r>Égypte<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Eritrea<s n="np"/><s n="loc"/></l><r>Érythrée<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Estonia<s n="np"/><s n="loc"/></l><r>Estonie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Ethiopia<s n="np"/><s n="loc"/></l><r>Éthiopie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Germany<s n="np"/><s n="loc"/></l><r>Allemagne<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Iceland<s n="np"/><s n="loc"/></l><r>Islande<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>India<s n="np"/><s n="loc"/></l><r>Inde<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Indonesia<s n="np"/><s n="loc"/></l><r>Indonésie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Ireland<s n="np"/><s n="loc"/></l><r>Irlande<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Italy<s n="np"/><s n="loc"/></l><r>Italie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Northern<b/>Ireland<s n="np"/><s n="loc"/></l><r>Irelande<b/>du<b/>Nord<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Saudi<b/>Arabia<s n="np"/><s n="loc"/></l><r>Arabie<b/>saoudite<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Scotland<s n="np"/><s n="loc"/></l><r>Écosse<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>South<b/>Africa<s n="np"/><s n="loc"/></l><r>Afrique<b/>du<b/>Sud<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Spain<s n="np"/><s n="loc"/></l><r>Espagne<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Ukraine<s n="np"/><s n="loc"/></l><r>Ukraine<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Prince<b/>Edward<b/>Island<s n="np"/><s n="loc"/></l><r>île<b/>du<b/>Prince-Édouard<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Cyprus<s n="np"/><s n="loc"/></l><r>Chypre<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Kiribati<s n="np"/><s n="loc"/></l><r>Kiribati<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Mauritius<s n="np"/><s n="loc"/></l><r>Île<b/>Maurice<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Alberta<s n="np"/><s n="loc"/></l><r>Alberta<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>British<b/>Columbia<s n="np"/><s n="loc"/></l><r>Colombie<b/>britannique<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Newfoundland<b/>and<b/>Labrador<s n="np"/><s n="loc"/></l><r>Terre-Neuve<b/>et<b/>Labrador<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Nova<b/>Scotia<s n="np"/><s n="loc"/></l><r>Nouvelle-Écosse<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>California<s n="np"/><s n="loc"/></l><r>Californie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>North<b/>Carolina<s n="np"/><s n="loc"/></l><r>Caroline<b/>du<b/>Nord<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>South<b/>Carolina<s n="np"/><s n="loc"/></l><r>Caroline<b/>du<b/>Sud<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Florida<s n="np"/><s n="loc"/></l><r>Floride<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Georgia<s n="np"/><s n="loc"/></l><r>Géorgie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Louisiana<s n="np"/><s n="loc"/></l><r>Louisiane<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Pennsylvania<s n="np"/><s n="loc"/></l><r>Pennsylvanie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Virginia<s n="np"/><s n="loc"/></l><r>Virginie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>West<b/>Virginia<s n="np"/><s n="loc"/></l><r>Virginie-Occidentale<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Malta<s n="np"/><s n="loc"/></l><r>Malte<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Saint<b/>Lucia<s n="np"/><s n="loc"/></l><r>Sainte-Lucie<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+<e><p><l>Bahamas<s n="np"/><s n="loc"/><s n="pl"/></l><r>Bahamas<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Comoro<b/>Islands<s n="np"/><s n="loc"/><s n="pl"/></l><r>Comores<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Cook<b/>Islands<s n="np"/><s n="loc"/><s n="pl"/></l><r>Îles<b/>Cook<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Fiji<s n="np"/><s n="loc"/><s n="sg"/></l><r>Fidji<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Maldives<s n="np"/><s n="loc"/><s n="pl"/></l><r>Maldives<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Marshall<b/>Islands<s n="np"/><s n="loc"/><s n="pl"/></l><r>Îles<b/>Marshall<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Netherlands<s n="np"/><s n="loc"/><s n="pl"/></l><r>Pays-Bas<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Philippines<s n="np"/><s n="loc"/><s n="pl"/></l><r>Philippines<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Seychelles<s n="np"/><s n="loc"/><s n="pl"/></l><r>Seychelles<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Soloman<b/>Islands<s n="np"/><s n="loc"/><s n="pl"/></l><r>Îles<b/>Salomon<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Tonga<s n="np"/><s n="loc"/><s n="sg"/></l><r>Tonga<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Bahrain<s n="np"/><s n="loc"/></l><r>Bahreïn<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Bangladesh<s n="np"/><s n="loc"/></l><r>Bangladesh<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Belize<s n="np"/><s n="loc"/></l><r>Belize<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Benin<s n="np"/><s n="loc"/></l><r>Bénin<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Bhutan<s n="np"/><s n="loc"/></l><r>Bhoutan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Botswana<s n="np"/><s n="loc"/></l><r>Botswana<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Brazil<s n="np"/><s n="loc"/></l><r>Brésil<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Brunei<s n="np"/><s n="loc"/></l><r>Brunéi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Burkina-Faso<s n="np"/><s n="loc"/></l><r>Burkina<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Burundi<s n="np"/><s n="loc"/></l><r>Burundi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Cambodia<s n="np"/><s n="loc"/></l><r>Cambodge<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Cameroon<s n="np"/><s n="loc"/></l><r>Cameroun<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Canada<s n="np"/><s n="loc"/></l><r>Canada<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Cape<b/>Verde<b/>Island<s n="np"/><s n="loc"/></l><r>Cap-Vert<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Chad<s n="np"/><s n="loc"/></l><r>Tchad<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Chile<s n="np"/><s n="loc"/></l><r>Chili<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Congo<s n="np"/><s n="loc"/></l><r>Congo<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Costa<b/>Rica<s n="np"/><s n="loc"/></l><r>Costa<b/>Rica<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Denmark<s n="np"/><s n="loc"/></l><r>Danemark<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Djibouti<s n="np"/><s n="loc"/></l><r>Djibouti<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>El<b/>Salvador<s n="np"/><s n="loc"/></l><r>Salvador<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Gabon<s n="np"/><s n="loc"/></l><r>Gabon<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Ghana<s n="np"/><s n="loc"/></l><r>Ghana<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Guatemala<s n="np"/><s n="loc"/></l><r>Guatemala<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Honduras<s n="np"/><s n="loc"/></l><r>Honduras<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Japan<s n="np"/><s n="loc"/></l><r>Japon<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Kazakhstan<s n="np"/><s n="loc"/></l><r>Kazakhstan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Kenya<s n="np"/><s n="loc"/></l><r>Kenya<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Kuwait<s n="np"/><s n="loc"/></l><r>Koweït<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Kyrgyzstan<s n="np"/><s n="loc"/></l><r>Kirghizstan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Laos<s n="np"/><s n="loc"/></l><r>Laos<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Lebanon<s n="np"/><s n="loc"/></l><r>Liban<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Lesotho<s n="np"/><s n="loc"/></l><r>Lesotho<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Liberia<s n="np"/><s n="loc"/></l><r>Libéria<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Liechtenstein<s n="np"/><s n="loc"/></l><r>Liechtenstein<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Luxembourg<s n="np"/><s n="loc"/></l><r>Luxembourg<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Malawi<s n="np"/><s n="loc"/></l><r>Malawi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Mali<s n="np"/><s n="loc"/></l><r>Mali<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Mexico<s n="np"/><s n="loc"/></l><r>Mexique<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Monaco<s n="np"/><s n="loc"/></l><r>Monaco<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Montenegro<s n="np"/><s n="loc"/></l><r>Monténégro<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Morocco<s n="np"/><s n="loc"/></l><r>Maroc<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Mozambique<s n="np"/><s n="loc"/></l><r>Mozambique<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Nepal<s n="np"/><s n="loc"/></l><r>Népal<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Nicaragua<s n="np"/><s n="loc"/></l><r>Nicaragua<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Niger<s n="np"/><s n="loc"/></l><r>Niger<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Nigeria<s n="np"/><s n="loc"/></l><r>Nigéria<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Pakistan<s n="np"/><s n="loc"/></l><r>Pakistan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Panama<s n="np"/><s n="loc"/></l><r>Panama<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Paraguay<s n="np"/><s n="loc"/></l><r>Paraguay<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Peru<s n="np"/><s n="loc"/></l><r>Pérou<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Portugal<s n="np"/><s n="loc"/></l><r>Portugal<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Qatar<s n="np"/><s n="loc"/></l><r>Qatar<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Rwanda<s n="np"/><s n="loc"/></l><r>Rwanda<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Senegal<s n="np"/><s n="loc"/></l><r>Sénégal<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Sri<b/>Lanka<s n="np"/><s n="loc"/></l><r>Sri<b/>Lanka<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Sudan<s n="np"/><s n="loc"/></l><r>Soudan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Surinam<s n="np"/><s n="loc"/></l><r>Surinam<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Swaziland<s n="np"/><s n="loc"/></l><r>Swaziland<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Tajikistan<s n="np"/><s n="loc"/></l><r>Tadjikistan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Togo<s n="np"/><s n="loc"/></l><r>Togo<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Turkmenistan<s n="np"/><s n="loc"/></l><r>Turkménistan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Tuvalu<s n="np"/><s n="loc"/></l><r>Tuvalu<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>United<b/>Kingdom<s n="np"/><s n="loc"/></l><r>Royaume-Uni<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Vanuatu<s n="np"/><s n="loc"/></l><r>Vanuatu<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Vatican<s n="np"/><s n="loc"/></l><r>Vatican<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Venezuela<s n="np"/><s n="loc"/></l><r>Venezuela<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Vietnam<s n="np"/><s n="loc"/></l><r>Viêt-Nam<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Wales<s n="np"/><s n="loc"/></l><r>pays<b/>de<b/>Galles<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Yemen<s n="np"/><s n="loc"/></l><r>Yémen<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Zaire<s n="np"/><s n="loc"/></l><r>Zaïre<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Zimbabwe<s n="np"/><s n="loc"/></l><r>Zimbabwe<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Afghanistan<s n="np"/><s n="loc"/></l><r>Afghanistan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Angola<s n="np"/><s n="loc"/></l><r>Angola<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Azerbaijan<s n="np"/><s n="loc"/></l><r>Azerbaïdjan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Ecuador<s n="np"/><s n="loc"/></l><r>Équateur<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Iran<s n="np"/><s n="loc"/></l><r>Iran<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Iraq<s n="np"/><s n="loc"/></l><r>Irak<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Oman<s n="np"/><s n="loc"/></l><r>Oman<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Uganda<s n="np"/><s n="loc"/></l><r>Ouganda<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Uruguay<s n="np"/><s n="loc"/></l><r>Uruguay<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Uzbekistan<s n="np"/><s n="loc"/></l><r>Ouzbékistan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Samoa<s n="np"/><s n="loc"/></l><r>Samoa<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Madagascar<s n="np"/><s n="loc"/></l><r>Madagascar<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Manitoba<s n="np"/><s n="loc"/></l><r>Manitoba<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>New<b/>Brunswick<s n="np"/><s n="loc"/></l><r>Nouveau-Brunswick<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Northwest<b/>Territories<s n="np"/><s n="loc"/></l><r>territoires<b/>du<b/>Nord-Ouest<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Nunavut<s n="np"/><s n="loc"/></l><r>Nunavut<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Ontario<s n="np"/><s n="loc"/></l><r>Ontario<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Quebec<s n="np"/><s n="loc"/></l><r>Québec<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Saskatchewan<s n="np"/><s n="loc"/></l><r>Saskatchewan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Yukon<b/>Territory<s n="np"/><s n="loc"/></l><r>territoire<b/>du<b/>Yukon<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Alabama<s n="np"/><s n="loc"/></l><r>Alabama<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Alaska<s n="np"/><s n="loc"/></l><r>Alaska<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Arizona<s n="np"/><s n="loc"/></l><r>Arizona<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Arkansas<s n="np"/><s n="loc"/></l><r>Arkansas<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Colorado<s n="np"/><s n="loc"/></l><r>Colorado<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Connecticut<s n="np"/><s n="loc"/></l><r>Connecticut<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>North<b/>Dakota<s n="np"/><s n="loc"/></l><r>Dakota<b/>du<b/>Nord<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>South<b/>Dakota<s n="np"/><s n="loc"/></l><r>Dakota<b/>du<b/>Sud<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Delaware<s n="np"/><s n="loc"/></l><r>Delaware<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Hawaii<s n="np"/><s n="loc"/></l><r>Hawaï<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Idaho<s n="np"/><s n="loc"/></l><r>Idaho<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Illinois<s n="np"/><s n="loc"/></l><r>Illinois<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Indiana<s n="np"/><s n="loc"/></l><r>Indiana<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Iowa<s n="np"/><s n="loc"/></l><r>Iowa<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Kansas<s n="np"/><s n="loc"/></l><r>Kansas<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Kentucky<s n="np"/><s n="loc"/></l><r>Kentucky<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Maine<s n="np"/><s n="loc"/></l><r>Maine<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Maryland<s n="np"/><s n="loc"/></l><r>Maryland<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Massachusetts<s n="np"/><s n="loc"/></l><r>Massachusetts<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Michigan<s n="np"/><s n="loc"/></l><r>Michigan<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Minnesota<s n="np"/><s n="loc"/></l><r>Minnesota<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Mississippi<s n="np"/><s n="loc"/></l><r>Mississippi<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Missouri<s n="np"/><s n="loc"/></l><r>Missouri<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Montana<s n="np"/><s n="loc"/></l><r>Montana<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Nebraska<s n="np"/><s n="loc"/></l><r>Nebraska<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Nevada<s n="np"/><s n="loc"/></l><r>Nevada<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>New<b/>Hampshire<s n="np"/><s n="loc"/></l><r>New<b/>Hampshire<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>New<b/>Jersey<s n="np"/><s n="loc"/></l><r>New<b/>Jersey<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>New<b/>York<s n="np"/><s n="loc"/></l><r>New<b/>York<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>New<b/>Mexico<s n="np"/><s n="loc"/></l><r>Nouveau-Mexique<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Ohio<s n="np"/><s n="loc"/></l><r>Ohio<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Oklahoma<s n="np"/><s n="loc"/></l><r>Oklahoma<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Oregon<s n="np"/><s n="loc"/></l><r>Oregon<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Rhode<b/>Island<s n="np"/><s n="loc"/></l><r>Rhode<b/>Island<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Tennessee<s n="np"/><s n="loc"/></l><r>Tennessee<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Texas<s n="np"/><s n="loc"/></l><r>Texas<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Utah<s n="np"/><s n="loc"/></l><r>Utah<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Vermont<s n="np"/><s n="loc"/></l><r>Vermont<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Washington<s n="np"/><s n="loc"/></l><r>Washington<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Wisconsin<s n="np"/><s n="loc"/></l><r>Wisconsin<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Wyoming<s n="np"/><s n="loc"/></l><r>Wyoming<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Israel<s n="np"/><s n="loc"/></l><r>Israël<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Saint<b/>Kitts-Nevis<s n="np"/><s n="loc"/></l><r>Saint-Christophe-et-Niévès<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Saint<b/>Vincent<b/>and<b/>the<b/>Grenadines<s n="np"/><s n="loc"/></l><r>Saint-Vincent-et-les-Grenadines<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>San<b/>Marino<s n="np"/><s n="loc"/></l><r>Saint-Marin<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Sao<b/>Tomé<b/>and<b/>Principe<s n="np"/><s n="loc"/></l><r>Sao<b/>Tomé<b/>et<b/>Principe<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Belau<s n="np"/><s n="loc"/></l><r>Belau<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Cuba<s n="np"/><s n="loc"/></l><r>Cuba<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Haiti<s n="np"/><s n="loc"/></l><r>Haïti<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>Nieu<s n="np"/><s n="loc"/></l><r>Nioué<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+<e><p><l>United<b/>Arab<b/>Emirates<s n="np"/><s n="loc"/><s n="pl"/></l><r>Émirats<b/>arabes<b/>unis<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
+<e><p><l>United<b/>States<s n="np"/><s n="loc"/><s n="pl"/></l><r>États-Unis<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
+<e><p><l>Western<b/>Samoa<s n="np"/><s n="loc"/><s n="sg"/></l><r>Samoa<b/>occidentales<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
   </section>
 </dictionary>
