@@ -432,6 +432,7 @@
       <attr-item tags="pii"/>
       <attr-item tags="pis"/>
       <attr-item tags="pri"/>
+      <attr-item tags="pres"/>
       <attr-item tags="prs"/>
       <attr-item tags="pp"/>
       <attr-item tags="ppres"/>

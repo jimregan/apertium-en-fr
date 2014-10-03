@@ -1,0 +1,5 @@
+<rules>
+  <rule><match lemma="house" tags="n.*"><select lemma="maison" tags="n.*"/></match></rule>
+  <rule><match lemma="go" tags="vblex.*"><select lemma="aller" tags="vblex.*"/></match></rule>
+
+</rules>

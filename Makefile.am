@@ -14,6 +14,7 @@ PREFIX2b=$(LANG2)-$(LANG1b)
 BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
+		 $(PREFIX1).autolex.bin $(PREFIX2).autolex.bin \
 		 $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
 		 $(PREFIX1).autogen.bin $(PREFIX2).autogen.bin \
 		 $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
@@ -156,6 +157,11 @@ $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
 	apertium-validate-postchunk $(BASENAME).$(PREFIX2).t3x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t3x $@
 
+$(PREFIX1).autolex.bin: $(BASENAME).$(PREFIX1).lrx
+	lrx-comp $< $@
+
+$(PREFIX2).autolex.bin: $(BASENAME).$(PREFIX2).lrx
+	lrx-comp $< $@
 
 ###############################################################################
 ## Distribution

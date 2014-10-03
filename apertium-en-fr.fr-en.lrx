@@ -1,0 +1,14 @@
+<rules>
+
+  <rule><match lemma="maison" tags="n.*"><select lemma="house" tags="n.*"/></match></rule>
+
+  <rule><match lemma="père" tags="n.m.sg"><select lemma="father" tags="n.*"/></match></rule>
+
+  <rule><match lemma="père" tags="n.m.pl"><select lemma="parent" tags="n.*"/></match></rule>
+
+  <rule><match lemma="aller" tags="vblex.*"/>
+        <match lemma="à" tags="pr"><select lemma="to" tags="pr"/></match>
+  </rule>
+
+</rules>
+

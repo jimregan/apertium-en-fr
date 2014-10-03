@@ -6287,7 +6287,6 @@
 <e><p><l>fate<s n="n"/></l><r>destin<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fate<s n="n"/></l><r>destination<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>father<s n="n"/></l><r>père<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>father<s n="n"/><s n="sg"/></l><r>père<s n="n"/></r></p></e>
 <e><p><l>fault<s n="n"/></l><r>tort<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fault<s n="n"/></l><r>faute<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fauna<s n="n"/></l><r>faune<s n="n"/><s n="f"/></r></p></e>
@@ -6371,7 +6370,6 @@
 <e><p><l>fill<g><b/>up</g><s n="vblex"/><s n="sep"/></l><r>remplir<s n="vblex"/></r></p></e>
 <e><p><l>film<s n="n"/></l><r>film<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>film<s n="vblex"/></l><r>filmer<s n="vblex"/></r></p></e>
-<e><p><l>film<s n="vblex"/></l><r>bouler<s n="vblex"/></r></p></e>
 <e><p><l>film<s n="vblex"/></l><r>rouler<s n="vblex"/></r></p></e>
 <e><p><l>filter<s n="n"/></l><r>filtre<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>filter<s n="vblex"/></l><r>filtrer<s n="vblex"/></r></p></e>
@@ -6859,7 +6857,6 @@
 <e><p><l>glucocorticoid<s n="n"/></l><r>glucocorticoïde<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>gluten<s n="n"/></l><r>gluten<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>go<s n="vblex"/></l><r>aller<s n="vblex"/></r></p></e>
-<e><p><l>go<s n="vblex"/></l><r>bouler<s n="vblex"/></r></p></e>
 <e><p><l>go<s n="vblex"/></l><r>rouler<s n="vblex"/></r></p></e>
 <e><p><l>go<g><b/>back</g><s n="vblex"/></l><r>retourner<s n="vblex"/></r></p></e>
 <e><p><l>go<g><b/>back</g><s n="vblex"/></l><r>revenir<s n="vblex"/></r></p></e>
@@ -7294,8 +7291,11 @@
 <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>chaud<s n="adj"/><s n="GD"/></r></p></e>
 <e><p><l>hotel<s n="n"/></l><r>hôtel<s n="n"/><s n="m"/></r></p></e>
 <e c="MG: aquest hauria de ser quan 'hora' és plural en català, l'altra (time) en sg"><p><l>hour<s n="n"/></l><r>heure<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>house<s n="n"/></l><r>maison<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>house<s n="n"/></l><r>logis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e><p><l>house<s n="n"/><s n="pl"/></l><r>maison<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>house<s n="n"/><s n="sg"/></l><r>maison<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>house<s n="n"/><s n="pl"/></l><r>logis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>house<s n="n"/><s n="sg"/></l><r>logis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>house<s n="n"/><s n="ND"/></l><r>logis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>house<s n="vblex"/></l><r>héberger<s n="vblex"/></r></p></e>
 <e><p><l>household<s n="n"/></l><r>maison<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>housing<s n="n"/></l><r>logement<s n="n"/><s n="m"/></r></p></e>
@@ -8886,11 +8886,12 @@
 <e><p><l>mutter<s n="vblex"/></l><r>murmurer<s n="vblex"/></r></p></e>
 <e><p><l>mutual<s n="adj"/></l><r>mutuel<s n="adj"/></r></p></e>
 <e><p><l>mutuality<s n="n"/></l><r>mutualité<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>my<s n="det"/></l><r>mon<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>my<s n="det"/></l><r>mon<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>my<s n="det"/></l><r>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
-<e><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></r></p></e>
-<e><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+
+<e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>mon<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+
 <e><p><l>mysterious<s n="adj"/></l><r>mystérieux<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
 <e><p><l>mysterious<s n="adj"/></l><r>mystérieux<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>mystery<s n="n"/></l><r>mystère<s n="n"/><s n="m"/></r></p></e>
@@ -12238,12 +12239,10 @@
 <e><p><l>that<s n="rel"/></l><r>qui<s n="rel"/></r></p></e>
 <e><p><l>that<s n="rel"/></l><r>que<s n="rel"/></r></p></e>
 <e><p><l>thaw<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
-<e><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>the<s n="det"/></l><r>le<s n="det"/><s n="def"/><s n="mf"/></r></p></e>
-<e><p><l>the<s n="det"/></l><r>le<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>the<s n="det"/></l><r>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
 <e><p><l>the<b/>day<b/>before<b/>yesterday<s n="adv"/></l><r>avant-hier<s n="adv"/></r></p></e>
 <e><p><l>the<b/>one<b/>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>celui<b/>qui<s n="rel"/></r></p></e>
 <e><p><l>the<b/>one<b/>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>celui<b/>que<s n="rel"/></r></p></e>
