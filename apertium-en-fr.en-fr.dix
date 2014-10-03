@@ -3904,6 +3904,7 @@
 <e><p><l>bronze<s n="n"/></l><r>bronze<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>brooch<s n="n"/></l><r>fermoir<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>brook<s n="n"/></l><r>ruisseau<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>sister<s n="n"/></l><r>soeur<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>brother<s n="n"/></l><r>frère<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>brotherhood<s n="n"/></l><r>fraternité<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>brown<s n="adj"/></l><r>marron<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -7197,13 +7198,15 @@
 <e><p><l>hire<s n="vblex"/></l><r>embaucher<s n="vblex"/></r></p></e>
 <e><p><l>hire<s n="vblex"/></l><r>recruter<s n="vblex"/></r></p></e>
 <e><p><l>hire<g><b/>out</g><s n="vblex"/></l><r>embaucher<s n="vblex"/></r></p></e>
-<e c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>son<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></r></p></e>
-<e c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
-<e c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/></l><r>son<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-<e c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/></l><r>son<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
-<e c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/></l><r>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
-<e c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/></l><r>leur<s n="det"/><s n="pos"/><s n="mf"/></r></p></e>
+
+<e c=""><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>son<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></r></p></e>
+<e c=""><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+<e c=""><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>son<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e c=""><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>son<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e c=""><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+
 <e c="traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="adj"/></l><r>à<b/>il<s n="adj"/></r></p></e>
+
 <e r="LR"><p><l>historian<s n="n"/></l><r>historien<s n="n"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>historian<s n="n"/></l><r>historien<s n="n"/></r></p></e>
 <e><p><l>historical<s n="adj"/></l><r>historique<s n="adj"/><s n="mf"/></r></p></e>
@@ -9464,7 +9467,6 @@
 <e><p><l>parcel<s n="n"/></l><r>paquet<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>pardon<s n="n"/></l><r>pardon<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>parent<s n="n"/></l><r>père<s n="n"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>parent<s n="n"/><s n="pl"/></l><r>père<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e c="new-category"><p><l>parisian<s n="adj"/></l><r>parisien<s n="adj"/></r></p></e>
 <e c="new-category"><p><l>parisian<s n="n"/></l><r>parisien<s n="n"/><s n="f"/></r></p></e>
 <e c="new-category"><p><l>parisian<s n="n"/></l><r>parisien<s n="n"/><s n="m"/></r></p></e>
@@ -10599,6 +10601,10 @@
 <e><p><l>relate<s n="vblex"/></l><r>relater<s n="vblex"/></r></p></e>
 <e><p><l>relation<s n="n"/></l><r>relation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>relationship<s n="n"/></l><r>relation<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>grandparent<s n="n"/></l><r>grand-parent<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>grandparent<s n="n"/></l><r>grand-parent<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>parent<s n="n"/></l><r>parent<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>parent<s n="n"/></l><r>parent<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>relative<s n="n"/></l><r>parent<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>relative<s n="n"/></l><r>parent<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>relative<s n="adj"/></l><r>relatif<s n="adj"/></r></p></e>
@@ -11426,7 +11432,6 @@
 <e><p><l>sinus<s n="n"/></l><r>sein<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sir<s n="n"/></l><r>dame<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>sir<s n="n"/></l><r>monsieur<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>sister<s n="n"/></l><r>frère<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>sit<s n="vblex"/></l><r>asseoir<s n="vblex"/></r></p></e>
 <e><p><l>sit<g><b/>down</g><s n="vblex"/></l><r>asseoir<s n="vblex"/></r></p></e>
 <e><p><l>site<s n="n"/></l><r>site<s n="n"/><s n="m"/></r></p></e>
@@ -13269,13 +13274,16 @@
 <e><p><l>youngster<s n="n"/></l><r>jeune<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>youngster<s n="n"/></l><r>jeune<b/>homme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>youngster<s n="n"/></l><r>jeune<b/>fille<s n="n"/><s n="f"/></r></p></e>
-<e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/><s n="pos"/><s n="mf"/></l><r>ton<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-<e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/></l><r>ton<s n="det"/></r></p></e>
-<e c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/></l><r>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+
+<e c=""><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>ton<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+<e c=""><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>ton<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+<e c=""><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+
 <e><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>votre<s n="det"/><s n="pos"/><s n="mf"/></r></p></e>
 <e><p><l>your<s n="det"/></l><r>votre<s n="det"/><s n="pos"/><s n="mf"/></r></p></e>
-<e c="per ara de en-ca es genera només 'vostre'"><p><l>yours<s n="adj"/></l><r>à<b/>toi<s n="adj"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+<e c=""><p><l>yours<s n="adj"/></l><r>à<b/>toi<s n="adj"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
 <e><p><l>yours<s n="adj"/></l><r>à<b/>vous<s n="adj"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+
 <e><p><l>youth<s n="n"/></l><r>jeunesse<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zapping<s n="n"/></l><r>zapping<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>zeal<s n="n"/><s n="sg"/></l><r>jalousie<s n="n"/><s n="f"/><s n="pl"/></r></p></e>

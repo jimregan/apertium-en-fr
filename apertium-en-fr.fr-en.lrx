@@ -6,6 +6,8 @@
 
   <rule><match lemma="père" tags="n.m.pl"><select lemma="parent" tags="n.*"/></match></rule>
 
+  <rule><match lemma="parent" tags="n.*.pl"><select lemma="parent" tags="n.*"/></match></rule>
+
   <rule><match lemma="aller" tags="vblex.*"/>
         <match lemma="à" tags="pr"><select lemma="to" tags="pr"/></match>
   </rule>

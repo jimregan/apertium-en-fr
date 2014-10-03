@@ -13819,6 +13819,7 @@
           <e lm="colonel"><i>colonel</i><par n="colonel__n"/></e>
           <e lm="colonie"><i>colonie</i><par n="abeille__n"/></e>
           <e lm="colonne"><i>colonne</i><par n="abeille__n"/></e>
+          <e lm="soeur" r="LR"><p><l>sœur</l><r>soeur</r></p><par n="abeille__n"/></e>
           <e lm="soeur"><i>soeur</i><par n="abeille__n"/></e>
           <e lm="colère"><i>colère</i><par n="abeille__n"/></e>
           <e r="LR" lm="étable"><p><l>Etable</l><r>étable</r></p><par n="abeille__n"/></e>
