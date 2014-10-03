@@ -84,7 +84,7 @@ while (<>) {
 	if($#entry > 1) {
 		$paradigm = trim($entry[2]);
 	} else {
-		if ($en =~ /ism$/ && $fr =~ /isme$/) {
+		if ($en =~ /ism$/ && $fr =~ /sme$/) {
 			$paradigm = 'livre__n';
 		} elsif ($en =~ /ist$/ && $fr =~ /iste$/) {
 			$paradigm = 'artiste__n';
