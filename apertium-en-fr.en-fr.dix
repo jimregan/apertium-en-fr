@@ -7788,8 +7788,9 @@
 <e><p><l>interfere<s n="vblex"/></l><r>interférer<s n="vblex"/></r></p></e>
 <e><p><l>interim<s n="adj"/></l><r>intérimaire<s n="adj"/><s n="mf"/></r></p></e>
 <e><p><l>interior<s n="n"/></l><r>intérieur<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>interloper<s n="n"/></l><r>intrus<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>interloper<s n="n"/></l><r>intrus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>interloper<s n="n"/></l><r>intrus<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>interloper<s n="n"/><s n="ND"/></l><r>intrus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>interloper<s n="n"/></l><r>intrus<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>intermediario<s n="n"/></l><r>intermédiaire<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>intermediary<s n="n"/></l><r>intermédiaire<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>intermediate<s n="adj"/></l><r>intermédiaire<s n="adj"/><s n="mf"/></r></p></e>
@@ -9014,7 +9015,7 @@
 <e><p><l>nitrogen<s n="n"/></l><r>nitrogène<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>no<s n="det"/><s n="ind"/><s n="sp"/></l><r>aucun<s n="det"/><s n="ind"/></r></p></e>
 <e c="MG: crec que aquesta hauria de ser la traducció ca-en, i les altres dues opciones (non/not) s'haurien de generar al trànsfer segons si és abans d'un nom (non) o després abans d'un verb (not)"><p><l>no<s n="adv"/></l><r>non<s n="adv"/></r></p></e>
-<e c="MG: crec que aquesta hauria de ser la traducció ca-en, i les altres dues opciones (non/not) s'haurien de generar al trànsfer segons si és abans d'un nom (non) o després abans d'un verb (not)"><p><l>no<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
+<e c="MG: crec que aquesta hauria de ser la traducció ca-en, i les altres dues opciones (non/not) s'haurien de generar al trànsfer segons si és abans d'un nom (non) o després abans d'un verb (not)"><p><l>not<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
 <e><p><l>no<b/>one<s n="prn"/></l><r>personne<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
 <e><p><l>no<b/>sooner<s n="adv"/></l><r>à<b/>peine<s n="adv"/></r></p></e>
 <e><p><l>nobility<s n="n"/></l><r>noblesse<s n="n"/><s n="f"/></r></p></e>
@@ -13290,7 +13291,7 @@
 <e><p><l>zinc<s n="n"/></l><r>zinc<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>zone<s n="n"/></l><r>zone<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zone<s n="vblex"/></l><r>qualifier<s n="vblex"/></r></p></e>
-<e><p><l>zoo<s n="n"/></l><r>zoologique<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>zoo<s n="n"/></l><r>zoologique<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>zoo<s n="n"/></l><r>zoo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>zoom<s n="n"/></l><r>zoom<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Álvaro<s n="np"/><s n="ant"/></l><r>Álvaro<s n="np"/><s n="ant"/></r></p></e>

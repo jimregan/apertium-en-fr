@@ -1811,6 +1811,8 @@
     <pardef n="admis__n">
             
 <e><p><l></l><r><s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
             
 <e><p><l>e</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
             
