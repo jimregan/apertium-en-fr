@@ -2614,13 +2614,11 @@
 <e><p><l>Zeta<s n="np"/><s n="ant"/></l><r>Zeta<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Zheng<b/>Jie<s n="np"/><s n="ant"/></l><r>Zheng<b/>Jie<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Zinedine<s n="np"/><s n="ant"/></l><r>Zinedine<s n="np"/><s n="ant"/></r></p></e>
-<e r="LR"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
-<e r="RL"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="RL"><p><l>a<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
-<e><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+
+<e r="LR"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>a<s n="det"/><s n="ind"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+
 <e><p><l>a<b/>lot<s n="adv"/></l><r>beaucoup<s n="adv"/></r></p></e>
 <e><p><l>a<b/>priori<s n="adv"/></l><r>a<b/>priori<s n="adv"/></r></p></e>
 <e><p><l>abandon<s n="vblex"/></l><r>quitter<s n="vblex"/></r></p></e>
@@ -12244,10 +12242,13 @@
 <e><p><l>that<s n="rel"/></l><r>qui<s n="rel"/></r></p></e>
 <e><p><l>that<s n="rel"/></l><r>que<s n="rel"/></r></p></e>
 <e><p><l>thaw<s n="n"/></l><r>fonte<s n="n"/><s n="f"/></r></p></e>
+
+<e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
 <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>le<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
+
 <e><p><l>the<b/>day<b/>before<b/>yesterday<s n="adv"/></l><r>avant-hier<s n="adv"/></r></p></e>
 <e><p><l>the<b/>one<b/>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>celui<b/>qui<s n="rel"/></r></p></e>
 <e><p><l>the<b/>one<b/>which<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></l><r>celui<b/>que<s n="rel"/></r></p></e>
