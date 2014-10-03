@@ -2164,6 +2164,30 @@
         </p>
       </e>
     </pardef>
+    <pardef n="analy/ser__n">
+      <e c="CP: en_US/en_GB dialect variation" r="LR">
+        <p>
+          <l>zer</l>
+          <r>ser</r>
+        </p>
+        <par n="house__n"/>
+      </e>
+      <e r="LR">
+        <i>ser</i>
+        <par n="house__n"/>
+      </e>
+      <e alt="en_US" r="RL">
+        <p>
+          <l>zer</l>
+          <r>ser</r>
+        </p>
+        <par n="house__n"/>
+      </e>
+      <e alt="en_GB" r="RL">
+        <i>ser</i>
+        <par n="house__n"/>
+      </e>
+    </pardef>
     <pardef n="cent/re__n">
       <e c="CP: en_US/en_GB dialect variation" r="LR">
         <p>
