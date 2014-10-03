@@ -17448,7 +17448,8 @@
     <e lm="anticipation"><i>anticipation</i><par n="house__n"/>    </e>
     <e lm="antioxidant"><i>antioxidant</i><par n="house__n"/>    </e>
     <e lm="antipathy"><i>antipath</i><par n="bab/y__n"/>    </e>
-    <e lm="antiracialism"><i>antiracialism</i><par n="house__n"/>    </e>
+    <e lm="antiracialism" c="Spanglish" r="LR"><i>antiracialism</i><par n="house__n"/>    </e>
+    <e lm="anti-racism"><i>anti-racism</i><par n="house__n"/>    </e>
     <e lm="antisemitism"><i>antisemitism</i><par n="house__n"/>    </e>
     <e lm="antithesis"><i>antithes</i><par n="analys/is__n"/>    </e>
     <e lm="anus"><i>anus</i><par n="access__n"/>    </e>
@@ -30416,6 +30417,7 @@
     <e lm="monopole"><i>monopole</i><par n="house__n"/>     </e>
     <e lm="monorail"><i>monorail</i><par n="house__n"/>     </e>
     <e lm="monorchidism"><i>monorchidism</i><par n="house__n"/>     </e>
+    <e lm="monorchism"><i>monorchism</i><par n="house__n"/>     </e>
     <e lm="monosaccharide"><i>monosaccharide</i><par n="house__n"/>     </e>
     <e lm="monosemic"><i>monosemic</i><par n="expensive__adj"/>     </e>
     <e lm="monosyllabic"><i>monosyllabic</i><par n="expensive__adj"/>     </e>
