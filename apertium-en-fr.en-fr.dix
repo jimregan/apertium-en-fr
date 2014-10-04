@@ -4978,7 +4978,6 @@
 <e><p><l>crystal<s n="n"/></l><r>vitre<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>crystallisation<s n="n"/></l><r>cristallisation<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>crystallise<s n="vblex"/></l><r>cristalliser<s n="vblex"/></r></p></e>
-<e c="new-category"><p><l>crítico<s n="n"/></l><r>critique<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>cuban<s n="adj"/></l><r>cubain<s n="adj"/></r></p></e>
 <e><p><l>cube<s n="n"/></l><r>seau<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cubism<s n="n"/></l><r>cubisme<s n="n"/><s n="m"/></r></p></e>
@@ -13572,14 +13571,14 @@
     <e r="RL"><p><l>Aragonese<s n="n"/></l><r>Aragonais<s n="n"/></r></p></e>
     <e><p><l>Asian<s n="n"/></l><r>Asiatique<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>British<s n="n"/></l><r>Britannique<s n="n"/><s n="mf"/></r></p></e>
-    <e><p><l>Buddhist<s n="n"/></l><r>Bouddhiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>Buddhist<s n="n"/></l><r>bouddhiste<s n="n"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>Canadian<s n="n"/></l><r>Canadien<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Canadian<s n="n"/></l><r>Canadien<s n="n"/></r></p></e>
     <e r="LR"><p><l>Irish<s n="n"/></l><r>Irlandais<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Irish<s n="n"/></l><r>Irlandais<s n="n"/></r></p></e>
     <e r="LR"><p><l>Korean<s n="n"/></l><r>Coréen<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Korean<s n="n"/></l><r>Coréen<s n="n"/></r></p></e>
-    <e><p><l>Marxist<s n="n"/></l><r>Marxiste<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>Marxist<s n="n"/></l><r>marxiste<s n="n"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>Scottish<s n="n"/></l><r>Écossais<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Scottish<s n="n"/></l><r>Écossais<s n="n"/></r></p></e>
     <e r="LR"><p><l>Sumerian<s n="n"/></l><r>Sumérien<s n="n"/><s n="GD"/></r></p></e>
@@ -13598,7 +13597,7 @@
     <e><p><l>abstentionism<s n="n"/></l><r>abstentionnisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>activism<s n="n"/></l><r>activisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alarmism<s n="n"/></l><r>alarmisme<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>americanism<s n="n"/></l><r>américanisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Americanism<s n="n"/></l><r>américanisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>anachronism<s n="n"/></l><r>anachronisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>autism<s n="n"/></l><r>autisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>automatism<s n="n"/></l><r>automatisme<s n="n"/><s n="m"/></r></p></e>
@@ -13671,7 +13670,7 @@
     <e><p><l>pragmatism<s n="n"/></l><r>pragmatisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>proselytism<s n="n"/></l><r>prosélytisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>protectionism<s n="n"/></l><r>protectionnisme<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>protestantism<s n="n"/></l><r>protestantisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Protestantism<s n="n"/></l><r>protestantisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pugilism<s n="n"/></l><r>pugilisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rationalism<s n="n"/></l><r>rationalisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reformism<s n="n"/></l><r>réformisme<s n="n"/><s n="m"/></r></p></e>
@@ -13716,7 +13715,7 @@
     <e><p><l>bicameralism<s n="n"/></l><r>bicaméralisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>caciquism<s n="n"/></l><r>caciquisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>catabolism<s n="n"/></l><r>catabolisme<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>catharism<s n="n"/></l><r>catharisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Catharism<s n="n"/></l><r>catharisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chauvinism<s n="n"/></l><r>chauvinisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chromatism<s n="n"/></l><r>chromatisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>clericalism<s n="n"/></l><r>cléricalisme<s n="n"/><s n="m"/></r></p></e>
@@ -13736,7 +13735,7 @@
     <e><p><l>empiricism<s n="n"/></l><r>empirisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>endemism<s n="n"/></l><r>endémisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>endomorphism<s n="n"/></l><r>endomorphisme<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>epicureanism<s n="n"/></l><r>éicurisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Epicureanism<s n="n"/></l><r>éicurisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>epimorphism<s n="n"/></l><r>épimorphisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ethnocentrism<s n="n"/></l><r>ethnocentrisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>evolutionism<s n="n"/></l><r>évolutionnisme<s n="n"/><s n="m"/></r></p></e>
@@ -13749,14 +13748,14 @@
     <e><p><l>functionalism<s n="n"/></l><r>fonctionnalisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gallicism<s n="n"/></l><r>gallicisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>generativism<s n="n"/></l><r>générativisme<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>germanism<s n="n"/></l><r>germanisme<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>hellenism<s n="n"/></l><r>hellénisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Germanism<s n="n"/></l><r>germanisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Hellenism<s n="n"/></l><r>hellénisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>homeomorphism<s n="n"/></l><r>homéomorphisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>homomorphism<s n="n"/></l><r>homomorphisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>intellectualism<s n="n"/></l><r>intellectualisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>isolationism<s n="n"/></l><r>isolationnisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>isomorphism<s n="n"/></l><r>isomorphisme<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>jacobinism<s n="n"/></l><r>jacobinisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Jacobinism<s n="n"/></l><r>jacobinisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>legalism<s n="n"/></l><r>juridisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lesbianism<s n="n"/></l><r>lesbianisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>masochism<s n="n"/></l><r>masochisme<s n="n"/><s n="m"/></r></p></e>
@@ -13833,9 +13832,9 @@
     <e><p><l>anti-racism<s n="n"/></l><r>antiracisme<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>antiracialism<s n="n"/></l><r>antiracisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hypothyroidism<s n="n"/></l><r>hypothyroïdie<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>africanism<s n="n"/></l><r>africanisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Africanism<s n="n"/></l><r>africanisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>agnosticism<s n="n"/></l><r>agnosticisme<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>aragonesism<s n="n"/></l><r>aragonésisme<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Aragonesism<s n="n"/></l><r>aragonésisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>betacism<s n="n"/></l><r>bêtacisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cladism<s n="n"/></l><r>cladisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>criticism<s n="n"/></l><r>critique<s n="n"/><s n="f"/></r></p></e>

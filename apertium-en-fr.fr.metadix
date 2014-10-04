@@ -14112,6 +14112,7 @@
           <e lm="crise"><i>crise</i><par n="abeille__n"/></e>
           <e lm="critique"><i>critique</i><par n="académique__adj"/></e>
           <e lm="critique"><i>critique</i><par n="artiste__n"/></e>
+          <e lm="critique"><i>critique</i><par n="abeille__n"/></e>
           <e lm="critiquer"><i>critiqu</i><par n="abaiss/er__vblex"/></e>
           <e lm="critère"><i>critère</i><par n="livre__n"/></e>
           <e lm="croire"><i>cr</i><par n="cr/oire__vblex"/></e>
@@ -66146,11 +66147,11 @@
     <e lm="Aragonais"><i>Aragonais</i><par n="admis__n"/></e>
     <e lm="Asiatique"><i>Asiatique</i><par n="artiste__n"/></e>
     <e lm="Britannique"><i>Britannique</i><par n="artiste__n"/></e>
-    <e lm="Bouddhiste"><i>Bouddhiste</i><par n="artiste__n"/></e>
+    <e lm="bouddhiste"><i>bouddhiste</i><par n="artiste__n"/></e>
     <e lm="Canadien"><i>Canadien</i><par n="ancien__n"/></e>
     <e lm="Irlandais"><i>Irlandais</i><par n="admis__n"/></e>
     <e lm="Coréen"><i>Coréen</i><par n="ancien__n"/></e>
-    <e lm="Marxiste"><i>Marxiste</i><par n="artiste__n"/></e>
+    <e lm="marxiste"><i>marxiste</i><par n="artiste__n"/></e>
     <e lm="Écossais"><i>Écossais</i><par n="admis__n"/></e>
     <e lm="Sumérien"><i>Sumérien</i><par n="ancien__n"/></e>
     <e lm="abdication"><i>abdication</i><par n="abeille__n"/></e>
@@ -66404,7 +66405,6 @@
     <e lm="aragonésisme"><i>aragonésisme</i><par n="livre__n"/></e>
     <e lm="bêtacisme"><i>bêtacisme</i><par n="livre__n"/></e>
     <e lm="cladisme"><i>cladisme</i><par n="livre__n"/></e>
-    <e lm="critique"><i>critique</i><par n="abeille__n"/></e>
     <e lm="cryptorchidie"><i>cryptorchidie</i><par n="abeille__n"/></e>
     <e lm="dialectalisme"><i>dialectalisme</i><par n="livre__n"/></e>
     <e lm="embolie"><i>embolie</i><par n="abeille__n"/></e>
